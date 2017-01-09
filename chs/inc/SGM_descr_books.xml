@@ -1,0 +1,444 @@
+﻿      <string id="st_book_for_knife_title"> 
+<text>匕首战术手册. </text> 
+      </string> 
+      <string id="st_book_for_knife_descr"> 
+<text>本书能教会你各种正确使用匕首战斗的技巧,以及保养武器的方法. 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_ak101_title"> 
+<text>战术手册: AK-101M . </text> 
+      </string> 
+      <string id="st_book_for_ak101_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于AK-101m . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_ak105_title"> 
+<text>战术手册: AK-102 . </text> 
+      </string> 
+      <string id="st_book_for_ak105_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于AK-102 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_ak74_title"> 
+<text>战术手册: AK-74 . </text> 
+      </string> 
+      <string id="st_book_for_ak74_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于AK-74 突击步枪 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_ak74u_title"> 
+<text>战术手册: AKs-74u . </text> 
+      </string> 
+      <string id="st_book_for_ak74u_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于AKs-74u步枪 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_pkm_title"> 
+<text>战术手册: PKM . </text> 
+      </string> 
+      <string id="st_book_for_pkm_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于PKM . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_abakan_title"> 
+<text>战术手册: AK-94 . </text> 
+      </string> 
+      <string id="st_book_for_abakan_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于AK-94 Abakan . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_beretta_title"> 
+<text>战术手册: 伯莱塔 M92 . </text> 
+      </string> 
+      <string id="st_book_for_beretta_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于伯莱塔手枪 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_bm16_title"> 
+<text>战术手册: 锯短的BM-16 . </text> 
+      </string> 
+      <string id="st_book_for_bm16_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于Sawnoff 散弹枪 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_toz34_title"> 
+<text>战术手册: TOZ-34 . </text> 
+      </string> 
+      <string id="st_book_for_toz34_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于TOZ-34 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_wincheaster1300_title"> 
+<text>战术手册: 温彻斯特1300 . </text> 
+      </string> 
+      <string id="st_book_for_wincheaster1300_descr"> 
+<text>手册里有详细的文件,图片,表格- 这些都能帮助你学习使用温彻斯特1300. 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_spas12_title"> 
+<text>战术手册:SPAS-12 . </text> 
+      </string> 
+      <string id="st_book_for_spas12_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于Franchi SPAS-12 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_svd_title"> 
+<text>战术手册: Dragunov狙击步枪 . </text> 
+      </string> 
+      <string id="st_book_for_svd_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于Dragunov狙击步枪 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_svu_title"> 
+<text>战术手册: Dragunov 短管狙击步枪 . </text> 
+      </string> 
+      <string id="st_book_for_svu_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于Dragunov短管狙击步枪 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_colt1911_title"> 
+<text>战术手册: 柯尔特M1911 . </text> 
+      </string> 
+      <string id="st_book_for_colt1911_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于适用于柯尔特M1911 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_desert_eagle_title"> 
+<text>战术手册: "沙漠之鹰" . </text> 
+      </string> 
+      <string id="st_book_for_desert_eagle_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于沙漠之鹰 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_fn2000_title"> 
+<text>战术手册: FN 2000 . </text> 
+      </string> 
+      <string id="st_book_for_fn2000_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于FN 2000 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_fort_title"> 
+<text>战术手册: FORT-12 . </text> 
+      </string> 
+      <string id="st_book_for_fort_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于FORT-12 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_hpsa_title"> 
+<text>战术手册: "HPSS-1m" . </text> 
+      </string> 
+      <string id="st_book_for_hpsa_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于HPSS-1m . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_pb_title"> 
+<text>战术手册: PB" . </text> 
+      </string> 
+      <string id="st_book_for_pb_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于PB . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_pm_title"> 
+<text>战术手册: 马卡洛夫手枪 . </text> 
+      </string> 
+      <string id="st_book_for_pm_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于马卡洛夫手枪 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_sig220_title"> 
+<text>战术手册: SIG P220. </text> 
+      </string> 
+      <string id="st_book_for_sig220_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于SIG P220 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_usp_title"> 
+<text>战术手册: USP战术型. </text> 
+      </string> 
+      <string id="st_book_for_usp_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 USP战术型. 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_walther_title"> 
+<text>战术手册: 沃尔特P99. </text> 
+      </string> 
+      <string id="st_book_for_walther_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 沃尔特P99 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_g36_title"> 
+<text>战术手册: G36. </text> 
+      </string> 
+      <string id="st_book_for_g36_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 G36 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_gauss_title"> 
+<text>战术手册: 高斯步枪. </text> 
+      </string> 
+      <string id="st_book_for_gauss_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 高斯步枪 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_groza_title"> 
+<text>战术手册: 旱天雷 - 风暴. </text> 
+      </string> 
+      <string id="st_book_for_groza_descr"> 
+<text>手册里有详细的文件,图片,表格- 这些都能帮助你学习使用风暴. 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_l85_title"> 
+<text>战术手册: 英菲尔德 L85A2 . </text> 
+      </string> 
+      <string id="st_book_for_l85_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 Enfield L85A2 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_lr300_title"> 
+<text>战术手册: ZM LR-300 . </text> 
+      </string> 
+      <string id="st_book_for_lr300_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 ZM LR-300 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_mp5_title"> 
+<text>战术手册: MP5A2 . </text> 
+      </string> 
+      <string id="st_book_for_mp5_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 MP5A2 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_rg-6_title"> 
+<text>战术手册: RG-6 "牛头犬" . </text> 
+      </string> 
+      <string id="st_book_for_rg-6_descr"> 
+<text>手册里有详细的文件,图片,表格- 这些都能帮助你学习使用 RG-6 "牛头犬". 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_rpg7_title"> 
+<text>战术手册: RPG-7 . </text> 
+      </string> 
+      <string id="st_book_for_rpg7_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 RPG-7 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_sig550_title"> 
+<text>战术手册: SIG SG-550 . </text> 
+      </string> 
+      <string id="st_book_for_sig550_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 SIG SG-550和 AL "伞兵" . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_val_title"> 
+<text>战术手册:特种枪雪崩 . </text> 
+      </string> 
+      <string id="st_book_for_val_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于特种枪雪崩. 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_vintorez_title"> 
+<text>战术手册: 特种枪 Vintorez. </text> 
+      </string> 
+      <string id="st_book_for_vintorez_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 特种枪Vintorez. 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_protecta_title"> 
+<text>战术手册: 重击 . </text> 
+      </string> 
+      <string id="st_book_for_protecta_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于重击. 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_ak47_title"> 
+<text>战术手册: AK-47 . </text> 
+      </string> 
+      <string id="st_book_for_ak47_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 AK-47 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_apb_title"> 
+<text>战术手册: APB . </text> 
+      </string> 
+      <string id="st_book_for_apb_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 APB . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_awm_title"> 
+<text>战术手册: L96A1 . </text> 
+      </string> 
+      <string id="st_book_for_awm_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 L96A1 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_bizon_title"> 
+<text>战术手册: PP-19 Bizon-2 "edition. </text> 
+      </string> 
+      <string id="st_book_for_bizon_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 PP-19 Bizon-2 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_grom_title"> 
+<text>战术手册: 旱天雷 -  破水. </text> 
+      </string> 
+      <string id="st_book_for_grom_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 Thunder Breakwater . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_m4a1_title"> 
+<text>战术手册:柯尔特M4A1 . </text> 
+      </string> 
+      <string id="st_book_for_m4a1_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于M4A1-雄驹 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_m14_title"> 
+<text>战术手册: M14 . </text> 
+      </string> 
+      <string id="st_book_for_m14_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 M14 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_m82_title"> 
+<text>战术手册: 巴雷特 M82A1 . </text> 
+      </string> 
+      <string id="st_book_for_m82_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于巴雷特 M82A1 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_mosina_title"> 
+<text>战术手册: 莫辛尼甘 M1891 . </text> 
+      </string> 
+      <string id="st_book_for_mosina_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 莫辛尼甘 M1891 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_mossberg590_title"> 
+<text>战术手册: Mossberg 590 . </text> 
+      </string> 
+      <string id="st_book_for_mossberg590_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 Mossberg 590 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_ppsh41_title"> 
+<text>战术手册: 波波沙-41 . </text> 
+      </string> 
+      <string id="st_book_for_ppsh41_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 波波沙-41 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_xm8_title"> 
+<text>战术手册: XM8 . </text> 
+      </string> 
+      <string id="st_book_for_xm8_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 XM8 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string> 
+      <string id="st_book_for_p90_title"> 
+<text>战术手册: P90 . </text> 
+      </string> 
+      <string id="st_book_for_p90_descr"> 
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 P90 . 阅读它能够提高你对该武器的熟练度. </text> 
+      </string>
+      <string id="st_book_for_fnfal_title">
+<text>战术手册：FAL "伞兵"</text>
+      </string>
+      <string id="st_book_for_fnfal_descr">
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 FAL "伞兵" . 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_fanfall_title">
+<text>战术手册：FAN FALL</text>
+      </string>
+      <string id="st_book_for_fanfall_descr">
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 FAN FALL . 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_g43_title">
+<text>战术手册：G43 "Gewehr"</text>
+      </string>
+      <string id="st_book_for_g43_descr">
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 G43 "Gewehr" . 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_l85_tactical_title">
+<text>战术手册：L85 "战术型"</text>
+      </string>
+      <string id="st_book_for_l85_tactical_descr">
+<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 L85 "战术型" . 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_hk417_title">
+		<text>战术手册：HK417</text>
+      </string>
+      <string id="st_book_for_hk417_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 HK417. 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_kar98k_title">
+		<text>战术手册：Karabiner 98k</text>
+      </string>
+      <string id="st_book_for_kar98k_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 Karabiner 98k. 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_sks_title">
+		<text>战术手册：SKS-45</text>
+      </string>
+      <string id="st_book_for_sks_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 СКС-45. 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_trg42_title">
+		<text>战术手册：Sako TRG-42</text>
+      </string>
+      <string id="st_book_for_trg42_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 Sako TRG-42. 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_mp7_title">
+		<text>战术手册：MP7A1 PDW</text>
+      </string>
+      <string id="st_book_for_mp7_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 MP7A1 PDW. 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_rpk74_title">
+		<text>战术手册：RPK 74 «龙卷风»</text>
+      </string>
+      <string id="st_book_for_rpk74_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 PPK 74 «龙卷风». 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_ump45_title">
+		<text>战术手册：UMP45</text>
+      </string>
+      <string id="st_book_for_ump45_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 UMP45. 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_oc33_title">
+		<text>战术手册：OC-33 «Пернач»</text>
+      </string>
+      <string id="st_book_for_oc33_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 OC-33 «Пернач». 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_marauder_title">
+		<text>战术手册：«掠夺者»</text>
+      </string>
+      <string id="st_book_for_marauder_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 «掠夺者». 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_destroyer_title">
+		<text>战术手册：«开膛手»</text>
+      </string>
+      <string id="st_book_for_destroyer_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 «开膛手». 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_fal_title">
+		<text>战术手册：DSA-58OSW</text>
+      </string>
+      <string id="st_book_for_fal_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 DSA-58OSW. 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_m1000_title">
+		<text>战术手册：M-1000 Mik</text>
+      </string>
+      <string id="st_book_for_m1000_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 M-1000 Mik. 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_oicw_title">
+		<text>战术手册：XM29 OICW</text>
+      </string>
+      <string id="st_book_for_oicw_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 XM29 OICW. 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_aek919k_title">
+		<text>战术手册：AEK-919K «板栗»</text>
+      </string>
+      <string id="st_book_for_aek919k_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 AEK-919K «板栗». 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_aek971_title">
+		<text>战术手册：АЕК-971</text>
+      </string>
+      <string id="st_book_for_aek971_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 АЕК-971. 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_saiga_title">
+		<text>战术手册：Saiga12 K</text>
+      </string>
+      <string id="st_book_for_saiga_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 Saiga 12 K. 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_tt33_title">
+		<text>战术手册：TT-33</text>
+      </string>
+      <string id="st_book_for_tt33_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 TT-33. 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_usas12_title">
+		<text>战术手册：USAS-12</text>
+      </string>
+      <string id="st_book_for_usas12_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 USAS-12. 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_1887_title">
+		<text>战术手册：温切斯特 1887</text>
+      </string>
+      <string id="st_book_for_1887_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 温切斯特 1887. 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_ks23_title">
+		<text>战术手册：23MM 特制卡宾枪</text>
+      </string>
+      <string id="st_book_for_ks23_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 23MM 特制卡宾枪. 阅读它能够提高你对该武器的熟练度.</text>
+      </string>
+      <string id="st_book_for_m249_title">
+		<text>战术手册：M-249</text>
+      </string>
+      <string id="st_book_for_m249_descr">
+		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 M-249. 阅读它能够提高你对该武器的熟练度.</text>
+      </string>

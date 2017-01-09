@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string id="st_q_z_cell_1_descr">
+	<text>Which of these events happen more often - New Year or March 8th?</text>
+</string>
+ 
+<string id="st_q_z_cell_1_a">
+	<text>New Year</text>
+</string>
+ 
+<string id="st_q_z_cell_1_b">
+	<text>March 8</text>
+</string>
+ 
+<string id="st_q_z_cell_1_c">
+	<text>When both</text>
+</string>
+ 
+<string id="st_q_z_cell_1_d">
+	<text>Equally</text>
+</string>
+ 
+<string id="st_q_z_cell_2_descr">
+	<text>What is the name game in the answers to the questions, usually a common theme?</text>
+</string>
+ 
+<string id="st_q_z_cell_2_a">
+	<text>Igorina</text>
+</string>
+ 
+<string id="st_q_z_cell_2_b">
+	<text>Quiz</text>
+</string>
+ 
+<string id="st_q_z_cell_2_c">
+	<text>Dmitrovina</text>
+</string>
+ 
+<string id="st_q_z_cell_2_d">
+	<text>Dahlia</text>
+</string>
+ 
+<string id="st_q_z_cell_3_descr">
+	<text>Which of these vehicles have a stop-cock?</text>
+</string>
+ 
+<string id="st_q_z_cell_3_a">
+	<text>Plane</text>
+</string>
+ 
+<string id="st_q_z_cell_3_b">
+	<text>Helicopter</text>
+</string>
+ 
+<string id="st_q_z_cell_3_c">
+	<text>Bus</text>
+</string>
+ 
+<string id="st_q_z_cell_3_d">
+	<text>Train</text>
+</string>
+ 
+<string id="st_q_z_cell_4_descr">
+	<text>In what sport participant may withdraw from the competition due to a cut eyebrow?</text>
+</string>
+ 
+<string id="st_q_z_cell_4_a">
+	<text>Skis</text>
+</string>
+ 
+<string id="st_q_z_cell_4_b">
+	<text>Swimming</text>
+</string>
+ 
+<string id="st_q_z_cell_4_c">
+	<text>Fencing</text>
+</string>
+ 
+<string id="st_q_z_cell_4_d">
+	<text>Boxing</text>
+</string>
+ 
+<string id="st_q_z_cell_5_descr">
+	<text>What game was born in 1895 in the United States?</text>
+</string>
+ 
+<string id="st_q_z_cell_5_a">
+	<text>Basketball</text>
+</string>
+ 
+<string id="st_q_z_cell_5_b">
+	<text>Volleyball</text>
+</string>
+ 
+<string id="st_q_z_cell_5_c">
+	<text>Baseball</text>
+</string>
+ 
+<string id="st_q_z_cell_5_d">
+	<text>Football</text>
+</string>
+ 
+<string id="st_q_z_cell_6_descr">
+	<text>A representative of the profession engaged in the old carriage and sale of salt?</text>
+</string>
+ 
+<string id="st_q_z_cell_6_a">
+	<text>Bortnik</text>
+</string>
+ 
+<string id="st_q_z_cell_6_b">
+	<text>Koval</text>
+</string>
+ 
+<string id="st_q_z_cell_6_c">
+	<text>Cooper</text>
+</string>
+ 
+<string id="st_q_z_cell_6_d">
+	<text>Chumak</text>
+</string>
+ 
+<string id="st_q_z_cell_7_descr">
+	<text>This is the ninth issue called 'Critters'?</text>
+</string>
+ 
+<string id="st_q_z_cell_7_a">
+	<text>Ronaldo</text>
+</string>
+ 
+<string id="st_q_z_cell_7_b">
+	<text>Zidane</text>
+</string>
+ 
+<string id="st_q_z_cell_7_c">
+	<text>Ronaldinho</text>
+</string>
+ 
+<string id="st_q_z_cell_7_d">
+	<text>Raul</text>
+</string>
+ 
+<string id="st_q_z_cell_8_descr">
+	<text>What is the serial number of the letter 'Y' in the alphabet?</text>
+</string>
+ 
+<string id="st_q_z_cell_8_a">
+	<text>25</text>
+</string>
+ 
+<string id="st_q_z_cell_8_b">
+	<text>27</text>
+</string>
+ 
+<string id="st_q_z_cell_8_c">
+	<text>29</text>
+</string>
+ 
+<string id="st_q_z_cell_8_d">
+	<text>31</text>
+</string>
+ 
+<string id="st_q_z_cell_9_descr">
+	<text>These brothers are considered the creators of the first airplane?</text>
+</string>
+ 
+<string id="st_q_z_cell_9_a">
+	<text>Grimm</text>
+</string>
+ 
+<string id="st_q_z_cell_9_b">
+	<text>The same</text>
+</string>
+ 
+<string id="st_q_z_cell_9_c">
+	<text>Wright</text>
+</string>
+ 
+<string id="st_q_z_cell_9_d">
+	<text>White</text>
+</string>
+ 
+<string id="st_q_z_cell_10_descr">
+	<text>The capital of this country is built in the shape of an airplane?</text>
+</string>
+ 
+<string id="st_q_z_cell_10_a">
+	<text>Brazil</text>
+</string>
+ 
+<string id="st_q_z_cell_10_b">
+	<text>Mongolia</text>
+</string>
+ 
+<string id="st_q_z_cell_10_c">
+	<text>England</text>
+</string>
+ 
+<string id="st_q_z_cell_10_d">
+	<text>America</text>
+</string>
+ 
+<string id="st_q_z_cell_11_descr">
+	<text>What do you call Chinese officials?</text>
+</string>
+ 
+<string id="st_q_z_cell_11_a">
+	<text>Peaches</text>
+</string>
+ 
+<string id="st_q_z_cell_11_b">
+	<text>Plums</text>
+</string>
+ 
+<string id="st_q_z_cell_11_c">
+	<text>Oranges</text>
+</string>
+ 
+<string id="st_q_z_cell_11_d">
+	<text>Tangerines</text>
+</string>
+ 
+<string id="st_q_z_cell_12_descr">
+	<text>The leader of a musical group was Fred Mercury?</text>
+</string>
+ 
+<string id="st_q_z_cell_12_a">
+	<text>Deep Purple</text>
+</string>
+ 
+<string id="st_q_z_cell_12_b">
+	<text>The Rolling Stones</text>
+</string>
+ 
+<string id="st_q_z_cell_12_c">
+	<text>Queen</text>
+</string>
+ 
+<string id="st_q_z_cell_12_d">
+	<text>BAC-Dee-Sea</text>
+</string>
+ 
+<string id="st_q_z_cell_13_descr">
+	<text>In 10 Mamed sheep. All but nine dead. How much is left of sheep?</text>
+</string>
+ 
+<string id="st_q_z_cell_13_a">
+	<text>1 sheep</text>
+</string>
+ 
+<string id="st_q_z_cell_13_b">
+	<text>9 sheep</text>
+</string>
+ 
+<string id="st_q_z_cell_13_c">
+	<text>10 sheep</text>
+</string>
+ 
+<string id="st_q_z_cell_13_d">
+	<text>11 sheep</text>
+</string>
+ 
+<string id="st_q_z_cell_14_descr">
+	<text>The first train goes from Kiev to Donetsk, and the second - from Donetsk to Kiev. They both come out, but the speed of the first three times the second speed. What will happen next train from Kiev at the time of the meeting?</text>
+</string>
+ 
+<string id="st_q_z_cell_14_a">
+	<text>The First</text>
+</string>
+ 
+<string id="st_q_z_cell_14_b">
+	<text>Second</text>
+</string>
+ 
+<string id="st_q_z_cell_14_c">
+	<text>Third</text>
+</string>
+ 
+<string id="st_q_z_cell_14_d">
+	<text>Equally</text>
+</string>
+ 
+<string id="st_q_z_cell_15_descr">
+	<text>How many digits 7 in the series of numbers from '1' to '100'?</text>
+</string>
+ 
+<string id="st_q_z_cell_15_a">
+	<text>11</text>
+</string>
+ 
+<string id="st_q_z_cell_15_b">
+	<text>10</text>
+</string>
+ 
+<string id="st_q_z_cell_15_c">
+	<text>21</text>
+</string>
+ 
+<string id="st_q_z_cell_15_d">
+	<text>20</text>
+</string>
+ 
+<string id="st_q_z_cell_16_descr">
+	<text>14 burning candles. Eight extinguished. How much is left of candles?</text>
+</string>
+ 
+<string id="st_q_z_cell_16_a">
+	<text>6</text>
+</string>
+ 
+<string id="st_q_z_cell_16_b">
+	<text>7</text>
+</string>
+ 
+<string id="st_q_z_cell_16_c">
+	<text>8</text>
+</string>
+ 
+<string id="st_q_z_cell_16_d">
+	<text>14</text>
+</string>
+ 
+<string id="st_q_z_cell_17_descr">
+	<text>Brick weighs 1 kilogram plus a half-brick. How heavy brick?</text>
+</string>
+ 
+<string id="st_q_z_cell_17_a">
+	<text>1 kg</text>
+</string>
+ 
+<string id="st_q_z_cell_17_b">
+	<text>1.5 kg</text>
+</string>
+ 
+<string id="st_q_z_cell_17_c">
+	<text>2 kg</text>
+</string>
+ 
+<string id="st_q_z_cell_17_d">
+	<text>2.5 kg</text>
+</string>
+ 
+<string id="st_q_z_cell_18_descr">
+	<text>When and who first landed on the moon?</text>
+</string>
+ 
+<string id="st_q_z_cell_18_a">
+	<text>The Soviet Union in 1961</text>
+</string>
+ 
+<string id="st_q_z_cell_18_b">
+	<text>United States in 1957</text>
+</string>
+ 
+<string id="st_q_z_cell_18_c">
+	<text>Soviet Union in 1945</text>
+</string>
+ 
+<string id="st_q_z_cell_18_d">
+	<text>United States in 1969</text>
+</string>
+ 
+<string id="st_q_z_cell_19_descr">
+	<text>Which footballer in the USSR was the first golden ball?</text>
+</string>
+ 
+<string id="st_q_z_cell_19_a">
+	<text>Blokhin</text>
+</string>
+ 
+<string id="st_q_z_cell_19_b">
+	<text>Belanov</text>
+</string>
+ 
+<string id="st_q_z_cell_19_c">
+	<text>Bessonov</text>
+</string>
+ 
+<string id="st_q_z_cell_19_d">
+	<text>Yashin</text>
+</string>
+ 
+<string id="st_q_z_cell_20_descr">
+	<text>What is the territory of our planet can be seen the sun in a northerly direction from the horizon?</text>
+</string>
+ 
+<string id="st_q_z_cell_20_a">
+	<text>Nowhere</text>
+</string>
+ 
+<string id="st_q_z_cell_20_b">
+	<text>Summer in Russia</text>
+</string>
+ 
+<string id="st_q_z_cell_20_c">
+	<text>At the equator,</text>
+</string>
+ 
+<string id="st_q_z_cell_20_d">
+	<text>In the southern hemisphere</text>
+</string>
+ 
+<string id="st_q_z_cell_21_descr">
+	<text>Over what time period the light passes the distance from Earth to the moon and back?</text>
+</string>
+ 
+<string id="st_q_z_cell_21_a">
+	<text>3 seconds</text>
+</string>
+ 
+<string id="st_q_z_cell_21_b">
+	<text>Per hour</text>
+</string>
+ 
+<string id="st_q_z_cell_21_c">
+	<text>8 minutes</text>
+</string>
+ 
+<string id="st_q_z_cell_21_d">
+	<text>3 nanoseconds</text>
+</string>
+ 
+<string id="st_q_z_cell_22_descr">
+	<text>Where invented mayonnaise?</text>
+</string>
+ 
+<string id="st_q_z_cell_22_a">
+	<text>In Switzerland</text>
+</string>
+ 
+<string id="st_q_z_cell_22_b">
+	<text>In France</text>
+</string>
+ 
+<string id="st_q_z_cell_22_c">
+	<text>In Italy</text>
+</string>
+ 
+<string id="st_q_z_cell_22_d">
+	<text>In Spain</text>
+</string>
+ 
+<string id="st_q_z_cell_23_descr">
+	<text>How many angles in a tetrahedron?</text>
+</string>
+ 
+<string id="st_q_z_cell_23_a">
+	<text>2</text>
+</string>
+ 
+<string id="st_q_z_cell_23_b">
+	<text>3</text>
+</string>
+ 
+<string id="st_q_z_cell_23_c">
+	<text>4</text>
+</string>
+ 
+<string id="st_q_z_cell_23_d">
+	<text>5</text>
+</string>
+ 
+<string id="st_q_z_cell_24_descr">
+	<text>What is the name known tyrant?</text>
+</string>
+ 
+<string id="st_q_z_cell_24_a">
+	<text>Attila</text>
+</string>
+ 
+<string id="st_q_z_cell_24_b">
+	<text>Aristotle</text>
+</string>
+ 
+<string id="st_q_z_cell_24_c">
+	<text>Piping</text>
+</string>
+ 
+<string id="st_q_z_cell_24_d">
+	<text>Johannesen</text>
+</string>
+ 
+<string id="st_q_z_cell_25_descr">
+	<text>When the accident occurred at the Chernobyl nuclear power plant?</text>
+</string>
+ 
+<string id="st_q_z_cell_25_a">
+	<text>March 26, 1986</text>
+</string>
+ 
+<string id="st_q_z_cell_25_b">
+	<text>July 30, 1999</text>
+</string>
+ 
+<string id="st_q_z_cell_25_c">
+	<text>November 5, 1990</text>
+</string>
+ 
+<string id="st_q_z_cell_25_d">
+	<text>April 26, 1986</text>
+</string>
+ 
+<string id="st_q_z_cell_26_descr">
+	<text>When the Orion Nebula is visible in the sky?</text>
+</string>
+ 
+<string id="st_q_z_cell_26_a">
+	<text>Winter in the Nizhny Novgorod region</text>
+</string>
+ 
+<string id="st_q_z_cell_26_b">
+	<text>Summer in the Nizhny Novgorod region</text>
+</string>
+ 
+<string id="st_q_z_cell_26_c">
+	<text>In the southern hemisphere</text>
+</string>
+ 
+<string id="st_q_z_cell_26_d">
+	<text>At the North Pole</text>
+</string>
+ 
+<string id="st_q_z_cell_27_descr">
+	<text>How many bones in the adult human body?</text>
+</string>
+ 
+<string id="st_q_z_cell_27_a">
+	<text>206</text>
+</string>
+ 
+<string id="st_q_z_cell_27_b">
+	<text>350</text>
+</string>
+ 
+<string id="st_q_z_cell_27_c">
+	<text>244</text>
+</string>
+ 
+<string id="st_q_z_cell_27_d">
+	<text>254</text>
+</string>
+ 
+<string id="st_q_z_cell_28_descr">
+	<text>In what year appeared a color TV?</text>
+</string>
+ 
+<string id="st_q_z_cell_28_a">
+	<text>1939</text>
+</string>
+ 
+<string id="st_q_z_cell_28_b">
+	<text>1928</text>
+</string>
+ 
+<string id="st_q_z_cell_28_c">
+	<text>1925</text>
+</string>
+ 
+<string id="st_q_z_cell_28_d">
+	<text>1947</text>
+</string>
+ 
+<string id="st_q_z_cell_29_descr">
+	<text>What is the starting speed of a cheetah is gaining in 2 seconds?</text>
+</string>
+ 
+<string id="st_q_z_cell_29_a">
+	<text>70 km/h</text>
+</string>
+ 
+<string id="st_q_z_cell_29_b">
+	<text>65 km/h</text>
+</string>
+ 
+<string id="st_q_z_cell_29_c">
+	<text>56 km/h</text>
+</string>
+ 
+<string id="st_q_z_cell_29_d">
+	<text>85km/h</text>
+</string>
+ 
+<string id="st_q_z_cell_30_descr">
+	<text>What musical instruments were created before man?</text>
+</string>
+ 
+<string id="st_q_z_cell_30_a">
+	<text>Wind</text>
+</string>
+ 
+<string id="st_q_z_cell_30_b">
+	<text>Keyboards</text>
+</string>
+ 
+<string id="st_q_z_cell_30_c">
+	<text>Shock</text>
+</string>
+ 
+<string id="st_q_z_cell_30_d">
+	<text>string</text>
+</string>
+ 
+<string id="st_q_z_cell_31_descr">
+	<text>How fast should run a dog not to hear the ringing pans tied to its tail?</text>
+</string>
+ 
+<string id="st_q_z_cell_31_a">
+	<text>100 km/h</text>
+</string>
+ 
+<string id="st_q_z_cell_31_b">
+	<text>50 km/hour</text>
+</string>
+ 
+<string id="st_q_z_cell_31_c">
+	<text>1 km/h</text>
+</string>
+ 
+<string id="st_q_z_cell_31_d">
+	<text>0 km/h</text>
+</string>
+ 
+<string id="st_q_z_cell_32_descr">
+	<text>How many points gets Formula 1 driver in the first place?</text>
+</string>
+ 
+<string id="st_q_z_cell_32_a">
+	<text>10</text>
+</string>
+ 
+<string id="st_q_z_cell_32_b">
+	<text>15</text>
+</string>
+ 
+<string id="st_q_z_cell_32_c">
+	<text>20</text>
+</string>
+ 
+<string id="st_q_z_cell_32_d">
+	<text>25</text>
+</string>
+ 
+<string id="st_q_z_cell_33_descr">
+	<text>When did the internet?</text>
+</string>
+ 
+<string id="st_q_z_cell_33_a">
+	<text>January 13, 1983</text>
+</string>
+ 
+<string id="st_q_z_cell_33_b">
+	<text>January 30, 1983</text>
+</string>
+ 
+<string id="st_q_z_cell_33_c">
+	<text>January 1, 1983</text>
+</string>
+ 
+<string id="st_q_z_cell_33_d">
+	<text>January 21, 1983</text>
+</string>
+ 
+<string id="st_q_z_cell_34_descr">
+	<text>Where invented pasta?</text>
+</string>
+ 
+<string id="st_q_z_cell_34_a">
+	<text>France</text>
+</string>
+ 
+<string id="st_q_z_cell_34_b">
+	<text>Italy</text>
+</string>
+ 
+<string id="st_q_z_cell_34_c">
+	<text>Spain</text>
+</string>
+ 
+<string id="st_q_z_cell_34_d">
+	<text>China</text>
+</string>
+ 
+<string id="st_q_z_cell_35_descr">
+	<text>At what temperature water boils in the kettle?</text>
+</string>
+ 
+<string id="st_q_z_cell_35_a">
+	<text>70 ° C</text>
+</string>
+ 
+<string id="st_q_z_cell_35_b">
+	<text>85 ° C</text>
+</string>
+ 
+<string id="st_q_z_cell_35_c">
+	<text>100 ° C</text>
+</string>
+ 
+<string id="st_q_z_cell_35_d">
+	<text>120 ° C</text>
+</string>
+ 
+<string id="st_q_z_cell_36_descr">
+	<text>In what year did the First World War?</text>
+</string>
+ 
+<string id="st_q_z_cell_36_a">
+	<text>1912</text>
+</string>
+ 
+<string id="st_q_z_cell_36_b">
+	<text>1913</text>
+</string>
+ 
+<string id="st_q_z_cell_36_c">
+	<text>1914</text>
+</string>
+ 
+<string id="st_q_z_cell_36_d">
+	<text>1915</text>
+</string>
+ 
+<string id="st_q_z_cell_37_descr">
+	<text>In what year did the Second World War?</text>
+</string>
+ 
+<string id="st_q_z_cell_37_a">
+	<text>1941</text>
+</string>
+ 
+<string id="st_q_z_cell_37_b">
+	<text>1939</text>
+</string>
+ 
+<string id="st_q_z_cell_37_c">
+	<text>1945</text>
+</string>
+ 
+<string id="st_q_z_cell_37_d">
+	<text>1914</text>
+</string>
+ 
+<string id="st_q_z_cell_38_descr">
+	<text>8+8*8=?</text>
+</string>
+ 
+<string id="st_q_z_cell_38_a">
+	<text>54</text>
+</string>
+ 
+<string id="st_q_z_cell_38_b">
+	<text>64</text>
+</string>
+ 
+<string id="st_q_z_cell_38_c">
+	<text>72</text>
+</string>
+ 
+<string id="st_q_z_cell_38_d">
+	<text>128</text>
+</string>
+ 
+<string id="st_q_z_cell_39_descr">
+	<text>When the Soviet Union broke up officially?</text>
+</string>
+ 
+<string id="st_q_z_cell_39_a">
+	<text>June 21, 1990</text>
+</string>
+ 
+<string id="st_q_z_cell_39_b">
+	<text>December 8, 1991</text>
+</string>
+ 
+<string id="st_q_z_cell_39_c">
+	<text>August 19, 1991</text>
+</string>
+ 
+<string id="st_q_z_cell_39_d">
+	<text>August 21, 1991</text>
+</string>
+ 
+<string id="st_q_z_cell_40_descr">
+	<text>How the Russian Tsar was sold Alaska to the United States?</text>
+</string>
+ 
+<string id="st_q_z_cell_40_a">
+	<text>Peter I</text>
+</string>
+ 
+<string id="st_q_z_cell_40_b">
+	<text>Catherine II</text>
+</string>
+ 
+<string id="st_q_z_cell_40_c">
+	<text>Nicholas I</text>
+</string>
+ 
+<string id="st_q_z_cell_40_d">
+	<text>Alexander II</text>
+</string>
+ 
+<string id="st_q_z_cell_41_descr">
+	<text>Scream of creatures never repeats echo?</text>
+</string>
+ 
+<string id="st_q_z_cell_41_a">
+	<text>Wolf</text>
+</string>
+ 
+<string id="st_q_z_cell_41_b">
+	<text>Hippo</text>
+</string>
+ 
+<string id="st_q_z_cell_41_c">
+	<text>Ducks</text>
+</string>
+ 
+<string id="st_q_z_cell_41_d">
+	<text>Hunter</text>
+</string>
+ 
+<string id="st_q_z_cell_42_descr">
+	<text>Which pet is never mentioned in the Bible?</text>
+</string>
+ 
+<string id="st_q_z_cell_42_a">
+	<text>Horse</text>
+</string>
+ 
+<string id="st_q_z_cell_42_b">
+	<text>Sheep</text>
+</string>
+ 
+<string id="st_q_z_cell_42_c">
+	<text>Cat</text>
+</string>
+ 
+<string id="st_q_z_cell_42_d">
+	<text>Ox</text>
+</string>
+ 
+<string id="st_q_z_cell_43_descr">
+	<text>What body grows throughout a person's life?</text>
+</string>
+ 
+<string id="st_q_z_cell_43_a">
+	<text>Ear</text>
+</string>
+ 
+<string id="st_q_z_cell_43_b">
+	<text>Nose</text>
+</string>
+ 
+<string id="st_q_z_cell_43_c">
+	<text>Mouth</text>
+</string>
+ 
+<string id="st_q_z_cell_43_d">
+	<text>Appendix</text>
+</string>
+ 
+<string id="st_q_z_cell_44_descr">
+	<text>What kind of architectural elements is never in a casino?</text>
+</string>
+ 
+<string id="st_q_z_cell_44_a">
+	<text>Windows</text>
+</string>
+ 
+<string id="st_q_z_cell_44_b">
+	<text>Doors</text>
+</string>
+ 
+<string id="st_q_z_cell_44_c">
+	<text>Pilaster</text>
+</string>
+ 
+<string id="st_q_z_cell_44_d">
+	<text>Baluster</text>
+</string>
+ 
+<string id="st_q_z_cell_45_descr">
+	<text>How many letters in the Russian alphabet?</text>
+</string>
+ 
+<string id="st_q_z_cell_45_a">
+	<text>31</text>
+</string>
+ 
+<string id="st_q_z_cell_45_b">
+	<text>32</text>
+</string>
+ 
+<string id="st_q_z_cell_45_c">
+	<text>33</text>
+</string>
+ 
+<string id="st_q_z_cell_45_d">
+	<text>34</text>
+</string>
+ 
+<string id="st_q_z_cell_46_descr">
+	<text>What can not be done with your eyes open?</text>
+</string>
+ 
+<string id="st_q_z_cell_46_a">
+	<text>Iknut</text>
+</string>
+ 
+<string id="st_q_z_cell_46_b">
+	<text>Sneeze</text>
+</string>
+ 
+<string id="st_q_z_cell_46_c">
+	<text>Yawn</text>
+</string>
+ 
+<string id="st_q_z_cell_46_d">
+	<text>Get some sleep</text>
+</string>
+ 
+<string id="st_q_z_cell_47_descr">
+	<text>What is the strongest muscle in the human body?</text>
+</string>
+ 
+<string id="st_q_z_cell_47_a">
+	<text>Heart</text>
+</string>
+ 
+<string id="st_q_z_cell_47_b">
+	<text>Biceps</text>
+</string>
+ 
+<string id="st_q_z_cell_47_c">
+	<text>Triceps</text>
+</string>
+ 
+<string id="st_q_z_cell_47_d">
+	<text>Language</text>
+</string>
+ 
+<string id="st_q_z_cell_48_descr">
+	<text>What word in the Chinese language is indicated by the same character for the word 'courage'?</text>
+</string>
+ 
+<string id="st_q_z_cell_48_a">
+	<text>Coffee</text>
+</string>
+ 
+<string id="st_q_z_cell_48_b">
+	<text>Vodka</text>
+</string>
+ 
+<string id="st_q_z_cell_48_c">
+	<text>Tea</text>
+</string>
+ 
+<string id="st_q_z_cell_48_d">
+	<text>Fruit-drink</text>
+</string>
+ 
+<string id="st_q_z_cell_49_descr">
+	<text>Without lunch dishes impossible in Russia?</text>
+</string>
+ 
+<string id="st_q_z_cell_49_a">
+	<text>Bread</text>
+</string>
+ 
+<string id="st_q_z_cell_49_b">
+	<text>Potato</text>
+</string>
+ 
+<string id="st_q_z_cell_49_c">
+	<text>Borsch</text>
+</string>
+ 
+<string id="st_q_z_cell_49_d">
+	<text>Pelmeni</text>
+</string>
+ 
+<string id="st_q_z_cell_50_descr">
+	<text>How many rounds can accommodate a machine shop from AK102?</text>
+</string>
+ 
+<string id="st_q_z_cell_50_a">
+	<text>29</text>
+</string>
+ 
+<string id="st_q_z_cell_50_b">
+	<text>30</text>
+</string>
+ 
+<string id="st_q_z_cell_50_c">
+	<text>31</text>
+</string>
+ 
+<string id="st_q_z_cell_50_d">
+	<text>32</text>
+</string>
+ 
+<string id="st_a_z_cell_1_descr">
+	<text>Place a cache: Skadovsk. Additional Information: behind the driftwood behind bars.</text>
+</string>
+ 
+<string id="st_a_z_cell_2_descr">
+	<text>Place a cache: Skadovsk. Additional Information: behind the Avenger.</text>
+</string>
+ 
+<string id="st_a_z_cell_3_descr">
+	<text>Place a cache: Skadovsk. Additional information: in the room, opposite the bodyguard.</text>
+</string>
+ 
+<string id="st_a_z_cell_4_descr">
+	<text>Place a cache: Shevchenko. Additional information: in the container.</text>
+</string>
+ 
+<string id="st_a_z_cell_5_descr">
+	<text>Place a cache: Anomaly 'Iron Forest'. Additional information: in the back of the ZIL.</text>
+</string>
+ 
+<string id="st_a_z_cell_6_descr">
+	<text>Place a cache: Port cranes. Additional information: in the back of the ZIL.</text>
+</string>
+ 

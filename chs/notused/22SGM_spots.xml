@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+<string id="st_level_change_to_zaton">
+		<text>To Zaton</text>
+	</string>
+<string id="st_help_point_spot_name">
+	<text>缺口</text>
+	</string>
+<string id="st_captured_monster_name">
+<text>Tame mutant</text>
+</string>
+<string id="st_demolution_charge_spot_name">
+<text>Explosive</text>
+</string>
+<string id="st_employer_name">
+<text>Employer</text>
+</string>
+
+<string id="st_level_change_to_agroprom">
+<text>To Agroprom</text>
+</string>
+<string id="st_level_change_to_agroprom_underground">
+<text>To the Agroprom Dungeons</text>
+</string>
+<string id="st_level_change_to_darkvalley">
+<text>To Dark Valley</text>
+</string>
+<string id="st_level_change_to_escape">
+<text>To the Cordon</text>
+</string>
+
+<string id="st_level_change_to_marsh">
+<text>To the Swamp</text>
+</string>
+<string id="st_level_change_to_military">
+<text>To Military warehouses</text>
+</string>
+
+<string id="st_level_change_to_red_forest">
+<text>To the Red forest</text>
+</string>
+
+<string id="st_level_change_to_x18">
+<text>To X18</text>
+</string>
+
+</string_table>

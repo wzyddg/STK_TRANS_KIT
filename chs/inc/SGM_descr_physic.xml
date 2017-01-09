@@ -1,0 +1,18 @@
+﻿<string id="st_demolution_barrel_name"> 
+<text> 燃料桶</text> 
+</string> 
+        <string id="st_demolution_kanistra_name"> 
+<text> 燃料罐</text> 
+</string> 
+        <string id="st_demolution_ballon_name"> 
+<text> 燃气瓶 </text> 
+</string> 
+        <string id="st_demolution_barrel_descr"> 
+<text> Fuel barrel, most likely dropped from one of the fallen helicopters. </text> 
+</string> 
+        <string id="st_demolution_kanistra_descr"> 
+<text> Canister for refueling vehicles and any equipment. </text> 
+</string> 
+        <string id="st_demolution_ballon_descr"> 
+<text> Container with an unknown gas. Not yet opened and the label is too worn out to be readable, so it's properties remain unknown. </text> 
+</string>

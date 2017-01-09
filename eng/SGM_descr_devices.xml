@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string id="st_treasure_rukzak_title">
+	<text>'Personal rucksack'</text>
+</string>
+ 
+<string id="st_treasure_rukzak_descr">
+	<text>Waterproof rucksack made of rubberized fabric. Allows you to store a lot of things.</text>
+</string>
+ 
+<string id="st_repair_arms_box_title">
+	<text>Repair kit for weapons</text>
+</string>
+ 
+<string id="st_repair_arms_box_descr">
+	<text>Toolbox. Designed to repair weapons.</text>
+</string>
+ 
+<string id="st_repair_outfit_box_title">
+	<text>Repair kit for exoskeletonov</text>
+</string>
+ 
+<string id="st_repair_outfit_box_descr">
+	<text>Toolbox. Designed to repair exoskeletonov.</text>
+</string>
+ 
+<string id="st_binocular_default">
+	<text>Binoculars 'Standard'</text>
+</string>
+ 
+<string id="st_binocular_m1">
+	<text>Binoculars 'Hawk'</text>
+</string>
+ 
+<string id="st_binocular_m2">
+	<text>Binoculars 'Optimus'</text>
+</string>
+ 
+<string id="st_binocular_m3">
+	<text>Binoculars 'Cheetah'</text>
+</string>
+ 
+<string id="st_sleeping_bag_title">
+	<text>'Sleeping bag'</text>
+</string>
+ 
+<string id="st_sleeping_bag_descr">
+	<text>Waterproof sleeping bag. Treated with a special compound, frightening mutants.</text>
+</string>
+ 
+<string id="st_emulator_brain_waves_title">
+	<text>Emulator brainwaves 'BRAIN-8'</text>
+</string>
+ 
+<string id="st_emulator_brain_waves_descr">
+	<text>Device,stabilizing the electrical activity of the brain. The new version of BRAIN-8 enhanced protection system telepathic radiation. Works directly from the rucksack. \n %c[255,238,153,26] • %c[default] Prevents Psi health fall below 90%</text>
+</string>
+ 
+<string id="st_player">
+	<text>Player</text>
+</string>
+ 
+<string id="st_player_descr">
+	<text>Stalkersky special player, with support for custom music, designed specifically for the Zone. Powered by built-in particle artifact 'Battery'. Wide popularity among stalkers are not purchased, but when there is no guitar, and he will come down.</text>
+</string>
+ 
+<string id="st_mp3_track_descr">
+	<text>Special USB drive. Designed to play sounds or music.</text>
+</string>
+ 
+<string id="st_army_timer_title">
+	<text>Army timer</text>
+</string>
+ 
+<string id="st_army_timer_descr">
+	<text>Allows you to pinpoint the time at which you can do either or, during which you can not do anything.</text>
+</string>
+ 
+<string id="st_detector_omega">
+	<text>Detector 'Omega'</text>
+</string>
+ 
+<string id="st_detector_omega_descr">
+	<text>Improvements detector scanner a new generation. Can detect artifacts at a distance of 50 meters and transmit their location on the PDA. Added recognition program static zones of abnormal activity, which are available in the database; while retaining the ability to detect artifacts. Location anomalous zones and artifacts relative to the detector are displayed on a special screen. The search engine artifacts improved; theoretically it can detect not yet known to science education abnormal.</text>
+</string>
+ 
+<string id="st_repair_arms_box_used_title">
+	<text>Repair Kit for weapons (in use.)</text>
+</string>
+ 
+<string id="st_repair_arms_box_used_descr">
+	<text>I have already used the toolbox. Designed to repair weapons, but those details, that it is, is not sufficient for a complete repair. Applies only to repair weapons with weapons donor.</text>
+</string>
+ 
+<string id="st_repair_outfit_box_used_title">
+	<text>Repair kit for exoskeletonov (in use.)</text>
+</string>
+ 
+<string id="st_repair_outfit_box_used_descr">
+	<text>I have already used the toolbox. Designed to repair exoskeletonov, but those details, that it is, is not sufficient for a complete repair. Applies only to repair exoskeletonov using armor-donor.</text>
+</string>
+ 
+<string id="st_conventer_grenade_box_title">
+	<text>Converter for grenades</text>
+</string>
+ 
+<string id="st_conventer_grenade_box_descr">
+	<text>Toolbox with tools designed to work with filling grenades. Included - hank-particularly strong wires and pliers.</text>
+</string>
+ 
+<string id="st_personal_pda_title">
+	<text>PDA Degtyaryova</text>
+</string>
+ 
+<string id="st_personal_pda_descr">
+	<text>Netbook 'Iskra-226' of the new generation. Cell contains personal information.</text>
+</string>
+ 
+<string id="st_guidebook_mono_title">
+	<text>GPS-Guide</text>
+</string>
+ 
+<string id="st_guidebook_mono_descr">
+	<text>The most mysterious and unexplored artifact device. The main value lies in its properties of movement, by which easily can teleport anywhere.</text>
+</string>
+ 
+<string id="st_guidebook_alternal_title">
+	<text>GPS-Guide Alternal</text>
+</string>
+ 
+<string id="st_guidebook_alternal_descr">
+	<text>Advanced version of GPS-Guide. Bred by unknown scientists, in some secret laboratory.</text>
+</string>
+ 
+<string id="st_disk_breaking_title">
+	<text>Hacker software</text>
+</string>
+ 
+<string id="st_disk_breaking_descr">
+	<text>Contains tools to exploit all types of PDAs. To install the tools you need to run the crack.</text>
+</string>
+ 
+<string id="st_remote_explosive_charge_title">
+	<text>MS-charge unit 15 with detonator</text>
+</string>
+ 
+<string id="st_remote_explosive_charge_descr">
+	<text>Explosive charge. Comes complete with a remote control. For installation - you must use.</text>
+</string>
+ 
+<string id="st_remote_charge_control_title">
+	<text>Remote Control RS-15 charge</text>
+</string>
+ 
+<string id="st_remote_charge_control_descr">
+	<text>For remote detonation charge PC 15 - must be used.</text>
+</string>
+ 
+<string id="st_minetrap_detector_title">
+	<text>Scanner stretch of the flash-drive-1</text>
+</string>
+ 
+<string id="st_minetrap_detector_descr">
+	<text>Used to detect booby stretch marks. Weighs 2.25 kg. Effective detection range - 50 meters. Works directly from the rucksack.</text>
+</string>
+ 
+<string id="st_minetrap_elite_detector_title">
+	<text>Scanner stretch of the flash-drive-2</text>
+</string>
+ 
+<string id="st_minetrap_elite_detector_descr">
+	<text>The upgraded version. Used to detect booby stretch marks. Weighs 1.12 kg. Effective detection range - 145 meters. Works directly from the rucksack.</text>
+</string>
+ 
+<string id="st_money_meshochek_title">
+	<text>Bag with money</text>
+</string>
+ 
+<string id="st_money_meshochek_descr">
+	<text>To convert into capital - must be used.</text>
+</string>
+ 
+<string id="st_detector_omega_up">
+	<text>Detector 'Omega' (perfected).</text>
+</string>
+ 
+<string id="st_detector_omega_up_descr">
+	<text>Improved detector scanner a new generation. Can detect artifacts at a distance of 100 meters, and immediately transmit their location on the PDA. Added recognition program static zones of abnormal activity, which are available in the database; while retaining the ability to detect artifacts. Location anomalous zones and artifacts relative to the detector are displayed on a special screen. Program search of artifacts that is included when picked up indicator-board on the front side of the device, improved; theoretically it can detect not yet known to science education abnormal.</text>
+</string>
+ 
+<string id="st_detector1_up">
+	<text>Detector 'response' (perfected).</text>
+</string>
+ 
+<string id="st_detector2_up">
+	<text>Detector 'Bear' (perfected).</text>
+</string>
+ 
+<string id="st_detector3_up">
+	<text>Detector 'Veles' (perfected).</text>
+</string>
+ 
+<string id="st_detector4_up">
+	<text>Detector 'Svarog' (perfected).</text>
+</string>
+ 
+<string id="st_geiger_counter_title">
+	<text>Geiger</text>
+</string>
+ 
+<string id="st_geiger_counter_descr">
+	<text>Detects the presence of ionizing particles in the air. LED indicator informs about the number of received radiation doses. \n Works directly from the rucksack.</text>
+</string>
+ 
+<string id="st_personal_marker_title">
+	<text>Personal lighthouse</text>
+</string>
+ 
+<string id="st_personal_marker_descr">
+	<text>Used to set the mark on the map.</text>
+</string>
+ 
+<string id="st_detector_battery_1_title">
+	<text>Battery for the detector</text>
+</string>
+ 
+<string id="st_detector_battery_1_descr">
+	<text>Source of electricity for autonomous power detectors. Operating voltage: 1.5V. \n Running time: 120 seconds.</text>
+</string>
+ 
+<string id="st_detector_battery_2_title">
+	<text>Battery for the detector</text>
+</string>
+ 
+<string id="st_detector_battery_2_descr">
+	<text>Source of electricity for autonomous power detectors. Operating voltage: 1.5V. \n Running time: 240 seconds.</text>
+</string>
+ 
+<string id="st_detector_battery_3_title">
+	<text>Battery for the detector</text>
+</string>
+ 
+<string id="st_detector_battery_3_descr">
+	<text>Source of electricity for autonomous power detectors. Operating voltage: 1.5V. \n Running time: 480 seconds.</text>
+</string>
+ 
+<string id="st_ammo_container_title">
+	<text>Box of ammunition</text>
+</string>
+ 
+<string id="st_ammo_container_descr">
+	<text>To look inside - must be used.</text>
+</string>
+ 
+<string id="st_mobile_tool_title">
+	<text>Portable Encyclopedia</text>
+</string>
+ 
+<string id="st_mobile_tool_descr">
+	<text>Contains a database with all the items that can be found in the area. To enter into a database - should be used.</text>
+</string>
+ 
+<string id="st_chicken_rabua_egg_title">
+	<text>KUROCHKIN yayko</text>
+</string>
+ 
+<string id="st_chicken_rabua_egg_descr">
+	<text>This egg is only in the area and Michael Jackson. Used only for sale.</text>
+</string>
+ 

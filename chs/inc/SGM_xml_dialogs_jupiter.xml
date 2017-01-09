@@ -1,0 +1,2367 @@
+﻿<!------------------------========--------------------->
+<!------------------------'Юпитер'--------------------->
+<!------------------------========--------------------->
+<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+<string id="jup_barmen_expiation_sin_3_info_dialog_1">
+	<text>我正在找转播发射机,你知道哪里能找到吗?</text>
+</string>
+<string id="jup_barmen_expiation_sin_3_info_dialog_2">
+	<text>当然,兄弟,我听说那高科技玩意儿.一个团队在两个月前在木星工厂,当时发生了电磁风暴,他们和外界被切断了联系五个星期.太多的变异点让他们走不了,他们只有找些东西来烧保证晚上烤火,有个人在盒子里面找到了一个转播发射机,他们说这东西太重了,他们一起也不能举起来,所以他们就给了我坐标,对于你这样的朋友,我免费给你坐标.</text>
+</string>
+<string id="jup_barmen_expiation_sin_3_info_dialog_3">
+	<text>感谢你的信息.</text>
+</string>
+<string id="jup_barmen_expiation_sin_3_info_dialog_4">
+	<text>我知道,不过我不太信任你.</text>
+</string>
+<string id="jup_barmen_expiation_sin_3_info_dialog_5">
+	<text>好吧,谢谢.</text>
+</string>
+<string id="jup_barmen_expiation_sin_3_info_dialog_6">
+	<text>不.</text>
+</string>
+<string id="jup_barmen_expiation_sin_3_info_dialog_7">
+	<text>我没这么多钱.</text>
+</string>
+<string id="jup_barmen_expiation_sin_3_info_dialog_8">
+	<text>这个信息对我来说很重要.</text>
+</string>
+<string id="jup_barmen_expiation_sin_3_info_dialog_9">
+	<text>它值10000个卢布,你有兴趣吗?</text>
+</string>
+<string id="jup_barmen_expiation_sin_3_info_dialog_10">
+	<text>当然.</text>
+</string>
+<string id="jup_barmen_expiation_sin_3_info_dialog_11">
+	<text>当然,兄弟,我听说那高科技玩意儿.一个团队在两个月前在木星工厂,当时发生了电磁风暴,他们和外界被切断了联系五个星期.太多的变异点让他们走不了,他们只有找些东西来烧保证晚上烤火,有个人在盒子里面找到了一个转播发射机,他们说这东西太重了,他们一起也不能举起来,所以他们就给了我坐标.</text>
+</string>
+<string id="jup_scientist_biochemist_expiation_sin_3_info_dialog_1">
+	<text>我正在找转播发射机,你知道哪里能找到吗?</text>
+</string>
+<string id="jup_scientist_biochemist_expiation_sin_3_info_dialog_2">
+	<text>我知道,我对这个设备很熟悉,它是为了在远距离传送高频电磁波,我甚至能告诉你它的详细情况.以前我们的团队在工厂那边想办法用它,但是我们从来没有听到过那个两百千克的设备里面有什么声音,我们的工程很快就被冻结了.那时候我还是个很年轻被雇佣的科学家,但是我的职业生涯由于工程的冻结而停止了,一些主要部件被打包然后带走了,但是一些零件还留在工厂里,自从我没有在研究界里面听到什么后,我决定留在变异区,这是工厂的坐标,转播发射器应该还在容器里.</text>
+</string>
+<string id="jup_scientist_biochemist_expiation_sin_3_info_dialog_3">
+	<text>感谢你的消息.</text>
+</string>
+<string id="jup_scientist_biochemist_expiation_sin_3_info_dialog_4">
+	<text>我不那么信任你能和我分享这个消息.</text>
+</string>
+<string id="jup_scientist_biochemist_expiation_sin_3_info_dialog_5">
+	<text>那好吧,谢谢.</text>
+</string>
+<string id="jup_scientist_biochemist_expiation_sin_3_info_dialog_6">
+	<text>不.</text>
+</string>
+<string id="jup_scientist_biochemist_expiation_sin_3_info_dialog_7">
+	<text>我没这么多钱.</text>
+</string>
+<string id="jup_scientist_biochemist_expiation_sin_3_info_dialog_8">
+	<text>教授,这个信息对我很重要.</text>
+</string>
+<string id="jup_scientist_biochemist_expiation_sin_3_info_dialog_9">
+	<text>这种等级的消息值10000卢布,行吗?</text>
+</string>
+<string id="jup_scientist_biochemist_expiation_sin_3_info_dialog_10">
+	<text>好吧.</text>
+</string>
+<string id="jup_scientist_biochemist_expiation_sin_3_info_dialog_11">
+	<text>我对这个设备很熟悉,它是为了在远距离传送高频电磁波,我甚至能告诉你它的详细情况.以前我们的团队在工厂那边想办法用它,但是我们从来没有听到过那个两百千克的设备里面有什么声音,我们的工程很快就被冻结了.那时候我还是个很年轻被雇佣的科学家,但是我的职业生涯由于工程的冻结而停止了,一些主要部件被打包然后带走了,但是一些零件还留在工厂里,自从我没有在研究界里面听到什么后,我决定留在变异区,这是工厂的坐标,转播发射器应该还在容器里.</text>
+</string>
+<string id="jup_killer_base_chief_dialog_1">
+	<text>站住,你不是我们的成员,赶快滚.</text>
+</string>
+<string id="jup_killer_base_chief_dialog_2">
+	<text>对不起,潜行者,我不知道你们在这里还有基地,我这就走.</text>
+</string>
+<string id="jup_killer_base_chief_dialog_3">
+	<text>对,滚,趁我们还很仁慈.</text>
+</string>
+<string id="jup_killer_base_chief_dialog_4">
+	<text>好了,我已经准备走了.</text>
+</string>
+<string id="jup_killer_base_chief_dialog_5">
+	<text>操你妈！</text>
+</string>
+<string id="jup_killer_base_chief_dialog_6">
+	<text>你不知道我是谁?我要进去,滚开.</text>
+</string>
+<string id="jup_killer_base_chief_dialog_7">
+	<text>你说什么?在你被撕碎之前爬远点!</text>
+</string>
+<string id="jup_killer_base_chief_dialog_8">
+	<text>对不起,我这就走.</text>
+</string>
+<string id="jup_killer_base_chief_dialog_9">
+	<text>站住,说出口令.</text>
+</string>
+<string id="jup_killer_base_chief_dialog_10">
+	<text>口令是"Shkarpertkina". 我能过去了吗?</text>
+</string>
+<string id="jup_killer_base_chief_dialog_11">
+	<text>对,过去.</text>
+</string>
+<string id="jup_killer_base_chief_dialog_12">
+	<text>谢谢.</text>
+</string>
+<string id="jup_killer_base_chief_dialog_13">
+	<text>口令?我能给你一些钱然后知道吗?</text>
+</string>
+<string id="jup_killer_base_chief_dialog_14">
+	<text>我不接受贿赂,你不知道密码就走开.</text>
+</string>
+<string id="jup_killer_base_chief_dialog_15">
+	<text>什么密码?我要进去,站一边去.</text>
+</string>
+<string id="jup_killer_base_chief_dialog_16">
+	<text>你说什么?在你被撕碎之前爬远点！</text>
+</string>
+<string id="jup_killer_base_chief_dialog_17">
+	<text>对不起,我这就走.</text>
+</string>
+<string id="jup_killer_base_chief_dialog_18">
+	<text>操你妈！</text>
+</string>
+<string id="jup_killer_base_chief_dialog_19">
+	<text>口令,我不知道口令,我走就是了.</text>
+</string>
+<string id="jup_killer_base_chief_dialog_20">
+	<text>那就好,现在趁我还很仁慈赶快离开这里.</text>
+</string>
+<string id="jup_killer_base_chief_dialog_21">
+	<text>那好吧,谢谢.</text>
+</string>
+<string id="jup_killer_base_chief_dialog_22">
+	<text>操你！</text>
+</string>
+<string id="jup_killer_base_chief_dialog_23">
+	<text>过去吧,别一个人.</text>
+</string>
+<string id="jup_killer_base_chief_dialog_24">
+	<text>我会的.</text>
+</string>
+<string id="jup_mechanic_about_not_details_dialog_1">
+	<text>你需要怎样才能改造?</text>
+</string>
+<string id="jup_mechanic_about_not_details_dialog_2">
+	<text>和以前一样,任何武器,衣服,甚至是神器,放到我前面的保险箱里.</text>
+</string>
+<string id="jup_mechanic_about_not_details_dialog_3">
+	<text>好,我会去找一些的.</text>
+</string>
+<string id="jup_barmen_radio_switch_dialog_1">
+	<text>夏维伊, 关掉收音机</text>
+</string>
+<string id="jup_barmen_radio_switch_dialog_2">
+	<text>没问题.</text>
+</string>
+<string id="jup_barmen_radio_switch_dialog_3">
+	<text>你的意志是我的命令.</text>
+</string>
+<string id="jup_barmen_radio_switch_dialog_4">
+	<text>Hawaiian, 打开收音机</text>
+</string>
+<string id="jup_barmen_radio_switch_dialog_5">
+	<text>好.</text>
+</string>
+<string id="jup_barmen_radio_switch_dialog_6">
+	<text>完成.</text>
+</string>
+<string id="jup_scientist_biochemist_expiation_sin_dialog_1">
+	<text>你听说过"生命之水"吗?</text>
+</string>
+<string id="jup_scientist_biochemist_expiation_sin_dialog_2">
+	<text>当然,我从一些早期的潜行者传说里面听说过.大概是什么高效的洗神器的水,他应该在你找到的绿洲里,找到它对你来说应该不是问题.</text>
+</string>
+<string id="jup_scientist_biochemist_expiation_sin_dialog_3">
+	<text>感谢你的消息.</text>
+</string>
+<string id="jup_scientist_biochemist_expiation_sin_dialog_4">
+	<text>当然,我从一些早期的潜行者传说里面听说过.大概是什么高效的洗神器的水.找传说里讲的来看,它应该在我要找的绿洲里面,这两样东西完全没有任何头绪.</text>
+</string>
+<string id="jup_mechanic_box_processing_dialog_1">
+	<text>我给你带来了一些没用的东西,分解他们成零件.</text>
+</string>
+<string id="jup_mechanic_box_processing_dialog_2">
+	<text>很好,兄弟,你真是了解我的心意,我正想让你找一些零件来,你就来了.</text>
+</string>
+<string id="jup_mechanic_box_processing_dialog_3">
+	<text>很高兴帮助你.</text>
+</string>
+<string id="jup_azot_storyline_dialog_1">
+	<text>你好,硝基,我经常听说到你.</text>
+</string>
+<string id="jup_azot_storyline_dialog_2">
+	<text>你也好,我知道我救了一个飞行员让我很知名.</text>
+</string>
+<string id="jup_azot_storyline_dialog_3">
+	<text>我知道了,我在哪里能找到那个飞行员?</text>
+</string>
+<string id="jup_azot_storyline_dialog_4">
+	<text>有个营地离这里不远,正中间有个碉堡,你在那里应该能找到他,我想他应该还在那里,因为他想要去普利皮亚,却不知道路.</text>
+</string>
+<string id="jup_azot_storyline_dialog_5">
+	<text>感谢你的提示.</text>
+</string>
+<string id="jup_sokolov_storyline_dialog_1">
+	<text>你好,索科洛夫同志！你就是那个飞行员吗?</text>
+</string>
+<string id="jup_sokolov_storyline_dialog_2">
+	<text>对,你是谁,有什么事吗?</text>
+</string>
+<string id="jup_sokolov_storyline_dialog_3">
+	<text>少校底格特雅列夫,我来这里调差造成飞机坠毁的原因,你知道其他什么人还活着吗?</text>
+</string>
+<string id="jup_sokolov_storyline_dialog_4">
+	<text>我很高兴得到通知,少校底格特雅列夫同志.距事故已经有很长时间了,有很多小道消息说有一些穿着制服的人出现在河湾...</text>
+</string>
+<string id="jup_sokolov_storyline_dialog_5">
+	<text>你确定有其他人从直升机里面出来吗?还是你就是团队里面还剩下的活人?</text>
+</string>
+<string id="jup_sokolov_storyline_dialog_6">
+	<text>我想过,但是我不能去检查,我并不想和潜行者打交道,并不是所有的他们都很好相处,你能帮我去检查吗?我没有什么能给你,不过我会非常感谢.</text>
+</string>
+<string id="jup_sokolov_storyline_dialog_7">
+	<text>我被送到这里执行任务,我会帮助你,但是我不会说有关我的任务的一个字,你明白,你带着军章.</text>
+</string>
+<string id="jup_sokolov_storyline_dialog_8">
+	<text>很好,我得到了一点消息,我觉得会有帮助..一半的调查队死在河湾地区：一辆直升机坠落在南部高原,第二辆掉进了沼泽,第三辆在火车站,不幸的是现在还没有其他直升机的消息,我不能定位他们的坐标因为我的PDA没电了,我需要充电...当它能用了我就会给你关键的信息,你现在可以去河湾,我想我现在准备让我的PDA工作.哦,对了直升机的门可能从里面锁住了,带上这把要是,每个飞行员都有,现在你更需要它...</text>
+</string>
+<string id="jup_sokolov_storyline_dialog_9">
+	<text>明白了,谢谢你的消息.</text>
+</string>
+<string id="jup_freedom_bodyguard_dialog_1">
+	<text>欢迎！你看起来还很新鲜,一定很好吃...只是个笑话.行了简单地说我提供的服务：我是一个保镖,守护任何给我钱的人,你只需要给我3600.</text>
+</string>
+<string id="jup_freedom_bodyguard_dialog_2">
+	<text>呆在这里,攻击.</text>
+</string>
+<string id="jup_freedom_bodyguard_dialog_3">
+	<text>好极了,现在你为我工作了.</text>
+</string>
+<string id="jup_freedom_bodyguard_dialog_4">
+	<text>下次吧.</text>
+</string>
+<string id="jup_freedom_bodyguard_dialog_5">
+	<text>你有什么想法?</text>
+</string>
+<string id="jup_freedom_bodyguard_dialog_6">
+	<text>掩护我.</text>
+</string>
+<string id="jup_freedom_bodyguard_dialog_8">
+	<text>不要使用武器.</text>
+</string>
+<string id="jup_freedom_bodyguard_dialog_9">
+	<text>呆在这里.</text>
+</string>
+<string id="jup_freedom_bodyguard_dialog_10">
+	<text>你走吧,我不需要保护.</text>
+</string>
+<string id="jup_army_bodyguard_dialog_1">
+	<text>你好,你愿意让我加入吗?给我4000,然后我就会和你一起,和我的枪一起保护你...你觉得怎么样?</text>
+</string>
+<string id="jup_army_bodyguard_dialog_2">
+	<text>呆在这里,攻击.</text>
+</string>
+<string id="jup_army_bodyguard_dialog_3">
+	<text>我不介意你和我一起.</text>
+</string>
+<string id="jup_army_bodyguard_dialog_4">
+	<text>不,你不会和我一起.</text>
+</string>
+<string id="jup_army_bodyguard_dialog_5">
+	<text>命令是什么?</text>
+</string>
+<string id="jup_army_bodyguard_dialog_6">
+	<text>掩护我.</text>
+</string>
+<string id="jup_army_bodyguard_dialog_8">
+	<text>不要使用武器.</text>
+</string>
+<string id="jup_army_bodyguard_dialog_9">
+	<text>呆在这里.</text>
+</string>
+<string id="jup_army_bodyguard_dialog_10">
+	<text>你自由了,以后再见.</text>
+</string>
+<string id="jup_freedom_trader_offer_dialog_1">
+	<text>组雅比斯吉说他的望远镜是从你这里买的,是吗?</text>
+</string>
+<string id="jup_freedom_trader_offer_dialog_2">
+	<text>当然,我有几对 %c[255,1,128,54]望远镜%c[default], 我真为它骄傲.\n你看看吧：</text>
+</string>
+<string id="jup_freedom_trader_offer_dialog_3">
+	<text>只有这个?我没兴趣.</text>
+</string>
+<string id="jup_freedom_trader_offer_dialog_4">
+	<text>不错的选择,这个望远镜要4000,你要吗?</text>
+</string>
+<string id="jup_freedom_trader_offer_dialog_5">
+	<text>一般的选择,这个望远镜要4000,你要吗?</text>
+</string>
+<string id="jup_freedom_trader_offer_dialog_6">
+	<text>我可以免费给你一个普通的望远镜,拿着.</text>
+</string>
+<string id="jup_freedom_trader_offer_dialog_7">
+	<text>好吧.</text>
+</string>
+<string id="jup_freedom_trader_offer_dialog_8">
+	<text>给你,拿着.</text>
+</string>
+<string id="jup_freedom_trader_offer_dialog_9">
+	<text>谢谢.</text>
+</string>
+<string id="jup_freedom_trader_offer_dialog_10">
+	<text>我不需要它.</text>
+</string>
+<string id="jup_freedom_trader_offer_dialog_11">
+	<text>好极了,这是你的望远镜.</text>
+</string>
+<string id="jup_freedom_trader_offer_dialog_12">
+	<text>谢谢.</text>
+</string>
+<string id="jup_freedom_trader_offer_dialog_13">
+	<text>对.</text>
+</string>
+<string id="jup_freedom_trader_offer_dialog_14">
+	<text>不.</text>
+</string>
+<string id="jup_freedom_trader_offer_dialog_15">
+	<text>太贵了.</text>
+</string>
+<string id="jup_freedom_trader_dialog_1">
+	<text>你需要什么.</text>
+</string>
+<string id="jup_freedom_trader_dialog_2">
+	<text>我想交易.</text>
+</string>
+<string id="jup_freedom_trader_dialog_3">
+	<text>我知道了,那好,把握机会.</text>
+</string>
+<string id="jup_freedom_trader_dialog_4">
+	<text>没什么.</text>
+</string>
+<string id="jup_freedom_trader_dialog_5">
+	<text>我不需要什么.</text>
+</string>
+<string id="jup_freedom_trader_dialog_6">
+	<text>不我不会取消约定.</text>
+</string>
+<string id="jup_freedom_trader_dialog_7">
+	<text>就是这样,过一个小时之后再来.</text>
+</string>
+<string id="jup_freedom_trader_dialog_8">
+	<text>我明白了.</text>
+</string>
+<string id="jup_freedom_trader_dialog_9">
+	<text>这不可能,我告诉过你,每次只能下一个订单.要重新预定,你需要赔偿500.</text>
+</string>
+<string id="jup_freedom_trader_dialog_10">
+	<text>好的,这是500卢布.</text>
+</string>
+<string id="jup_freedom_trader_dialog_11">
+	<text>好的,我会取消上一个预定,同时,你也可以重新下订单.</text>
+</string>
+<string id="jup_freedom_trader_dialog_12">
+	<text>我能重新下一订单吗?</text>
+</string>
+<string id="jup_freedom_trader_dialog_13">
+	<text>太贵了.</text>
+</string>
+<string id="jup_freedom_trader_dialog_14">
+	<text>我改变主意了.</text>
+</string>
+<string id="jup_freedom_trader_dialog_15">
+	<text>好吧,拿着.</text>
+</string>
+<string id="jup_freedom_trader_dialog_16">
+	<text>太好了,交易完成了,现在你只需要给你的东西付运输费,就在交易栏中.</text>
+</string>
+<string id="jup_freedom_trader_dialog_17">
+	<text>没问题,你需要什么样的东西,记住,每次只能下一个订单.</text>
+</string>
+<string id="jup_freedom_trader_dialog_18">
+	<text>我想下一个订单.</text>
+</string>
+<string id="jup_freedom_trader_dialog_19">
+	<text>我明白了,选择哪种类型的货物.</text>
+</string>
+<string id="jup_freedom_trader_dialog_20">
+	<text>武器.</text>
+</string>
+<string id="jup_freedom_trader_dialog_21">
+	<text>装甲.</text>
+</string>
+<string id="jup_freedom_trader_dialog_22">
+	<text>"LR-300 Limit"</text>
+</string>
+<string id="jup_freedom_trader_dialog_23">
+	<text>"Commander Armored Suit"</text>
+</string>
+<string id="jup_freedom_trader_dialog_24">
+	<text>"Colt M4A1"</text>
+</string>
+<string id="jup_freedom_trader_dialog_25">
+	<text>"AK-102"</text>
+</string>
+<string id="jup_freedom_trader_dialog_26">
+	<text>"HK-G36 Sniper"</text>
+</string>
+<string id="jup_freedom_trader_dialog_27">
+	<text>"Mossberg 590"</text>
+</string>
+<string id="jup_freedom_trader_dialog_28">
+	<text>"Revolver GSh 100"</text>
+</string>
+<string id="jup_freedom_trader_dialog_29">
+	<text>你好,潜行者,你想赚些外快吗?</text>
+</string>
+<string id="jup_freedom_trader_dialog_30">
+	<text>我没时间.</text>
+</string>
+<string id="jup_freedom_trader_dialog_31">
+	<text>随便你吧,你有什么事情?</text>
+</string>
+<string id="jup_freedom_trader_dialog_32">
+	<text>为什么不?</text>
+</string>
+<string id="jup_freedom_trader_dialog_33">
+	<text>我有一个工作要做,一定要安排好,等十点后晚上再来找我.</text>
+</string>
+<string id="jup_freedom_trader_dialog_34">
+	<text>行.</text>
+</string>
+<string id="jup_freedom_trader_dialog_35">
+	<text>太好了！现在仔细听,采石场附近,有些"兄弟"们总是在晚上晃荡,没办法弄清楚这些小子们是谁,他们的防护做的很好,他们用老式步枪开火,好像是上次战争剩下来的莫辛尼甘步枪,你需要去调查,而且除掉这些混账,不然的话他们就会一直射杀我们的新手.</text>
+</string>
+<string id="jup_freedom_trader_dialog_36">
+	<text>好的,我会办好的.</text>
+</string>
+<string id="jup_freedom_trader_dialog_37">
+	<text>那我祝你好运,小心点,懂了吗?</text>
+</string>
+<string id="jup_freedom_trader_dialog_38">
+	<text>当然!</text>
+</string>
+<string id="jup_freedom_trader_dialog_39">
+	<text>不是现在.</text>
+</string>
+<string id="jup_freedom_trader_dialog_40">
+	<text>太好了,你终于来了,你愿意帮助我吗?</text>
+</string>
+<string id="jup_freedom_trader_dialog_41">
+	<text>我们各走各的路.</text>
+</string>
+<string id="jup_freedom_trader_dialog_42">
+	<text>不,我有其他事情.</text>
+</string>
+<string id="jup_freedom_trader_dialog_43">
+	<text>行,继续.</text>
+</string>
+<string id="jup_freedom_trader_dialog_44">
+	<text>太好了！现在仔细听,采石场附近,有些"兄弟"们总是在晚上晃荡,没办法弄清楚这些小子们是谁,他们的防护做的很好,他们用老式步枪开火,好像是上次战争剩下来的莫辛尼甘步枪,你需要去调查,而且除掉这些混账,不然的话他们就会一直射杀我们的新手.</text>
+</string>
+<string id="jup_freedom_trader_dialog_45">
+	<text>不,我不会做的.</text>
+</string>
+<string id="jup_freedom_trader_dialog_46">
+	<text>行,我会办好的.</text>
+</string>
+<string id="jup_freedom_trader_dialog_47">
+	<text>那我祝你好运,小心点,懂了吗?</text>
+</string>
+<string id="jup_freedom_trader_dialog_48">
+	<text>当然!</text>
+</string>
+<string id="jup_freedom_trader_dialog_49">
+	<text>我告诉过你天黑以后再来！"</text>
+</string>
+<string id="jup_freedom_trader_dialog_50">
+	<text>我会的.</text>
+</string>
+<string id="jup_freedom_trader_dialog_51">
+	<text>对,我有事找你.</text>
+</string>
+<string id="jup_freedom_trader_dialog_52">
+	<text>你想买什么还是你有其他事情?</text>
+</string>
+<string id="jup_freedom_trader_dialog_53">
+	<text>你完成了约定吗?</text>
+</string>
+<string id="jup_freedom_trader_dialog_54">
+	<text>嗯,暗夜枪手都死光了.</text>
+</string>
+<string id="jup_freedom_trader_dialog_55">
+	<text>干得好,你崩了那些混蛋,现在他们不会抓到我们的旅客了,特别是那些喝醉了的,我欠你的.</text>
+</string>
+<string id="jup_freedom_trader_dialog_56">
+	<text>我明白了,感谢你的工作,晚点见.</text>
+</string>
+<string id="jup_freedom_trader_dialog_57">
+	<text>我的荣幸,我还有些事情.</text>
+</string>
+<string id="jup_freedom_trader_dialog_58">
+	<text>很好,有什么事?</text>
+</string>
+<string id="jup_freedom_trader_dialog_59">
+	<text>不.</text>
+</string>
+<string id="jup_freedom_trader_dialog_60">
+	<text>我有事找你.</text>
+</string>
+<string id="jup_freedom_trader_dialog_61">
+	<text>任务太难了,我放弃了.</text>
+</string>
+<string id="jup_freedom_trader_dialog_62">
+	<text>你太让我失望了,潜行者,说实话我还指望你...</text>
+</string>
+<string id="jup_freedom_trader_dialog_63">
+	<text>我很抱歉,朋友.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_1">
+	<text>不,下一次吧.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_2">
+	<text>我没有多少钱,下一次吧.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_3">
+	<text>很好,现在你的存款是：</text>
+</string>
+<string id="jup_stalker_bankir_dialog_4">
+	<text>我改变主意了.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_5">
+	<text>谢谢你,以后再来.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_6">
+	<text>当然！</text>
+</string>
+<string id="jup_stalker_bankir_dialog_7">
+	<text>我不打算走.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_8">
+	<text>感谢你的服务.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_9">
+	<text>不用客气！不要忘记,潜行者,要拿回你的存款,你需要付10%的数目.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_10">
+	<text>当然,以后见.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_11">
+	<text>我能多存一些吗?</text>
+</string>
+<string id="jup_stalker_bankir_dialog_12">
+	<text>没问题.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_13">
+	<text>是.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_17">
+	<text>是,我打算存几千元.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_18">
+	<text>你准备存多少?</text>
+</string>
+<string id="jup_stalker_bankir_dialog_19">
+	<text>我把所有的钱都存进去.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_20">
+	<text>• 1000.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_21">
+	<text>• 2000.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_22">
+	<text>• 3000.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_23">
+	<text>• 4000.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_24">
+	<text>• 5000.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_25">
+	<text>• 10000.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_26">
+	<text>嗨！你来有事吗?</text>
+</string>
+<string id="jup_stalker_bankir_dialog_27">
+	<text>有关于你的服务.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_28">
+	<text>你想存钱还是取钱?</text>
+</string>
+<string id="jup_stalker_bankir_dialog_29">
+	<text>存钱.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_30">
+	<text>没事.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_31">
+	<text>取钱.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_32">
+	<text>你打算取多少钱?</text>
+</string>
+<string id="jup_stalker_bankir_dialog_33">
+	<text>太好了,那现在我取走这10%,按照计算10% 为 100.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_34">
+	<text>我知道了,拿上你的利润.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_35">
+	<text>太好了,那现在我取走这10%,按照计算10% 为 200.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_36">
+	<text>太好了,那现在我取走这10%,按照计算10% 为 300.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_37">
+	<text>太好了,那现在我取走这10%,按照计算10% 为 400.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_38">
+	<text>太好了,那现在我取走这10%,按照计算10% 为 500.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_39">
+	<text>太好了,那现在我取走这10%,按照计算10% 为 1000.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_40">
+	<text>我拿走我所有的钱.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_41">
+	<text>太好了,那现在我取走这10%,按照计算10% 为</text>
+</string>
+<string id="jup_stalker_bankir_dialog_42">
+	<text>考虑到这笔钱不到1000,所以说不计算我的那一部分.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_43">
+	<text>谢谢.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_44">
+	<text>好极了！选择存钱,让我保存你留下的钱,经我处置,你不能随意拿走它们.你只能在 20：00 和 20:45 之间的时候才能拿回你的钱.在你存钱之后,每天你会得到7%的利息,你可以随意取走你的利息.你觉得怎么样?</text>
+</string>
+<string id="jup_stalker_bankir_dialog_45">
+	<text>定期存款.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_46">
+	<text>没什么.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_47">
+	<text>我准备存一些钱.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_48">
+	<text>你的钱已经存好了,20：00 和 20：45 的时候再来找我,我会给你你的利润.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_49">
+	<text>明白了.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_50">
+	<text>我来存款.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_51">
+	<text>多少钱?</text>
+</string>
+<string id="jup_stalker_bankir_dialog_52">
+	<text>我没那么多钱了.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_53">
+	<text>我把我所有的钱都存进去.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_54">
+	<text>1000.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_55">
+	<text>2000.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_56">
+	<text>3000.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_57">
+	<text>4000.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_58">
+	<text>5000.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_59">
+	<text>10000.</text>
+</string>
+        <string id="jup_stalker_bankir_dialog_59_1">
+		<text>25000.</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_59_2">
+		<text>50000.</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_59_3">
+		<text>100000.</text>
+	</string>
+<string id="jup_stalker_bankir_dialog_60">
+	<text>我想拿回我的存款.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_61">
+	<text>你想拿走哪一样?利息还是存款?</text>
+</string>
+<string id="jup_stalker_bankir_dialog_62">
+	<text>利息.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_63">
+	<text>这里,按照约定的7%.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_64">
+	<text>谢谢你.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_65">
+	<text>定期存款.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_66">
+	<text>这里,你存的所有钱.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_67">
+	<text>谢谢你.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_68">
+	<text>让我看看我的利息.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_69">
+                 <text>活期存款.</text>
+</string>
+<string id="jup_stalker_bankir_dialog_70">
+	<text>你选择了活期存款.让我提醒你,你把钱给我保管,随时可以取走但是我要收取7%,怎样?</text>
+</string>
+        <string id="jup_stalker_bankir_dialog_71">
+		<text>交换.</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_72">
+		<text>你能把你的电子卢布交换成现金卢布.你准备交换多少电子货币?</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_73">
+		<text>我总是很荣幸.你要交换多少电子货币?</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_74">
+		<text>我想换更多.</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_75">
+		<text>感谢你的服务.</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_76">
+		<text>我改变主意了.</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_77">
+		<text>我没有电子货币,换个时间吧.</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_78">
+		<text>所有的钱.</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_79">
+		<text>我同意.这是你的现金.</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_80">
+		<text>1000</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_81">
+		<text>2000</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_82">
+		<text>3000</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_83">
+		<text>4000</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_84">
+		<text>5000</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_85">
+		<text>6000</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_86">
+		<text>7000</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_87">
+		<text>8000</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_88">
+		<text>9000</text>
+	</string>
+        <string id="jup_stalker_bankir_dialog_89">
+		<text>10000.</text>
+	</string>
+<string id="jup_stalker_breeder_work_dialog_1">
+	<text>保重.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_2">
+	<text>不.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_3">
+	<text>我改变主意了.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_4">
+	<text>我没那么多钱了.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_5">
+	<text>我改变主意了.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_6">
+	<text>你好,潜行者,你有什么感兴趣的吗?</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_7">
+	<text>说说你自己吧.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_8">
+	<text>我从事这里的神器化学工作,安装平常的说法来说,我专门升级中级神器,这里的人叫我 布朗叩 博士,你愿意让我告诉你升级神器的细节吗?</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_9">
+	<text>对.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_10">
+	<text>利用原子的化学反应,导致神器的原子结构发生变化,升级十分快速,在十秒钟之内就能完成,我们对神器有三种升级方式:\n1) Radiation.\n2) Weight.\n3) Restorative.\n 分别花费 26000,24500,30000.任何神器都能够升级,不过只能选择一样,不然的话,会崩溃掉.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_11">
+	<text>明白了,很有用的消息.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_12">
+	<text>你能帮我升级神器吗?</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_13">
+	<text>当然,选择一个神器升级,记得每个神器只能升级一次,而且我只针对升级中等神器.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_14">
+	<text>"水母"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_15">
+	<text>你已经选择了神器,现在选择升级种类.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_16">
+	<text>辐射,价格26000</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_17">
+	<text>现在给我26000卢布和神器.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_18">
+	<text>拿着.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_19">
+	<text>很好,等着.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_20">
+	<text>我会的.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_21">
+	<text>这就是了,升级完成,拿着它...</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_22">
+	<text>行了,把它给我.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_23">
+	<text>以后再来找我,我会尽我所能帮你的.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_24">
+	<text>当然！</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_25">
+	<text>重量,价格24500.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_26">
+	<text>现在给我24500卢布和神器.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_27">
+	<text>回复,价格30000.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_28">
+	<text>现在给我30000卢布和神器.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_29">
+	<text>"石花"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_30">
+	<text>"夜星"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_31">
+	<text>"扳手"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_32">
+	<text>"重力"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_33">
+	<text>"金鱼"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_34">
+	<text>"水晶"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_35">
+	<text>"火球"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_36">
+	<text>"妈妈的项链"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_37">
+	<text>"眼睛"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_38">
+	<text>"火焰"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_39">
+	<text>"血石"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_40">
+	<text>"肉块"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_41">
+	<text>"灵魂"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_42">
+	<text>"Gingerbread"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_43">
+	<text>"气泡"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_44">
+	<text>"萤火虫"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_45">
+	<text>"烟火"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_46">
+	<text>"闪光"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_47">
+	<text>"月光"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_48">
+	<text>"电池"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_49">
+	<text>"贝壳"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_50">
+	<text>"雪花"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_51">
+	<text>"黑石"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_52">
+	<text>"氦"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_53">
+	<text>"蜥蜴妖"</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_54">
+	<text>"龙眼"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_1">
+	<text>保重</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_2">
+	<text>不.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_3">
+	<text>我改变主意了.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_4">
+	<text>我没有足够的钱.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_5">
+	<text>我改变主意了.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_6">
+	<text>欢迎,潜行者,有什么你感兴趣的吗?</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_7">
+	<text>说说你自己吧.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_8">
+	<text>我从事这里的神器化学工作,安装平常的说法来说,我专门升级高级神器,这里的人叫我 波折夫斯基 教授,自从木星实验室建立以来我就一直在这里...你愿意让我告诉你升级神器的细节吗?</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_9">
+	<text>对.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_10">
+	<text>利用原子的化学反应,导致神器的原子结构发生变化,升级十分快速,在十秒钟之内就能完成,我们对神器有三种升级方式:\n1) Radiation.\n2) Weight.\n3) Restorative.\n 分别花费 26000,24500,30000.任何神器都能够升级,不过只能选择一样,不然的话,会崩溃掉.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_11">
+	<text>明白了,很有用的消息.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_12">
+	<text>你能帮我升级神器吗?</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_13">
+	<text>当然,选择一个神器升级,记得每个神器只能升级一次,而且我只针对升级高级神器.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_14">
+	<text>"金鱼"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_15">
+	<text>你已经选择了神器,现在选择升级种类,年轻人.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_16">
+	<text>辐射,价格26000</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_17">
+	<text>现在给我26000卢布和神器.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_18">
+	<text>拿着.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_19">
+	<text>太好了,稍等...</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_20">
+	<text>我会的.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_21">
+	<text>这就是了,升级完成,你可以拿走了,小心点,它很烫.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_22">
+	<text>行了,把它给我.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_23">
+	<text>以后再来找我,我会尽我所能帮你的.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_24">
+	<text>当然！</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_25">
+	<text>重量,价格24500.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_26">
+	<text>现在给我24500卢布和神器.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_27">
+	<text>回复,价格30000.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_28">
+	<text>现在给我30000卢布和神器.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_29">
+	<text>"石花"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_30">
+	<text>"夜星"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_31">
+	<text>"扳手"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_32">
+	<text>"重力"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_33">
+	<text>"金鱼"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_34">
+	<text>"水晶"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_35">
+	<text>"火球"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_36">
+	<text>"妈妈的项链"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_37">
+	<text>"眼睛"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_38">
+	<text>"火焰"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_39">
+	<text>"血石"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_40">
+	<text>"肉块"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_41">
+	<text>"灵魂"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_42">
+	<text>"薄膜"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_43">
+	<text>"气泡"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_44">
+	<text>"萤火虫"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_45">
+	<text>"火焰"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_46">
+	<text>"闪光"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_47">
+	<text>"月光"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_48">
+	<text>"电池"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_49">
+	<text>"贝壳"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_50">
+	<text>"雪花"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_51">
+	<text>"巨石"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_52">
+	<text>"氦"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_53">
+	<text>"蜥蜴妖"</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_54">
+	<text>"龙眼"</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_1">
+	<text>嗨！潜行者,你想找一些外快吗?</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_2">
+	<text>不.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_3">
+	<text>当然,我要怎么做?</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_4">
+	<text>很久以前,我把我的枪丢在这个地区的什么地方了,几乎是在普里皮亚特的边境吧,我在科帕奇村庄,那个土坡比房子还多的地方,僵尸还是那么可爱,我正在找神器,接着有人用铲子把我拍晕了,我不知道是谁,接着我醒来了,我的枪也不见了,我很吃惊,还不知道到底是怎么回事.我记得我在那附近找过...不过看起来那个狗日的给藏起来了.但至少我还活着.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_5">
+	<text>你真幸运,那又有什么事发生了?</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_6">
+	<text>我记得我被一个潜行者把我抬了出来,你知道,我在好点了之后想找到我的枪,但是我朋友阻止了我,他说最近越来越多的僵尸出现在那里,他说到那里很不容易.看来只有你能找到5个人组成一个小组,我不觉得其他人会帮我,因为我不知道我的枪还在不在那里.总之,我想找个人去那个村庄,因为我的Vintar被偷了,我给你8000卢布,你觉得怎么样?行吗?</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_7">
+	<text>行.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_8">
+	<text>那好,去这个坐标的阁楼里面检查一下.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_9">
+	<text>我知道了,我走了.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_10">
+	<text>你找到我的枪了吗?</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_11">
+	<text>还没有但是我已经去过科帕奇村庄了.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_12">
+	<text>那你找到了什么吗?</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_13">
+	<text>我找到了掠夺者的尸体,黑石士兵他身上有一个加密的PDA,我的PDA不能加载信息,你看看能不能解密.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_14">
+	<text>很好,让我看看我能不能做什么...不是这样...怎么会...让我试试这种....哦！这种程序真的让我很伤脑筋！数据传送开始...100%传送完毕.这就成了,这是新消息,坐标显示在水泥厂,去水泥厂然后检查那里的东西,我想这个混账就是把我的枪藏在那里.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_15">
+	<text>明白.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_16">
+	<text>你在工厂里找到了什么?找到我的Vintar了吗?</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_17">
+	<text>还没有,我还在找.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_18">
+	<text>对,给你.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_19">
+	<text>干得好！我太感谢你了,你真是我的好朋友,潜行者,这里,按照约定的...按照这种任务来说,这酬劳作为回报真的太少了.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_20">
+	<text>感谢你的慷慨.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_21">
+	<text>它不在那里,我到处都找遍了.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_22">
+	<text>真糟糕,你没完成任务所以你也不会得到你的报酬.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_23">
+	<text>我明白了.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_24">
+	<text>我有你的枪,不过我不会为了他妈的8000卢布就给你.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_25">
+	<text>这不够?！好吧,我明白,你的任务很冒险,这是16000卢布,够了吗?</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_26">
+	<text>对,16000卢布,我想要的,这是你的Vintar.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_27">
+	<text>谢谢,这是你的16000卢布.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_28">
+	<text>不用客气.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_29">
+	<text>不,我不会给你的.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_30">
+	<text>你找到了我的枪了吗?</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_31">
+	<text>我还没去科帕奇村庄.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_32">
+	<text>你去过工厂了吗?</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_33">
+	<text>我现在就去.</text>
+</string>
+<string id="jup_stalker_gromoboy_dialog_34">
+	<text>我改变主意了,我放弃这个任务.</text>
+</string>
+<string id="jup_rasvet_base_leader_dialog_1">
+	<text>没时间说话了,我们的基地有危险了一堆一堆的到处过来,我们需要帮助.</text>
+</string>
+<string id="jup_rasvet_base_leader_dialog_2">
+	<text>明白了.</text>
+</string>
+<string id="jup_rasvet_base_leader_dialog_3">
+	<text>我们晚点在说话,现在打死这群混蛋.</text>
+</string>
+<string id="jup_rasvet_base_leader_dialog_4">
+	<text>好吧.</text>
+</string>
+<string id="jup_rasvet_base_leader_dialog_5">
+	<text>干得好!你给了我们重要的支援.我们很感激你做的.这是你的报酬,拿着...听着,你愿意加入我们的团队吗?如果我们没有那么多人的话,我们不会活着的,毕竟我们都没有一个基地.</text>
+</string>
+<string id="jup_rasvet_base_leader_dialog_6">
+	<text>我会想想的.</text>
+</string>
+<string id="jup_rasvet_base_leader_dialog_7">
+	<text>听起来不错.</text>
+</string>
+<string id="jup_rasvet_base_leader_dialog_8">
+	<text>太好了!这是我们基本的战斗装备,来换上,现在你和我们在一起了.</text>
+</string>
+<string id="jup_rasvet_base_leader_dialog_9">
+	<text>我再一次对你支援我们表达我深厚的感谢.你愿意加入我们的团体吗?</text>
+</string>
+<string id="jup_rasvet_base_leader_dialog_10">
+	<text>我同意.</text>
+</string>
+<string id="jup_rasvet_base_leader_dialog_11">
+	<text>我知道了.</text>
+</string>
+<string id="jup_rasvet_base_leader_dialog_12">
+	<text>嗨! 最近过的怎么样? 你过的还好吗?</text>
+</string>
+<string id="jup_rasvet_base_leader_dialog_13">
+	<text>当然. 听着, 我不就之后就要走了,我有一笔交易知道吗?</text>
+</string>
+<string id="jup_rasvet_base_leader_dialog_14">
+	<text>没问题.</text>
+</string>
+<string id="jup_rasvet_base_leader_dialog_15">
+	<text>很好.再见.</text>
+</string>
+<string id="jup_rasvet_base_leader_dialog_16">
+	<text>欢迎!你有事情要问我吗?</text>
+</string>
+<string id="jup_follower_scientist_dialog_1">
+	<text>你好!听着,保护我们的佣兵去了别处...但是我们需要去通风设施,没有了支援看来是不行了.有两个人已经同意帮助我们,但是你知道,两个不够.至少需要三个.你觉得怎么样,保护我们去通风设施口然后我们给你很好的报酬.同意?</text>
+</string>
+<string id="jup_follower_scientist_dialog_2">
+	<text>不,我有一些重要的事情.</text>
+</string>
+<string id="jup_follower_scientist_dialog_3">
+	<text>对,我同意.</text>
+</string>
+<string id="jup_follower_scientist_dialog_4">
+	<text>太好了! 他们都准备好了 . 你现在准备好了吗 , 或者我们需要稍等?</text>
+</string>
+<string id="jup_follower_scientist_dialog_5">
+	<text>稍等.</text>
+</string>
+<string id="jup_follower_scientist_dialog_6">
+	<text>行,我们会一直站在这里,你最好块点,我们还有很多事情要做,我们没有多少耐心.</text>
+</string>
+<string id="jup_follower_scientist_dialog_7">
+	<text>明白了.</text>
+</string>
+<string id="jup_follower_scientist_dialog_8">
+	<text>不需要等待了,我们走吧.</text>
+</string>
+<string id="jup_follower_scientist_dialog_9">
+	<text>很好!我们马上出发.</text>
+</string>
+<string id="jup_follower_scientist_dialog_10">
+	<text>好吧.</text>
+</string>
+<string id="jup_follower_scientist_dialog_11">
+	<text>年轻人,你准备好了吗?</text>
+</string>
+<string id="jup_follower_scientist_dialog_12">
+	<text>没.</text>
+</string>
+<string id="jup_follower_scientist_dialog_13">
+	<text>对,我准备好了.</text>
+</string>
+<string id="jup_follower_scientist_dialog_14">
+	<text>很好,那我们马上出发.</text>
+</string>
+<string id="jup_follower_scientist_dialog_15">
+	<text>没时间说话了,我们先过去.</text>
+</string>
+<string id="jup_follower_scientist_dialog_16">
+	<text>明白了.</text>
+</string>
+<string id="jup_follower_scientist_dialog_17">
+	<text>这就是了! 我们终于到了. 现在我们要开始研究了,这是你的报酬.</text>
+</string>
+<string id="jup_follower_scientist_dialog_18">
+	<text>谢谢.</text>
+</string>
+<string id="jup_follower_scientist_dialog_19">
+	<text>我没时间说话,晚点再来.</text>
+</string>
+<string id="jup_follower_scientist_dialog_20">
+	<text>好吧.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_1">
+	<text>欢迎来到我们的地盘,你有什么事情吗?</text>
+</string>
+<string id="jup_rasvet_trader_dialog_2">
+	<text>我想交易.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_3">
+	<text>可以.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_4">
+	<text>没事.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_5">
+	<text>我不需要什么.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_6">
+	<text>不,我不会取消订单.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_7">
+	<text>就是这样!货已经到了.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_8">
+	<text>好吧.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_9">
+	<text>这不可能,我告诉过你,你每次只能有一个订单.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_10">
+	<text>好吧,这是你的钱.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_11">
+	<text>我会取消订单,现在,你想要什么?</text>
+</string>
+<string id="jup_rasvet_trader_dialog_12">
+	<text>我能重新订购吗?</text>
+</string>
+<string id="jup_rasvet_trader_dialog_13">
+	<text>太贵了.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_14">
+	<text>我改变主意了.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_15">
+	<text>好吧,拿着.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_16">
+	<text>很好! 订单已经到了,现在你只需要给钱了.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_17">
+	<text>没问题,哪种货物? 不过记住你只能有一个订单,要取消订单你必须赔钱.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_18">
+	<text>我想订购点东西.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_19">
+	<text>好吧,现在选择种类.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_20">
+	<text>武器.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_21">
+	<text>装甲.</text>
+</string>
+<string id="jup_rasvet_trader_dialog_22">
+	<text>"RS-5特种部队 防弹衣"</text>
+</string>
+<string id="jup_rasvet_trader_dialog_23">
+	<text>"黎明 外骨骼"</text>
+</string>
+<string id="jup_rasvet_trader_dialog_24">
+	<text>"波波沙-41"</text>
+</string>
+<string id="jup_rasvet_trader_dialog_25">
+	<text>"莫辛尼甘 M1891 步枪"</text>
+</string>
+<string id="jup_rasvet_trader_dialog_26">
+	<text>"G43 Gewehr"</text>
+</string>
+<string id="jup_rasvet_trader_dialog_27">
+	<text>"AK-47"</text>
+</string>
+<string id="jup_ecolog_trader_dialog_1">
+	<text>你好!你要什么?</text>
+</string>
+<string id="jup_ecolog_trader_dialog_2">
+	<text>我想买东西.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_3">
+	<text>说真的,你觉得我为什么在这里?就是卖东西.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_4">
+	<text>没什么.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_5">
+	<text>我不要什么.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_6">
+	<text>不,我不会取消约定.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_7">
+	<text>这就是了,货已经到了.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_8">
+	<text>好吧.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_9">
+	<text>这不可能,我告诉过你一次只能有一个订单,要取消订单你需要赔我500.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_10">
+	<text>好吧,拿着.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_11">
+	<text>我会取消订单,现在选择你想要的.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_12">
+	<text>我能重新下订单吗?</text>
+</string>
+<string id="jup_ecolog_trader_dialog_13">
+	<text>太贵了.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_14">
+	<text>我改变主意了.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_15">
+	<text>行,拿着.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_16">
+	<text>太好了! 货已经到了,现在你只需要给钱了.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_17">
+	<text>没问题,哪种东西,记住你每次只能下一个订单不然的话要赔我钱.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_18">
+	<text>我想下一份订单.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_19">
+	<text>行.选择货物类型.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_20">
+	<text>装甲.</text>
+</string>
+<string id="jup_ecolog_trader_dialog_21">
+	<text>"SS-99 连体服"</text>
+</string>
+<string id="jup_witnesses_guard_dialog_1">
+	<text>滚开,你没看见我在工作吗?珍惜你的生命.</text>
+</string>
+<string id="jup_witnesses_guard_dialog_2">
+	<text>没问题.</text>
+</string>
+<string id="jup_witnesses_guard_dialog_3">
+	<text>操你妈!</text>
+</string>
+<string id="jup_witnesses_guard_dialog_4">
+	<text>你活腻了吗?滚开.</text>
+</string>
+<string id="jup_witnesses_guard_dialog_5">
+	<text>好吧.</text>
+</string>
+<string id="jup_witnesses_guard_dialog_6">
+	<text>可能吧,那又如何?</text>
+</string>
+<string id="jup_witnesses_guard_dialog_7">
+	<text>继续走,别在这里磨蹭.</text>
+</string>
+<string id="jup_witnesses_guard_dialog_8">
+	<text>行.</text>
+</string>
+<string id="jup_witnesses_guard_dialog_9">
+	<text>下地狱去吧!</text>
+</string>
+<string id="jup_witnesses_hostage_dialog_1">
+	<text>谢谢你,朋友,你救了我.你叫什么名字?</text>
+</string>
+<string id="jup_witnesses_hostage_dialog_2">
+	<text>我是少校徳格特雅里夫, SSU. 你感觉怎么样? 还能走吗?</text>
+</string>
+<string id="jup_witnesses_hostage_dialog_3">
+	<text>朋友不会相互抛弃!我还好,只是被那些"弟兄"们扁了一顿,只是擦伤.</text>
+</string>
+<string id="jup_witnesses_hostage_dialog_4">
+	<text>我知道了,我们不能呆在这里,这里不安全.我们去亚诺瓦?</text>
+</string>
+<string id="jup_witnesses_hostage_dialog_5">
+	<text>可以,我们走!</text>
+</string>
+<string id="jup_witnesses_hostage_dialog_6">
+	<text>前进!</text>
+</string>
+<string id="jup_witnesses_hostage_dialog_7">
+	<text>我们到了亚诺瓦再聊,现在,前进!</text>
+</string>
+<string id="jup_witnesses_hostage_dialog_8">
+	<text>好.</text>
+</string>
+<string id="jup_witnesses_hostage_dialog_9">
+	<text>亚诺瓦,终于.再次感谢你的勇气和你的友谊.这里拿着这些钱,我觉得这会对你有用的.如果你有时间的话去看看我们的信息员.他能在晚上十点过后在停机坪上找到,因为这样不会引起别人注意.告诉他我的事然后你会得到一些重要的消息.</text>
+</string>
+<string id="jup_witnesses_hostage_dialog_10">
+	<text>我知道了,保重.</text>
+</string>
+<string id="jup_witnesses_hostage_dialog_11">
+	<text>我累了,换个时间再谈.</text>
+</string>
+<string id="jup_witnesses_hostage_dialog_12">
+	<text>保重.</text>
+</string>
+<string id="jup_authorities_agent_dialog_1">
+	<text>站住不许动!说出口令!</text>
+</string>
+<string id="jup_authorities_agent_dialog_2">
+	<text>"A siren buzzes"</text>
+</string>
+<string id="jup_authorities_agent_dialog_3">
+	<text>正确.你是谁?你从哪里知道我在这里的?</text>
+</string>
+<string id="jup_authorities_agent_dialog_4">
+	<text>少校徳格特雅里夫, SSU. 我从罗德基斯基那里知道的,我最近救了他.</text>
+</string>
+<string id="jup_authorities_agent_dialog_5">
+	<text>干得好,少校！你很勇敢,你一个人完成了这个复杂的任务.你来的真是时候,这里有一个很重要的任务.你的任务是找到提亚尼伯科教授,他在四天前在普利皮亚失踪了.所有的证据表明是黑石绑架了教授.主要的问题是教授带着一个对我们很重要的科学文件,我给你特雅亨尼波克教授最后的坐标.</text>
+</string>
+<string id="jup_authorities_agent_dialog_6">
+	<text>知道了,我在普利皮亚联系谁?</text>
+</string>
+<string id="jup_authorities_agent_dialog_7">
+	<text>和我,我很快就过去,我会传给你坐标.</text>
+</string>
+<string id="jup_authorities_agent_dialog_8">
+	<text>明白了,再见.</text>
+</string>
+<string id="jup_authorities_agent_dialog_9">
+	<text>走.</text>
+</string>
+<string id="jup_authorities_agent_dialog_10">
+	<text>好吧.</text>
+</string>
+<string id="jup_authorities_agent2_dialog_1">
+	<text>嗨!工作做的怎么样了?</text>
+</string>
+<string id="jup_authorities_agent2_dialog_2">
+	<text>任务完成. 不幸的是, 教授死了. 但是文件没有被破坏, 我拿到了.</text>
+</string>
+<string id="jup_authorities_agent2_dialog_3">
+	<text>我知道了. 教授的事我当然很难过... 但是我们没有什么能做 -黑石不留犯人. 把文件给我.</text>
+</string>
+<string id="jup_authorities_agent2_dialog_4">
+	<text>拿着.</text>
+</string>
+<string id="jup_authorities_agent2_dialog_5">
+	<text>太好了! 现在没有新的任务发布. 所以你现在可以去执行其他任务, 还有这次任务的奖励, 上级给了你一个特殊的东西,给你作为完成这样人物的奖励... 这是坐标.</text>
+</string>
+<string id="jup_authorities_agent2_dialog_6">
+	<text>谢谢.</text>
+</string>
+<string id="jup_authorities_agent2_dialog_7">
+	<text>祝你好运,少校,如果有新的任务我们会联络你的,再见...</text>
+</string>
+<string id="jup_authorities_agent2_dialog_8">
+	<text>好吧,再见.</text>
+</string>
+<string id="jup_authorities_agent2_dialog_9">
+	<text>我没有留你,你可以走了.</text>
+</string>
+<string id="pri_authorities_agent_dialog_10">
+	<text>好吧.</text>
+</string>
+<string id="jup_rasvet_base_leader_about_tactic_1">
+	<text>你们战斗情况如何了?</text>
+</string>
+<string id="jup_rasvet_base_leader_about_tactic_2">
+	<text>糟糕透了.我们的士兵情况很不好,怪物不断地冲击他们.太多怪物了...</text>
+</string>
+<string id="jup_rasvet_base_leader_about_vector_1">
+	<text>你的团队在这里做什么?</text>
+</string>
+<string id="jup_rasvet_base_leader_about_vector_2">
+	<text>我们就在变异区里生活,学习它.从实践来看.我相信变异区对科学研究是一个不可置信的机会.在这些年里给了我们神器,对我们的研究来说是很棒的材料,我们得到的越来越多.而变异点呢?实验室里从来无法制造这样的东西!我确定有了变异区的研究,我们的科学会在几年内有质的飞跃,会对很多地方的人有利,到时候就算不会用手机的人都会知道.而我们继续"晴空"组织的工作.我们的团的大多都是前"晴空"成员.很不幸的是其他人都在2011年突袭切尔诺贝利NPP的时候死了...</text>
+</string>
+<string id="jup_medic_find_heavy_medkits_dialog_1">
+	<text>我能帮你什么忙吗?也许你需要医疗用品什么的?</text>
+</string>
+<string id="jup_medic_find_heavy_medkits_dialog_2">
+	<text>感谢上帝,我还有足够的药品...不过你想帮我的话你可以去工厂的仓库帮我找找"SSA72".</text>
+</string>
+<string id="jup_medic_find_heavy_medkits_dialog_3">
+	<text>现在还不行.</text>
+</string>
+<string id="jup_medic_find_heavy_medkits_dialog_4">
+	<text>好吧.</text>
+</string>
+<string id="jup_medic_find_heavy_medkits_dialog_5">
+	<text>很好.</text>
+</string>
+<string id="jup_medic_find_heavy_medkits_dialog_6">
+	<text>我给你带来了"SSA72".</text>
+</string>
+<string id="jup_medic_find_heavy_medkits_dialog_7">
+	<text>很好,你来的正是时候!两个可怜的孩子有不明的伤口半个小时后正送到这里来.我应该需要特殊药物.我欠你的...</text>
+</string>
+<string id="jup_yar_find_photo_device_dialog_1">
+	<text>我还有什么能帮你吗?</text>
+</string>
+<string id="jup_yar_find_photo_device_dialog_2">
+	<text>我不记得...我想起来了有一个可怜的人.听好了:最近来了个新手,每个人都叫他植物学家,因为他带着眼镜和一个相机.他总是做一些关于植物和,嗯..动物的照片集.三天前他把照相机弄丢了,有个怪物把它的三角架带到了基地,看起来很好玩.而那个怪兽...你不会相信的,是只老鼠,他回到基地后总是问别人那是什么,他从来没看见过哪种生物...现在植物学家叫我们的人找他的照相机,不过并没有带给他,只是嘲笑他罢了,他们想让他自己去找,我想去找但是指挥官不让我去.你想试试吗?</text>
+</string>
+<string id="jup_yar_find_photo_device_dialog_3">
+	<text>晚点再说吧.</text>
+</string>
+<string id="jup_yar_find_photo_device_dialog_4">
+	<text>好吧.</text>
+</string>
+<string id="jup_yar_find_photo_device_dialog_5">
+	<text>很好!</text>
+</string>
+<string id="jup_yar_find_photo_device_dialog_6">
+	<text>我找到了"苏珊娜"相机.</text>
+</string>
+<string id="jup_yar_find_photo_device_dialog_7">
+	<text>干得好! 植物学家肯定会笑翻的,这是你的报酬...</text>
+</string>
+<string id="jup_barmen_find_arms_case_dialog_1">
+	<text>我需要一个工作,你有吗?</text>
+</string>
+<string id="jup_barmen_find_arms_case_dialog_2">
+	<text>有啊.不过不是工作,只是一个简单的请求:如果你去普利皮亚,去一个地方看看,一个邮递员丢了我的箱子,如果你能把它找到带给我的话我会很愉快的,当然我会给你报酬,你觉得怎么样?</text>
+</string>
+<string id="jup_barmen_find_arms_case_dialog_3">
+	<text>现在不行.</text>
+</string>
+<string id="jup_barmen_find_arms_case_dialog_4">
+	<text>我会拿着的.</text>
+</string>
+<string id="jup_barmen_find_arms_case_dialog_5">
+	<text>耶稣保佑你.</text>
+</string>
+<string id="jup_barmen_find_arms_case_dialog_6">
+	<text>我找的箱子了.</text>
+</string>
+<string id="jup_barmen_find_arms_case_dialog_7">
+	<text>太感谢你了!我真的很指望你,你也没让我失望,这是你的报酬.</text>
+</string>
+<string id="jup_rasvet_base_leader_jobs_dialog_1">
+	<text>我在找事做.</text>
+</string>
+<string id="jup_rasvet_base_leader_jobs_dialog_2">
+	<text>现在没有什么让你做.</text>
+</string>
+<string id="jup_rasvet_base_leader_jobs_dialog_3">
+	<text>我有一个工作,十分的危险.我们的主要威胁是变异怪物,我想让你去清理史诺克的老窝,你觉得怎么样?</text>
+</string>
+<string id="jup_rasvet_base_leader_jobs_dialog_4">
+	<text>当然,我会帮助你的.</text>
+</string>
+<string id="jup_rasvet_base_leader_jobs_dialog_5">
+	<text>现在不行.</text>
+</string>
+<string id="jup_rasvet_base_leader_jobs_dialog_6">
+	<text>我为了工作而来.</text>
+</string>
+<string id="jup_rasvet_base_leader_jobs_dialog_7">
+	<text>那好,你杀光了那些史诺克吗?</text>
+</string>
+<string id="jup_rasvet_base_leader_jobs_dialog_8">
+	<text>对.</text>
+</string>
+<string id="jup_rasvet_base_leader_jobs_dialog_9">
+	<text>棒极了,我很欣赏你,这是你的报酬.</text>
+</string>
+<string id="jup_rasvet_base_leader_jobs_dialog_10">
+	<text>我还在做.</text>
+</string>
+<string id="jup_rasvet_base_leader_jobs_dialog_11">
+	<text>对,我们有一个很严重的问题,最近变异怪物活动异常.我们在过去的两天里打退了它们五次,但是它们每次都越来越多.在侦查周围的地区之后,我们的步兵找到了一个洞,怪物可能在下次攻击时从那里出来.我们知道我们不能停止它们直到我们把那个洞炸了.如果再来几次攻击的话我们很快就会被抹平了...但是,你能帮助我们,你经过训练,有战斗经验,我们想让你给我们一点支援,至少把那个洞周围的变异怪物清理掉.你觉得怎样?</text>
+</string>
+<string id="jup_rasvet_base_leader_jobs_dialog_12">
+	<text>那么,情况怎么样了,洞周围清理干净了吗?</text>
+</string>
+<string id="jup_rasvet_base_leader_jobs_dialog_13">
+	<text>太干洗了,你解救了我们.现在我们能抵抗那些肮脏的怪兽了.这是你的报酬...</text>
+</string>
+<string id="jup_killer_trader_dialog_1">
+	<text>哦, 潜行者,你要什么?</text>
+</string>
+<string id="jup_killer_trader_dialog_2">
+	<text>我想买东西.</text>
+</string>
+<string id="jup_killer_trader_dialog_3">
+	<text>可以...</text>
+</string>
+<string id="jup_killer_trader_dialog_4">
+	<text>没什么.</text>
+</string>
+<string id="jup_killer_trader_dialog_5">
+	<text>我不需要什么.</text>
+</string>
+<string id="jup_killer_trader_dialog_6">
+	<text>不, 我不会取消约定.</text>
+</string>
+<string id="jup_killer_trader_dialog_7">
+	<text>就是这样! 货已经到了.</text>
+</string>
+<string id="jup_killer_trader_dialog_8">
+	<text>我知道了.</text>
+</string>
+<string id="jup_killer_trader_dialog_9">
+	<text>这不可能,你每次只能下一个订单,要重新下订单你需要赔我500.</text>
+</string>
+<string id="jup_killer_trader_dialog_10">
+	<text>好吧,赔就赔,拿着.</text>
+</string>
+<string id="jup_killer_trader_dialog_11">
+	<text>我会取消上一个约定,现在,你想要什么?</text>
+</string>
+<string id="jup_killer_trader_dialog_12">
+	<text>我能重新下订单吗?</text>
+</string>
+<string id="jup_killer_trader_dialog_13">
+	<text>太贵了.</text>
+</string>
+<string id="jup_killer_trader_dialog_14">
+	<text>我改变主意了.</text>
+</string>
+<string id="jup_killer_trader_dialog_15">
+	<text>行.拿着.</text>
+</string>
+<string id="jup_killer_trader_dialog_16">
+	<text>太好了! 货已经到了,现在你只需要给钱了.</text>
+</string>
+<string id="jup_killer_trader_dialog_17">
+	<text>没问题,哪种货物,记住你每次只能下一个订单,要取消约定必须要赔我500.</text>
+</string>
+<string id="jup_killer_trader_dialog_18">
+	<text>我想订购一些货物.</text>
+</string>
+<string id="jup_killer_trader_dialog_19">
+	<text>我知道了,选择货物类型.</text>
+</string>
+<string id="jup_killer_trader_dialog_20">
+	<text>武器.</text>
+</string>
+<string id="jup_killer_trader_dialog_21">
+	<text>装甲.</text>
+</string>
+<string id="jup_killer_trader_dialog_22">
+	<text>"FN-P90"</text>
+</string>
+<string id="jup_killer_trader_dialog_23">
+	<text>"XM8 轻型突击步枪"</text>
+</string>
+<string id="jup_killer_trader_dialog_24">
+	<text>"弹性头盔"</text>
+</string>
+<string id="jup_killer_trader_dialog_25">
+	<text>"佣兵服装"</text>
+</string>
+<string id="jup_killer_trader_dialog_26">
+	<text>"FAL "伞兵"</text>
+</string>
+<string id="jup_killer_trader_dialog_27">
+	<text>"L85 蒙古"</text>
+</string>
+<string id="jup_killer_trader_dialog_28">
+	<text>"雇佣兵" 外骨骼</text>
+</string>
+<string id="jup_killer_bodyguard_dialog_1">
+	<text>欢迎来到佣兵团.我希望你有正事?...对我来说 - 3800,然后去战斗...同意?</text>
+</string>
+<string id="jup_killer_bodyguard_dialog_2">
+	<text>攻击</text>
+</string>
+<string id="jup_killer_bodyguard_dialog_3">
+	<text>你有一个爷们的名字,也许我会带上你.</text>
+</string>
+<string id="jup_killer_bodyguard_dialog_4">
+	<text>不,你不适合.</text>
+</string>
+<string id="jup_killer_bodyguard_dialog_5">
+	<text>命令?</text>
+</string>
+<string id="jup_killer_bodyguard_dialog_6">
+	<text>掩护我.</text>
+</string>
+<string id="jup_killer_bodyguard_dialog_8">
+	<text>禁止开火.</text>
+</string>
+<string id="jup_killer_bodyguard_dialog_9">
+	<text>原地待命.</text>
+</string>
+<string id="jup_killer_bodyguard_dialog_10">
+	<text>你被解雇了.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_1">
+	<text>欢迎,流浪者,你有什么事吗?</text>
+</string>
+<string id="jup_killer_base_leader_dialog_2">
+	<text>路过,没其他的了.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_3">
+	<text>我有正事找你.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_4">
+	<text>是什么事?</text>
+</string>
+<string id="jup_killer_base_leader_dialog_5">
+	<text>算了,下次再说吧.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_6">
+	<text>有关于坠毁的直升机.我需要它们的信息.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_7">
+	<text>信息是有价值的,不能免费给你.我们需要一个互相的利益 - 你帮我做事我就帮你.如果你同意了,我们就会给你你需要的信息.如果你拒绝了,为我们会把你当成怪物一样对待.同意?</text>
+</string>
+<string id="jup_killer_base_leader_dialog_8">
+	<text>不.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_9">
+	<text>对.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_10">
+	<text>这并不难,基本上没什么要做的,只是跟着我的人去工厂找点东西...坦白的说,你要找到我们失踪的部队.什么东西杀了他们.你需要知道到底怎么回事.如果有人还活着把他带过来,我这就告诉我的人让他们等着你.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_11">
+	<text>可以.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_12">
+	<text>我的人准备好了,正在入口等着你.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_13">
+	<text>我这就出去.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_14">
+	<text>你还在这里,赶快过去.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_15">
+	<text>没问题.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_16">
+	<text>你为什么一个人回来?其他人呢?</text>
+</string>
+<string id="jup_killer_base_leader_dialog_17">
+	<text>不行的消息.你的人全都死了,我们在朝PDA信号赶过去的时候,我听见一个嘎吱嘎吱的声音在我的脑子里 - 脑波怪出现了.我没能杀死它.它控制了你的人.我很难控制住自己,不过乃好Psi复合剂在我的手上,我赶紧用了它 - 我还算是有经验.现在脑波怪还在那里.我建议再召集一个小队,再给他们Psi复合剂.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_18">
+	<text>对,战士们真不走运...好吧,我会重新召集一个小队,但是我不知道什么是Psi复合剂.我给你些钱,有四个人,给他们买些药,再去战斗.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_19">
+	<text>好吧.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_20">
+	<text>你为什么还在这里?快去和我的人会合.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_21">
+	<text>我知道.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_22">
+	<text>你处理掉脑波怪了吗?</text>
+</string>
+<string id="jup_killer_base_leader_dialog_23">
+	<text>对,有三只脑波怪在那里,你的人很卖力.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_24">
+	<text>感谢你,佣兵,现在该我了,你的直升机停在停机坪上,过去两个星期一直没有声音,我还知道有一个坠落在了普利皮亚,我想在港口附近的什么地方.不过好像没有人活下来.黑石在那里,而且他们不留犯人.就是这样.我不能说这有什么用,因为我想这个消息不那么新鲜,所以这里是一些给你的东西...</text>
+</string>
+<string id="jup_killer_base_leader_dialog_25">
+	<text>感谢你的消息,我很荣幸能够帮忙.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_26">
+	<text>再次感谢你的帮助.你愿意加入我们的团队吗?我很喜欢你,别想得那么糟,我的意思是你是个展示,而且你表现出了战术技巧和个人魅力.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_27">
+	<text>不.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_28">
+	<text>对.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_29">
+	<text>我想也是,这是你的基本装备,你现在是我们的一员.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_30">
+	<text>好吧.</text>
+</string>
+<string id="jup_killer_base_leader_dialog_31">
+	<text>见到你很高兴,有什么新消息吗?</text>
+</string>
+<string id="jup_mercenary_first_squad_dialog_1">
+	<text>老大派你过来的吗?</text>
+</string>
+<string id="jup_mercenary_first_squad_dialog_2">
+	<text>不.</text>
+</string>
+<string id="jup_mercenary_first_squad_dialog_3">
+	<text>对.</text>
+</string>
+<string id="jup_mercenary_first_squad_dialog_4">
+	<text>很好,前进.</text>
+</string>
+<string id="jup_mercenary_first_squad_dialog_5">
+	<text>明白.</text>
+</string>
+<string id="jup_mercenary_second_squad_dialog_1">
+	<text>老大拍你过来的吗?</text>
+</string>
+<string id="jup_mercenary_second_squad_dialog_2">
+	<text>摩尔法拉派我过来,我们很快要去工厂,但是每个队员都必须带上Psi复合剂.</text>
+</string>
+<string id="jup_mercenary_second_squad_dialog_3">
+	<text>我知道了,但是我们从哪里去拿?</text>
+</string>
+<string id="jup_mercenary_second_squad_dialog_4">
+	<text>我有.分给小队队员,警告他们如果感觉到什么东西撞击了他们的大脑他们就应该用药.</text>
+</string>
+<string id="jup_mercenary_second_squad_dialog_5">
+	<text>我会的,我们走?</text>
+</string>
+<string id="jup_mercenary_second_squad_dialog_6">
+	<text>对,前进.</text>
+</string>
+<string id="jup_mercenary_second_squad_dialog_7">
+	<text>没问题,我会去买药.</text>
+</string>
+<string id="jup_mercenary_second_squad_dialog_8">
+	<text>你拿到药了吗?</text>
+</string>
+<string id="jup_mercenary_second_squad_dialog_9">
+	<text>对,给你,分给小队队员,警告他们如果感觉到什么东西撞击了他们的大脑他们就应该用药.</text>
+</string>
+<string id="jup_mercenary_second_squad_dialog_10">
+	<text>还没.</text>
+</string>
+<string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_1">
+	<text>听着,你知道谁有NG7吗? </text>
+</string>
+<string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_2">
+	<text>对,我知道,你为什么感兴趣?</text>
+</string>
+<string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_3">
+	<text>我能从你这里买吗?别问为什么...</text>
+</string>
+<string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_4">
+	<text>如果你想要的话我可以卖给你,不过这不是生化武器. </text>
+</string>
+<string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_5">
+	<text>告诉我你要这个做什么?</text>
+</string>
+<string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_6">
+	<text>我想你最好不知道.不然的话...</text>
+</string>
+<string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_7">
+	<text>好吧,好吧.它值多少钱?</text>
+</string>
+<string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_8">
+	<text>5400. 行吗?</text>
+</string>
+<string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_9">
+	<text>好.</text>
+</string>
+<string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_10">
+	<text>这里,拿着.</text>
+</string>
+<string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_11">
+	<text>谢谢.</text>
+</string>
+<string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_12">
+	<text>不.</text>
+</string>
+<string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_13">
+	<text>我没有足够的钱.</text>
+</string>
+<string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_14">
+	<text>对,5400和你的打算. 行吗?</text>
+</string>
+        <string id="jup_rasvet_base_leader_community_exit_dialog_1">
+		<text>我必须离开我们的团队了.</text>
+	</string>
+        <string id="jup_rasvet_base_leader_community_exit_dialog_2">
+		<text>好吧,告诉我你确定?</text>
+	</string>
+        <string id="jup_rasvet_base_leader_community_exit_dialog_3">
+		<text>我不确定,我大概会继续留下.</text>
+	</string>
+        <string id="jup_rasvet_base_leader_community_exit_dialog_4">
+		<text>感谢上帝,我太高兴你和我们在一起了.</text>
+	</string>
+        <string id="jup_rasvet_base_leader_community_exit_dialog_5">
+		<text>我很确定要离开你.</text>
+	</string>
+        <string id="jup_rasvet_base_leader_community_exit_dialog_6">
+		<text>按照我们的规定你必须留下五千卢布,你确定?</text>
+	</string>
+        <string id="jup_rasvet_base_leader_community_exit_dialog_7">
+		<text>确定,这是你的钱.</text>
+	</string>
+        <string id="jup_rasvet_base_leader_community_exit_dialog_8">
+		<text>谢谢,你可以走了.</text>
+	</string>
+        <string id="jup_rasvet_base_leader_community_exit_dialog_9">
+		<text>我有钱,但是我不会走的,我要留下.</text>
+	</string>
+        <string id="jup_rasvet_base_leader_community_exit_dialog_10">
+		<text>那就好,留下.</text>
+	</string>
+        <string id="jup_rasvet_base_leader_community_exit_dialog_11">
+		<text>我没钱,下次给你.</text>
+	</string>
+        <string id="jup_rasvet_base_leader_community_exit_dialog_12">
+		<text>太好了.</text>
+	</string>
+        <string id="jup_killer_base_leader_community_exit_dialog_1">
+		<text>我必须离开我们的团队了.</text>
+	</string>
+        <string id="jup_killer_base_leader_community_exit_dialog_2">
+		<text>当然,你是自由的,但是为什么,你确定吗?</text>
+	</string>
+        <string id="jup_killer_base_leader_community_exit_dialog_3">
+		<text>我改变主意了,我大概会留下.</text>
+	</string>
+        <string id="jup_killer_base_leader_community_exit_dialog_4">
+		<text>那就好,把这里当做你的家吧.</text>
+	</string>
+        <string id="jup_killer_base_leader_community_exit_dialog_5">
+		<text>我确定,我要走了.</text>
+	</string>
+        <string id="jup_killer_base_leader_community_exit_dialog_6">
+		<text>这是当然,但是你要给我们10000卢布才能走，你有钱吗?</text>
+	</string>
+        <string id="jup_killer_base_leader_community_exit_dialog_7">
+		<text>对,这就是.拿着.</text>
+	</string>
+        <string id="jup_killer_base_leader_community_exit_dialog_8">
+		<text>好了.感谢你帮助我们,我们很感激.祝你好运!</text>
+	</string>
+        <string id="jup_killer_base_leader_community_exit_dialog_9">
+		<text>我有钱,但是我不会走的,我要留下.</text>
+	</string>
+        <string id="jup_killer_base_leader_community_exit_dialog_10">
+		<text>好的,和我们在一起.</text>
+	</string>
+        <string id="jup_killer_base_leader_community_exit_dialog_11">
+		<text>我没钱,下次给你.</text>
+	</string>
+        <string id="jup_killer_base_leader_community_exit_dialog_12">
+		<text>很高兴.</text>
+	</string>
+        <string id="jup_freedom_base_leader_community_exit_dialog_1">
+		<text>我要退团.</text>
+	</string>
+        <string id="jup_freedom_base_leader_community_exit_dialog_2">
+		<text>我不明白你为什么要走,离开我们?</text>
+	</string>
+        <string id="jup_freedom_base_leader_community_exit_dialog_3">
+		<text>不,我开玩笑的,我还能去哪儿?!</text>
+	</string>
+        <string id="jup_freedom_base_leader_community_exit_dialog_4">
+		<text>啊,这真是黑色幽默,别开玩笑了.</text>
+	</string>
+        <string id="jup_freedom_base_leader_community_exit_dialog_5">
+		<text>对,我还有要紧的事去做,我要走了.</text>
+	</string>
+        <string id="jup_freedom_base_leader_community_exit_dialog_6">
+		<text>好吧,给我们10000卢布然后你想走就走,你有钱吗?</text>
+	</string>
+        <string id="jup_freedom_base_leader_community_exit_dialog_7">
+		<text>这里就是10000卢布.</text>
+	</string>
+        <string id="jup_freedom_base_leader_community_exit_dialog_8">
+		<text>好吧,祝你好运,别忘了我们...常回来看看.行吗?</text>
+	</string>
+        <string id="jup_freedom_base_leader_community_exit_dialog_9">
+		<text>我有钱,但是我还是会陪你们.</text>
+	</string>
+        <string id="jup_freedom_base_leader_community_exit_dialog_10">
+		<text>好,陪我们.</text>
+	</string>
+        <string id="jup_freedom_base_leader_community_exit_dialog_11">
+		<text>我身上没带,下次给你.</text>
+	</string>
+        <string id="jup_freedom_base_leader_community_exit_dialog_12">
+		<text>我们还会见面的,再见.</text>
+	</string>
+        <string id="jup_duty_base_leader_community_exit_dialog_1">
+		<text>中校同志,我要退团.</text>
+	</string>
+        <string id="jup_duty_base_leader_community_exit_dialog_2">
+		<text>看看你,为什么?</text>
+	</string>
+        <string id="jup_duty_base_leader_community_exit_dialog_3">
+		<text>没有原因,中校同志.我不会再重复一遍了.</text>
+	</string>
+        <string id="jup_duty_base_leader_community_exit_dialog_4">
+		<text>看着我,下次说这样的话之前仔细想想.</text>
+	</string>
+        <string id="jup_duty_base_leader_community_exit_dialog_5">
+		<text>我有一件很重要的事,必须去.</text>
+	</string>
+        <string id="jup_duty_base_leader_community_exit_dialog_6">
+		<text>这样的话,按照规定所有纪律团成员必须交出10000卢布作为退团费,你有钱吗?</text>
+	</string>
+        <string id="jup_duty_base_leader_community_exit_dialog_7">
+		<text>对,有,有.</text>
+	</string>
+        <string id="jup_duty_base_leader_community_exit_dialog_8">
+		<text>好吧,走吧,上帝与你同在.</text>
+	</string>
+        <string id="jup_duty_base_leader_community_exit_dialog_9">
+		<text>我有钱,但是我不走了.</text>
+	</string>
+        <string id="jup_duty_base_leader_community_exit_dialog_10">
+		<text>好,留下.</text>
+	</string>
+        <string id="jup_duty_base_leader_community_exit_dialog_11">
+		<text>我没钱,下次给你.</text>
+	</string>
+        <string id="jup_duty_base_leader_community_exit_dialog_12">
+		<text>感谢,中校同志,你最好了.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_1">
+		<text>嗨,少校,你看起来还不错.这里是新出现一种神器的线索.我们想知道这种东西的更多信息,他们很危险也很有用.我们知道这种神器只会出现在日蚀过后.我和我的同事制造出了一种特殊的探测器能够探测到这种神器的频率,我们叫它"撒拉弗",你的任务就是用它找到神器并带给我们.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_2">
+		<text>你告诉我说用一个还不知道有没有用的原型机去一块不知道是不是存在的石头是不是很危险?</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_3">
+		<text>准确的说.鉴于你能够抵抗住强烈的PSY射线而且还没有丧失任何能力和逻辑思维来说,这个任务很适合你.报酬:5000卢布,而且如果实验成功 - 新神器给你.所以你想帮我们吗?</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_4">
+		<text>太好了!祝你好运.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_5">
+		<text>是.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_6">
+		<text>不.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_7">
+		<text>我需要想想.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_8">
+		<text>遗憾, 我希望你不会想的太久.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_9">
+		<text>遗憾.  我们会另外找人的.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_10">
+		<text>再见.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_11">
+		<text>你好, 有任何结果了吗?</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_12">
+		<text>我拒绝寻找神器.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_13">
+		<text>你确定吗?  没有了你的帮助我不知道能找谁.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_14">
+		<text>那就好.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_15">
+		<text>我找到了神器.  给你.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_16">
+		<text>我找到了神器  给你.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_17">
+		<text>太好了. 让我看看.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_18">
+		<text>感谢你出色的工作表现, 但是这里有另外的事情了.最近我们收到的消息表示这种神器经常出现为了我们成功的实验我们需要六个神器样本,你能带给我们吗?</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_19">
+		<text>太好了,你现在能去找那些神器样本了</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_20">
+		<text>那样的话,这是你的报酬.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_21">
+		<text>所有的神器都在这里了.  我今天就会开始它们的实验.  晚点我会给你消息的.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_22">
+		<text>所有的神器都在这里了.  我今天就会开始它们的实验.  晚点我会给你消息的.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_23">
+		<text>明白.再见.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_24">
+		<text>样本的状态良好. 带给我们更多的样本, 我们就可以开始实验了.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_25">
+		<text>样本的状态良好. 带给我们更多的样本, 我们就可以开始实验了.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_26">
+		<text>明白.再见.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_27">
+		<text>结果还没出来, 我们还在忙.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_28">
+		<text>祝你好运.  希望你早点找到样本.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_29">
+		<text>少校, 我们正在准备对未知的神器实施实验. 我的同事们在实验室准备.我会给你最新消息的.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_30">
+		<text>太好了,我知道了.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_31">
+		<text>很好.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_32">
+		<text>试验正在进行中, 会花费五个小时.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_33">
+		<text>好消息.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_34">
+		<text>一旦实验完成了我会让你知道的的.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_35">
+		<text>你好少校, 你不能想想这个实验堆科学界是多么重要.我的同事们有了一个很棒的发现. 我对你的帮助感到很荣幸. 在试验过后, 神器样本完整的保留了下来, 而且我们从中获得了我们意料之外的发现.我准备给你这些样本, 给.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_36">
+		<text>谢谢.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_37">
+		<text>你也可以留着探测器. 我们还有很多. 如果你找到了更多的样本, 带给我然后我会给你大方的报酬.</text>
+	</string>
+        <string id="jup_search_anomal_prototype_dialog_38">
+		<text>明白.再见.</text>
+	</string>
+        <string id="jup_dolg_leader_radio_switch_dialog_1">
+		<text>苏尔加,把收音机关了。</text>
+	</string>
+        <string id="jup_dolg_leader_radio_switch_dialog_2">
+		<text>没问题。</text>
+	</string>
+        <string id="jup_dolg_leader_radio_switch_dialog_3">
+		<text>好了。</text>
+	</string>
+        <string id="jup_dolg_leader_radio_switch_dialog_4">
+		<text>苏尔加,打开收音机。.</text>
+	</string>
+        <string id="jup_dolg_leader_radio_switch_dialog_5">
+		<text>当然了。</text>
+	</string>
+        <string id="jup_dolg_leader_radio_switch_dialog_6">
+		<text>好吧。</text>
+	</string>
+        <string id="jup_freedom_leader_radio_switch_dialog_1">
+		<text>洛基,关掉收音机。</text>
+	</string>
+        <string id="jup_freedom_leader_radio_switch_dialog_2">
+		<text>没问题。</text>
+	</string>
+        <string id="jup_freedom_leader_radio_switch_dialog_3">
+		<text>好了。</text>
+	</string>
+        <string id="jup_freedom_leader_radio_switch_dialog_4">
+		<text>洛基,打开收音机。</text>
+	</string>
+        <string id="jup_freedom_leader_radio_switch_dialog_5">
+		<text>当然了。</text>
+	</string>
+        <string id="jup_freedom_leader_radio_switch_dialog_6">
+		<text>好吧。</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_hunt_0">
+		<text>还有什么工作给我吗?</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_hunt_1">
+		<text>对.刚才有个自由团的潜行者说过有几个地方聚集了大量的史诺克.没人知道为什么会有这么多数量的变异怪物...和普利皮亚一号通道的情况很像.我们的地方暂时还没有收到威胁.这个任务很危险,所以自己看着点.好吗?</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_hunt_11">
+		<text>我接下了.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_hunt_111">
+		<text>他们很危险...尤其是数量多的时候.好了,祝你好运.也祝它们好运.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_hunt_12">
+		<text>现在不行.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_hunt_121">
+		<text>你知道的,这个任务需要技能,不是所有人都能接下的.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_hunt_2">
+		<text>还是一样,杀死所有史诺克,奖你8000,那么,你说?</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_hunt_3">
+		<text>到现在为止还是有大量的史诺克...</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_hunted_0">
+		<text>史诺克全灭,它们被干挺了...</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_hunted_1">
+		<text>明白了，少校。索巴多夫斯基的侦察兵确认过了...按照你说的话，史诺克不是其他人啥的。那么你的奖励...</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_hunted_2">
+		<text>你可以看看你的钱,我说话一向负责，史诺克被消灭了.</text>
+	</string>	
+        <string id="jup_b220_trapper_precondition_trofei_0">
+		<text>你是不是准备购买一些怪物的组织</text>
+	</string>
+	<string id="jup_b220_trapper_precondition_trofei_1">
+		<text>对,我全都买,但是首先你要证明你值得我和你谈生意,完成我给你的几个训练任务,然后我就可以看看...</text>
+	</string>
+	<string id="jup_b220_trapper_precondition_trofei_2">
+		<text>我明白了,我会试着和你合作的.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_1">
+		<text>我想你一些事.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_2">
+		<text>啊,说吧.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_3">
+		<text>我看到你有一副牌,来玩玩?说真的.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_4">
+		<text>我知道玩牌.好了,来玩21点,开始之前我先说明,如果你赢了我给你电子卢布,如果我赢了你给我现金.你还来吗?</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_5">
+		<text>我同意,我准备好了.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_6">
+		<text>那我们就开始了.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_7">
+		<text>再来一次?</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_8">
+		<text>是,我准备好了.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_9">
+		<text>好吧,让我们开始.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_10">
+		<text>算了吧,下次我在找你.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_11">
+		<text>又是二十一点,下次吧.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_12">
+		<text>我不同意,这规则不公平.</text>
+	</string>
+</string_table>

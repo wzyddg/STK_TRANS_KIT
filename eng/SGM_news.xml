@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string id="st_found_unique_treasure">
+	<text>Get the coordinates of the code cache</text>
+</string>
+ 
+<string id="st_detector_battery_replaced">
+	<text>The battery is low.</text>
+</string>
+ 
+<string id="st_detector_battery_discharged">
+	<text>The detector is low. Needs battery.</text>
+</string>
+ 
+<string id="st_automatic_use_title">
+	<text>System supplementation:</text>
+</string>
+ 
+<string id="st_automatic_vs_bleeding">
+	<text>Found bleeding.</text>
+</string>
+ 
+<string id="st_automatic_vs_health">
+	<text>Found a serious loss of health.</text>
+</string>
+ 
+<string id="st_automatic_vs_psy_health">
+	<text>Found impact on psy-health.</text>
+</string>
+ 
+<string id="st_automatic_vs_radiation">
+	<text>The body was found irradiation.</text>
+</string>
+ 
+<string id="st_used_item_descr">
+	<text>Use items =</text>
+</string>
+ 
+<string id="st_activated_item_is">
+	<text>Use items:</text>
+</string>
+ 
+<string id="st_in_web_money">
+	<text>Obtained electronic money:</text>
+</string>
+ 
+<string id="st_out_web_money">
+	<text>Lost electronic money:</text>
+</string>
+ 
+<string id="st_from_pda_title">
+	<text>PDA:</text>
+</string>
+ 
+<string id="st_utilizator_used_event">
+	<text>You just got the money for recycling.</text>
+</string>
+ 
+<string id="st_fake_svd_event">
+	<text>Fuck tibidoh, your new friend SVD - ub¸g.</text>
+</string>
+ 
+<string id="st_mp3_new_content_title">
+	<text>Received a bonus track:</text>
+</string>
+ 
+<string id="st_mp3_new_content_descr">
+	<text>In the MP-3 player was uploaded a new track.</text>
+</string>
+ 
+<string id="st_no_repair">
+	<text>Subject otremonirovat failed, \n it is not in the slot.</text>
+</string>
+ 
+<string id="st_no_donor_repair">
+	<text>Subject otremonirovat failed, \n you do not have an appropriate donor.</text>
+</string>
+ 
+<string id="st_revealled_area">
+	<text>Marked new territory on the map:</text>
+</string>
+ 
+<string id="st_loot_entry">
+	<text>Ezines extracted money:</text>
+</string>
+ 
+<string id="st_no_repair_title">
+	<text>Fault repair:</text>
+</string>
+ 
+<string id="st_repair_title">
+	<text>Refurbished item:</text>
+</string>
+ 
+<string id="st_repair_cond">
+	<text>NP =</text>
+</string>
+ 
+<string id="st_bodyguard_price_ru">
+	<text>RU</text>
+</string>
+ 
+<string id="st_theatre_tip_title">
+	<text>Voice message,</text>
+</string>
+ 
+<string id="st_auto_energy_used">
+	<text>Used cars Energy:</text>
+</string>
+ 
+<string id="st_item_used">
+	<text>Use items:</text>
+</string>
+ 
+<string id="st_bring_af">
+	<text>Selected artifact:</text>
+</string>
+ 
+<string id="st_bring_obj">
+	<text>Pick up items:</text>
+</string>
+ 
+<string id="st_entry_mod_secret">
+	<text>Obtained SGM cache</text>
+</string>
+ 
+<string id="st_medal_tip_title">
+	<text>For achieving rank:</text>
+</string>
+ 
+<string id="st_medal_tip_text1">
+	<text>Received the medal - Superiority 'Beginner'</text>
+</string>
+ 
+<string id="st_medal_tip_text2">
+	<text>Received the medal - Superiority 'Pathfinder'</text>
+</string>
+ 
+<string id="st_medal_tip_text3">
+	<text>Received the medal - Superiority of 'Stalker'</text>
+</string>
+ 
+<string id="st_medal_tip_text4">
+	<text>Received the medal - Superiority 'Experimental'</text>
+</string>
+ 
+<string id="st_medal_tip_text5">
+	<text>Received the medal - Superiority 'Veteran'</text>
+</string>
+ 
+<string id="st_medal_tip_text6">
+	<text>Received the medal - Superiority 'Masters'</text>
+</string>
+ 
+<string id="st_medal_tip_text7">
+	<text>Received the medal - Superiority 'elitist'</text>
+</string>
+ 
+<string id="st_medal_tip_text8">
+	<text>Received the medal - Superiority of 'Hero of the area'</text>
+</string>
+ 
+<string id="st_medal_tip_text9">
+	<text>Received the medal - Superiority 'Greatest stalker'</text>
+</string>
+ 
+<string id="st_medal_tip_text10">
+	<text>Received the medal - Superiority of 'Call of Pripyat'</text>
+</string>
+ 
+<string id="st_info_skill">
+	<text>Information about the subject:</text>
+</string>
+ 
+<string id="st_info2_skill">
+	<text>Combat tactics</text>
+</string>
+ 
+<string id="st_info3_skill">
+	<text>%c[255,200,60,26] have been studied.</text>
+</string>
+ 
+<string id="st_add_skill">
+	<text>Increased skill of fighting for:</text>
+</string>
+ 
+<string id="st_add2_skill">
+	<text>Set sync element:</text>
+</string>
+ 
+<string id="send_deserve_title">
+	<text>Loaded information:</text>
+</string>
+ 
+<string id="st_add_info_title">
+	<text>Extras. information:</text>
+</string>
+ 
+<string id="st_bodyguard_init_tip">
+	<text>You hired a bodyguard:</text>
+</string>
+ 
+<string id="st_bodyguard_death_tip">
+	<text>Your bodyguard:</text>
+</string>
+ 
+<string id="st_bodyguard_death2_tip">
+	<text>died.</text>
+</string>
+ 
+<string id="st_bodyguard_commands_tip">
+	<text>Your bodyguard:</text>
+</string>
+ 
+<string id="st_bodyguard_command_0_tip">
+	<text>executes the command 'Protect'.</text>
+</string>
+ 
+<string id="st_bodyguard_command_1_tip">
+	<text>executes the command 'Do not use weapons.'</text>
+</string>
+ 
+<string id="st_bodyguard_command_2_tip">
+	<text>executes the command 'Stay Put'.</text>
+</string>
+ 
+<string id="st_bodyguard_command_3_tip">
+	<text>executes the command 'Defend your position'.</text>
+</string>
+ 
+<string id="st_bodyguard_command_4_tip">
+	<text>were you released.</text>
+</string>
+ 
+<string id="st_about_deposit_title">
+	<text>Information is obtained from the local savers:</text>
+</string>
+ 
+<string id="st_about_deposit_part0">
+	<text>%c[110,128,128,255] 'Activated while collecting'</text>
+</string>
+ 
+<string id="st_about_deposit_part1">
+	<text>%c[110,230,25,100] Cumulative percentage is =</text>
+</string>
+ 
+<string id="st_about_deposit_part2">
+	<text>%c[110,0,128,64] A total of deposit =</text>
+</string>
+ 
+<string id="st_reached_assistant_news_z">
+	<text>You zarabatali recognition technology to %c[110,0,128,64] Creek %c[default]. Now the technician will do you any upgrades and repairs at low prices.</text>
+</string>
+ 
+<string id="st_reached_assistant_news_j">
+	<text>You zarabatali recognition technology to %c[110,0,128,64] Jupiter %c[default]. Now the technician will do you any upgrades and repairs at low prices.</text>
+</string>
+ 
+<string id="st_reached_assistant_news_p">
+	<text>You zarabatali recognition technology to %c[110,0,128,64] Pripyat %c[default]. Now the technician will do you any upgrades and repairs at low prices.</text>
+</string>
+ 
+<string id="st_reveal_toolkit_zaton_descr">
+	<text>Received information on the whereabouts of a set of tools for %c[110,0,128,64] Creek</text>
+</string>
+ 
+<string id="st_reveal_toolkit_jupiter_descr">
+	<text>Received information on the whereabouts of a set of tools for %c[110,0,128,64] Jupiter</text>
+</string>
+ 
+<string id="st_reveal_toolkit_pripyat_descr">
+	<text>Received information on the whereabouts of a set of tools for %c[110,0,128,64] of Pripyat</text>
+</string>
+ 
+<string id="st_default_faction_b_event">
+	<text>A peace agreement with the group 'Bandits' - terminated.</text>
+</string>
+ 
+<string id="st_default_faction_r_event">
+	<text>A peace agreement with the group 'Breaking Dawn' - terminated.</text>
+</string>
+ 
+<string id="st_default_faction_k_event">
+	<text>A peace agreement with the group 'Mercenaries' - terminated.</text>
+</string>
+ 
+<string id="st_default_faction_m_event">
+	<text>A peace agreement with the group 'Monolith' - terminated.</text>
+</string>
+ 
+<string id="st_achievement_tip_title">
+	<text>SGM received achievement</text>
+</string>
+ 
+<string id="st_achievement_sniper_text">
+	<text>%c[110,230,25,100] 'Voroshilov Sharpshooter' \n %c[default] bonus is activated.</text>
+</string>
+ 
+<string id="st_achievement_client_text">
+	<text>%c[110,230,25,100] 'Regular customer' \n %c[default] bonus is activated.</text>
+</string>
+ 
+<string id="st_achievement_pathfinder_text">
+	<text>%c[110,230,25,100] 'Artful pathfinder' \n %c[default] bonus is activated.</text>
+</string>
+ 
+<string id="st_achievement_guidebook_text">
+	<text>%c[110,230,25,100] 'Abnormal vehicle' \n %c[default] bonus is activated.</text>
+</string>
+ 
+<string id="st_achievement_marauder_text">
+	<text>%c[110,230,25,100] 'Great marauder' \n %c[default] bonus is activated.</text>
+</string>
+ 
+<string id="st_achievement_magnate_text">
+	<text>%c[110,230,25,100] 'Electronic tycoon' \n %c[default] bonus is activated.</text>
+</string>
+ 
+<string id="st_achievement_assistant_text">
+	<text>%c[110,230,25,100] 'assistant technology' \n %c[default] bonus is activated.</text>
+</string>
+ 
+<string id="st_achievement_lifeguard_text">
+	<text>%c[110,230,25,100] 'noble rescuer' \n %c[default] bonus is activated.</text>
+</string>
+ 
+<string id="zat_stalker_elbrus_need_command_title">
+	<text>'Elbrus'</text>
+</string>
+ 
+<string id="zat_stalker_elbrus_need_command_text">
+	<text>Alexander, waiting for your team.</text>
+</string>
+ 
+<string id="zat_hero_title">
+	<text>'Degtyarev'</text>
+</string>
+ 
+<string id="zat_hero_say_command_text">
+	<text>Guys, go ahead!</text>
+</string>
+ 
+<string id="zat_chimera_zagon_final_text">
+	<text>Received, a reptile!</text>
+</string>
+ 
+<string id="zat_accompany_stalker_title">
+	<text>'Bob'</text>
+</string>
+ 
+<string id="zat_accompany_final_text">
+	<text>All of them! We have come on you yourself, and I will run, you need to pick up the loot.</text>
+</string>
+ 
+<string id="zat_barge_defence_commander_title">
+	<text>'David'</text>
+</string>
+ 
+<string id="zat_monsters_wave_1_controller_appeared_text">
+	<text>Sasha and the others are likely to 'port cranes', it seems there is a controller, and it seems to me he manipulates wave.</text>
+</string>
+ 
+<string id="zat_monsters_wave_2_controller_appeared_text">
+	<text>Again, the controller! Now, from the 'Shevchenko', try to neutralize it.</text>
+</string>
+ 
+<string id="zat_monsters_wave_3_controller_appeared_text">
+	<text>Well, there's one more, this time far away from the 'stalker parking'. Let us guys have not much left.</text>
+</string>
+ 
+<string id="zat_barge_noah_title">
+	<text>'Noah'</text>
+</string>
+ 
+<string id="zat_barge_noah_about_commander_death_text">
+	<text>Without our David, we do not resist.</text>
+</string>
+ 
+<string id="zat_bandit_base_leader_title">
+	<text>'Chapaev'</text>
+</string>
+ 
+<string id="zat_bandit_kill_shakal_treachery_text">
+	<text>And here is a traitor to announce. Now Pingyao itself, cholera!</text>
+</string>
+ 
+<string id="zat_general_staff_about_refer_parcel_intro_tip_1_text">
+	<text>Mayor, as it became known only that - some details helicopter crash may know someone on Skadovsk, hiding places stalkers. From unofficial sources, it follows that it is there the saver. Your task: to find savers, and get valuable information, if any, is taking place.</text>
+</string>
+ 
+<string id="zat_general_staff_about_refer_parcel_intro_tip_2_text">
+	<text>Mayor, as it became known only that - some details helicopter crash may know someone on Skadovsk, hiding places stalkers. From unofficial sources, it follows that it is there the saver. Your task: to find savers, and get valuable information, if any, is taking place.</text>
+</string>
+ 
+<string id="zat_killer_osman_title">
+	<text>'Sema'</text>
+</string>
+ 
+<string id="zat_killer_osman_about_spez_2_text">
+	<text>Mayor, I've been watching the progress of the operation. Destroy dolgovtsev with scientists as zaberesh case - Get the rest ...</text>
+</string>
+ 
+<string id="jup_duty_shulga_title">
+	<text>'Shulga'</text>
+</string>
+ 
+<string id="jup_duty_shulga_about_spez_1_text">
+	<text>Mayor, somehow detachment guarding the scientists are not contacted. I do not know what could have happened there. Quickly go and find out what happened ...</text>
+</string>
+ 
+<string id="jup_rasvet_migel_title">
+	<text>'Miguel'</text>
+</string>
+ 
+<string id="jup_rasvet_migel_about_help_text">
+	<text>Help ... what .... it's ... just ... next ....</text>
+</string>
+ 
+<string id="jup_rasvet_leader_title">
+	<text>'Nazar'</text>
+</string>
+ 
+<string id="jup_rasvet_leader_quest_about_dead_patrol_text">
+	<text>Mayor, I have bad news. One of the patrols are not contacted. We need urgently proveret what happened to them. I drop you coordinate PDA of their commander. At the signal he Antiva but static. This is very encouraging. Check this place, and then act according to the situation. It seems that you have to scour the area of their route. Detailed scheme should be in patrol ... But I hope this will not be required, although there was little hope ... Hurry up.</text>
+</string>
+ 
+<string id="jup_rasvet_leader_about_eliminate_burrow_2_text">
+	<text>Ok, first tipped hole! On the second line .. mutants dug at the plant 'Jupiter'.</text>
+</string>
+ 
+<string id="jup_rasvet_leader_about_eliminate_burrow_3_text">
+	<text>The second hole tipped! Now move to the southern part of the neighborhood 'Jupiter'.</text>
+</string>
+ 
+<string id="jup_rasvet_leader_about_eliminate_burrow_4_text">
+	<text>The third hole tipped! Remained the last hope .. near thef/A.</text>
+</string>
+ 
+<string id="jup_rasvet_leader_about_eliminate_burrow_5_text">
+	<text>Sasha found another hole. About SAM 'Volkhov'. Rather there.</text>
+</string>
+ 
+<string id="jup_rasvet_leader_about_eliminate_burrow_5_victory_text">
+	<text>Well done, all hammered! Come back, I'll grant you a reward.</text>
+</string>
+ 
+<string id="jup_german_title">
+	<text>'German'</text>
+</string>
+ 
+<string id="jup_german_about_anomal_prototype_text">
+	<text>Major as soon find yourself in the vicinity of our bunker, be sure to come and see me. There is a very interesting task. I think no one except you, it is not able to perform.</text>
+</string>
+ 
+<string id="jup_german_about_transform_end_text">
+	<text>Mayor, my colleagues and I have conducted an experiment as soon find yourself in the area of our bunker, be sure to come and see me.</text>
+</string>
+ 
+<string id="jup_general_staff_title">
+	<text>'General Staff'</text>
+</string>
+ 
+<string id="jup_general_staff_about_darkvalley_travel_bubble_text">
+	<text>Major, there are new challenges. You will need to go into the dark valley, and find there a stalker named Balthazar, in order to receive his documents and subsequently transmit them to us. Tentative data about this stalker has been sent to your PDA. Also, the Mayor, to get into the dark valley ordinary way is not possible. There is information that the territory of Jupiter foredeck kind of spatial anomaly that can, with proper use of it, to send a man to the right place. Find a spatial anomaly and use it to travel in the dark valley. Once you find yourself where you want to, first of all stalkers Seek leader in Dark Valley. Our source utverzhaet that his name is shark and he may have only some information about our Baltazar. Good luck to you, Major!</text>
+</string>
+ 
+<string id="jup_b220_trapper_title">
+	<text>'Deerslayer'</text>
+</string>
+ 
+<string id="val_b2_assault_b1_commander_title">
+	<text>'Taras'</text>
+</string>
+ 
+<string id="val_assault_factory_squad_in_sneak_text">
+	<text>All quiet on tiptoe!</text>
+</string>
+ 
+<string id="val_assault_factory_squad_in_attack_text">
+	<text>Next, well them!</text>
+</string>
+ 
+<string id="all_lucas_title">
+	<text>'Lucas'</text>
+</string>
+ 
+<string id="val_lucas_about_quest_text_1">
+	<text>Excellent, Major. This Dolgovskaya carrion now nobody bothers. Now, most importantly, Go into the territory of the base. Seek out all three caches of documents. I just got confirmation from Umnika- they should be exactly three. Go For It.</text>
+</string>
+ 
+<string id="val_lucas_about_quest_text_2">
+	<text>Remarkably, the documents you have. Wait for me at that point ...</text>
+</string>
+ 
+<string id="val_lucas_about_quest_text_3">
+	<text>Major. Am nearby. What the hell is going on. Hike beasts gone mad. Something Gonet their database ... Beware, they close ... Seek shelter ... I wait out on the sidelines.</text>
+</string>
+ 
+<string id="mil_b7_base_leader_title">
+	<text>'Demiurge'</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_target_b1_captured_text">
+	<text>Farm captured. Our next goal - Village.</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_target_b2_captured_text">
+	<text>The village is under our control. Go ahead, you now need to capture the West Gate.</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_target_b3_captured_text">
+	<text>Our outpost. Next ourselves to capture the village.</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_target_b4_captured_text">
+	<text>Very good. The village behind us. Heading for the parking lot.</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_target_b5_captured_text">
+	<text>Control almost set. The next step - Western outpost. Be careful.</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_target_b6_captured_text">
+	<text>We made it. All the lights out, you can drink beer.</text>
+</string>
+ 
+<string id="mil_defence_b1_done_text">
+	<text>We recaptured Farm. Now, immediately, all the village! The wave of mutants is on its way.</text>
+</string>
+ 
+<string id="mil_defence_b1_fail_text">
+	<text>We could not keep the farm. But nothing, all is not lost ... Go to the village, on the outskirts of mutants already.</text>
+</string>
+ 
+<string id="mil_defence_b2_done_text">
+	<text>The village repulsed. The next attack mutants will be made to the Western Gate. All there!</text>
+</string>
+ 
+<string id="mil_defence_b2_fail_text">
+	<text>The village was lost. But the end is not yet. Mutants are kept my way to the Western Gate. Need to fight back.</text>
+</string>
+ 
+<string id="mil_defence_b3_done_text">
+	<text>Western outpost survived. Monsters move to the next point - the village. Be prepared to repel.</text>
+</string>
+ 
+<string id="mil_defence_b3_fail_text">
+	<text>We lost the West Gate. No great loss. Let us now defend the village.</text>
+</string>
+ 
+<string id="mil_defence_b4_done_text">
+	<text>The village is under control. Now we need to protect the parking lot.</text>
+</string>
+ 
+<string id="mil_defence_b4_fail_text">
+	<text>Detachment to the village fell in an unequal battle. Mutants took his own. Let us take their revenge, and reflect their upcoming raid in the parking lot.</text>
+</string>
+ 
+<string id="mil_defence_b5_done_text">
+	<text>Parking safely withheld. There were reports that around the village there is a huge hole from which crawl the bastards. I propose to destroy it. If there will be very serious - based explosives.</text>
+</string>
+ 
+<string id="mil_defence_b5_fail_text">
+	<text>Very bad news. Our unit in the parking lot was broken. Also, there were reports that around the village there is a huge hole from which crawl the bastards. I propose to destroy it. If there will be very serious - based explosives.</text>
+</string>
+ 
+<string id="mil_smash_monster_hole_done_text">
+	<text>Nora destroyed. The next wave of mutants already sent to the East Gate. We will need to keep this point, what else is gone.</text>
+</string>
+ 
+<string id="mil_defence_b6_complete_text">
+	<text>As it is not sad sounds, but EASTERN Zastava, our last stronghold, was swept away by an excessive number of mutants. The worst thing to come - a wave comes to our base. Everyone who survived an urgent need to return to base, in order to defend our honor and show these bastards creeping, what we stand for.</text>
+</string>
+ 
+<string id="mil_b7_night_stalker_leader_title">
+	<text>'Morten'</text>
+</string>
+ 
+<string id="mil_bolted_influence_target_b1_captured_text">
+	<text>Farm captured. Our next goal - Village.</text>
+</string>
+ 
+<string id="mil_bolted_influence_target_b2_captured_text">
+	<text>The village is under our control. Go ahead, you now need to capture the West Gate.</text>
+</string>
+ 
+<string id="mil_bolted_influence_target_b3_captured_text">
+	<text>Our outpost. Next ourselves to capture the village.</text>
+</string>
+ 
+<string id="mil_bolted_influence_target_b4_captured_text">
+	<text>Very good. The village behind us. Heading for the parking lot.</text>
+</string>
+ 
+<string id="mil_bolted_influence_target_b5_captured_text">
+	<text>Control almost set. The next step - Western outpost.</text>
+</string>
+ 
+<string id="mil_bolted_influence_target_b6_captured_text">
+	<text>We made it. Control is installed.</text>
+</string>
+ 
+<string id="agr_general_staff_about_underground_way_text">
+	<text>Mayor, a new job! Extracted from the documents you received information on the second laboratory under the agricultural industry. Your task - to find a way into the dungeon agricultural industry, and to get all the documents related to the work of the laboratory. All that can be found there. On Agriculture can only be reached with the Creek. Good Luck!</text>
+</string>
+ 
+<string id="esc_b1_base_commander_title">
+	<text>'Medvedev'</text>
+</string>
+ 
+<string id="esc_blockpost_protection_began_text">
+	<text>Major! We encroach checkpoint mutants. They are becoming more and more. Need your help. Help our reflect this insolence.</text>
+</string>
+ 
+<string id="esc_blockpost_protection_done_1_text">
+	<text>Skopytitsya mutants. All retreat. Mayor, a special thank you.</text>
+</string>
+ 
+<string id="esc_blockpost_protection_done_2_text">
+	<text>Yay! Dealt with the beast. Major, you've been very helpful. Thank U. The reward for their support in your inbox.</text>
+</string>
+ 
+<string id="esc_blockpost_protection_done_3_text">
+	<text>That was a fight! Defeated creatures. Major, you very well shown. That is why I have prepared for you a special award.</text>
+</string>
+ 
+<string id="red_psyho_trapper_call_text">
+	<text>Mayor, will be on Midsummer - Will you come to me. For you information there.</text>
+</string>
+ 

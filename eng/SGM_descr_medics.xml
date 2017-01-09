@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string id="st_psy_complex">
+	<text>Psihodelin</text>
+</string>
+ 
+<string id="st_psy_complex_descr">
+	<text>%c[default] Useful properties: \n %c[255,238,153,26] • %c[default] detoxifies %c[255,238,15,26] ( %c[255,1,128,54] -25% %c[255,238,15,26]) \n %c[default] %c[255,238,153,26] • %c[default] Recovery psy-health \n Restores psycho-,mental health takes effect on the brain,toxins.</text>
+</string>
+ 
+<string id="st_medkit_elite">
+	<text>Elite Medkomplekt</text>
+</string>
+ 
+<string id="st_medkit_elite_descr">
+	<text>%c[default] Hazardous properties: \n %c[255,238,153,26] • %c[default] Infection toxins %c[255,238,15,26] ( %c[255,1,128,54] 10% %c[255,238,15,26]) \n %c[default],Elite medical kit designed specifically for use in Zone. The kit is picked up for combat wounds,and for the withdrawal of radionuclides from the body. Prevents the development of radiation sickness and restores energy,and reduces the cumulative dose of radiation.</text>
+</string>
+ 
+<string id="st_bio_bandage">
+	<text>Special bandage</text>
+</string>
+ 
+<string id="st_bio_bandage_descr">
+	<text>Superior dressing. Stops bleeding and reduce the radiation level in the blood.</text>
+</string>
+ 
+<string id="st_medkit_used">
+	<text>Upon opening a first aid kit</text>
+</string>
+ 
+<string id="st_medkit_used_descr">
+	<text>%c[default] Hazardous properties: \n %c[255,238,153,26] • %c[default] Infection toxins %c[255,238,15,26] ( %c[255,1,128,54] 1% %c[255,238,15,26]) \n %c[default] Universal medical kit. I have already used,so much help from it should not wait.</text>
+</string>
+ 
+<string id="st_medkit_army_used">
+	<text>The penetrated army kit</text>
+</string>
+ 
+<string id="st_medkit_army_used_descr">
+	<text>%c[default] Hazardous properties: \n %c[255,238,153,26] • %c[default] Infection toxins %c[255,238,15,26] ( %c[255,1,128,54] 1% %c[255,238,15,26]) \n %c[default] Specialized medical kit to deal with injuries of the Pellicle.and tissues,and bleeding. I have already used,so much help from it should not wait.</text>
+</string>
+ 
+<string id="st_medkit_science_used">
+	<text>The penetrated science kit</text>
+</string>
+ 
+<string id="st_medkit_science_used_descr">
+	<text>%c[default] Hazardous properties: \n %c[255,238,153,26] • %c[default] Infection toxins %c[255,238,15,26] ( %c[255,1,128,54] 1% %c[255,238,15,26]) \n %c[default] Medical Set,Designed specifically for use in Zone. The kit is picked up for combat wounds,and for the withdrawal of radionuclides from the body. I have already used,so much help from it should not wait.</text>
+</string>
+ 
+<string id="st_medkit_elite_used">
+	<text>Opened elite Medkomplekt</text>
+</string>
+ 
+<string id="st_medkit_elite_used_descr">
+	<text>%c[default] Hazardous properties: \n %c[255,238,153,26] • %c[default] Infection toxins %c[255,238,15,26] ( %c[255,1,128,54] 1% %c[255,238,15,26]) \n %c[default],Elite medical kit designed specifically for use in Zone. The kit is picked up for combat wounds,and for the withdrawal of radionuclides from the body. I have already used,so much help from it should not wait.</text>
+</string>
+ 
+<string id="st_drug_engine">
+	<text>LSD Protector</text>
+</string>
+ 
+<string id="st_drug_engine_descr">
+	<text>%c[default] Hazardous properties: \n %c[255,238,153,26] • %c[default] Infection toxins %c[255,238,15,26] ( %c[255,1,128,54] 25% %c[255,238,15,26]) \n %c[default] Ingredients: artificial steroids indralin-B190,,,vikasol hydrochloride metoclopramide,,,pyridoxine, thiamine,riboksy and others. Enters into the blood substances capable of degrading protein,, poisons and absorbent synthetic poisons. The drug is the most powerful among the like. Long-acting drug.</text>
+</string>
+ 
+<string id="st_bag_medkit_1_title">
+	<text>SMV Bag</text>
+</string>
+ 
+<string id="st_bag_medkit_1_descr">
+	<text>Is a set of medical equipment and medicines intended for first aid.</text>
+</string>
+ 
+<string id="st_bag_medkit_2_title">
+	<text>SMV Bag</text>
+</string>
+ 
+<string id="st_bag_medkit_2_descr">
+	<text>Is a set of medical equipment and medicines intended for first aid.</text>
+</string>
+ 
+<string id="st_bag_medkit_3_title">
+	<text>SMV Bag</text>
+</string>
+ 
+<string id="st_bag_medkit_3_descr">
+	<text>Is a set of medical equipment and medicines intended for first aid.</text>
+</string>
+ 
+<string id="st_bag_medkit_4_title">
+	<text>SMV Bag</text>
+</string>
+ 
+<string id="st_bag_medkit_4_descr">
+	<text>Is a set of medical equipment and medicines intended for first aid.</text>
+</string>
+ 
+<string id="st_cat_eye">
+	<text>Cat's Eye</text>
+</string>
+ 
+<string id="st_cat_eye_descr">
+	<text>%c[default] Hazardous properties: \n %c[255,238,153,26] • %c[default] Infection toxins %c[255,238,15,26] ( %c[255,1,128,54] 5% %c[255,238,15,26]) \n %c[default],new drug developed by scientists in a 'Zone'. Increases the pupil to incredible sizes,thus provide a better in the dark. As part of the preparation is the eye of the Chernobyl Kota. Is very popular among mercenaries and night patrol duty. How to use: open the packaging,eat the contents. Side effects: temporary loss of vision. Action time - one hour.</text>
+</string>
+ 

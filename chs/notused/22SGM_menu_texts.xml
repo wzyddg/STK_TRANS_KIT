@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="st_21_point_save_rate_hint">
+<text>memorize rate</text>
+</string>
+<string id="st_mp3_player_other">
+		<text>其它</text>
+	</string>
+<string id="st_allspawn_auto_print_activate">
+<text>Enable auto-debugging</text>
+</string>
+<string id="st_allspawn_auto_print_deactivate">
+<text>Turn off auto-debugging</text>
+</string>
+<string id="st_allspawn_auto_print_error">
+<text>Error: select item type</text>
+</string>
+<string id="st_allspawn_auto_print_off">
+<text>AO off.</text>
+</string>
+<string id="st_allspawn_auto_print_on">
+<text>AO On.</text>
+</string>
+<string id="st_allspawn_auto_print_signal">
+<text>Object is created:</text>
+</string>
+<string id="st_allspawn_editor_check_another_mode_hint">
+<text>Activate another debugging method. Template: create ("object", x, y, z, lv, gv) </text>
+</string>
+<string id="st_allspawn_editor_check_another_mode_spawn_hint">
+<text>In another method of debugging - parallel to spawn an object.</text>
+</string>
+<string id="st_allspawn_editor_check_button_spawner_hint">
+<text>Use the tab key to spawn</text>
+</string>
+<string id="st_allspawn_editor_check_with_logic_hint">
+<text>Object to the logic</text>
+</string>
+<string id="st_allspawn_editor_counter_minus_hint">
+<text>Reduce the value of the header section</text>
+</string>
+<string id="st_allspawn_editor_counter_plus_hint">
+<text>Increase the value of the header section</text>
+</string>
+<string id="st_allspawn_editor_create">
+<text>Generate Code</text>
+</string>
+<string id="st_allspawn_editor_display_counter_hint">
+<text>The value of the header section</text>
+</string>
+<string id="st_allspawn_editor_display_magazine_hint">
+<text>The number of rounds in a box</text>
+</string>
+<string id="st_allspawn_editor_display_radius_hint">
+<text>The radius of the object</text>
+</string>
+<string id="st_allspawn_editor_hiding_place_field_hint">
+<text>The name of the cache to which the subject</text>
+</string>
+<string id="st_allspawn_editor_logic_path_field_hint">
+<text>The file path of logic</text>
+</string>
+<string id="st_allspawn_editor_magazine_minus_hint">
+<text>Reduce the number of rounds in a box</text>
+</string>
+<string id="st_allspawn_editor_magazine_plus_hint">
+<text>Increase the number of rounds in a box</text>
+</string>
+<string id="st_allspawn_editor_prefix_field_hint">
+<text>The element name of the object number 1</text>
+</string>
+<string id="st_allspawn_editor_radius_minus_hint">
+<text>Reduce the radius of the object</text>
+</string>
+<string id="st_allspawn_editor_radius_plus_hint">
+<text>Increase the radius of the object</text>
+</string>
+<string id="st_allspawn_editor_read_example">
+<text>Show code</text>
+</string>
+<string id="st_allspawn_editor_suffix_field_hint">
+<text>The element name of the object number 2</text>
+</string>
+<string id="st_allspawn_editor_switch_panel_1">
+<text>The main</text>
+</string>
+<string id="st_allspawn_editor_switch_panel_2">
+<text>anomalies</text>
+</string>
+<string id="st_allspawn_editor_switch_panel_3">
+<text>artifacts</text>
+</string>
+<string id="st_allspawn_editor_switch_panel_4">
+<text>armor</text>
+</string>
+<string id="st_allspawn_editor_switch_panel_5">
+<text>weapon</text>
+</string>
+<string id="st_allspawn_editor_switch_panel_6">
+<text>ammunition</text>
+</string>
+<string id="st_allspawn_editor_switch_panel_7">
+<text>Miscellaneous</text>
+</string>
+<string id="st_allspawn_editor_title">
+<text>Editor «all.spawn»</text>
+</string>
+
+<string id="st_guidebook_close_hint">
+<text>Exit GPS-conductor </text>
+</string>
+<string id="st_guidebook_escape_point1">
+<text>Bridge</text>
+</string>
+<string id="st_guidebook_escape_point2">
+<text>APT</text>
+</string>
+<string id="st_guidebook_escape_point3">
+<text>Village</text>
+</string>
+<string id="st_guidebook_escape_point4">
+<text>Blockhouse</text>
+</string>
+<string id="st_guidebook_escape_point5">
+<text>Base</text>
+</string>
+<string id="st_guidebook_escape_point6">
+<text>Blockhouse</text>
+</string>
+<string id="st_guidebook_marsh_point1">
+<text>Settlement</text>
+</string>
+<string id="st_guidebook_marsh_point2">
+<text>Machine yard</text>
+</string>
+<string id="st_guidebook_marsh_point3">
+<text>Settlement</text>
+</string>
+<string id="st_guidebook_marsh_point4">
+<text>Pumping station</text>
+</string>
+<string id="st_guidebook_marsh_point5">
+<text>Fisherman's village</text>
+</string>
+<string id="st_guidebook_marsh_point6">
+<text>The old church</text>
+</string>
+<string id="st_guidebook_marsh_point7">
+<text>Settlement</text>
+</string>
+<string id="st_guidebook_marsh_point8">
+<text>Burnt farmstead</text>
+</string>
+
+<string id="st_mod_menu_modes_ammo">
+<text>Infinite ammo</text>
+</string>
+
+<string id="st_position_printer_create">
+<text>print</text>
+</string>
+<string id="st_question_game_answer_a">
+<text>option A</text>
+</string>
+<string id="st_question_game_answer_a_field_hint">
+<text>Answer: A</text>
+</string>
+<string id="st_question_game_answer_a_hint">
+<text>Selecting A</text>
+</string>
+<string id="st_question_game_answer_b">
+<text>option B</text>
+</string>
+<string id="st_question_game_answer_b_field_hint">
+<text>Answer: B</text>
+</string>
+<string id="st_question_game_answer_b_hint">
+<text>selecting B</text>
+</string>
+<string id="st_question_game_answer_c">
+<text>option C</text>
+</string>
+<string id="st_question_game_answer_c_field_hint">
+<text>Answer: C</text>
+</string>
+<string id="st_question_game_answer_c_hint">
+<text>selecting C</text>
+</string>
+<string id="st_question_game_answer_d">
+<text>option D</text>
+</string>
+<string id="st_question_game_answer_d_field_hint">
+<text>Answer: D</text>
+</string>
+<string id="st_question_game_answer_d_hint">
+<text>selecting D</text>
+</string>
+<string id="st_question_game_continue">
+<text>跳过</text>
+</string>
+<string id="st_question_game_continue_hint">
+<text>Go to next question</text>
+</string>
+<string id="st_question_game_correct_series_hint">
+<text>A series of correct answers</text>
+</string>
+<string id="st_question_game_exit">
+<text>exit</text>
+</string>
+<string id="st_question_game_exit_hint">
+<text>The output of mini-games</text>
+</string>
+<string id="st_question_game_manual_hint">
+<text>hint</text>
+</string>
+<string id="st_question_game_question_field_hint">
+<text>The current issue</text>
+</string>
+<string id="st_question_game_question_number_hint">
+<text>number of questions</text>
+</string>
+<string id="st_question_game_start">
+<text>新游戏</text>
+</string>
+<string id="st_question_game_start_hint">
+<text>Launch mini-game</text>
+</string>
+<string id="st_question_game_title">
+<text>Game: Why? By whom? At what time?</text>
+</string>
+<string id="st_queue_track_hint">
+<text>Play each track in turn</text>
+</string>
+<string id="st_remote_charge_cancel">
+<text>取消</text>
+</string>
+<string id="st_remote_charge_place">
+<text>放置</text>
+</string>
+
+<string id="st_sigerous_top_register">
+<text>Sign up</text>
+</string>
+<string id="st_waypoint_editor_autochange_hint">
+<text>Automatic additional notes, walk and look</text>
+</string>
+<string id="st_waypoint_editor_check_way_closed_hint">
+<text>If a lot of points, the path is closed</text>
+</string>
+<string id="st_waypoint_editor_empty_flags_hint">
+<text>Create a point without flags - flags = 0x1.</text>
+</string>
+
+</string_table>

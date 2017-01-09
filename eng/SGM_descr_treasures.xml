@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string id="st_unique_treasure_card_name">
+	<text>Access map cache</text>
+</string>
+ 
+<string id="st_zat_unique_treasure_1_card_descr">
+	<text>Access code - 9682.</text>
+</string>
+ 
+<string id="st_zat_unique_treasure_2_card_descr">
+	<text>Access code - 3812.</text>
+</string>
+ 
+<string id="st_jup_unique_treasure_1_card_descr">
+	<text>Access code - 1275.</text>
+</string>
+ 
+<string id="st_jup_unique_treasure_2_card_descr">
+	<text>Access code - 8932.</text>
+</string>
+ 

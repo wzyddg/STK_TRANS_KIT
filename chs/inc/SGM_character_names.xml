@@ -1,0 +1,302 @@
+﻿        <!-----------------"Затон"------------------->
+	<string id="zat_postman_name">
+		<text>皮特卡 雷兹曼德</text>
+	</string>
+	<string id="zat_accompany_stalker_name">
+		<text>瓦西亚</text>
+	</string>
+	<string id="zat_bandit_informer_name">
+		<text>线人</text>
+	</string>
+	<string id="zat_stalker_bodyguard_name">
+		<text>驱逐舰</text>
+	</string>
+	<string id="zat_stalker_bankir_name">
+		<text>马卡洛维奇</text>
+	</string>
+	<string id="zat_stalker_trader_name">
+		<text>祖鲁比斯基</text>
+	</string>
+	<string id="zat_stalker_breeder_name">
+		<text>马卡维斯基 博士</text>
+	</string>
+	<string id="zat_stalker_member_name">
+		<text>剑</text>
+	</string>
+	<string id="zat_stalker_elbrus_name">
+		<text>厄尔布鲁士</text>
+	</string>
+	<string id="zat_stalker_avenger_name">
+		<text>复仇者</text>
+	</string>
+	<string id="zat_bandit_base_leader_name">
+		<text>切别耶夫</text>
+	</string>
+	<string id="zat_bandit_trader_name">
+		<text>科奇乌比</text>
+	</string>
+	<string id="zat_bandit_bodyguard_name">
+		<text>汉</text>
+	</string>
+	<string id="zat_bandit_base_guider_name">
+		<text>哈弗雷</text>
+	</string>
+	<string id="zat_wounded_monolith_name">
+		<text>里昂</text>
+	</string>
+	<string id="zat_killer_shakal_name">
+		<text>沙克尔</text>
+	</string>
+	<string id="zat_duty_kanevskiy_name">
+		<text>凯恩夫斯基</text>
+	</string>
+	<string id="zat_authorities_agent_name">
+		<text>里艾桑 克尔里诺夫</text>
+	</string>
+	<string id="zat_stalker_medic_name">
+		<text>医生</text>
+	</string>
+	<string id="zat_barge_commander_name">
+		<text>戴维</text>
+	</string>
+	<string id="zat_mad_dog_commander_name">
+		<text>上尉 拉古什</text>
+	</string>
+	<string id="zat_stalker_employer_name">
+		<text>柠檬</text>
+	</string>
+        <!-----------------"Юпитер"------------------->
+	<string id="jup_freedom_bodyguard_name">
+		<text>拿破里昂</text>
+	</string>
+	<string id="jup_stalker_bankir_name">
+		<text>渔夫</text>
+	</string>
+	<string id="jup_freedom_trader_name">
+		<text>尼昂</text>
+	</string>
+	<string id="jup_stalker_breeder_name">
+		<text>布朗叩 博士</text>
+	</string>
+	<string id="jup_ecolog_breeder_name">
+		<text>波谢夫斯基 教授</text>
+	</string>
+	<string id="jup_army_bodyguard_name">
+		<text>威利斯洽金</text>
+	</string>
+	<string id="jup_stalker_gromoboy_name">
+		<text>雷电</text>
+	</string>
+	<string id="jup_monolith_thief_name">
+		<text>乌鸦</text>
+	</string>
+	<string id="jup_rasvet_base_leader_name">
+		<text>纳扎尔</text>
+	</string>
+	<string id="jup_follower_scientist_1_name">
+		<text>库珀</text>
+	</string>
+	<string id="jup_follower_scientist_2_name">
+		<text>博古特斯基</text>
+	</string>
+	<string id="jup_follower_scientist_3_name">
+		<text>麦卡哈耀夫</text>
+	</string>
+	<string id="jup_follower_scientist_4_name">
+		<text>威利斯诺夫</text>
+	</string>
+	<string id="jup_follower_scientist_5_name">
+		<text>卡舍盆口</text>
+	</string>
+	<string id="jup_rasvet_trader_name">
+		<text>国尔得一</text>
+	</string>
+	<string id="jup_ecolog_trader_name">
+		<text>沙弗利</text>
+	</string>
+	<string id="jup_witnesses_hostage_name">
+		<text>探员 罗德基斯基</text>
+	</string>
+	<string id="jup_authorities_agent_name">
+		<text>里埃森 西德仁可</text>
+	</string>
+	<string id="jup_killer_trader_name">
+		<text>苍蝇</text>
+	</string>
+	<string id="jup_killer_base_leader_name">
+		<text>摩尔法拉</text>
+	</string>
+	<string id="jup_killer_bodyguard_name">
+		<text>纳甘</text>
+	</string>
+	<string id="jup_killer_first_squad_commander_name">
+		<text>凯撒</text>
+	</string>
+	<string id="jup_killer_second_squad_commander_name">
+		<text>沙马特</text>
+	</string>
+	<string id="jup_witnesses_leader_name">
+		<text>黑人</text>
+	</string>
+	<string id="jup_killer_base_chief_name">
+		<text>阴险</text>
+	</string>
+	<string id="jup_dolg_employer_name">
+		<text>Леопард</text>
+	</string>
+	<string id="jup_killer_caravan_commander_name">
+		<text>会计</text>
+	</string>
+	<string id="jup_killer_lighthouse_commander_name">
+		<text>军阀</text>
+	</string>
+        <!----------------"Путепровод"----------------->
+	<string id="pas_hostage_miller_name">
+		<text>米勒</text>
+	</string>
+        <!-----------------"Припять"------------------->
+	<string id="pri_army_bodyguard_name">
+		<text>勇士</text>
+	</string>
+	<string id="pri_army_bankir_name">
+		<text>一针可</text>
+	</string>
+	<string id="pri_army_trader_name">
+		<text>神父</text>
+	</string>
+	<string id="pri_army_breeder_name">
+		<text>卡列夫琴科博士</text>
+	</string>
+	<string id="pri_monolit_base_leader_name">
+		<text>机械人</text>
+	</string>
+	<string id="pri_army_kasilov_name">
+		<text>上校 卡西洛夫</text>
+	</string>
+	<string id="pri_monolit_base_trader_name">
+		<text>地铁爱好者</text>
+	</string>
+	<string id="pri_monolit_base_chief_name">
+		<text>卡布提洛夫</text>
+	</string>
+	<string id="pri_ecolog_briefing_name">
+		<text>泰格里伯克 教授</text>
+	</string>
+	<string id="pri_assault_squad_leader_name">
+		<text>少校 赛加</text>
+	</string>
+	<string id="pri_monolith_brother_name">
+		<text>魔鬼</text>
+	</string>
+	<string id="pri_monolith_zombied_name">
+		<text>僵尸</text>
+	</string>
+	<string id="pri_monolith_longshoremen_name">
+		<text>奥尔夫</text>
+	</string>
+	<string id="pri_monolith_library_base_leader_name">
+		<text>瓦蓝德</text>
+	</string>
+	<string id="pri_monolith_bodyguard_name">
+		<text>细菌</text>
+	</string>
+	<string id="pri_monolith_inquisitor_name">
+		<text>审判官</text>
+	</string>
+	<string id="pri_monolith_inquisitor_deputy_1_name">
+		<text>德拉博安特</text>
+	</string>
+	<string id="pri_monolith_inquisitor_deputy_2_name">
+		<text>涅罗达克</text>
+	</string>
+	<string id="pri_army_fenix_name">
+		<text>凤凰</text>
+	</string>
+	<string id="pri_authorities_agent_name">
+		<text>里埃森 西德仁可</text>
+	</string>
+	<string id="pri_army_employer_name">
+		<text>中尉 卡马洛夫</text>
+	</string>
+        <!-----------------"Темная Долина"------------------->
+	<string id="val_b1_base_commander_name">
+		<text>牛头犬</text>
+	</string>
+	<string id="val_b2_accompany_guider_name">
+		<text>沃尔特</text>
+	</string>
+	<string id="val_b2_base_leader_name">
+		<text>阿库洛夫</text>
+	</string>
+	<string id="val_b2_assault_b1_commander_name">
+		<text>塔拉斯</text>
+	</string>
+	<string id="val_b2_leviafan_name">
+		<text>利维坦</text>
+	</string>
+	<string id="val_b2_employer_name">
+		<text>埃尔达尔</text>
+	</string>
+	<string id="val_b3_base_commander_1_name">
+		<text>锅炉</text>
+	</string>
+	<string id="val_b3_base_commander_2_name">
+		<text>野牛</text>
+	</string>
+	<string id="val_b3_base_commander_3_name">
+		<text>凯撒</text>
+	</string>
+	<string id="val_b3_base_guard_chief_name">
+		<text>地狱犬</text>
+	</string>
+	<string id="val_b4_baltazar_name">
+		<text>巴尔塔扎尔</text>
+	</string>
+	<string id="val_b4_base_commander_name">
+		<text>大锤</text>
+	</string>
+	<string id="val_b11_outpost_commander_name">
+		<text>库利科夫</text>
+	</string>
+	<string id="val_b12_outpost_commander_name">
+		<text>日达诺夫</text>
+	</string>
+	<string id="val_b14_outpost_commander_name">
+		<text>狮子座</text>
+	</string>
+        <!-----------------"Военные Склады"------------------->
+	<string id="mil_b7_base_leader_name">
+		<text>造物主</text>
+	</string>
+	<string id="mil_b7_base_chief_name">
+		<text>雷克斯</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_name">
+		<text>弗拉德 原型体</text>
+	</string>
+	<string id="mil_b7_night_stalker_leader_name">
+		<text>莫滕</text>
+	</string>
+	<string id="mil_b7_employer_name">
+		<text>头子</text>
+	</string>
+	<string id="mil_b7_trader_name">
+		<text>怪老头</text>
+	</string>
+	<string id="mil_b7_bankir_name">
+		<text>阿福丹泽尔</text>
+	</string>
+        <!-----------------"Агропром"------------------->
+	<string id="agr_b1_base_commander_name">
+		<text>队长苏沃洛夫</text>
+	</string>
+	<string id="agr_b2_base_commander_name">
+		<text>少校 特威德和列波夫</text>
+	</string>
+	<string id="agr_authorities_agent_name">
+		<text>探员 迪米特里克</text>
+	</string>
+        <!-----------------"Подземелья Агропрома"------------------->
+	<string id="agru_dead_ecolog_name">
+		<text>乌鸦 教授</text>
+	</string>

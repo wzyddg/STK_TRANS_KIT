@@ -1,0 +1,703 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+<string id="mil_meet_with_morten_title0">
+<text>参观新基地: 和莫滕对话</text>
+</string>
+<string id="mil_meet_with_morten_text0">
+<text>阿库洛夫派我到: 新基地来和莫滕对话.</text>
+</string>
+<string id="agr_research_heli_1_crash_text0">
+<text>调查“SKAT6”直升机的坠毁地点.</text>
+</string>
+<string id="agr_research_heli_1_crash_title0">
+<text>刺鳐6: 在坠机现场调查</text>
+</string>
+<string id="agr_research_heli_2_crash_text0">
+<text>调查“SKAT7”直升机的坠毁地点.</text>
+</string>
+<string id="agr_research_heli_2_crash_title0">
+<text>刺鳐7: 在坠机现场调查</text>
+</string>
+
+<string id="esc_army_halt_1_text0">
+<text>检查他们营地的区域.</text>
+</string>
+<string id="esc_army_halt_1_title0">
+<text>军营: 调查休息点</text>
+</string>
+<string id="esc_army_halt_2_text0">
+<text>检查他们营地的区域.</text>
+</string>
+<string id="esc_army_halt_2_title0">
+<text>军营: 调查休息点</text>
+</string>
+<string id="esc_army_halt_3_text0">
+<text>检查他们营地的区域.</text>
+</string>
+<string id="esc_army_halt_3_title0">
+<text>军营: 调查休息点</text>
+</string>
+<string id="esc_atp_annex_text0">
+<text>攻击ATP,这是一个土匪基地.行动最好在黑夜.你将不得不等到夜间.</text>
+</string>
+<string id="esc_atp_annex_text1">
+<text>到达指定的地点</text>
+</string>
+<string id="esc_atp_annex_text2">
+<text>开始攻击.</text>
+</string>
+<string id="esc_atp_annex_text3">
+<text>消灭在ATP的土匪.</text>
+</string>
+<string id="esc_atp_annex_text4">
+<text>在ATP应该有一个保险箱.你需要找到它.</text>
+</string>
+<string id="esc_atp_annex_text5">
+<text>打开保险箱,你需要在这区域寻找一把钥匙.</text>
+</string>
+<string id="esc_atp_annex_text6">
+<text>使用密钥和检查保险箱.</text>
+</string>
+<string id="esc_atp_annex_text7">
+<text>带给梅德韦杰夫在ATP保险箱的东西.</text>
+</string>
+<string id="esc_atp_annex_title0">
+<text>封锁: 等待深夜</text>
+</string>
+<string id="esc_atp_annex_title1">
+<text>封锁: 就位</text>
+</string>
+<string id="esc_atp_annex_title2">
+<text>封锁: 开始行动</text>
+</string>
+<string id="esc_atp_annex_title3">
+<text>封锁: 夺取ATP</text>
+</string>
+<string id="esc_atp_annex_title4">
+<text>封锁: 寻找土匪的保险箱</text>
+</string>
+<string id="esc_atp_annex_title5">
+<text>封锁: 找到一种方法,打开保险箱</text>
+</string>
+<string id="esc_atp_annex_title6">
+<text>封锁: 打开保险箱</text>
+</string>
+<string id="esc_atp_annex_title7">
+<text>封锁: 带给梅德韦杰夫U盘</text>
+</string>
+<string id="esc_blockpost_protection_text0">
+<text>帮助潜行者打击突变体.</text>
+</string>
+<string id="esc_blockpost_protection_text1">
+<text>拿取一个存储盒中放的奖励.</text>
+</string>
+<string id="esc_blockpost_protection_title0">
+<text>检查点的防御: 保护这里</text>
+</string>
+<string id="esc_blockpost_protection_title1">
+<text>检查站: 得到您的奖励</text>
+</string>
+<string id="esc_introduction_kordon_text0">
+<text>有人告诉我,抵达时找到梅德韦杰夫.他一定是在检查站的基地.我访问封锁线的目的是要找出最近在该地区失踪,执行任务的士兵发生了什么事.</text>
+</string>
+<string id="esc_introduction_kordon_title0">
+<text>封锁线: 寻找前哨指挥官</text>
+</string>
+<string id="esc_lull_before_borax_text0">
+<text>对付攻击潜行者的盲犬.</text>
+</string>
+<string id="esc_lull_before_borax_text1">
+<text>对付一群正朝着自己来的突变体.</text>
+</string>
+<string id="esc_lull_before_borax_text2">
+<text>他们决定扑杀豚兽</text>
+</string>
+<string id="esc_lull_before_borax_text3">
+<text>现在对付烦恼当地人的野猪.</text>
+</string>
+<string id="esc_lull_before_borax_text4">
+<text>去梅德韦杰夫领奖励.</text>
+</string>
+
+<string id="esc_lull_before_borax_title0">
+<text>狩猎突变体: 有一群盲犬要消灭</text>
+</string>
+<string id="esc_lull_before_borax_title1">
+<text>狩猎突变体: 消灭接近的突变体</text>
+</string>
+<string id="esc_lull_before_borax_title2">
+<text>狩猎突变体: 清除豚兽</text>
+</string>
+<string id="esc_lull_before_borax_title3">
+<text>狩猎突变体: 清除野猪</text>
+</string>
+<string id="esc_lull_before_borax_title4">
+<text>狩猎突变体: 获得奖励</text>
+</string>
+<string id="esc_renew_spares_text0">
+<text>路障的指挥官梅德韦杰夫让我从储物盒拿取一些用品.我需要弹药.</text>
+</string>
+<string id="esc_renew_spares_text1">
+<text>我需要与指挥官讨论检查点近期的行动细节.</text>
+</string>
+<string id="esc_renew_spares_title0">
+<text>装备: 补充弹药供应</text>
+</string>
+<string id="esc_renew_spares_title1">
+<text>装备: 与梅德韦杰夫交谈</text>
+</string>
+<string id="esc_spy_meeting_text0">
+<text>到达会面地点.</text>
+</string>
+<string id="esc_spy_meeting_text1">
+<text>找别洛乌索夫,并询问他的军队.</text>
+</string>
+<string id="esc_spy_meeting_title0">
+<text>会见侦察兵: 去寻找别洛乌索夫</text>
+</string>
+<string id="esc_spy_meeting_title1">
+<text>会见侦察兵: 对话别洛乌索夫</text>
+</string>
+<string id="esc_uncoupling_text0">
+<text>叶尔马克应该是在南部检查站.别洛乌索夫说,潜行者知道军队出现在封锁线,因为他为他们修理武器.</text>
+</string>
+
+<string id="esc_uncoupling_text1">
+<text>叶尔马克给我封锁线三个地方的坐标.他说,前往沼泽的军队,在这些地方露营.</text>
+</string>
+<string id="esc_uncoupling_text2">
+<text>我找到的一些信息表明军方被土匪袭击.幸存者逃往沼泽.我要跟着他们.</text>
+</string>
+<string id="esc_uncoupling_title0">
+<text>轨道上: 对话叶尔马克</text>
+</string>
+<string id="esc_uncoupling_title1">
+<text>轨道上: 检查一些地方</text>
+</string>
+<string id="esc_uncoupling_title2">
+<text>轨道上: 去沼泽</text>
+</string>
+<string id="esc_village_annex_text0">
+<text>帮助潜行者占领村庄.</text>
+</string>
+<string id="esc_village_annex_text1">
+<text>已占领村庄.然而,一些暴徒决定作出仓促撤退.阻止他们.</text>
+</string>
+<string id="esc_village_annex_text2">
+<text>在这个村子里很多侦察兵和潜行者被土匪处决.留下自己的身体作为一个警告,直到野兽拖他们去吃.其中死者铁木尔是梅德韦杰夫亲密的朋友.我要找到他的遗体.</text>
+</string>
+<string id="esc_village_annex_text3">
+<text>有报告,在村里 - 有人藏匿C4的爆炸装置.没有它,通往地下室的门不能打开.</text>
+</string>
+<string id="esc_village_annex_text4">
+<text>在门口放C4.</text>
+</string>
+<string id="esc_village_annex_text5">
+<text>使用遥控引爆炸弹.</text>
+</string>
+<string id="esc_village_annex_text6">
+<text>搜索地下室,必需的.</text>
+</string>
+<string id="esc_village_annex_text7">
+<text>在地窖里你发现了铁木尔的尸体.他有一个U盘,拿给梅德韦杰夫.</text>
+</string>
+
+<string id="esc_village_annex_text8">
+<text>在地下室的爆炸和死人的气味吸引了突变体.必需对付它们.</text>
+</string>
+<string id="esc_village_annex_text9">
+<text>这个村子是潜行者的了.铁木尔的U盘已被发现,所以你可以回去报告梅德韦杰夫.</text>
+</string>
+<string id="esc_village_annex_title0">
+<text>果断行动: 支援当地的潜行者</text>
+</string>
+<string id="esc_village_annex_title1">
+<text>果断行动: 赶上撤退的敌人</text>
+</string>
+<string id="esc_village_annex_title2">
+<text>果断行动: 找到铁木尔尸体</text>
+</string>
+<string id="esc_village_annex_title3">
+<text>果断行动: 寻找爆炸物</text>
+</string>
+<string id="esc_village_annex_title4">
+<text>果断行动: 装炸药</text>
+</string>
+<string id="esc_village_annex_title5">
+<text>果断行动: 引爆</text>
+</string>
+<string id="esc_village_annex_title6">
+<text>果断行动: 立即调查地下室</text>
+</string>
+<string id="esc_village_annex_title7">
+<text>果断行动: 送U盘给梅德韦杰夫</text>
+</string>
+<string id="esc_village_annex_title8">
+<text>果断行动: 狙杀突变体,保卫村庄</text>
+</string>
+<string id="esc_village_annex_title9">
+<text>果断行动: 回去报告行动成功</text>
+</string>
+<string id="esc_whimsical_artefact_text0">
+<text>商人要求我找到一个被称为"歌剧帽子"封锁线神器.必须找到这个神器.</text>
+</string>
+
+<string id="esc_whimsical_artefact_text1">
+<text>神器已被发现.你需要送它给封锁线商人.</text>
+</string>
+<string id="esc_whimsical_artefact_title0">
+<text>奇怪神器: 寻找神器</text>
+</string>
+<string id="esc_whimsical_artefact_title1">
+<text>奇怪神器: 送回神器</text>
+</string>
+
+<string id="jup_darkvalley_travel_bubble_text0">
+<text>从总参谋部来一个新的工作.命令要求你前往黑暗山谷,寻找一个SBU探员和丢失的国家重要文件.此外,据报道有人在木星附近看到一个空间异常点.如果使用得当,可以传送一个人到任何地方.司令部相信,我可以用这种不正常现象到黑暗山谷.到黑暗山谷的其他路径是尚未发现.</text>
+</string>
+<string id="jup_darkvalley_travel_bubble_title0">
+<text>空间传送器: 找到一个空间异常点</text>
+</string>
+
+<string id="jup_examine_caravan_text0">
+<text>基地不远处有一群佣兵需要帮助对付巨型地狱犬.</text>
+</string>
+<string id="jup_examine_caravan_text1">
+<text>对付巨型地狱犬.</text>
+</string>
+<string id="jup_examine_caravan_text2">
+<text>佣兵的贵重货物,我需要捡起来.</text>
+</string>
+<string id="jup_examine_caravan_text3">
+<text>交货,你就可以得到奖励.</text>
+</string>
+<string id="jup_examine_caravan_title0">
+<text>护送队: 提供支援</text>
+</string>
+<string id="jup_examine_caravan_title1">
+<text>杀死怪物</text>
+</string>
+<string id="jup_examine_caravan_title2">
+<text>护送队: 寻找货物</text>
+</string>
+<string id="jup_examine_caravan_title3">
+<text>护送队: 货物给摩尔法拉</text>
+</string>
+
+
+<string id="jup_liquidate_valet_text0">
+<text>摩尔法拉希望你对付他很长一段时间里的敌人杰克.必需向他开枪.</text>
+</string>
+<string id="jup_liquidate_valet_text1">
+<text>对话摩尔法拉.</text>
+</string>
+<string id="jup_liquidate_valet_title0">
+<text>杰克的攻击: 杀死杰克</text>
+</string>
+<string id="jup_liquidate_valet_title1">
+<text>杰克的攻击: 作报告</text>
+</string>
+
+<string id="jup_rasvet_destroy_snorks_text2">
+<text>检测到微弱信号,也许有些人还活着.你需要尝试帮助他们.</text>
+</string>
+<string id="jup_rasvet_destroy_snorks_text3">
+<text>突变体攻击下设法生存的探员之一,帮助他回到基地</text>
+</string>
+<string id="jup_rasvet_destroy_snorks_text4">
+<text>巢穴已被销毁,一个探员被救.所以你需要去见纳扎尔领奖励</text>
+</string>
+
+<string id="jup_rasvet_destroy_snorks_title2">
+<text>危险的工作: 追踪PDA信号</text>
+</string>
+<string id="jup_rasvet_destroy_snorks_title3">
+<text>危险的工作: 护送幸存者回到基地</text>
+</string>
+<string id="jup_rasvet_destroy_snorks_title4">
+<text>危险的工作: 报告纳扎尔</text>
+</string>
+
+<string id="jup_weak_lighthouse_text0">
+<text>佣兵在木星设立的重要藏匿处,因经手者离开而下落不明.随着时间的推移,它的GPS信号减弱,你得足够接近它.</text>
+</string>
+<string id="jup_weak_lighthouse_text1">
+<text>跟随信号,发现你需要查看的藏匿处.</text>
+</string>
+<string id="jup_weak_lighthouse_text2">
+<text>藏匿处被锁定,你需要对话摩尔法拉.</text>
+</string>
+<string id="jup_weak_lighthouse_text3">
+<text>摩尔法拉需要你指明哪里,因为他们知道如何打开.</text>
+</string>
+<string id="jup_weak_lighthouse_text4">
+<text>对话摩尔法拉.</text>
+</string>
+<string id="jup_weak_lighthouse_title0">
+<text>微弱信标: 寻找木星工厂藏匿处</text>
+</string>
+<string id="jup_weak_lighthouse_title1">
+<text>微弱信标: 检查藏匿处</text>
+</string>
+<string id="jup_weak_lighthouse_title2">
+<text>微弱信标: 对话摩尔法拉</text>
+</string>
+<string id="jup_weak_lighthouse_title3">
+<text>微弱信标: 您需要帮手去藏匿处</text>
+</string>
+<string id="jup_weak_lighthouse_title4">
+<text>微弱信标: 返回基地</text>
+</string>
+<string id="mar_army_cargo_text0">
+<text>我发现,他们被土匪袭击,货物被盗.我需要找到土匪.</text>
+</string>
+<string id="mar_army_cargo_text1">
+<text>有一个雷区保护土匪基地.用地雷探测器,我可以自由地接近到土匪基地.</text>
+</string>
+<string id="mar_army_cargo_text1_2">
+<text>军队货物,搜索机器厂有关它的信息.</text>
+</string>
+<string id="mar_army_cargo_text2">
+<text>我没有在基地找到军队货物,它似乎被土匪藏在别处.必需再次寻求潜行者援助.</text>
+</string>
+
+<string id="mar_army_cargo_text3">
+<text>巴格拉季昂劝我求助马卡连柯技师,他会制作探地雷达以搜索货物</text>
+</string>
+<string id="mar_army_cargo_text4">
+<text>马卡连柯决定帮我,他会组装雷达,但它需要一定的时间</text>
+</string>
+<string id="mar_army_cargo_text5">
+<text>您收到一条消息,来自技师,探地雷达已准备.</text>
+</string>
+<string id="mar_army_cargo_text6">
+<text>使用探地雷达搜索,希望你可以在沼泽检测到军队货物</text>
+</string>
+<string id="mar_army_cargo_text7">
+<text>军队货物,应该交到SBU探员,直行到会合点给他</text>
+</string>
+<string id="mar_army_cargo_text8">
+<text>去河湾</text>
+</string>
+<string id="mar_army_cargo_title0">
+<text>军队货物: 找到军队货物</text>
+</string>
+<string id="mar_army_cargo_title1">
+<text>军队货物: 渗透到土匪基地</text>
+</string>
+<string id="mar_army_cargo_title1_2">
+<text>军队货物: 找到军队货物</text>
+</string>
+<string id="mar_army_cargo_title2">
+<text>军队货物: 谈谈巴格拉季昂</text>
+</string>
+<string id="mar_army_cargo_title3">
+<text>军队货物: 查找泵站技工</text>
+</string>
+<string id="mar_army_cargo_title4">
+<text>军队货物: 来自技工消息</text>
+</string>
+<string id="mar_army_cargo_title5">
+<text>军队货物: 收探地雷达</text>
+</string>
+
+<string id="mar_army_cargo_title6">
+<text>军队货物: 找到军事货物</text>
+</string>
+<string id="mar_army_cargo_title7">
+<text>军队货物: 交给探员</text>
+</string>
+<string id="mar_army_cargo_title8">
+<text>军队货物: 去扎通</text>
+</string>
+<string id="mar_capture_church_text0">
+<text>潜行者要求支援他们,从土匪手里夺回老教堂</text>
+</string>
+<string id="mar_capture_church_text1">
+<text>对话潜行者指挥官</text>
+</string>
+<string id="mar_capture_church_title0">
+<text>支援盟友: 帮助潜行者夺回教堂</text>
+</string>
+<string id="mar_capture_church_title1">
+<text>支援盟友: 领奖励返回</text>
+</string>
+<string id="mar_find_army_squad_text0">
+<text>军方应该在沼泽,你需要找到他们.</text>
+</string>
+<string id="mar_find_army_squad_title0">
+<text>沼泽湿地: 寻找军队的人员</text>
+</string>
+<string id="mar_mine_detector_text0">
+<text>关于地雷探测器,对话叶尔马克.他应该帮助</text>
+</string>
+<string id="mar_mine_detector_text1">
+<text>进入沼泽找到传感器给叶尔马克</text>
+</string>
+<string id="mar_mine_detector_text2">
+<text>送传感器给叶尔马克,这样他就可以收集起来作地雷探测器</text>
+</string>
+<string id="mar_mine_detector_text3">
+<text>你必须等到叶尔马克搜集材料制作地雷探测器</text>
+</string>
+<string id="mar_mine_detector_text4">
+<text>扫雷探测器准备了.</text>
+</string>
+<string id="mar_mine_detector_title0">
+<text>扫雷: 对话叶尔马克</text>
+</string>
+<string id="mar_mine_detector_title1">
+<text>扫雷: 取地雷探测器</text>
+</string>
+<string id="mar_mine_detector_title2">
+<text>扫雷: 传感器送给叶尔马克</text>
+</string>
+<string id="mar_mine_detector_title3">
+<text>扫雷: 等待订件</text>
+</string>
+<string id="mar_mine_detector_title4">
+<text>扫雷: 拿地雷探测器</text>
+</string>
+
+<string id="red_psyho_text0">
+<text>捕手要我去见碉堡的科学家.有一个紧急工作需要信任的人去做.</text>
+</string>
+<string id="red_psyho_text1">
+<text>科学家告诉我,潜行者最近打开一个新的路径.它通向红树林.之后立即变得众所周知,科学家在雇佣军的保护派出两个研究小组,以进行一些实验,可能只是有关地区.远征没有人回来,失去了与他们的关系.我要回去找科研队伍.</text>
+</string>
+<string id="red_psyho_text10">
+<text>调查研究小组去的每个地方</text>
+</string>
+<string id="red_psyho_text11">
+<text>为了生存与脑波怪战斗.</text>
+</string>
+<string id="red_psyho_text12">
+<text>躲避地雷检查脑波怪的巢穴.</text>
+</string>
+<string id="red_psyho_text13">
+<text>把信息交给碉堡的科学家们.</text>
+</string>
+<string id="red_psyho_text2">
+<text>去最后一次信号发送的地方.</text>
+</string>
+<string id="red_psyho_text3">
+<text>据科学家尸体的信息,第二组探险队去测试一种新的药物,在巫婆的异常点.你应该检查这个地方.</text>
+</string>
+<string id="red_psyho_text4">
+<text>不能去试验药物的地方 - 最强的PSY-射线的干扰.我必须返回木星.</text>
+</string>
+<string id="red_psyho_text5">
+<text>你需要告诉科学家他们所看到的.</text>
+</string>
+<string id="red_psyho_text6">
+<text>需要囤积药物,Psy药物十件.</text>
+</string>
+<string id="red_psyho_text7">
+<text>去红树林</text>
+</string>
+<string id="red_psyho_text8">
+<text>调查研究小组去的每个地方.</text>
+</string>
+<string id="red_psyho_text9">
+<text>调查研究小组去的每个地方.</text>
+</string>
+<string id="red_psyho_title0">
+<text>不明情况: 和科学家谈</text>
+</string>
+<string id="red_psyho_title1">
+<text>红色危险: 去红树林</text>
+</string>
+<string id="red_psyho_title10">
+<text>红色危险: 检查科学家去的地方</text>
+</string>
+<string id="red_psyho_title11">
+<text>红色危险: 消灭脑波怪</text>
+</string>
+<string id="red_psyho_title12">
+<text>红色危险: 躲避地雷探索脑波怪巢穴</text>
+</string>
+<string id="red_psyho_title13">
+<text>红色危险: 对话科学家</text>
+</string>
+<string id="red_psyho_title2">
+<text>红色危险: 检查远征队最后知道的位置</text>
+</string>
+<string id="red_psyho_title3">
+<text>红色危险: 去试验场</text>
+</string>
+<string id="red_psyho_title4">
+<text>红色危险: 离开红树林</text>
+</string>
+<string id="red_psyho_title5">
+<text>红色危险: 对话科学家</text>
+</string>
+<string id="red_psyho_title6">
+<text>红色危险: 准备远足红树林</text>
+</string>
+<string id="red_psyho_title7">
+<text>红色危险: 去红树林</text>
+</string>
+<string id="red_psyho_title8">
+<text>红色危险: 检查科学家去的地方</text>
+</string>
+<string id="red_psyho_title9">
+<text>红色危险: 检查科学家去的地方</text>
+</string>
+
+<string id="zat_alfa_sabotage_text0">
+<text>从PDA上的信息,一些土匪为一些任务去钢铁森林拿报酬,我要找出谁下令.</text>
+</string>
+<string id="zat_alfa_sabotage_text1">
+<text>嗯,哦......我要对付他们.</text>
+</string>
+<string id="zat_alfa_sabotage_text10">
+<text>基正在全心打造设备现在你能做的就是等待.</text>
+</string>
+<string id="zat_alfa_sabotage_text11">
+<text>从基获取扫描仪和支付他的工作.</text>
+</string>
+<string id="zat_alfa_sabotage_text12">
+<text>探索木星和扎通人口密集地区,发现所有的爆炸装置.</text>
+</string>
+<string id="zat_alfa_sabotage_text13">
+<text>已发现和解除所有的炸弹,得救的人想给你一个奖励.</text>
+</string>
+<string id="zat_alfa_sabotage_text14">
+<text>所有炸弹已成功清除,不再处于危险之中的潜行者,要给你奖励.</text>
+</string>
+<string id="zat_alfa_sabotage_text2">
+<text>在钢铁森林我不得不处理一些阿尔法,他们雇用土匪的.我需要证明,我应搜索阿尔法的身体.</text>
+</string>
+<string id="zat_alfa_sabotage_text3">
+<text>很明显土匪打算对付斯卡多夫斯克,他们可能送进炸弹.或许有人发现了一些不寻常的现象,我需要和他们谈谈,问问知道什么.</text>
+</string>
+<string id="zat_alfa_sabotage_text4">
+<text>胡子告诉我,他看到两个土匪在斯卡多夫斯克时携带一个盒子,他推测,他们出售某种东西,并建议我去对话猫头鹰</text>
+</string>
+<string id="zat_alfa_sabotage_text5">
+<text>从我与猫头鹰对话推测,两个土匪没携带东西出去,显然其中之一臭气冲天仿佛他一直在煤油中洗澡,我们需要搜查上层甲板上的炸弹.</text>
+</string>
+
+<string id="zat_alfa_sabotage_text6">
+<text>去问卡丹如何解除炸弹.</text>
+</string>
+<string id="zat_alfa_sabotage_text7">
+<text>卡丹没有信心解除炸弹,建议我去找亚诺车站的基</text>
+</string>
+<string id="zat_alfa_sabotage_text8">
+<text>基可以制造一个设备探测阿尔法的炸弹,,他要我找一个无线电设备.</text>
+</string>
+<string id="zat_alfa_sabotage_text9">
+<text>找基拿无线电和订购扫描仪.</text>
+</string>
+<string id="zat_alfa_sabotage_title0">
+<text>对付阿尔法: 查看预先安排的碰面地点</text>
+</string>
+<string id="zat_alfa_sabotage_title1">
+<text>对付阿尔法: 消灭敌人</text>
+</string>
+<string id="zat_alfa_sabotage_title10">
+<text>对付阿尔法: 需要时间完成</text>
+</string>
+<string id="zat_alfa_sabotage_title11">
+<text>对付阿尔法: 支付您的订单</text>
+</string>
+<string id="zat_alfa_sabotage_title12">
+<text>对付阿尔法: 探索木星和扎通的所有人群密集的地区</text>
+</string>
+
+<string id="zat_alfa_sabotage_title12_2">
+<text>对付阿尔法: 继续寻找炸弹</text>
+</string>
+<string id="zat_alfa_sabotage_title12_3">
+<text>对付阿尔法: 继续寻找炸弹</text>
+</string>
+<string id="zat_alfa_sabotage_title12_4">
+<text>对付阿尔法: 继续寻找炸弹</text>
+</string>
+<string id="zat_alfa_sabotage_title12_5">
+<text>对付阿尔法: 继续寻找炸弹</text>
+</string>
+<string id="zat_alfa_sabotage_title13">
+<text>对付阿尔法: 从亚诺车站接受奖励</text>
+</string>
+<string id="zat_alfa_sabotage_title14">
+<text>对付阿尔法: 从斯卡多夫斯克接受奖励</text>
+</string>
+<string id="zat_alfa_sabotage_title2">
+<text>对付阿尔法: 搜阿尔法尸体</text>
+</string>
+<string id="zat_alfa_sabotage_title3">
+<text>对付阿尔法: 与斯卡多夫斯克居民交谈</text>
+</string>
+<string id="zat_alfa_sabotage_title4">
+<text>对付阿尔法: 对话猫头鹰</text>
+</string>
+<string id="zat_alfa_sabotage_title5">
+<text>对付阿尔法: 搜索上甲板</text>
+</string>
+<string id="zat_alfa_sabotage_title6">
+<text>对付阿尔法: 与技师交谈</text>
+</string>
+<string id="zat_alfa_sabotage_title7">
+<text>对付阿尔法: 与基交谈</text>
+</string>
+<string id="zat_alfa_sabotage_title8">
+<text>对付阿尔法: 找到一个无线电设备</text>
+</string>
+<string id="zat_alfa_sabotage_title9">
+<text>对付阿尔法: 订扫描器</text>
+</string>
+
+<string id="zat_carrying_antidote_text0">
+<text>要求拿解毒剂,交给接骨师.</text>
+</string>
+<string id="zat_carrying_antidote_text1">
+<text>领送解药的奖赏.</text>
+</string>
+<string id="zat_carrying_antidote_title0">
+<text>解毒剂: 交给接骨师</text>
+</string>
+<string id="zat_carrying_antidote_title1">
+<text>解毒剂: 领赏</text>
+</string>
+
+
+<string id="zat_mad_dog_text0">
+<text>消灭阿尔法小队,最后一次看到这个特殊的集团,是在附近的钢铁森林异常点.</text>
+</string>
+<string id="zat_mad_dog_text1">
+<text>阿尔法小队已被消灭,首领尸体发现PDA,我现在需要给剑.</text>
+</string>
+<string id="zat_mad_dog_title0">
+<text>疯狗: 对付阿尔法小队</text>
+</string>
+<string id="zat_mad_dog_title1">
+<text>疯狗: 搜索阿尔法首领</text>
+</string>
+
+<string id="zat_wisdom_books_text0">
+<text>找回线人的智慧的三本书.</text>
+</string>
+<string id="zat_wisdom_books_text1">
+<text>继续搜索,发现第二本书.</text>
+</string>
+<string id="zat_wisdom_books_text2">
+<text>继续搜索,现在发现第三本书.</text>
+</string>
+<string id="zat_wisdom_books_text3">
+<text>你现在需要送还线人智慧三本书.</text>
+</string>
+<string id="zat_wisdom_books_title0">
+<text>智慧: 找三本书</text>
+</string>
+<string id="zat_wisdom_books_title1">
+<text>智慧: 找三本书</text>
+</string>
+<string id="zat_wisdom_books_title2">
+<text>智慧: 找三本书</text>
+</string>
+<string id="zat_wisdom_books_title3">
+<text>智慧: 送回智慧书</text>
+</string>
+</string_table>

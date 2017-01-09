@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+<string id="st_book_for_knife_title">
+<text>Knife tactics</text>
+</string>
+<string id="st_book_for_knife_descr">
+<text>Documents, drawings, books - all described in detail how to use knives. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_ak74_title">
+<text>Battle tactics 'AKM-74'</text>
+</string>
+<string id="st_book_for_ak74_descr">
+<text>Documents, drawings, books - all of which help to master the automatic AKM-74. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_ak74u_title">
+<text>Battle tactics 'AKS-74U'</text>
+</string>
+<string id="st_book_for_ak74u_descr">
+<text>Documents, drawings, books - all of which help to master the AKS-74U. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_pkm_title">
+<text>The tactics of warfare, 'RP-74'</text>
+</string>
+<string id="st_book_for_pkm_descr">
+<text>Documents, drawings, books - all of which help to master the RP-74. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_abakan_title">
+<text>Battle tactics AN-94 'Abakan'</text>
+</string>
+<string id="st_book_for_abakan_descr">
+<text>Documents, drawings, books - all of which help to master the machine AN-94 'Abakan'. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_beretta_title">
+<text>The tactics of warfare, 'Beretta'</text>
+</string>
+<string id="st_book_for_beretta_descr">
+<text>Documents, drawings, books - all of which help to master the Beretta pistol. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_bm16_title">
+<text>Battle tactics 'Bm16'</text>
+</string>
+<string id="st_book_for_bm16_descr">
+<text>Documents, drawings, books - all of which help to master the Bm16. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_toz34_title">
+<text>Battle tactics 'TOZ-34'</text>
+</string>
+<string id="st_book_for_toz34_descr">
+<text>Documents, drawings, books - all of which help to master the TOZ-34. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_wincheaster1300_title">
+<text>Battle tactics 'Chaser-13'</text>
+</string>
+<string id="st_book_for_wincheaster1300_descr">
+<text>Documents, drawings, books - all of which help to master the Chaser-13. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_spas12_title">
+<text>Battle tactics 'SPAS 12'</text>
+</string>
+<string id="st_book_for_spas12_descr">
+<text>Documents, drawings, books - all of which help to master the SPAS 12. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_svd_title">
+<text>Battle tactics 'SVD'</text>
+</string>
+<string id="st_book_for_svd_descr">
+<text>Documents, drawings, books - all of which help to master the SVD. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_svu_title">
+<text>The tactics of warfare, 'SVU'</text>
+</string>
+<string id="st_book_for_svu_descr">
+<text>Documents, drawings, books - all of which help to master the SVU. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_colt1911_title">
+<text>The tactics of warfare, 'Colt'</text>
+</string>
+<string id="st_book_for_colt1911_descr">
+<text>Documents, drawings, books - all of which help to master the Colt pistol. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_desert_eagle_title">
+<text>The tactics of warfare, 'Desert eagle'</text>
+</string>
+<string id="st_book_for_desert_eagle_descr">
+<text>Documents, drawings, books - all of which help to master the Desert eagle. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_fn2000_title">
+<text>Battle tactics 'FN-F2000'</text>
+</string>
+<string id="st_book_for_fn2000_descr">
+<text>Documents, drawings, books - all of which help to master the FN-F2000. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_fort_title">
+<text>Battle tactics 'FORT-12'</text>
+</string>
+<string id="st_book_for_fort_descr">
+<text>Documents, drawings, books - all of which help to master the gun FORT-12. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_hpsa_title">
+<text>Battle tactics 'HPSS-1m '</text>
+</string>
+<string id="st_book_for_hpsa_descr">
+<text>Documents, drawings, books - all of which help to master the gun HPSS-1m. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_pb_title">
+<text>The tactics of warfare, 'PB-1'</text>
+</string>
+<string id="st_book_for_pb_descr">
+<text>Documents, drawings, books - all of which help to master the PB-1. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_pm_title">
+<text>The tactics of warfare, 'PMM'</text>
+</string>
+<string id="st_book_for_pm_descr">
+<text>Documents, drawings, books - all of which help to master the PMM. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_sig220_title">
+<text>Battle tactics 'SIG 220'</text>
+</string>
+<string id="st_book_for_sig220_descr">
+<text>Documents, drawings, books - all of which help to master the SIG 220. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_usp_title">
+<text>Battle tactics 'UDP Compact'</text>
+</string>
+<string id="st_book_for_usp_descr">
+<text>Documents, drawings, books - all of which help to master the UDP Compact. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_walther_title">
+<text>Battle tactics 'Walther P9M'</text>
+</string>
+<string id="st_book_for_walther_descr">
+<text>Documents, drawings, books - all of which help to master the Walther P9M. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_g36_title">
+<text>Battle tactics 'HK-G36E'</text>
+</string>
+<string id="st_book_for_g36_descr">
+<text>Documents, drawings, books - all of which help to master the HK-G36E. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_gauss_title">
+<text>Battle tactics 'Gauss rifle EM1'</text>
+</string>
+<string id="st_book_for_gauss_descr">
+<text>Documents, drawings, books - all of which help to master the EM1 rifle. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_groza_title">
+<text>Battle tactics OTS-14 'The Storm'</text>
+</string>
+<string id="st_book_for_groza_descr">
+<text>Documents, drawings, books - all of which help to master the OTS-14 'The Storm'. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_l85_title">
+<text>Battle tactics 'L85'</text>
+</string>
+<string id="st_book_for_l85_descr">
+<text>Documents, drawings, books - all of which help to master the L85. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_lr300_title">
+<text>Battle tactics 'LR-300'</text>
+</string>
+<string id="st_book_for_lr300_descr">
+<text>Documents, drawings, books - all of which help to master the LR-300 rifle. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_mp5_title">
+<text>The tactics of warfare, 'MP-5'</text>
+</string>
+<string id="st_book_for_mp5_descr">
+<text>Documents, drawings, books - all of which help to master the MP-5. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_rg-6_title">
+<text>Battle tactics 'Bulldog 6'</text>
+</string>
+<string id="st_book_for_rg-6_descr">
+<text>Documents, drawings, books - all of which help to master the Bulldog 6. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_rpg7_title">
+<text>Battle tactics 'RPG-7V'</text>
+</string>
+<string id="st_book_for_rpg7_descr">
+<text>Documents, drawings, books - all of which help to master the RPG-7V. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_sig550_title">
+<text>The tactics of warfare 'SG-550'</text>
+</string>
+<string id="st_book_for_sig550_descr">
+<text>Documents, drawings, books - all of which help to master SG-550. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_val_title">
+<text>The tactics of warfare, 'Avalanche'</text>
+</string>
+<string id="st_book_for_val_descr">
+<text>Documents, drawings, books - all of which help to master the AS Val. To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_vintorez_title">
+<text>Battle tactics'Vintorez'</text>
+</string>
+<string id="st_book_for_vintorez_descr">
+<text>Documents, drawings, books - all of which help to master the 'Vintorez.' To improve the skills of warfare - use.</text>
+</string>
+<string id="st_book_for_protecta_title">
+<text>Battle tactics 'Protecta'</text>
+</string>
+<string id="st_book_for_protecta_descr">
+<text>Documents, drawings, books - all of which help to master the Protecta. To improve the skills of warfare - use.</text>
+</string>
+</string_table>

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string id="red_forest">
+	<text>Red Forest</text>
+</string>
+ 
+<string id="marsh">
+	<text>Marshes</text>
+</string>
+ 
+<string id="escape">
+	<text>Cordon</text>
+</string>
+ 
+<string id="agroprom">
+	<text>Agriculture</text>
+</string>
+ 
+<string id="agroprom_underground">
+	<text>Dungeons Agroproma</text>
+</string>
+ 
+<string id="military">
+	<text>Military Warehouses</text>
+</string>
+ 
+<string id="darkvalley">
+	<text>Dark Valley</text>
+</string>
+ 
+<string id="l04u_labx18">
+	<text>Laboratory X18</text>
+</string>
+ 
+<string id="st_val_region_1_name">
+	<text>Plant</text>
+</string>
+ 
+<string id="st_val_region_2_name">
+	<text>Farm</text>
+</string>
+ 
+<string id="st_val_region_3_name">
+	<text>Abandoned Base</text>
+</string>
+ 
+<string id="st_val_region_4_name">
+	<text>Island</text>
+</string>
+ 
+<string id="st_val_region_5_name">
+	<text>Old gas station</text>
+</string>
+ 
+<string id="st_val_region_6_name">
+	<text>Checkpoint at the farm</text>
+</string>
+ 
+<string id="st_val_region_7_name">
+	<text>Anomaly 'split'</text>
+</string>
+ 
+<string id="st_val_region_8_name">
+	<text>Checkpoint at the elevator</text>
+</string>
+ 
+<string id="st_val_region_9_name">
+	<text>Trailer on a hill</text>
+</string>
+ 
+<string id="st_val_region_10_name">
+	<text>Outpost</text>
+</string>
+ 
+<string id="st_val_region_11_name">
+	<text>South checkpoint</text>
+</string>
+ 
+<string id="st_val_region_12_name">
+	<text>North checkpoint</text>
+</string>
+ 
+<string id="st_val_region_13_name">
+	<text>Dispatch gas station</text>
+</string>
+ 
+<string id="st_val_region_14_name">
+	<text>Camp at the gas station</text>
+</string>
+ 
+<string id="st_val_region_15_name">
+	<text>Stop</text>
+</string>
+ 
+<string id="st_val_region_16_name">
+	<text>Camp under the ravine</text>
+</string>
+ 
+<string id="st_val_region_17_name">
+	<text>Camp on the hill</text>
+</string>
+ 
+<string id="st_val_region_18_name">
+	<text>Barricade Bridge</text>
+</string>
+ 
+<string id="st_val_region_19_name">
+	<text>Camp among the rocks</text>
+</string>
+ 
+<string id="st_val_smart_terrain_1_go">
+	<text>Heading in the direction of the plant, which is across the bridge.</text>
+</string>
+ 
+<string id="st_val_smart_terrain_2_go">
+	<text>Move to the farm, it is south of the bridge.</text>
+</string>
+ 
+<string id="st_val_smart_terrain_3_go">
+	<text>Move towards an abandoned base.</text>
+</string>
+ 
+<string id="st_val_smart_terrain_4_go">
+	<text>Next in dispatching the gas station.</text>
+</string>
+ 
+<string id="st_val_smart_terrain_5_go">
+	<text>Go to the camp at the gas station.</text>
+</string>
+ 
+<string id="st_val_smart_terrain_6_go">
+	<text>Going to go to the checkpoint at the elevator.</text>
+</string>
+ 
+<string id="st_val_smart_terrain_7_go">
+	<text>I'm going to stop in front of the plant.</text>
+</string>
+ 
+<string id="st_val_smart_terrain_8_go">
+	<text>Following a camp near the ravine.</text>
+</string>
+ 
+<string id="st_val_smart_terrain_9_go">
+	<text>Moves to the trailers on the hill.</text>
+</string>
+ 
+<string id="st_val_smart_terrain_10_go">
+	<text>Going to go to the camp on the hill.</text>
+</string>
+ 
+<string id="st_val_smart_terrain_11_go">
+	<text>Going to go to the southern checkpoint.</text>
+</string>
+ 
+<string id="st_val_smart_terrain_12_go">
+	<text>I move to the northern checkpoint.</text>
+</string>
+ 
+<string id="st_val_smart_terrain_13_go">
+	<text>Following the barricade at the bridge.</text>
+</string>
+ 
+<string id="st_val_smart_terrain_14_go">
+	<text>Move to the checkpoint at the farm.</text>
+</string>
+ 
+<string id="st_val_smart_terrain_15_go">
+	<text>Heading to camp among the rocks.</text>
+</string>
+ 
+<string id="st_mil_region_1_name">
+	<text>Farm</text>
+</string>
+ 
+<string id="st_mil_region_2_name">
+	<text>Village</text>
+</string>
+ 
+<string id="st_mil_region_3_name">
+	<text>Western outpost</text>
+</string>
+ 
+<string id="st_mil_region_4_name">
+	<text>Settlement</text>
+</string>
+ 
+<string id="st_mil_region_5_name">
+	<text>Parking lot</text>
+</string>
+ 
+<string id="st_mil_region_6_name">
+	<text>Eastern outpost</text>
+</string>
+ 
+<string id="st_mil_region_7_name">
+	<text>Base</text>
+</string>
+ 
+<string id="st_agr_region_1_name">
+	<text>Small hut</text>
+</string>
+ 
+<string id="st_agr_region_2_name">
+	<text>Plateau</text>
+</string>
+ 
+<string id="st_agr_region_3_name">
+	<text>East checkpoint</text>
+</string>
+ 
+<string id="st_agr_region_4_name">
+	<text>Bus station</text>
+</string>
+ 
+<string id="st_agr_region_5_name">
+	<text>Military Base</text>
+</string>
+ 
+<string id="st_agr_region_6_name">
+	<text>Halt on the hill</text>
+</string>
+ 
+<string id="st_agr_region_7_name">
+	<text>Outpost</text>
+</string>
+ 
+<string id="st_agr_region_8_name">
+	<text>Headquarters</text>
+</string>
+ 
+<string id="st_agr_region_9_name">
+	<text>Boulders</text>
+</string>
+ 
+<string id="st_esc_region_1_name">
+	<text>South checkpoint</text>
+</string>
+ 
+<string id="st_esc_region_2_name">
+	<text>Village</text>
+</string>
+ 
+<string id="st_esc_region_3_name">
+	<text>Vehicle station</text>
+</string>
+ 
+<string id="st_esc_region_4_name">
+	<text>Bridge</text>
+</string>
+ 
+<string id="st_esc_region_5_name">
+	<text>Base</text>
+</string>
+ 
+<string id="st_esc_region_6_name">
+	<text>North checkpoint</text>
+</string>
+ 
+<string id="st_mar_region_1_name">
+	<text>Outpost</text>
+</string>
+ 
+<string id="st_mar_region_2_name">
+	<text>Pumping station</text>
+</string>
+ 
+<string id="st_mar_region_3_name">
+	<text>Fisherman's Farm</text>
+</string>
+ 
+<string id="st_mar_region_4_name">
+	<text>The Old Church</text>
+</string>
+ 
+<string id="st_mar_region_5_name">
+	<text>Settlement</text>
+</string>
+ 
+<string id="st_mar_region_6_name">
+	<text>Burnt farmstead</text>
+</string>
+ 
+<string id="st_mar_region_7_name">
+	<text>Machine operators yard</text>
+</string>
+ 
+<string id="st_mar_region_8_name">
+	<text>Settlement</text>
+</string>
+ 
+<string id="st_mar_region_9_name">
+	<text>Settlement</text>
+</string>
+ 
+<string id="st_esc_smart_terrain_1_go">
+	<text>Heading to the southern checkpoint.</text>
+</string>
+ 
+<string id="st_esc_smart_terrain_2_go">
+	<text>Heading for the village.</text>
+</string>
+ 
+<string id="st_esc_smart_terrain_3_go">
+	<text>Go to the ATP.</text>
+</string>
+ 
+<string id="st_esc_smart_terrain_5_go">
+	<text>Move to the bridge.</text>
+</string>
+ 
+<string id="st_esc_smart_terrain_6_go">
+	<text>Going to go to the base.</text>
+</string>
+ 
+<string id="st_esc_smart_terrain_7_go">
+	<text>Footprints in the northern outpost.</text>
+</string>
+ 
+<string id="st_mar_smart_terrain_1_go">
+	<text>Going on a fishing hamlet.</text>
+</string>
+ 
+<string id="st_mar_smart_terrain_2_go">
+	<text>Heading to the pumping station.</text>
+</string>
+ 
+<string id="st_mar_smart_terrain_3_go">
+	<text>Following the church.</text>
+</string>
+ 
+<string id="st_mar_smart_terrain_4_go">
+	<text>Go to the yard of machine.</text>
+</string>
+ 
+<string id="st_red_region_1_name">
+	<text>Blockhouse</text>
+</string>
+ 
+<string id="st_red_region_2_name">
+	<text>Damn parking</text>
+</string>
+ 
+<string id="st_red_region_3_name">
+	<text>Dashing trail</text>
+</string>
+ 
+<string id="st_red_region_4_name">
+	<text>Anomaly 'Fairy ring'</text>
+</string>
+ 
+<string id="st_red_region_5_name">
+	<text>Barracks in the mine</text>
+</string>
+ 
+<string id="st_red_region_6_name">
+	<text>Camp beside the road</text>
+</string>
+ 
+<string id="st_red_region_7_name">
+	<text>Camp at the marque</text>
+</string>
+ 
+<string id="st_red_region_8_name">
+	<text>Bus station</text>
+</string>
+ 
+<string id="st_red_region_9_name">
+	<text>Hangar</text>
+</string>
+ 

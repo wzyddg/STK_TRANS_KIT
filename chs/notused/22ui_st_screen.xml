@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="general_expire_task">
+	<text>过去时间:</text>
+	</string>
+<string id="tip_gate_open">
+	    <text>开门</text>
+	</string>
+</string_table>

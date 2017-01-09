@@ -1,0 +1,1983 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+<string id="zat_sich_expiation_sin_3_info_dialog_1">
+	<text>我在找一个信号传输器,你知道哪里可以找到吗?</text>
+</string>
+<string id="zat_sich_expiation_sin_3_info_dialog_2">
+	<text>我听说过有这么个东西,有一次卡丹喝醉了告诉我说木星地区的工程师造出来过一个,他还说如果没他妈的那么重的话对无线电很有用,那东西大概有两百公斤,在工厂里,我不觉得有人能够拿得动它,但是还是有很多人对它感兴趣,你要去的话小心点.</text>
+</string>
+<string id="zat_sich_expiation_sin_3_info_dialog_3">
+	<text>感谢你的消息.</text>
+</string>
+<string id="zat_sich_expiation_sin_3_info_dialog_4">
+	<text>我相信你有什么消息可以和我分享.</text>
+</string>
+<string id="zat_sich_expiation_sin_3_info_dialog_5">
+	<text>谢了.</text>
+</string>
+<string id="zat_sich_expiation_sin_3_info_dialog_6">
+	<text>不.</text>
+</string>
+<string id="zat_sich_expiation_sin_3_info_dialog_7">
+	<text>我没有这么些钱.</text>
+</string>
+<string id="zat_sich_expiation_sin_3_info_dialog_8">
+	<text>这个消息对我很重要.</text>
+</string>
+<string id="zat_sich_expiation_sin_3_info_dialog_9">
+	<text>哈~这个消息值10000卢布,你有兴趣吗?</text>
+</string>
+<string id="zat_sich_expiation_sin_3_info_dialog_10">
+	<text>行.</text>
+</string>
+<string id="zat_sich_expiation_sin_3_info_dialog_11">
+	<text>我听说过有这么个东西,有一次卡丹喝醉了告诉我说木星地区的工程师造出来过一个,他还说如果没他妈的那么重的话对无线电很有用,那东西大概有两百公斤,在工厂里,我不觉得有人能够拿得动它,但是还是有很多人对它感兴趣,你要去的话小心点.</text>
+</string>
+<string id="zat_mechanic_about_not_details_dialog_1">
+	<text>你需要什么样的东西来改造物品?</text>
+</string>
+<string id="zat_mechanic_about_not_details_dialog_2">
+	<text>人和你可以找到的东西,直接带给我,技术方面的问题不成问题,所有的垃圾都可以被我分解掉,就算是神器我也可以用,东西放在你后面的那个箱子就行.</text>
+</string>
+<string id="zat_mechanic_about_not_details_dialog_3">
+	<text>行,我这就去找些垃圾.</text>
+</string>
+<string id="zat_barmen_radio_switch_dialog_1">
+	<text>比尔德,关掉收音机.</text>
+</string>
+<string id="zat_barmen_radio_switch_dialog_2">
+	<text>当然.</text>
+</string>
+<string id="zat_barmen_radio_switch_dialog_3">
+	<text>谢了</text>
+</string>
+<string id="zat_barmen_radio_switch_dialog_4">
+	<text>比尔德,打开收音机.</text>
+</string>
+<string id="zat_barmen_radio_switch_dialog_5">
+	<text>我会打开的.</text>
+</string>
+<string id="zat_barmen_radio_switch_dialog_6">
+	<text>是的,谢谢.</text>
+</string>
+<string id="zat_stalker_medic_expiation_sin_dialog_1">
+	<text>我能问你一些问题吗?</text>
+</string>
+<string id="zat_stalker_medic_expiation_sin_dialog_01">
+	<text>没问题,问吧.</text>
+</string>
+<string id="zat_stalker_medic_expiation_sin_dialog_2">
+	<text> 嘿,你听到过 "生命之水"吗? </text>
+</string>
+<string id="zat_stalker_medic_expiation_sin_dialog_3">
+	<text> 你从没听到过 "生命之水"? </text>
+</string>
+<string id="zat_stalker_medic_expiation_sin_dialog_4">
+	<text> 信息不是免费的,变异区的消息是要花很多钱的. </text>
+</string>
+<string id="zat_stalker_medic_expiation_sin_dialog_5">
+	<text> 这个信息你开价多少? </text>
+</string>
+<string id="zat_stalker_medic_expiation_sin_dialog_6">
+	<text> 有一个我对我来说很特别的医疗包,坐标我是不会给每个人的. </text>
+</string>
+<string id="zat_stalker_medic_expiation_sin_dialog_7">
+	<text> 我会帮你的. </text>
+</string>
+<string id="zat_stalker_medic_expiation_sin_dialog_8">
+	<text> 那么坐标就是这这里,去找吧. </text>
+</string>
+<string id="zat_stalker_medic_expiation_sin_dialog_9">
+	<text> 明白.</text>
+</string>
+<string id="zat_stalker_medic_expiation_sin_dialog_10">
+	<text> 你好啊...你找到我要你带来的东西了吗?</text>
+</string>
+<string id="zat_stalker_medic_expiation_sin_dialog_11">
+	<text> 我能拿到,不过我还在找.</text>
+</string>
+<string id="zat_stalker_medic_expiation_sin_dialog_12">
+	<text> 当然,这里... 那么你知道有什么关于"生命之水"的消息?</text>
+</string>
+<string id="zat_stalker_medic_expiation_sin_dialog_13">
+	<text>科学家的碉堡里面的的Ozersky提到过,它看起来是水,不过据早期潜行者传说,它能够复活死人.Ozersky比我知道更多,去问他吧.</text>
+</string>
+<string id="zat_stalker_medic_expiation_sin_dialog_14">
+	<text>感谢你的消息.</text>
+</string>
+<string id="zat_stalker_medic_expiation_sin_dialog_15">
+	<text>我会回来找你要更多任务的.</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_1">
+	<text>你要去哪里?变异怪兽要来了,我们没有狙击手！你有狙击步枪吗? </text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_2">
+	<text>有,下面要做什么?</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_3">
+	<text>你不知道?怪物波就要来了！你现在在这里,那就帮我们！</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_4">
+	<text>我需要干什么?</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_5">
+	<text>到甲板上去找个位置然后防御我们的阵地,或者你需要一点时间做什么准备?</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_6">
+	<text>我准备好了,我这就去部署到阵地.</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_7">
+	<text>那就快去. </text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_8">
+	<text> 明白. </text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_9">
+	<text>我需要一些时间准备,我会回来的.</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_10">
+	<text>快去快回,怪物波随时可能到达.</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_11">
+	<text>明白.</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_12">
+	<text>不,我没有狙击步枪,那又怎样?</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_13">
+	<text>那就去找一个,怪物波就快开始了,我们竟然没有狙击手！去准备好,要快,我已经听见它们来了,你要去找一把必须的武器和找一个好位置.</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_14">
+	<text>我回去找到狙击步枪然后回来的.</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_15">
+	<text>很好,你准备好了吗?</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_16">
+	<text>嗯.</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_17">
+	<text>那就去占领好阵地.</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_18">
+	<text>明白.</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_19">
+	<text>不.</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_20">
+	<text>那是你的损失,去帮我们抵挡怪物.</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_21">
+	<text> 我知道. </text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_22">
+	<text> 感谢你杀死了脑波怪,干得好,潜行者,这里是你的奖金,再见.. </text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_23">
+	<text> 行. </text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_24">
+	<text>我叫你去找个甲板,你却还在这里！快去！ </text>	
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_25">
+	<text>好吧.</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_26">
+	<text>你找到必须的武器了吗?</text>
+</string>
+<string id="zat_b18_noah_monsters_wave_dialog_27">
+	<text>我还在找.</text>
+</string>
+<string id="zat_b30_barmen_monsters_wave_dialog_1">
+	<text>欢迎你,潜行者,我有一封诺瓦给你的紧急口信. </text>
+</string>
+<string id="zat_b30_barmen_monsters_wave_dialog_2">
+	<text>对,干得好去像以前一样解决问题.</text>
+</string>
+<string id="zat_b30_barmen_monsters_wave_dialog_3">
+	<text>说的是什么?</text>
+</string>
+<string id="zat_b30_barmen_monsters_wave_dialog_4">
+	<text>诺瓦急着要见你,我很难表达他说的什么,但是似乎他和变异怪物有什么事,这个疯子怎么了?</text>
+</string>
+<string id="zat_b30_barmen_monsters_wave_dialog_5">
+	<text>谢谢你的口信,我这就去废船.</text>
+</string>
+<string id="zat_b30_barmen_monsters_wave_dialog_6">
+	<text>我正要去做更重要的事.</text>
+</string>
+<string id="zat_sich_about_instruments_1">
+	<text>我在附近的哪里可以找到一些工具?</text>
+</string>
+<string id="zat_sich_about_instruments_2">
+	<text>我知道一些地方,你要找哪种? </text>
+</string>
+<string id="zat_sich_about_instruments_3">
+	<text>你需要什么其他的工具吗?</text>
+</string>
+<string id="zat_sich_about_instruments_4">
+	<text>没什么.</text>
+</string>
+<string id="zat_sich_about_instruments_5">
+	<text>初级工具</text>
+</string>
+<string id="zat_sich_about_instruments_6">
+	<text>精准工具</text>
+</string>
+<string id="zat_sich_about_instruments_7">
+	<text>校准工具</text>
+</string>
+<string id="zat_sich_about_instruments_8">
+	<text>军用ORK-42工具.</text>
+</string>
+<string id="zat_sich_about_instruments_9">
+	<text>军用RkB-86u工具.</text>
+</string>
+<string id="zat_sich_about_instruments_10">
+	<text>这个消息值10 000卢布.</text>
+</string>
+<string id="zat_sich_about_instruments_11">
+	<text>这个消息值20 000卢布</text>
+</string>
+<string id="zat_sich_about_instruments_12">
+	<text>这个消息值30 000卢布</text>
+</string>
+<string id="zat_sich_about_instruments_13">
+	<text>这个消息值25 000卢布</text>
+</string>
+<string id="zat_sich_about_instruments_14">
+	<text>这个消息值40 000卢布</text>
+</string>
+<string id="zat_sich_about_instruments_15">
+	<text>我不会再给你提供这种工具的信息了. </text>
+</string>
+<string id="zat_sich_about_instruments_16">
+	<text>我的渠道告诉我这个地方没有更多这种工具了.</text>
+</string>
+<string id="zat_sich_about_instruments_17">
+	<text>我不知道更多了.</text>
+</string>
+<string id="zat_sich_about_instruments_18">
+	<text>我不更给你更多这种工具的信息了.</text>
+</string>
+<string id="zat_sich_about_instruments_19">
+	<text>这种工具的信息没有了.</text>
+</string>
+<string id="zat_sich_about_instruments_20">
+	<text>明白了.</text>
+</string>
+<string id="zat_sich_about_instruments_21">
+	<text>明白.</text>
+</string>
+<string id="zat_sich_about_instruments_22">
+	<text>也好.</text>
+</string>
+<string id="zat_sich_about_instruments_23">
+	<text>明白.</text>
+</string>
+<string id="zat_sich_about_instruments_24">
+	<text>随便,总有些杂碎会去做的.</text>
+</string>
+<string id="zat_sich_about_instruments_25">
+	<text>我没有足够的钱.</text>
+</string>
+<string id="zat_sich_about_instruments_26">
+	<text>我改变主意了.</text>
+</string>
+<string id="zat_sich_about_instruments_27">
+	<text>这里.</text>
+</string>
+<string id="zat_sich_about_instruments_28">
+	<text>谢谢.</text>
+</string>
+<string id="zat_sich_about_instruments_29">
+	<text>当然,我会把消息上传到你的PDA.</text>
+</string>
+<string id="zat_sich_about_instruments_30">
+	<text>当然,我会把消息上传到你的PDA.</text>
+</string>
+<string id="zat_sich_about_instruments_31">
+	<text>当然,我会把消息上传到你的PDA.</text>
+</string>
+<string id="zat_sich_about_instruments_32">
+	<text>当然,我会把消息上传到你的PDA.</text>
+</string>
+<string id="zat_sich_about_instruments_33">
+	<text>当然,我会把消息上传到你的PDA.</text>
+</string>
+<string id="zat_mechanic_box_processing_dialog_1">
+	<text>我给你带来了一些没用的垃圾,请帮我分解成模块.</text>
+</string>
+<string id="zat_mechanic_box_processing_dialog_2">
+	<text>当然,现在已经做好了.</text>
+</string>
+<string id="zat_mechanic_box_processing_dialog_3">
+	<text>很好.</text>
+</string>
+<string id="zat_stalker_medic_about_self_dialog_1">
+	<text>跟我说说你自己.</text>
+</string>
+<string id="zat_stalker_medic_about_self_dialog_2">
+	<text>我只是一个普通的医生,按特雷莫得请求到了斯卡多夫斯克,他说他不处理的话这里缺少援助.</text>
+</string>
+<string id="zat_postman_from_agent_dialog_1">
+	<text>你好,你是德格特雅里夫吗?</text>
+</string>
+<string id="zat_postman_from_agent_dialog_2">
+	<text>是.</text>
+</string>
+<string id="zat_postman_from_agent_dialog_3">
+	<text>我有一封给你的信,这里.</text>
+</string>
+<string id="zat_postman_from_agent_dialog_4">
+	<text>谢谢你,谁给你的信?</text>
+</string>
+<string id="zat_postman_from_agent_dialog_5">
+	<text>一个锅盖头,他没介绍自己,他说要尽快见你并给了我这封信,还大方的给了我报酬,我很吃惊...</text>
+</string>
+<string id="zat_postman_from_agent_dialog_6">
+	<text>我知道了,再次感谢你.</text>
+</string>
+<string id="zat_postman_from_agent_dialog_7">
+	<text>抱歉我必须走了,保重.</text>
+</string>
+<string id="zat_postman_from_agent_dialog_8">
+	<text>再见.</text>
+</string>
+<string id="zat_authorities_agent_dialog_1">
+	<text>口令?</text>
+</string>
+<string id="zat_authorities_agent_dialog_2">
+	<text>"Siren buzzing"</text>
+</string>
+<string id="zat_authorities_agent_dialog_3">
+	<text>通过.好了！少校,昨天指挥官给了你一个新工作...所有的详细指令你会在SBU信息箱里找到,坐标现在我会传给你,对这个工作我有件事要说：现在你是唯一具有变异区存活经验的军队安全探员,这就是你接到这份任务的原因.</text>
+</string>
+<string id="zat_authorities_agent_dialog_4">
+	<text>明白.</text>
+</string>
+<string id="zat_authorities_agent_dialog_5">
+	<text>现在去找箱子.</text>
+</string>
+<string id="zat_authorities_agent_dialog_6">
+	<text>知道.</text>
+</string>
+<string id="zat_trader_back_phrase">
+	<text>我想看看另外一个订单.</text>
+</string>
+<string id="zat_b18_noah_add_dialog_1">
+	<text>离开这里！我现在忙着对比几种新的变异怪物.</text>
+</string>
+<string id="zat_b18_noah_add_dialog_2">
+	<text>明白.</text>
+</string>
+<string id="zat_stalker_avenger_dialog_0">
+	<text>喂,菜鸟,你想干什么?</text>
+</string>
+<string id="zat_stalker_avenger_dialog_01">
+	<text>任何事都行.</text>
+</string>
+<string id="zat_stalker_avenger_dialog_1">
+	<text>你好,潜行者,你能帮我做个事吗?当然不是开玩笑,我会给你报仇.</text>
+</string>
+<string id="zat_stalker_avenger_dialog_2">
+	<text>不.</text>
+</string>
+<string id="zat_stalker_avenger_dialog_3">
+	<text>当然,我需要做什么?</text>
+</string>
+<string id="zat_stalker_avenger_dialog_4">
+	<text>没什么难的,只是把这个重要的包裹送给纪律团的Kanevsky,我会给你它的坐标,你说怎么样?</text>
+</string>
+<string id="zat_stalker_avenger_dialog_5">
+	<text>不行,时间太紧了.</text>
+</string>
+<string id="zat_stalker_avenger_dialog_6">
+	<text>没问题,我会送过去的.</text>
+</string>
+<string id="zat_stalker_avenger_dialog_7">
+	<text>给你包裹,坐标已经给你,你可以去了,我已经给凯恩夫斯基说了,他会知道你去的.</text>
+</string>
+<string id="zat_stalker_avenger_dialog_8">
+	<text>知道了,我这就走.</text>
+</string>
+<string id="zat_stalker_avenger_dialog_9">
+	<text>很好,你送了包裹了吗?</text>
+</string>
+<string id="zat_stalker_avenger_dialog_10">
+	<text>还没有.</text>
+</string>
+<string id="zat_stalker_avenger_dialog_11">
+	<text>我不会做这个任务.</text>
+</string>
+<string id="zat_stalker_avenger_dialog_12">
+	<text>随你便... 我去找别人.</text>
+</string>
+<string id="zat_stalker_avenger_dialog_13">
+	<text>很抱歉.</text>
+</string>
+<string id="zat_duty_kanevskiy_dialog_1">
+	<text>你好,朋友,你来送包裹吗?</text>
+</string>
+<string id="zat_duty_kanevskiy_dialog_2">
+	<text>嗯,这就是你的包裹.</text>
+</string>
+<string id="zat_duty_kanevskiy_dialog_3">
+	<text>太感谢了,这是你的奖金.</text>
+</string>
+<string id="zat_duty_kanevskiy_dialog_4">
+	<text>谢谢,保重.</text>
+</string>
+<string id="zat_postman_stalker_dialog_1">
+	<text>你好,潜行者,能帮我快递一份包裹吗?</text>
+</string>
+<string id="zat_postman_stalker_dialog_2">
+	<text>没问题,你想让我送到哪里?</text>
+</string>
+<string id="zat_postman_stalker_dialog_3">
+	<text>送给斯卡多夫斯克的马克洛维奇,他是一名银行家,直接带给他,说是皮特给他的.</text>
+</string>
+<string id="zat_postman_stalker_dialog_4">
+	<text>没问题,我会帮你送过去的,你能告诉我详细地点吗?</text>
+</string>
+<string id="zat_postman_stalker_dialog_5">
+	<text>离这里没多远,从任何路到河湾的中心就能找到斯卡多夫斯克,所以你不会迷路,或者找一个潜行者带路,顺便一说,这里就有一个,和他谈谈,说不定你运气好他会带你去.</text>
+</string>
+<string id="zat_postman_stalker_dialog_6">
+	<text>明白了.</text>
+</string>
+<string id="zat_bankir_stalker_storyline_dialog_1">
+	<text>你好,我能帮你做什么吗?</text>
+</string>
+<string id="zat_bankir_stalker_storyline_dialog_2">
+	<text>我从皮特那里给你带来了一个包裹.</text>
+</string>
+<string id="zat_bankir_stalker_storyline_dialog_3">
+	<text>感谢你的快递,我一直在等待,再次感谢你.喔,我忘记介绍我自己了,我是当地的银行家,我叫马克洛维奇我主要的工作就是增加经济资本,我的意思就是很多人信任我,把他们的钱放到我这里,并在几天之后拿走,并带有利息,如果你有兴趣,我一直欢迎.</text>
+</string>
+<string id="zat_bankir_stalker_storyline_dialog_4">
+	<text>当然,听着,你有一些关于坠毁的直升机的信息吗?</text>
+</string>
+<string id="zat_bankir_stalker_storyline_dialog_5">
+	<text>我没有,我只听说过我们这里的一个潜行者救过一个军方飞行员,我不知道现在那个飞行员和潜行者在哪里,不过我知道Makovetsky博士说过什么,他是个老人,在这里有很长的时间了,他认识很多当地人,所以你去和他谈谈也不是没有帮助.</text>
+</string>
+<string id="zat_bankir_stalker_storyline_dialog_6">
+	<text>感谢你的有价值的情报.</text>
+</string>
+<string id="zat_bankir_stalker_storyline_dialog_7">
+	<text>你好,我能帮你什么忙吗?</text>
+</string>
+<string id="zat_bankir_stalker_storyline_dialog_8">
+	<text>嗯,我对坠毁的直升机的情报很有兴趣,你知道什么情报吗?</text>
+</string>
+<string id="zat_bankir_stalker_storyline_dialog_9">
+	<text>我不知道,我只听说过我们这里的一个潜行者救过一个军方飞行员,我不知道现在那个飞行员和潜行者在哪里,不过我知道Makovetsky博士说过什么,他是个老人,在这里有很长的时间了,他认识很多当地人,所以你去和他谈谈也不是没有帮助.</text>
+</string>
+<string id="zat_bankir_stalker_storyline_dialog_10">
+	<text>感谢你的有价值的情报.</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_1">
+	<text>你没看见我很忙吗?晚点再来！</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_2">
+	<text>好吧.</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_3">
+	<text>喔,新面孔,我叫马克维特斯基.我专门修改神器,或者按照当地人的话说,升级神器.我只升级最低级类的神器,你想挣一些钱吗?</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_4">
+	<text>我愿意,不过首先我需要一些情报.</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_5">
+	<text>听着,你要先帮我,我才会帮你,你说是不是应该这样?</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_6">
+	<text>好吧,你需要什么?</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_7">
+	<text>去检查锯木厂附近.一个潜行者坚持说有一个罕见的神器出现过,是酸性变异点产出的,不过我已经很久没看见那个潜行者了...如果那神器真的在那里,把他带给我,我就会很高兴的给你任何问题的答案.</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_8">
+	<text>好.</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_9">
+	<text>这里是神器的坐标.</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_10">
+	<text>我明白了,我这就去.</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_11">
+	<text>情况怎么样?你找到神器了吗?</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_12">
+	<text>我还没有去检查过.</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_13">
+	<text>要知道那个背包和神器可只有一个,不管怎样,给你.</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_14">
+	<text>天呐,这神器！我从来没有看见过这样的神器.嗯,这神器根本没有信号,很奇怪....干得好,潜行者,现在我准备好帮你了,你对什么有兴趣?</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_15">
+	<text>你有有关于坠毁的直升机的信息吗?</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_16">
+	<text>对,我有.这里有个叫硝基的潜行者,他救过一个人,他发现他救的人是一个前往普利皮亚的军方特遣队飞行员,我不知道他们两个现在在哪里,不过我记得他们都去了木星,我不知道到底在哪里.</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_17">
+	<text>很有价值的情报,我很高兴.那么,他们都到木星了?</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_18">
+	<text>当然,如果他们朝木星去了的话最可能的地方就是亚诺瓦车站,因为普利皮亚似乎不太可能,去和比尔德说吧,他可能知道什么可以告诉你.</text>
+</string>
+<string id="zat_stalker_breeder_storyline_dialog_19">
+	<text>谢谢你的消息,保重.</text>
+</string>
+<string id="zat_boroda_storyline_dialog_1">
+	<text>嘿,比尔德！我来谈正事,你知道有关坠毁的直升机的消息吗?</text>
+</string>
+<string id="zat_boroda_storyline_dialog_2">
+	<text>我知道,潜行者硝基曾经来过这里,把卡在驾驶舱的飞行员救了出来带到了这里...只是现在他不在这里了,他们都去了木星.</text>
+</string>
+<string id="zat_boroda_storyline_dialog_3">
+	<text>我知道了,我怎么去木星?</text>
+</string>
+<string id="zat_boroda_storyline_dialog_4">
+	<text>去和向导说,他知道.</text>
+</string>
+<string id="zat_boroda_storyline_dialog_5">
+	<text>谢谢你的信息.</text>
+</string>
+<string id="zat_boroda_storyline_dialog_6">
+	<text>不用谢,我习惯和每个人说话,喝酒之后像只老鼠的也不例外,所以你有时间的话来歇息.</text>
+</string>
+<string id="zat_boroda_storyline_dialog_7">
+	<text>当然.</text>
+</string>
+<string id="zat_killer_shakal_dialog_1">
+	<text>滚出去,他妈的光皮.</text>
+</string>
+<string id="zat_killer_shakal_dialog_2">
+	<text>我这就走.</text>
+</string>
+<string id="zat_killer_shakal_dialog_3">
+	<text>嘿,沙克尔我愿意帮助你.</text>
+</string>
+<string id="zat_killer_shakal_dialog_4">
+	<text>哈! 一个光皮怎么能帮我?!</text>
+</string>
+<string id="zat_killer_shakal_dialog_5">
+	<text>就这么帮.</text>
+</string>
+<string id="zat_killer_shakal_dialog_6">
+	<text>切别耶夫想杀你,我接了生意.</text>
+</string>
+<string id="zat_killer_shakal_dialog_7">
+	<text>操,他妈的叛徒！你想说什么?</text>
+</string>
+<string id="zat_killer_shakal_dialog_8">
+	<text>他需要你死,要证明这个,他叫我把你的武器带给他.</text>
+</string>
+<string id="zat_killer_shakal_dialog_9">
+	<text>我明白了,情完全况变了,我需要仔细想想.</text>
+</string>
+<string id="zat_killer_shakal_dialog_10">
+	<text>我这等你的答案,想想我正在救你,我不觉得一把枪比你的命更重要,但是我需要一些薪水.</text>
+</string>
+<string id="zat_killer_shakal_dialog_11">
+	<text>...这就是他修改过的武器,带给他,告诉他我已经死了,我想他会买账的.你的报酬嘛...告诉我他给你多少?</text>
+</string>
+<string id="zat_killer_shakal_dialog_12">
+	<text>5000.</text>
+</string>
+<string id="zat_killer_shakal_dialog_13">
+	<text>知道了,很好,这里是双倍的钱,别忘记告诉他我已经死了,要不然你从此以后再也不会安宁.</text>
+</string>
+<string id="zat_killer_shakal_dialog_14">
+	<text>知道了,谢谢你的贿款.</text>
+</string>
+<string id="zat_killer_shakal_dialog_15">
+	<text>知道了,很好,这里是多百分之五十的钱,别忘记告诉他我已经死了,要不然你从此以后再也不会安宁.</text>
+</string>
+<string id="zat_killer_shakal_dialog_16">
+	<text>谢谢你兄弟,我决不会忘记你所做的.</text>
+</string>
+<string id="zat_killer_shakal_dialog_17">
+	<text>不用客气.</text>
+</string>
+<string id="zat_killer_shakal_dialog_18">
+	<text>10000.</text>
+</string>
+<string id="zat_killer_shakal_dialog_19">
+	<text>20000.</text>
+</string>
+<string id="zat_killer_shakal_dialog_20">
+	<text>...</text>
+</string>
+<string id="zat_killer_shakal_dialog_21">
+	<text>走远点....杀了这个狗日的！！！</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_1">
+	<text>你好,潜行者,你想要什么.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_2">
+	<text>嗯...没什么.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_3">
+	<text>神父,我已经准备好当一名强盗了.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_4">
+	<text>嘿,你,去你妈的,你骗人！我并不是每天都听这些话...好吧,我会让你加入,我们一直需要你这种人,但是首先 - 仔细想想,你改变主意了吗?</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_5">
+	<text>我改变主意了.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_6">
+	<text>为什么改主意?我愿意去做.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_7">
+	<text>我有一份工作,如果你做好了,你就是我们中的一员 - 你自己祈祷吧.你说如何?</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_8">
+	<text>不.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_9">
+	<text>好.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_10">
+	<text>很好,你没像其他的...一样吓着,听好了,你需要去变电站,那里应该有一个部署好的雇佣军营地.你如果穿着潜行者衣服,他们就不会向你开枪...至少暂时不会,这些人不会让我们靠近的,总的来说,有一个叛徒在里面...我不会告诉你细节,我们叫他杰克尔.悄悄把他杀了,因为营地里有一群他的兄弟,把家族的武器拿过来,这个婊子从我这里偷走的...如果你做好了,就像我说的,你会得到5000,一个钱袋,并成为我的右手.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_11">
+	<text>我知道了,我这就去.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_12">
+	<text>这里就是他们营地的坐标,自己去侦查,然后做我告诉你的.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_13">
+	<text>明白.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_14">
+	<text>喂,潜行者,工作做的怎么样了?</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_15">
+	<text>我还没有完成.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_16">
+	<text>听着切别耶夫,我放弃了,我不认为我能完成.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_17">
+	<text>喂,潜行者,工作做的怎么样了?</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_18">
+	<text>我还没有完成.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_19">
+	<text>听着切别耶夫,我放弃了,我不认为我能完成.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_20">
+	<text>喂,潜行者,工作做的怎么样了?</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_21">
+	<text>都完成了,我给你带来了家族的枪.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_22">
+	<text>嘿 你！很好,你完成了一份让人满意的任务,这么快！我很难相信那个狗日的死了,而且我的枪又回来了！好了！这里是讲好的报酬...宗旨,我会让你加入我们的团队,你完美的通过了测试,你是第一个把这个杰克尔操死的.那些应付不过来的 - 都死了.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_23">
+	<text>真的?行了,保重.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_24">
+	<text>还有,别忘记你是我的右手了,有时间就来找我.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_25">
+	<text>行,我当然会.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_26">
+	<text>你好,兄弟,你带了什么给我?</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_27">
+	<text>你好!</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_28">
+	<text>喂 崽子！怎么?...你找死,啊?你来这里干什么?总之,你就是他妈个农民,滚出去！我们不需要小喽啰当强盗.</text>
+</string>
+<string id="zat_bandit_base_leader_dialog_29">
+	<text>我已经走了.</text>
+</string>
+<string id="zat_accompany_stalker_dialog_1">
+	<text>你好 潜行者!</text>
+</string>
+<string id="zat_accompany_stalker_dialog_2">
+	<text>我怎么去斯卡多夫斯克?</text>
+</string>
+<string id="zat_accompany_stalker_dialog_3">
+	<text>如果你不知道斯卡多夫斯克在哪里我可以带你去,我正式同路,我们走吗?</text>
+</string>
+<string id="zat_accompany_stalker_dialog_4">
+	<text>我不需要,我会自己去.</text>
+</string>
+<string id="zat_accompany_stalker_dialog_5">
+	<text>好吧,我们走.</text>
+</string>
+<string id="zat_accompany_stalker_dialog_6">
+	<text>很好, 我们走!</text>
+</string>
+<string id="zat_accompany_stalker_dialog_7">
+	<text>嗯.</text>
+</string>
+<string id="zat_stalker_elbrus_dialog_1">
+	<text>徳格特雅里夫, 很高兴见到你！我组织并派遣了三个人到这里,我们想有了你分成两个小组会更好.另外三个人从基地后面待命,对了,这里有一点补给,装备好.</text>
+</string>
+<string id="zat_stalker_elrbus_dialog_2">
+	<text>我明白了,剑说让我来指挥这支团队.</text>
+</string>
+<string id="zat_stalker_elbrus_dialog_3">
+	<text>没问题,那么,我们冲?</text>
+</string>
+<string id="zat_stalker_elbrus_dialog_4">
+	<text>对.</text>
+</string>
+<string id="zat_stalker_elbrus_dialog_5">
+	<text>现在不是说话的时候,我们要冲向基地.</text>
+</string>
+<string id="zat_stalker_elbrus_dialog_6">
+	<text>冲.</text>
+</string>
+<string id="zat_stalker_member_dialog_1">
+	<text>嘿,徳格特雅里夫！这里的人叫我剑,我是河湾地区潜行者代表.顺便一说,如果你想挣点钱,我有个真正的工作给你..</text>
+</string>
+<string id="zat_stalker_member_dialog_2">
+	<text>我当然欢迎.</text>
+</string>
+<string id="zat_stalker_member_dialog_3">
+	<text>下次吧.</text>
+</string>
+<string id="zat_stalker_member_dialog_4">
+	<text>我们有个工作,不久前切别耶夫的一窝土匪成了本地最出名的强盗,妄图攻击斯卡多夫斯克,因为贪婪他们变得毫无约束.我们必须尽快停止他们,要不然我们就有麻烦了,你不会一个人去,到碰面地点去见厄尔布鲁士小队,他们会给你子弹补给,战斗时给你掩护,你到碰面地点之后就指挥小队,都清楚了吗?我需要再说一遍吗?</text>
+</string>
+<string id="zat_stalker_member_dialog_5">
+	<text>明白了,我这就去.</text>
+</string>
+<string id="zat_stalker_member_dialog_6">
+	<text>我没听清,你再说一遍?</text>
+</string>
+<string id="zat_stalker_member_dialog_7">
+	<text>任务做的怎么样了?你完成了吗?</text>
+</string>
+<string id="zat_stalker_member_dialog_8">
+	<text>还没有.</text>
+</string>
+<string id="zat_stalker_member_dialog_9">
+	<text>任务做的怎么样了?你完成了吗?</text>
+</string>
+<string id="zat_stalker_member_dialog_10">
+	<text>对,我打败了切别耶夫和他的小兄弟,你的兄弟们帮了我很大忙,我很感谢他们.</text>
+</string>
+<string id="zat_stalker_member_dialog_11">
+	<text>干得好,徳格特雅里夫,我们一次就击败了这窝土匪！这是我和潜行者给你的钱袋,还有我们的感激.</text>
+</string>
+<string id="zat_stalker_member_dialog_12">
+	<text>干得好,徳格特雅里夫,我们一次就击败了这窝土匪！这是我和潜行者给你的钱袋,还有我们的感激.</text>
+</string>
+<string id="zat_stalker_member_dialog_13">
+	<text>谢谢,保重.</text>
+</string>
+<string id="zat_stalker_member_dialog_14">
+	<text>你好,徳格特雅里夫,过得怎么样?</text>
+</string>
+<string id="zat_stalker_member_dialog_15">
+	<text>好极了!</text>
+</string>
+<string id="zat_stalker_member_dialog_16">
+	<text>你好,过得怎么样,徳格特雅里夫?我看你把这里当做家一样.</text>
+</string>
+<string id="zat_stalker_member_dialog_17">
+	<text>当然,这里的人都很简单,也很好说话.</text>
+</string>
+<string id="zat_stalker_member_dialog_18">
+	<text>你好,徳格特雅里夫！这里的人都叫我剑.我是河湾地区潜行者的代表.你看起来经验还不够,太遭了,我有一个很重要的任务但是你还不能够完成,但是自从没有了好装备,这里就没有人能够承担这份任务,总之,当你升级以后再来这里 - 我们再谈谈.</text>
+</string>
+<string id="zat_stalker_member_dialog_19">
+	<text>明白了.</text>
+</string>
+        <string id="zat_stalker_member_dialog_20">
+		<text>欢迎.我有一个新的工作。你感兴趣?</text>
+	</string>
+        <string id="zat_stalker_member_dialog_21">
+		<text>对.</text>
+	</string>
+        <string id="zat_stalker_member_dialog_22">
+		<text>潜行者和阿尔法小队杠上了.他们不知道是从哪里来的,也不排除他们是敌人.有十几个潜行者被害了.这不应该!你在钢铁森林变异区看到这群狗日没?去给看看.</text>
+	</string>
+        <string id="zat_stalker_member_dialog_23">
+		<text>好的,我走了.</text>
+	</string>
+        <string id="zat_stalker_member_dialog_24">
+		<text>不行.</text>
+	</string>
+        <string id="zat_stalker_member_dialog_25">
+		<text>有些关于阿尔法的想法?</text>
+	</string>
+        <string id="zat_stalker_member_dialog_26">
+		<text>对.</text>
+	</string>
+        <string id="zat_stalker_member_dialog_27">
+		<text>好的,这是你行动的报酬.</text>
+	</string>
+        <string id="zat_stalker_member_dialog_28">
+		<text>好的.</text>
+	</string>
+        <string id="zat_stalker_member_dialog_29">
+		<text>不.</text>
+	</string>
+<string id="zat_bandit_base_chief_dialog_1">
+	<text>站住 - 害怕吧！你拉肚子了吧?你往哪里跑?...你要到我们的基地去,对吧?</text>
+</string>
+<string id="zat_bandit_base_chief_dialog_2">
+	<text>我还不知道这里有这么个基地,我只是想把我的钱袋藏在这里,你能让我过去吗?</text>
+</string>
+<string id="zat_bandit_base_chief_dialog_3">
+	<text>哈...哈...哈... 你说钱袋！好吧,我不知道,我只知道我的兄弟们在这里搜查,并拿走所有的钱袋.</text>
+</string>
+<string id="zat_bandit_base_chief_dialog_4">
+	<text>我不觉得,我藏钱袋藏的很好.</text>
+</string>
+<string id="zat_bandit_base_chief_dialog_5">
+	<text>那么,把你的口袋翻出来吧,是时候让我分享你的战利品了,不用担心,并不是抢 - 这就是我们在河湾地区法定的过路费,明白了吗?</text>
+</string>
+<string id="zat_bandit_base_chief_dialog_6">
+	<text>知道了,这里有4500.</text>
+</string>
+<string id="zat_bandit_base_chief_dialog_7">
+	<text>一个聪明的小子！很高兴你摆脱了这些事！进来吧！还有,最好别有胆子在这里开枪,要不然你让我们升起了警报,我们就不会原谅你 - 你直接死翘.</text>
+</string>
+<string id="zat_bandit_base_chief_dialog_8">
+	<text>明白了.</text>
+</string>
+<string id="zat_bandit_base_chief_dialog_9">
+	<text>太贵了.另外,我的钱袋值不了这么多钱.</text>
+</string>
+<string id="zat_bandit_base_chief_dialog_10">
+	<text>我只是要过去.</text>
+</string>
+<string id="zat_bandit_base_chief_dialog_11">
+	<text>那你就自己滚出去,要不你准备干什么,滚出去！...你还不明白吗?</text>
+</string>
+<string id="zat_bandit_base_chief_dialog_12">
+	<text>知道了, 知道了! 我这就走.</text>
+</string>
+<string id="zat_bandit_base_chief_dialog_13">
+	<text>我日你...</text>
+</string>
+<string id="zat_bandit_base_chief_dialog_14">
+	<text>走吧,别害羞.</text>
+</string>
+<string id="zat_bandit_base_chief_dialog_15">
+	<text>我会的.</text>
+</string>
+<string id="zat_bandit_base_chief_dialog_16">
+	<text>你要多少?</text>
+</string>
+<string id="zat_bandit_base_chief_dialog_17">
+	<text>这里的价可不是我出,你明白了吗?我问了神父！是 4500.</text>
+</string>
+<string id="zat_stalker_bodyguard_dialog_1">
+	<text>你好,潜行者,你知道,我已经厌倦了变异区,我想找回我以前的生活缺没钱回家,于是我就想挣点回家的票钱... 我决定当一名保镖,我的要价很低,我只要你2100 RU,因为当我看见你的时候我就知道你明白我的意思,兄弟.好吧,简单地说,仔细想想,我会和你一起在变异区打拼,直到我们中某一个人死去.</text>
+</string>
+<string id="zat_stalker_bodyguard_dialog_2">
+	<text>留守阵地防御攻击.</text>
+</string>
+<string id="zat_stalker_bodyguard_dialog_3">
+	<text>是,兄弟,我会让你当我的保镖.</text>
+</string>
+<string id="zat_stalker_bodyguard_dialog_4">
+	<text>对不起,兄弟,我没时间.</text>
+</string>
+<string id="zat_stalker_bodyguard_dialog_5">
+	<text>指令是什么?</text>
+</string>
+<string id="zat_stalker_bodyguard_dialog_6">
+	<text>保护我.</text>
+</string>
+<string id="zat_stalker_bodyguard_dialog_8">
+	<text>收起武器.</text>
+</string>
+<string id="zat_stalker_bodyguard_dialog_9">
+	<text>呆在这里.</text>
+</string>
+<string id="zat_stalker_bodyguard_dialog_10">
+	<text>你自由了,走吧.</text>
+</string>
+<string id="zat_stalker_trader_offer_dialog_1">
+	<text>你有什么稀罕的东西拿来卖吗?</text>
+</string>
+<string id="zat_stalker_trader_offer_dialog_2">
+	<text>我不知道这算不算得上稀罕,不过你可能感兴趣.%c[255,1,128,54]望远镜%c[default],我最近从一个潜行者哪里买来的,我可以卖给你... \n这里,看看</text>
+</string>
+<string id="zat_stalker_trader_offer_dialog_3">
+	<text>就这么点东西,没什么好的.</text>
+</string>
+<string id="zat_stalker_trader_offer_dialog_4">
+	<text>不错选择,望远镜价值3000RU,你买吗?</text>
+</string>
+<string id="zat_stalker_trader_offer_dialog_5">
+	<text>这个选择还算一般,望远镜价值2000RU,你买吗?</text>
+</string>
+<string id="zat_stalker_trader_offer_dialog_6">
+	<text>我可你把标准型免费给你,我有一袋这样的东西,拿着.</text>
+</string>
+<string id="zat_stalker_trader_offer_dialog_7">
+	<text>好吧.</text>
+</string>
+<string id="zat_stalker_trader_offer_dialog_8">
+	<text>这里,拿着.</text>
+</string>
+<string id="zat_stalker_trader_offer_dialog_9">
+	<text>谢了.</text>
+</string>
+<string id="zat_stalker_trader_offer_dialog_10">
+	<text>我不需要这东西.</text>
+</string>
+<string id="zat_stalker_trader_offer_dialog_11">
+	<text>很好! 这里是你的望远镜.</text>
+</string>
+<string id="zat_stalker_trader_offer_dialog_12">
+	<text>谢谢你.</text>
+</string>
+<string id="zat_stalker_trader_offer_dialog_13">
+	<text>对.</text>
+</string>
+<string id="zat_stalker_trader_offer_dialog_14">
+	<text>不.</text>
+</string>
+<string id="zat_stalker_trader_offer_dialog_15">
+	<text>太贵了.</text>
+</string>
+<string id="zat_stalker_trader_dialog_1">
+	<text>嘿,热心人,你需要什么吗?</text>
+</string>
+<string id="zat_stalker_trader_dialog_2">
+	<text>我想交易.</text>
+</string>
+<string id="zat_stalker_trader_dialog_3">
+	<text>我知道了,那就买卖吧.</text>
+</string>
+<string id="zat_stalker_trader_dialog_4">
+	<text>没什么.</text>
+</string>
+<string id="zat_stalker_trader_dialog_5">
+	<text>我不需要什么...</text>
+</string>
+<string id="zat_stalker_trader_dialog_6">
+	<text>不,我不会取消订单.</text>
+</string>
+<string id="zat_stalker_trader_dialog_7">
+	<text>那就这样,一个小时之后来看看,差不多就到货了.</text>
+</string>
+<string id="zat_stalker_trader_dialog_8">
+	<text>明白.</text>
+</string>
+<string id="zat_stalker_trader_dialog_9">
+	<text>不行,我告诉过在同一时间你只能下一个订单,你要违约的话要赔偿我 500 RU.</text>
+</string>
+<string id="zat_stalker_trader_dialog_10">
+	<text>好吧,这里是你的赔偿.</text>
+</string>
+<string id="zat_stalker_trader_dialog_11">
+	<text>我会毁除上一次的订单,意思就是你能选择新货物了.</text>
+</string>
+<string id="zat_stalker_trader_dialog_12">
+	<text>我能换一个订单吗?</text>
+</string>
+<string id="zat_stalker_trader_dialog_13">
+	<text>太贵了.</text>
+</string>
+<string id="zat_stalker_trader_dialog_14">
+	<text>我改变主意了.</text>
+</string>
+<string id="zat_stalker_trader_dialog_15">
+	<text>好吧,拿着.</text>
+</string>
+<string id="zat_stalker_trader_dialog_16">
+	<text>好极了,订单已经到期了,现在你只需要付货物费了.</text>
+</string>
+<string id="zat_stalker_trader_dialog_17">
+	<text>没问题,你需要那种货物?记住,你只能同时下一次订单.你能取消订单,不过需要赔偿.</text>
+</string>
+<string id="zat_stalker_trader_dialog_18">
+	<text>我想订一些货物.</text>
+</string>
+<string id="zat_stalker_trader_dialog_19">
+	<text>我知道了,你要哪种?</text>
+</string>
+<string id="zat_stalker_trader_dialog_20">
+	<text>武器</text>
+</string>
+<string id="zat_stalker_trader_dialog_21">
+	<text>防具</text>
+</string>
+<string id="zat_stalker_trader_dialog_22">
+	<text>"AK-101M"</text>
+</string>
+<string id="zat_stalker_trader_dialog_23">
+	<text>"水虎鱼头盔"</text>
+</string>
+<string id="zat_stalker_trader_dialog_24">
+	<text>"大师装甲"</text>
+</string>
+<string id="zat_stalker_trader_dialog_25">
+	<text>"APB （自动手枪）"</text>
+</string>
+<string id="zat_stalker_trader_dialog_37">
+	<text>"TOZ-34 拾荒者"</text>
+</string>
+<string id="zat_stalker_trader_dialog_26">
+	<text>我找到了一个可怜的同伴的PDA,但是它有密码,我应该怎么办?</text>
+</string>
+<string id="zat_stalker_trader_dialog_27">
+	<text>装在一个特别软件来入侵程序.</text>
+</string>
+<string id="zat_stalker_trader_dialog_28">
+	<text>我在哪里可以找到这东西?</text>
+</string>
+<string id="zat_stalker_trader_dialog_29">
+	<text>我有一个,我可以以 5000 RU 的价格卖给你.</text>
+</string>
+<string id="zat_stalker_trader_dialog_30">
+	<text>不,我改变主意了.</text>
+</string>
+<string id="zat_stalker_trader_dialog_31">
+	<text>我没这么些钱.</text>
+</string>
+<string id="zat_stalker_trader_dialog_32">
+	<text>那好,钱在这里,软件呢?</text>
+</string>
+<string id="zat_stalker_trader_dialog_33">
+	<text>就在桌子上,上传到你的PDA就行了.</text>
+</string>
+<string id="zat_stalker_trader_dialog_34">
+	<text>明白了.</text>
+</string>
+<string id="zat_stalker_trader_dialog_35">
+	<text>谢谢你的钱,有什么需要的就来找我.</text>
+</string>
+<string id="zat_stalker_trader_dialog_36">
+	<text>我知道了,保重.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_1">
+	<text>不,下次吧.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_2">
+	<text>我没那么多钱,下次吧.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_3">
+	<text>很好,现在你的帐户有:</text>
+</string>
+<string id="zat_stalker_bankir_dialog_4">
+	<text>我改变主意了.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_5">
+	<text>谢谢,欢迎再来.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_6">
+	<text>当然！</text>
+</string>
+<string id="zat_stalker_bankir_dialog_7">
+	<text>我不存.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_8">
+	<text>谢谢你的服务.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_9">
+	<text>欢迎! 潜行者, 别忘了,为了能取回你的钱, 你必须支付帐户的10%作为利息.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_10">
+	<text>当然！回头见.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_11">
+	<text>我能再多存一点么?</text>
+</string>
+<string id="zat_stalker_bankir_dialog_12">
+	<text>没问题！当然可以.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_13">
+	<text>对.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_17">
+	<text>我想存些钱.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_18">
+	<text>你想存多少?</text>
+</string>
+<string id="zat_stalker_bankir_dialog_19">
+	<text>我要存下所有的钱.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_20">
+	<text>? 1000.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_21">
+	<text>? 2000.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_22">
+	<text>? 3000.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_23">
+	<text>? 4000.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_24">
+	<text>? 5000.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_25">
+	<text>? 10000.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_26">
+	<text>你好, 潜行者. 告诉我, 你为什么来这?</text>
+</string>
+<string id="zat_stalker_bankir_dialog_27">
+	<text>我需要你的服务.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_28">
+	<text>你到底想要什么, 存钱还是取钱或者是换钱?</text>
+</string>
+<string id="zat_stalker_bankir_dialog_29">
+	<text>存钱.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_30">
+	<text>没事.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_31">
+	<text>取钱.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_32">
+	<text>你想取多少? 这是你的帐户:</text>
+</string>
+<string id="zat_stalker_bankir_dialog_33">
+	<text>很好! 现在, 就像说好的那样,我拿走帐户的10%, 剩下的还给你. 算下来10%就是100.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_34">
+	<text>我看看. 拿走你的, 把我的给我.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_35">
+	<text>很好! 现在, 就像说好的那样,我拿走帐户的10%, 剩下的还给你. 算下来10%就是200.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_36">
+	<text>很好! 现在, 就像说好的那样,我拿走帐户的10%, 剩下的还给你. 算下来10%就是300.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_37">
+	<text>很好! 现在, 就像说好的那样,我拿走帐户的10%, 剩下的还给你. 算下来10%就是400.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_38">
+	<text>很好! 现在, 就像说好的那样,我拿走帐户的10%, 剩下的还给你. 算下来10%就是500.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_39">
+	<text>很好! 现在, 就像说好的那样,我拿走帐户的10%, 剩下的还给你. 算下来10%就是1000.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_40">
+	<text>我要拿走全部钱.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_41">
+	<text>很好! 现在, 就像说好的那样, 我拿走帐户的10%, 剩下的还给你. 算下来10%就是:</text>
+</string>
+<string id="zat_stalker_bankir_dialog_42">
+	<text>很好! 一旦账户低于100, 你不需要付给我账户的10%, 是多少拿走多少.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_43">
+	<text>谢谢.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_44">
+	<text>非常好! 选择你的存款额. 让我提醒你,一旦你存了钱, 这些钱就由我来处置, 你不能随时来取. 你只能在20:00到20:45之间取钱. 在你存钱之后你可以得到账户存款的7%作为利息. 是这样的: 之后的每一天, 利息会加入存款中, 你可以取出除了本金以外的钱. 你觉得如何?</text>
+</string>
+<string id="zat_stalker_bankir_dialog_45">
+	<text>定期存款</text>
+</string>
+<string id="zat_stalker_bankir_dialog_46">
+	<text>没事.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_47">
+	<text>只存点钱到存款里.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_48">
+	<text>你的存款成功添加. 你可以在20：00到20：45之间来取走你的利息.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_49">
+	<text>明白.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_50">
+	<text>再次把我的帐户存满.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_51">
+	<text>多少?</text>
+</string>
+<string id="zat_stalker_bankir_dialog_52">
+	<text>我没那么多钱.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_53">
+	<text>我要存所有的钱.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_54">
+	<text>1000.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_55">
+	<text>2000.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_56">
+	<text>3000.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_57">
+	<text>4000.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_58">
+	<text>5000.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_59">
+	<text>10000.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_59_1">
+	<text>25000.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_59_2">
+	<text>50000.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_59_3">
+	<text>100000.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_60">
+	<text>我想取走我的存款.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_61">
+	<text>你想取什么, 利息还是存款?</text>
+</string>
+<string id="zat_stalker_bankir_dialog_62">
+	<text>利息.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_63">
+	<text>给你. 说好的7%. 拿着.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_64">
+	<text>谢谢.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_65">
+	<text>存款.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_66">
+	<text>给你. 这是你留下的所有东西. 拿着.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_67">
+	<text>谢谢.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_68">
+	<text>让我看看我的利息.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_69">
+	<text>储存.</text>
+</string>
+<string id="zat_stalker_bankir_dialog_70">
+	<text>你选择了储存.让我提醒你,你把钱给我保管,随时可以取走但是我要收取10%,怎样?</text>
+</string>
+        <string id="zat_stalker_bankir_dialog_71">
+		<text>交换</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_72">
+		<text>你能把你的电子卢布交换成现金卢布.你准备交换多少电子货币?</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_73">
+		<text>我总是很荣幸.你要交换多少电子货币?</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_74">
+		<text>我还是想交换.</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_75">
+		<text>感谢你的服务.</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_76">
+		<text>我改变主意了.</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_77">
+		<text>我没有电子货币,换个时间吧.</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_78">
+		<text>所有的钱.</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_79">
+		<text>我同意.这是你的现金.</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_80">
+		<text>1000.</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_81">
+		<text>2000</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_82">
+		<text>3000</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_83">
+		<text>4000</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_84">
+		<text>5000</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_85">
+		<text>6000</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_86">
+		<text>7000</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_87">
+		<text>8000</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_88">
+		<text>9000</text>
+	</string>
+        <string id="zat_stalker_bankir_dialog_89">
+		<text>10000</text>
+	</string>
+<string id="zat_stalker_breeder_work_dialog_1">
+	<text>小心.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_2">
+	<text>不.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_3">
+	<text>我改变主意了.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_4">
+	<text>我没那么多钱.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_5">
+	<text>我改变主意了.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_6">
+	<text>你好! 有什么想知道的?</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_7">
+	<text>谈谈你自己.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_8">
+	<text>好的. 我从事化学神器的加工, 或者用本地化说叫做, 改造. 我专门研究第一类变异点的神器. 我是马可维特斯基教授. 我来扎通的时间不长. 你想听听改造的更多细节吗?</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_9">
+	<text>Yeah.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_10">
+	<text>改造是在化学层面对原子进行处理使其原子结构发生变化. 改造反应发生的非常快,有时仅仅需要10秒就足够使物体开始发生转变. 特别是对于神器, 我们可以进行3种类型的改造:\n1) 辐射.\n2) 重量.\n3) 恢复健康.\n 改造费用分别为 5000, 4000, 16000. 任何神器只能承受一次化学变化, 或者说 - 破坏.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_11">
+	<text>了解. 非常翔实.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_12">
+	<text>你能给我改造一次吗?</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_13">
+	<text>可以. 拿出一个需要改造的神器, 记住所有神器只能进行一次改造. 还有, 我只对第一类神器进行改造.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_14">
+	<text>"水母"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_15">
+	<text>已拿出神器. 现在选择改造的类型.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_16">
+	<text>辐射. 价格为 5000.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_17">
+	<text>现在留下钱和神器. 我提醒你改造费用为 5000.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_18">
+	<text>拿着.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_19">
+	<text>很好! 现在,请等等.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_20">
+	<text>我会的.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_21">
+	<text>就是这样! 改造结束. 神器被成功转变. 你可以拿走它了...</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_22">
+	<text>给我.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_23">
+	<text>欢迎再来, 如果可以我会帮助你的.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_24">
+	<text>当然!</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_25">
+	<text>重量. 价格为 4000.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_26">
+	<text>现在留下钱和神器. 我提醒你改造费用为 4000.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_27">
+	<text>恢复健康. 价格为 16000.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_28">
+	<text>现在留下钱和神器. 我提醒你改造费用为 16000.</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_29">
+	<text>"石花"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_30">
+	<text>"夜星"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_31">
+	<text>"扳手"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_32">
+	<text>"重力"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_33">
+	<text>"金鱼"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_34">
+	<text>"水晶"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_35">
+	<text>"火球"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_36">
+	<text>"妈妈的项链"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_37">
+	<text>"眼睛"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_38">
+	<text>"火焰"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_39">
+	<text>"水晶"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_40">
+	<text>"肉块"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_41">
+	<text>"灵魂"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_42">
+	<text>"血石"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_43">
+	<text>"气泡"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_44">
+	<text>"萤火虫"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_45">
+	<text>"烟火"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_46">
+	<text>"闪光"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_47">
+	<text>"月光"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_48">
+	<text>"电池"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_49">
+	<text>"贝壳"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_50">
+	<text>"雪花"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_51">
+	<text>"黑石"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_52">
+	<text>"氦"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_53">
+	<text>"蜥蜴妖"</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_54">
+	<text>"龙眼"</text>
+</string>
+<string id="zat_bandit_bodyguard_dialog_1">
+	<text>嘿, 哥们! 付我 2300, 然后我会叫你老板... 不明白吗? 我是一个保镖, 我可以协助你穿行于特异区. 怎样?</text>
+</string>
+<string id="zat_bandit_bodyguard_dialog_2">
+	<text>呆在这里,攻击敌人.</text>
+</string>
+<string id="zat_bandit_bodyguard_dialog_3">
+	<text>是, 伙计, 或许我会带上你.</text>
+</string>
+<string id="zat_bandit_bodyguard_dialog_4">
+	<text>对不起, 伙计, 我现在没时间.</text>
+</string>
+<string id="zat_bandit_bodyguard_dialog_5">
+	<text>我们怎么做?</text>
+</string>
+<string id="zat_bandit_bodyguard_dialog_6">
+	<text>保护我.</text>
+</string>
+<string id="zat_bandit_bodyguard_dialog_8">
+	<text>不要开枪.</text>
+</string>
+<string id="zat_bandit_bodyguard_dialog_9">
+	<text>在这等着</text>
+</string>
+<string id="zat_bandit_bodyguard_dialog_10">
+	<text>你开火了. 小心你的屁股.</text>
+</string>
+<string id="zat_bandit_trader_dialog_1">
+	<text>嗨, 伙计! 你需要其他什么吗?</text>
+</string>
+<string id="zat_bandit_trader_dialog_2">
+	<text>我想交易.</text>
+</string>
+<string id="zat_bandit_trader_dialog_3">
+	<text>哈! 好吧, 我们交易...</text>
+</string>
+<string id="zat_bandit_trader_dialog_4">
+	<text>没事.</text>
+</string>
+<string id="zat_bandit_trader_dialog_5">
+	<text>我什么都不需要.</text>
+</string>
+<string id="zat_bandit_trader_dialog_6">
+	<text>不, 我不会取消订单.</text>
+</string>
+<string id="zat_bandit_trader_dialog_7">
+	<text>就是这样! 一小时后过来, 到那时货会送到这里.</text>
+</string>
+<string id="zat_bandit_trader_dialog_8">
+	<text>好的.</text>
+</string>
+<string id="zat_bandit_trader_dialog_9">
+	<text>嘿, 伙计! 该死, 我告诉过你一次只能下一个订单. 你没明白吗? 改变订单需要支付500.</text>
+</string>
+<string id="zat_bandit_trader_dialog_10">
+	<text>好吧, 我给你钱, 拿着.</text>
+</string>
+<string id="zat_bandit_trader_dialog_11">
+	<text>我现在废除上一个订单, 现在, 你可以选择下一个.</text>
+</string>
+<string id="zat_bandit_trader_dialog_12">
+	<text>我能下其他订单吗?</text>
+</string>
+<string id="zat_bandit_trader_dialog_13">
+	<text>太贵了.</text>
+</string>
+<string id="zat_bandit_trader_dialog_14">
+	<text>我改变主意了.</text>
+</string>
+<string id="zat_bandit_trader_dialog_15">
+	<text>好吧, 拿着.</text>
+</string>
+<string id="zat_bandit_trader_dialog_16">
+	<text>非常好! 交易谈妥了. 现在你只需要支付运费, 那东西在袋子里.</text>
+</string>
+<string id="zat_bandit_trader_dialog_17">
+	<text>没问题, 什么货物? 但是记住你一次只能下一个单子. 你可以取消订单, 但是你得付钱.</text>
+</string>
+<string id="zat_bandit_trader_dialog_18">
+	<text>我想下其他货物的订单.</text>
+</string>
+<string id="zat_bandit_trader_dialog_19">
+	<text>我知道了. 选择货物类型.</text>
+</string>
+<string id="zat_bandit_trader_dialog_20">
+	<text>武器</text>
+</string>
+<string id="zat_bandit_trader_dialog_21">
+	<text>防具</text>
+</string>
+<string id="zat_bandit_trader_dialog_22">
+	<text>"MP-5 章鱼"</text>
+</string>
+<string id="zat_bandit_trader_dialog_23">
+	<text>"土匪装甲"</text>
+</string>
+<string id="zat_bandit_trader_dialog_235">
+	<text>"土匪 外骨骼"</text>
+</string>
+<string id="zat_bandit_trader_dialog_24">
+	<text>"PP-19 Bizon-2"</text>
+</string>
+<string id="zat_bandit_trader_dialog_25">
+	<text>"AKM-74 飓风"</text>
+</string>
+<string id="zat_bandit_trader_dialog_26">
+	<text>"UMP 45"</text>
+</string>
+<string id="zat_wounded_monolith_dialog_1">
+	<text>...</text>
+</string>
+<string id="zat_wounded_monolith_dialog_2">
+	<text>...</text>
+</string>
+<string id="zat_wounded_monolith_dialog_3">
+	<text>你捡到箱子没有? 你能帮帮我吗?</text>
+</string>
+<string id="zat_wounded_monolith_dialog_4">
+	<text>是的, 朋友, 一切都会好的.</text>
+</string>
+<string id="zat_wounded_monolith_dialog_5">
+	<text>我受伤了... 不要开枪, 求求你... 啊... 挨了一个佣兵两颗子弹... 快不行了... 医疗包帮不上忙... 潜行者, 帮帮我!</text>
+</string>
+<string id="zat_wounded_monolith_dialog_6">
+	<text>拿着医疗包.</text>
+</string>
+<string id="zat_wounded_monolith_dialog_7">
+	<text>太晚了... 我受不了这么痛了... 在我死之前帮帮我. 我的朋友出卖了我... 陷害我, 然后他跑了!... 需要你带着箱子去找我的领导. 你能不能?... 快点告诉我, 趁我还活着...</text>
+</string>
+<string id="zat_wounded_monolith_dialog_8">
+	<text>不行, 我只能给你一个医疗包...</text>
+</string>
+<string id="zat_wounded_monolith_dialog_9">
+	<text>该死... 最好给我一枪... 我不能这样.</text>
+</string>
+<string id="zat_wounded_monolith_dialog_10">
+	<text>不行, 我的朋友, 拿着这个医疗包. 我不会留下你的, 明白吗? 坚持住! 拿着它...</text>
+</string>
+<string id="zat_wounded_monolith_dialog_11">
+	<text>没用的... 我活不成了, 太晚了... 我留了太多血...</text>
+</string>
+<string id="zat_wounded_monolith_dialog_12">
+	<text>好吧, 我去, 并且我会留下医疗包. 一定会用到的.</text>
+</string>
+<string id="zat_wounded_monolith_dialog_13">
+	<text>是的, 我的朋友, 我会帮你的. 你希望我把这个箱子送到哪?</text>
+</string>
+<string id="zat_wounded_monolith_dialog_14">
+	<text>去普利皮亚... 啊, 该死, 我快死了... 啊... 当你到了普利皮亚, 去普罗米修斯影院... 我们的卫兵一定会挡住你... 告诉他们里昂叫你来的, 有消息要带给机械人... 你会得到报酬, 所以不要担心... 只要按我说的去做. 就这样了...</text>
+</string>
+<string id="zat_wounded_monolith_dialog_15">
+	<text>我知道了, 我会这么做的.</text>
+</string>
+<string id="zat_wounded_monolith_dialog_16">
+	<text>拿着... 箱子... 它... 扔在... 我身边...</text>
+</string>
+<string id="zat_wounded_monolith_dialog_17">
+	<text>好的.</text>
+</string>
+<string id="zat_boroda_find_drink_beylis_dialog_1">
+	<text>斯卡多夫斯克如何?</text>
+</string>
+<string id="zat_boroda_find_drink_beylis_dialog_2">
+	<text>看上去不错, 人们很友善. 如果有什么紧急情况发生, 我是第一个知道的. 最近没什么坏事, 而且有很多好事. 例如, 好消息之一: 我们的技工卡丹的生日就要到了, 我们会一起庆祝两天.</text>
+</string>
+<string id="zat_boroda_find_drink_beylis_dialog_3">
+	<text>喔! 那真是好消息.</text>
+</string>
+<string id="zat_boroda_find_drink_beylis_dialog_4">
+	<text>是啊, 伙计们和我想给我们的卡丹送一份特殊的礼物, 但是我们了解他的缺点, 所以只想到了酒. 我们不能只想到伏特加, 需要一些特别的东西. 我们的卡丹很特别, 这样的人你现今在特异区再找不到了. 朱利亚布斯基说过这里曾有一种叫做"甜百利"的酒, 我知道的他也知道哪里有那种酒. 和他谈谈, 我想他会告诉你更多关于这种酒的事情.</text>
+</string>
+<string id="zat_boroda_find_drink_beylis_dialog_5">
+	<text>不行. 下次吧.</text>
+</string>
+<string id="zat_boroda_find_drink_beylis_dialog_6">
+	<text>没问题. 我现在就去问他.</text>
+</string>
+<string id="zat_boroda_find_drink_beylis_dialog_7">
+	<text>太好了.</text>
+</string>
+<string id="zat_boroda_find_drink_beylis_dialog_8">
+	<text>我带来了了 "甜百利".</text>
+</string>
+<string id="zat_boroda_find_drink_beylis_dialog_9">
+	<text>非常好, 我就知道你是真正的朋友. 这是一些钱, 我不想欠别人的.</text>
+</string>
+<string id="zat_boroda_find_drink_beylis_dialog_10">
+	<text>不需要, 我这么做不是为了自己, 是为了我们的卡丹.</text>
+</string>
+<string id="zat_boroda_find_drink_beylis_dialog_11">
+	<text>我坚持这么做. 拿着! 我一直都有很多钱. 拿着!</text>
+</string>
+<string id="zat_boroda_find_drink_beylis_dialog_12">
+	<text>如你所愿.</text>
+</string>
+<string id="zat_bandit_base_leader_job_dialog_1">
+	<text>我想为你工作.</text>
+</string>
+<string id="zat_bandit_base_leader_job_dialog_2">
+	<text>太好了! 这有一笔小生意... 需要带个东西, 那东西现在在木星. 你越早带回来, 我付你越多.</text>
+</string>
+<string id="zat_bandit_base_leader_job_dialog_3">
+	<text>什么东西?</text>
+</string>
+<string id="zat_bandit_base_leader_job_dialog_4">
+	<text>那的军用望远镜, 我们现在十分需要. 喔, 动作快一点, 兄弟, 这是那地方的坐标, 只需要到那里然后把望远镜带给我. 快点去和哈佛尔说一下, 他准备去木星, 你们可以一起走.</text>
+</string>
+<string id="zat_bandit_base_leader_job_dialog_5">
+	<text>没问题. 我准备马上走.</text>
+</string>
+<string id="zat_bandit_base_leader_job_dialog_6">
+	<text>我为工作而来的.</text>
+</string>
+<string id="zat_bandit_base_leader_job_dialog_7">
+	<text>哦, 办得怎么样了? 带来我说的东西了吗?</text>
+</string>
+<string id="zat_bandit_base_leader_job_dialog_8">
+	<text>还没有, 但是我正在做.</text>
+</string>
+<string id="zat_bandit_base_leader_job_dialog_9">
+	<text>是的, 给你. 拿着.</text>
+</string>
+<string id="zat_bandit_base_leader_job_dialog_10">
+	<text>做得好, 我很满意! 你做的非常快... 这是你的报酬.</text>
+</string>
+<string id="zat_bandit_base_leader_job_dialog_11">
+	<text>很高兴能帮上忙.</text>
+</string>
+<string id="zat_bandit_base_guider_dialog_1">
+	<text>你好! 是什么事带你来的?</text>
+</string>
+<string id="zat_bandit_base_guider_dialog_2">
+	<text>老板叫我来的. 你能和我一同去木星吗?</text>
+</string>
+<string id="zat_bandit_base_guider_dialog_3">
+	<text>没问题. 我正准备走就来了一个伙伴, 很好. 咱们走.</text>
+</string>
+<string id="zat_bandit_base_guider_dialog_4">
+	<text>那就走吧.</text>
+</string>
+<string id="zat_bandit_base_leader_about_dialog_1">
+	<text>谈谈你自己.</text>
+</string>
+<string id="zat_bandit_base_leader_about_dialog_2">
+	<text>你既不是检察官也不是调查员, 给你说说我的生活. 你是一只候鸟(漂泊不定的人), 当我行走于世界时我见过各种各样的鸟人. 而我知道只是因为我不是一个唠叨的人, 然而一旦我开口, 我会提前想好. 如果发生了, 牙齿碰的早一点并且比其他人说的更有力些.</text>
+</string>
+<string id="zat_bandit_base_leader_about_dialog_3">
+	<text>你对特异区发生的所有事情都有兴趣吗?</text>
+</string>
+<string id="zat_bandit_base_leader_about_dialog_4">
+	<text>我只对一件事情感兴趣: 从哪里来的雇佣兵或其他什么人要来杀掉我们. 其他的关我屁事. 尽管, 我有时候关注电磁风暴, 什么时候雇佣军和潜行者在特异区缠斗. 从那些所有的事中我可以得到我自己的利益. 给你讲个故事. 我们的一个伙计, 叫做厨师. 倒不是因为他准备吃的, 仅仅是因为他可以通过他的手指从一百步远的地方感觉出那些该死的"绞肉机"（VSS狙击步枪）. 然后他开始变得越来越无礼. 他说, 他每天都把我们从惨死中拯救出来, 但是切别耶夫仍然像以前那样给他报酬. 他忘了谁才是这里的领导, 一个寄生虫... 有次我把他叫了过来, 立马打晕了他, 当他, 婊子, 被捆住的时候, 我剁掉了他所有的指头. 然后伙计们蒙住他的眼睛, 绑住他的手, 把他带到渴望之地. 我决定, 如果他能走过一百步, 我让他活着, 成为一个傀儡. 但是他没有做到, 他碰到了他喜爱的 "绞肉机". 曾经是个厨师 - 现在成了肉末. 那又怎样? 没有变的糟糕!</text>
+</string>
+<string id="zat_bandit_base_leader_about_dialog_5">
+	<text>特异区有什么新鲜事吗?</text>
+</string>
+<string id="zat_bandit_base_leader_about_dialog_6">
+	<text>好吧... 最近爆炸越来越频繁了,卡车被埋了,地图也不一样了,还有很多新事情在这里发生,我猜这里很富有,有很多人磨尖他们的牙齿,抓住河湾这块蛋糕把它撕开.哈....如果你很聪明,你就知道不在这里赌命是一种罪.</text>
+</string>
+<string id="zat_bandit_trader_job_dialog_1">
+	<text>有什么活给我吗?</text>
+</string>
+<string id="zat_bandit_trader_job_dialog_2">
+	<text>没.</text>
+</string>
+<string id="zat_bandit_trader_job_dialog_3">
+	<text>是.</text>
+</string>
+<string id="zat_bandit_trader_job_dialog_4">
+	<text>好吧. 如果你找到我的手电, 我会好好报答你的.</text>
+</string>
+<string id="zat_bandit_trader_job_dialog_5">
+	<text>我知道了.</text>
+</string>
+<string id="zat_bandit_trader_job_dialog_6">
+	<text>我找到你的手电了. 拿着.</text>
+</string>
+<string id="zat_bandit_trader_job_dialog_7">
+	<text>好消息! 你是真正的兄弟, 这是你的报酬.</text>
+</string>
+<string id="zat_bandit_trader_job_dialog_8">
+	<text>很高兴我能帮上忙.</text>
+</string>
+<string id="zat_bandit_trader_job_dialog_9">
+	<text>我这里有个任务又一次我和三个兄弟一起路过加油站,当时很晚了,当时我喝醉了,也没发现什么值得我注意的,我的兄弟和我的SPSA-12 也上好了膛,所以我就这么一边走一边说话.我也没发现有什么东西,但是左边草丛里突然传出簌簌的响声,我直接把我的枪对着草丛来了两下,但是我们却发现什么也没有,我以为我能够逮住个野狗什么的,这是草丛的右边也突然响了起来,又突然到了左边,就这样左边..右边..突然,一头野猪掉到了我兄弟的后面...我们把野猪放倒之后我的兄弟还活着,我们被吓着了,直接跑回了基地,我还记得为了拿起我的枪,我把手上的电筒给扔掉了,直到现在我还没有去过加油站,我想我的电筒还躺在那里,你能够帮我一个忙吗?</text>
+</string>
+<string id="zat_bandit_radio_switch_dialog_1">
+	<text>嘿,兄弟,关掉收音机.</text>
+</string>
+<string id="zat_bandit_radio_switch_dialog_2">
+	<text>没问题.</text>
+</string>
+<string id="zat_bandit_radio_switch_dialog_3">
+	<text>好吧.</text>
+</string>
+<string id="zat_bandit_radio_switch_dialog_4">
+	<text>嘿,兄弟,打开收音机.</text>
+</string>
+<string id="zat_bandit_radio_switch_dialog_5">
+	<text>如你所愿.</text>
+</string>
+<string id="zat_bandit_radio_switch_dialog_6">
+	<text>好吧,稍等.</text>
+</string>
+<string id="zat_stalker_bankir_story_dialog_1">
+	<text>你好! 我能为你做些什么?</text>
+</string>
+<string id="zat_stalker_bankir_story_dialog_2">
+	<text>皮特叫我来的, 给你带了一个小包裹.</text>
+</string>
+<string id="zat_stalker_bankir_story_dialog_3">
+	<text>谢谢带给我, 我正等着呢. 再次感谢. 喔, 我忘了介绍我自己: 我是一个本地的银行家, 我的名字叫马克洛维奇, 我的主要职责就是增加资金, 我的意思是人们信任我,有时候把他们的钱放在我这里并且几天后取走,并且带着利息. 如果你有兴趣,欢迎随时来.</text>
+</string>
+<string id="zat_stalker_bankir_story_dialog_4">
+	<text>当然. 听着, 或许你知道关于坠落的直升机的消息?</text>
+</string>
+<string id="zat_stalker_bankir_story_dialog_5">
+	<text>我不知道. 我只知道我们的其中一个潜行者救了一名军方的飞行员. 那个潜行者和飞行员现在在哪里我不清楚, 但是我想马可维特斯基教授有一些这方面的消息. 他是一个老人, 在这里呆了很长时间. 他知道这里很多人, 所以和他谈话不会浪费时间的.</text>
+</string>
+<string id="zat_stalker_bankir_story_dialog_6">
+	<text>谢谢这些有价值的消息.</text>
+</string>
+<string id="zat_stalker_bankir_story_dialog_7">
+	<text>你好,我能为你做些什么?</text>
+</string>
+<string id="zat_stalker_trader_beylis_dialog_1">
+	<text>我为卡丹的生日而来.</text>
+</string>
+<string id="zat_stalker_trader_beylis_dialog_2">
+	<text>什么事?</text>
+</string>
+<string id="zat_stalker_trader_beylis_dialog_3">
+	<text>比尔德说你知道哪里有"百利甜"是真的吗?</text>
+</string>
+<string id="zat_stalker_trader_beylis_dialog_4">
+	<text>我也不知道是不是真的,我还没有检查过,但是我知道土匪也喝那种饮料,我给了一个潜行者一点东西,他喝醉的时候给我说了地点,不过却不太准确,我有大概的坐标,如果你觉得有帮助,我就把他给你.</text>
+</string>
+<string id="zat_stalker_trader_beylis_dialog_5">
+	<text>希望它能帮得上忙.</text>
+</string>
+<string id="zat_stalker_trader_beylis_dialog_6">
+	<text>那我就把它传送给你...好了,检查你的PDA确认你要的东西都在里面.</text>
+</string>
+<string id="zat_stalker_trader_beylis_dialog_7">
+	<text>谢谢.</text>
+</string>
+<string id="zat_sich_frequency_radio_trade_dialog_1">
+	<text>我想你会感兴趣的...</text>
+</string>
+<string id="zat_sich_frequency_radio_trade_dialog_2">
+	<text>你带来了什么?</text>
+</string>
+<string id="zat_sich_frequency_radio_trade_dialog_3">
+	<text>一个高频无线电,在死去的黑石士兵旁边找到的.</text>
+</string>
+<string id="zat_sich_frequency_radio_trade_dialog_4">
+	<text>嗯...黑石来河湾了?他们什么时候考虑要来这里的?...不管怎样,我用2500来换.</text>
+</string>
+<string id="zat_sich_frequency_radio_trade_dialog_5">
+	<text>好的.</text>
+</string>
+<string id="zat_sich_frequency_radio_trade_dialog_6">
+	<text>一个非常值钱的东西,谢谢.</text>
+</string>
+<string id="zat_sich_frequency_radio_trade_dialog_7">
+	<text>也谢谢你.</text>
+</string>
+<string id="zat_sich_frequency_radio_trade_dialog_8">
+	<text>那东西坏了,但我会暂时保留着.</text>
+</string>
+<string id="zat_sich_frequency_radio_trade_dialog_9">
+	<text>当心,别弄掉了...</text>
+</string>
+        <string id="zat_sich_minigame_21_point_dialog_1">
+		<text>我想问你点事情</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_2">
+		<text>你想问什么?</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_3">
+		<text>我看到你有一副牌,想玩吗?我带着钱.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_4">
+		<text>好吧, 不过听好了我定的规矩:如果我输了,我给你电子货币,我要是赢了你就给我现金,把钱准备好,我已经等不及了.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_5">
+		<text>成交.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_6">
+		<text>太好了,让我们来玩.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_7">
+		<text>又来玩二十一点?</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_8">
+		<text>对,让我们来玩.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_9">
+		<text>我准备好了.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_10">
+		<text>算了,我换个时间再来找你.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_11">
+		<text>现在不是玩二十一点的时候.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_12">
+		<text>我不这么想,这个规则不公平.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_13">
+		<text>我听到你卖藏物点,是真的吗?</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_14">
+		<text>哦,对,我知道很多,我不介意为了 1000 电子卢布跟你分享几个.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_15">
+		<text>明白了,感谢你的消息.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_16">
+		<text>你带了钱给我,你就会有信息.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_17">
+		<text>我能知道几个藏物点吗?</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_18">
+		<text>当然,一个1000电子卢布,选择区域.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_19">
+		<text>河湾</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_20">
+		<text>木星</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_21">
+		<text>普里皮亚</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_22">
+		<text>一个1000电子卢布.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_23">
+		<text>好了,这是你的藏物点的坐标.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_24">
+		<text>好了,这是你的藏物点的坐标.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_25">
+		<text>给我1个坐标.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_26">
+		<text>给我2个坐标.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_27">
+		<text>给我3个坐标.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_28">
+		<text>给我4个坐标.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_29">
+		<text>给我5个坐标.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_30">
+		<text>给我6个坐标.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_31">
+		<text>给我7个坐标.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_32">
+		<text>给我8个坐标.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_33">
+		<text>谢谢你.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_34">
+		<text>如果你想知道更多,直接告诉我.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_35">
+		<text>换个时间吧.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_36">
+		<text>如果你想知道,告诉我,我一直有很多藏物点.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_37">
+		<text>我没有足够的钱.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_38">
+		<text>别担心,你有钱了就会有坐标的.</text>
+	</string>
+</string_table>

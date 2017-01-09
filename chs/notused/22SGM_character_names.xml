@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+<string id="zat_stalker_quest_homsa_name">
+<text>号角</text>
+</string>
+<string id="esc_b1_commander_name">
+<text>梅德韦杰夫</text>
+</string>
+<string id="esc_b1_stalker_mechanic_name">
+<text>叶尔马克</text>
+</string>
+<string id="esc_b2_commander_name">
+<text>锤</text>
+</string>
+<string id="esc_b2_tamerlan_name">
+<text>铁木儿</text>
+</string>
+<string id="esc_b3_attack_commander_name">
+<text>穆罕默德</text>
+</string>
+<string id="esc_b3_commander_name">
+<text>罗加奇</text>
+</string>
+<string id="esc_b6_commander_name">
+<text>马扎伊</text>
+</string>
+<string id="esc_b7_commander_name">
+<text>恐龙</text>
+</string>
+<string id="esc_stalker_employer_name">
+<text>神经</text>
+</string>
+<string id="esc_stalker_scout_name">
+<text>别洛乌索夫</text>
+</string>
+<string id="esc_stalker_trader_name">
+<text>克里沃霍夫</text>
+</string>
+<string id="jup_a6_azat_quest_mechanik_killer_leader_name">
+<text>赛义德</text>
+</string>
+<string id="jup_a6_azat_quest_mechanik_kurier_name">
+<text>鲍勃</text>
+</string>
+
+<string id="jup_rasvet_patrol_leader_gudvin_name">
+<text>古德温</text>
+</string>
+<string id="jup_rasvet_polter_quest_skaut_name">
+<text>米格尔</text>
+</string>
+
+<string id="jup_scientific_workman_name">
+<text>教授Igolkin</text>
+</string>
+
+<string id="mar_authorities_agent_name">
+<text>探员塔拉索夫</text>
+</string>
+<string id="mar_b1_commander_name">
+<text>巴格拉季昂</text>
+</string>
+<string id="mar_b2_commander_name">
+<text>利奥波德</text>
+</string>
+<string id="mar_b2_stalker_mechanic_name">
+<text>马卡连柯</text>
+</string>
+<string id="mar_b3_commander_name">
+<text>Crucian</text>
+</string>
+<string id="mar_b4_commander_name">
+<text>Kashchei</text>
+</string>
+<string id="mar_stalker_trader_name">
+<text>Marmelyuk</text>
+</string>
+
+<string id="red_psyho_ecolog_corpse_1_name">
+<text>教授demidov</text>
+</string>
+<string id="red_psyho_ecolog_corpse_2_name">
+<text>教授Sharapov</text>
+</string>
+<string id="red_psyho_ecolog_corpse_name">
+<text>教授卢科亚诺夫</text>
+</string>
+<string id="red_psyho_security_corpse_name">
+<text>韩国</text>
+</string>
+<string id="st_black_angel_unindification_name">
+<text>Neidintifitsirovan</text>
+</string>
+
+<string id="val_b2_trader_name">
+<text>Kapitoshkin</text>
+</string>
+
+<string id="val_dolg_spez_quad_1_name">
+<text>古德</text>
+</string>
+<string id="val_dolg_spez_quad_2_name">
+<text>布朗</text>
+</string>
+<string id="val_dolg_spez_quad_3_name">
+<text>Savchuk</text>
+</string>
+<string id="val_dolg_spez_quad_4_name">
+<text>袋熊</text>
+</string>
+<string id="val_freedom_spez_agent_lucas_name">
+<text>卢卡斯</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_name">
+<text>柯尔莫哥洛夫</text>
+</string>
+
+<string id="zat_quest_the_spez_ecolog_1_dead_1_name">
+<text>教授 frederson</text>
+</string>
+<string id="zat_quest_the_spez_ecolog_1_dead_2_name">
+<text>教授 Sharapov</text>
+</string>
+<string id="zat_quest_the_spez_ecolog_1_dead_3_name">
+<text>教授 Gusatsky</text>
+</string>
+<string id="zat_quest_the_spez_killer_razvodayshi_name">
+<text>Seme</text>
+</string>
+<string id="zat_rasvet_quest_homsa_leader_name">
+<text>Shipachev</text>
+</string>
+
+<string id="zat_sultan_quest_bagir_name">
+<text>巴吉尔</text>
+</string>
+<string id="zat_sultan_quest_lucian_name">
+<text>Red snapper</text>
+</string>
+<string id="zat_sultan_quest_yakut_name">
+<text>雅库特</text>
+</string>
+</string_table>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string id="st_book_for_knife_title">
+	<text>Upgrade knife</text>
+</string>
+ 
+<string id="st_book_for_knife_descr">
+	<text>Documents, drawings, books - all this describes in detail how to use knives. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_ak74_title">
+	<text>Combat tactics 'AKM-74'</text>
+</string>
+ 
+<string id="st_book_for_ak74_descr">
+	<text>Documents, drawings, books - all of which help to master the machine AKM-74. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_ak74u_title">
+	<text>Combat tactics 'AKS-74U'</text>
+</string>
+ 
+<string id="st_book_for_ak74u_descr">
+	<text>Documents, drawings, books - all of which help to master the AKS-74U. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_pkm_title">
+	<text>Combat tactics 'RP-74'</text>
+</string>
+ 
+<string id="st_book_for_pkm_descr">
+	<text>Documents, drawings, books - all of which help to master the RP-74. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_abakan_title">
+	<text>Combat tactics AN-94 'Abakan'</text>
+</string>
+ 
+<string id="st_book_for_abakan_descr">
+	<text>Documents, drawings, books - all of which help to master the machine AN-94 'Abakan'. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_beretta_title">
+	<text>Combat tactics 'Beretta'</text>
+</string>
+ 
+<string id="st_book_for_beretta_descr">
+	<text>Documents, drawings, books - all of which help to master gun Beretta. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_bm16_title">
+	<text>Combat tactics 'scattergun'</text>
+</string>
+ 
+<string id="st_book_for_bm16_descr">
+	<text>Documents, drawings, books - all of which help to master the Scattergun. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_toz34_title">
+	<text>Combat tactics 'TOZ-34'</text>
+</string>
+ 
+<string id="st_book_for_toz34_descr">
+	<text>Documents, drawings, books - all of which help to master the TOZ-34. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_wincheaster1300_title">
+	<text>Combat tactics 'Chaser-13'</text>
+</string>
+ 
+<string id="st_book_for_wincheaster1300_descr">
+	<text>Documents, drawings, books - all of which help to master the Chaser-13. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_spas12_title">
+	<text>Combat tactics 'SPAS 12'</text>
+</string>
+ 
+<string id="st_book_for_spas12_descr">
+	<text>Documents, drawings, books - all of which help to master the SPAS 12. To increase the skill of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_svd_title">
+	<text>Combat tactics 'PRS'</text>
+</string>
+ 
+<string id="st_book_for_svd_descr">
+	<text>Documents, drawings, books - all of which help to master the SVD. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_svu_title">
+	<text>Combat tactics 'SVU'</text>
+</string>
+ 
+<string id="st_book_for_svu_descr">
+	<text>Documents, drawings, books - all of which help to master IED. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_colt1911_title">
+	<text>Combat tactics 'Colt'</text>
+</string>
+ 
+<string id="st_book_for_colt1911_descr">
+	<text>Documents, drawings, books - all of which help to master gun Colt. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_desert_eagle_title">
+	<text>Combat tactics 'Black Hawk Down'</text>
+</string>
+ 
+<string id="st_book_for_desert_eagle_descr">
+	<text>Documents, drawings, books - all of which help to master the Black Hawk. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_fn2000_title">
+	<text>Combat tactics 'FN-F2000'</text>
+</string>
+ 
+<string id="st_book_for_fn2000_descr">
+	<text>Documents, drawings, books - all of which help to master the FN-F2000. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_fort_title">
+	<text>Combat tactics 'FORT-12'</text>
+</string>
+ 
+<string id="st_book_for_fort_descr">
+	<text>Documents, drawings, books - all of which help to master gun FORT-12. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_hpsa_title">
+	<text>Combat tactics 'HPSS-1m'</text>
+</string>
+ 
+<string id="st_book_for_hpsa_descr">
+	<text>Documents, drawings, books - all of which help to master gun HPSS-1m. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_pb_title">
+	<text>Combat tactics 'PB-1s'</text>
+</string>
+ 
+<string id="st_book_for_pb_descr">
+	<text>Documents, drawings, books - all of which help to master PB-1s. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_pm_title">
+	<text>Combat tactics 'PMM'</text>
+</string>
+ 
+<string id="st_book_for_pm_descr">
+	<text>Documents, drawings, books - all of which help to master the PMM. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_sig220_title">
+	<text>Combat tactics 'SIG 220'</text>
+</string>
+ 
+<string id="st_book_for_sig220_descr">
+	<text>Documents, drawings, books - all of which help to master the SIG 220. To increase the skill of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_usp_title">
+	<text>Combat tactics 'UDP Compact'</text>
+</string>
+ 
+<string id="st_book_for_usp_descr">
+	<text>Documents, drawings, books - all of which help to master the UDP CD. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_walther_title">
+	<text>Combat tactics 'Walther P9M'</text>
+</string>
+ 
+<string id="st_book_for_walther_descr">
+	<text>Documents, drawings, books - all of which help to master Walther P9M. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_g36_title">
+	<text>Combat tactics 'HK-G36E'</text>
+</string>
+ 
+<string id="st_book_for_g36_descr">
+	<text>Documents, drawings, books - all of which help to master the HK-G36E. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_gauss_title">
+	<text>Combat tactics 'Rifle EM1'</text>
+</string>
+ 
+<string id="st_book_for_gauss_descr">
+	<text>Documents, drawings, books - all of which help to master Rifle EM1. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_groza_title">
+	<text>Combat tactics OZ-14 'Thunderstorm'</text>
+</string>
+ 
+<string id="st_book_for_groza_descr">
+	<text>Documents, drawings, books - all of which help to master the OZ-14 'Haze'. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_l85_title">
+	<text>Combat tactics 'L85'</text>
+</string>
+ 
+<string id="st_book_for_l85_descr">
+	<text>Documents, drawings, books - all of which help to master the L85. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_lr300_title">
+	<text>Combat tactics 'LR-300'</text>
+</string>
+ 
+<string id="st_book_for_lr300_descr">
+	<text>Documents, drawings, books - all of which help to master the rifle LR-300. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_mp5_title">
+	<text>Combat tactics 'MP-5'</text>
+</string>
+ 
+<string id="st_book_for_mp5_descr">
+	<text>Documents, drawings, books - all of which help to master the MP-5. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_rg-6_title">
+	<text>Combat tactics 'Bulldog 6'</text>
+</string>
+ 
+<string id="st_book_for_rg-6_descr">
+	<text>Documents, drawings, books - all of which help to master the Bulldog 6. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_rpg7_title">
+	<text>Combat tactics 'RPG-7V'</text>
+</string>
+ 
+<string id="st_book_for_rpg7_descr">
+	<text>Documents, drawings, books - all of which help to master the RPG-7V. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_sig550_title">
+	<text>Tactics of warfare 'SG-550'</text>
+</string>
+ 
+<string id="st_book_for_sig550_descr">
+	<text>Documents, drawings, books - all of which help to master the SG-550. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_val_title">
+	<text>Combat tactics 'CA AVALANCHE'</text>
+</string>
+ 
+<string id="st_book_for_val_descr">
+	<text>Documents, drawings, books - all of which help to master the CA avalanches. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_vintorez_title">
+	<text>Combat tactics BCC 'Vintorez'</text>
+</string>
+ 
+<string id="st_book_for_vintorez_descr">
+	<text>Documents, drawings, books - all of which help to master the BCC 'Vintorez'. To improve the skills of warfare - must be used.</text>
+</string>
+ 
+<string id="st_book_for_protecta_title">
+	<text>Combat tactics 'Buffer'</text>
+</string>
+ 
+<string id="st_book_for_protecta_descr">
+	<text>Documents, drawings, books - all of which help to master the bump. To improve the skills of warfare - must be used.</text>
+</string>
+ 

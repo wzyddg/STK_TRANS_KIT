@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="pri_alf_informs_title0">
+	    <text>奥尔夫请求: 找到三个所需物品</text>
+	</string>
+	<string id="pri_alf_informs_text0">
+	    <text>The Monolith mechanic asked you to find all information possible with regards to working on specific mechanical devices, The info is sketchy but it seems that you will need to search the service centre buildings in Pripyat. There should be three relevant documents.</text>
+	</string>
+	<string id="pri_alf_informs_title1">
+	    <text>奥尔夫请求: 剩下两个</text>
+	</string>
+	<string id="pri_alf_informs_text1">
+	    <text>You have found one of the schematics leaving 2 more to find.</text>
+	</string>
+	<string id="pri_alf_informs_title2">
+	    <text>奥尔夫请求: 剩下两个</text>
+	</string>
+	<string id="pri_alf_informs_text2">
+	    <text>You have got one of the schematic's now find the other's.</text>
+	</string>
+	<string id="pri_alf_informs_title3">
+	    <text>奥尔夫请求: 剩下两个</text>
+	</string>
+	<string id="pri_alf_informs_text3">
+	    <text>You have one now find the other two schematic's.</text>
+	</string>
+	<string id="pri_alf_informs_title4">
+	    <text>奥尔夫请求: 找到最后一个</text>
+	</string>
+	<string id="pri_alf_informs_text4">
+	    <text>You have two of the documents now find the last one.</text>
+	</string>
+	<string id="pri_alf_informs_title5">
+	    <text>奥尔夫请求: 寻找最后一个</text>
+	</string>
+	<string id="pri_alf_informs_text5">
+	    <text>You have found two of the three schematics leaving just one to go.</text>
+	</string>
+	<string id="pri_alf_informs_title6">
+	    <text>奥尔夫请求: 搜索最后一个</text>
+	</string>
+	<string id="pri_alf_informs_text6">
+	    <text>You've found two lots and need to find the last one.</text>
+	</string>
+	<string id="pri_alf_informs_title7">
+	    <text>奥尔夫请求: 送回顾客要求的物品</text>
+	</string>
+	<string id="pri_alf_informs_text7">
+	    <text>Take all the documents you found to the Monolith mechanic.</text>
+	</string>
+</string_table>

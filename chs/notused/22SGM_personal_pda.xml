@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+<string id="st_statistic_killed_m_13_name">
+        <text>Fracture</text>
+      </string>
+      <string id="st_statistic_killed_m_14_name">
+	    <text>Cote Bayun</text>
+      </string>
+      <string id="st_statistic_killed_m_15_name">
+        <text>僵尸</text>	  
+      </string>
+<string id="st_statistic_killed_s_13_name">
+	  <text>夜行者</text>
+      </string>
+</string_table>

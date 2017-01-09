@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="zat_homsa_find_quest_main_title0">
+	    <text>私人调查: 斯卡多夫斯克居民的问题</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text0">
+	     <text>Gonta has asked you to find a group of stalkers being led by a guide called Horns who have gone missing. Before widening your search find out what you can about him and those he was travelling with from the locals.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title1">
+	    <text>私人调查: 检查三个可能的位置</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text1">
+	    <text>You managed to gleen three possible area's where Horns and his team may be you need to check them all.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title2">
+	    <text>私人调查: 和你的雇主交谈</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text2">
+	    <text>You need to report on your findings in the places checked and decide what to do next.</text>
+	</string>
+	<string id="zat_homsa_find_quest_1_text0">
+	    <text>You must check at the containers campsite for Horns and co.</text>
+	</string>
+	<string id="zat_homsa_find_quest_1_title0">
+	    <text>私人调查: 检查一个地方</text>
+	</string>
+	<string id="zat_homsa_find_quest_1_text1">
+	    <text>You must check at the container warehouse for Hom's and co.</text>
+	</string>
+	<string id="zat_homsa_find_quest_2_title0">
+	    <text>私人调查: 检查一个地方</text>
+	</string>
+	<string id="zat_homsa_find_quest_2_text0">
+	    <text>你必须检查一个营地,靠近钢铁森林特异点.</text>
+	</string>
+	<string id="zat_homsa_find_quest_3_title0">
+	    <text>私人调查: 检查一个地方</text>
+	</string>
+	<string id="zat_homsa_find_quest_3_text0">
+	    <text>你必须检查庇护所,靠近火烧农场.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title3">
+	    <text>私人调查: 等待更多消息</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text3">
+	    <text>The missing squad has been in contact with the Skadovsk residents, The situation is becoming clearer however you will have to wait until they make contact again to find out more.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title4">
+	    <text>私人调查: 和你的雇主交谈</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text4">
+	    <text>Ask Gonta what he was told regarding the missing men.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title5">
+	    <text>私人调查: 会见失踪小队首领</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text5">
+	    <text>Gonta managed to contact the leader of the missing detachment and learned some very strange facts about the fate of there guide. You need to talk to him and find out the truth.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title6">
+	    <text>私人调查: 护送他到指定的区域</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text6">
+	    <text>The case has taken an unexpected turn, You will need to assist the stalkers in order to get the opportunity to conduct further investigations, You need to help there leader meet up with his squad, He must be kept alive.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title7">
+	    <text>私人调查: 击退突变体</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text7">
+	    <text>The situation has still not been resolved so you need to continue helping and fight of an attack by mutants.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title8">
+	    <text>私人调查: 跟着PDA的信号</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text8">
+	    <text>The fella managed to get you the frequency of Horns PDA signal as he said, follow it.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title9">
+	    <text>私人调查: 杀死号角</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text9">
+	    <text>It turns out Hom's is not who he pretends to be and is a player for the syndicate, He is not co-operating so kill him.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title10">
+	    <text>私人调查: 返回斯卡多夫斯克</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text10">
+	    <text>It is time to report on all that has happened and close the case.</text>
+	</string>
+<string id="zat_killer_spez_operation_title0">
+<text>隐蔽反对: 决定做什么</text>
+</string>
+<string id="zat_killer_spez_operation_text0">
+<text>Mercenaries are plotting a dangerous adventure against Duty and Freedom. You have been allocated a main role. Decide what you will do - take the side of Duty, or their opponents.</text>
+</string>
+<string id="zat_killer_spez_1_title0">
+<text>隐蔽性: 说服洛基与你方对话.</text>
+</string>
+<string id="zat_killer_spez_1_text0">
+<text>In order to assist in resolving the potential conflict, it is necessary to implicate the Freedom stalkers. To do this convince Loki to send a detachment of people for a sabotage mission against the Duty.</text>
+</string>
+<string id="zat_killer_spez_1_title1">
+<text>隐蔽反对: 等待自由团到达河湾</text>
+</string>
+<string id="zat_killer_spez_1_text1">
+<text>You must wait until the commencement of the special operation. Prepare for it during this time.</text>
+</string>
+<string id="zat_killer_spez_1_title2">
+<text>隐蔽反对: 消灭自由团破坏者</text>
+</string>
+<string id="zat_killer_spez_1_text2">
+<text>Instead of a joint action against Duty, kill the Freedom saboteurs.</text>
+</string>
+<string id="zat_killer_spez_1_title3">
+<text>隐蔽反对: 检查纪律团保护的科学家小组</text>
+</string>
+<string id="zat_killer_spez_1_text3">
+<text>Recieved an unexpected message from Shulga. The detachment of his soldiers who were guarding the scientists did not make contact as arranged. Find out what happened ...</text>
+</string>
+<string id="zat_killer_spez_1_title4">
+<text>隐蔽反对: 查问受伤的佣兵发生了什么</text>
+</string>
+<string id="zat_killer_spez_1_text4">
+<text>The Dutiers and the scientists died. Nearby lies a wounded mercenary left to die by his clan. Find out from him what happened.</text>
+</string>
+<string id="zat_killer_spez_1_title5">
+<text>隐蔽反对: 杀佣兵.</text>
+</string>
+<string id="zat_killer_spez_1_text5">
+<text>The merc deceived you and tricked you to do what you may not off. Now Duty and Freedom will believe that you rigged this whole adventure. Kill the wounded merc and decide what to do in this difficult situation ...</text>
+</string>
+<string id="zat_killer_spez_1_title6">
+<text>隐蔽反对: 对话你方卷进了什么事</text>
+</string>
+<string id="zat_killer_spez_1_text6">
+<text>Talk to the saber and decide how you will deal with it, the mercenaries, or return the neutrality of other clans.</text>
+</string>
+<string id="zat_killer_spez_1_title7">
+<text>隐蔽反对: 对话洛基</text>
+</string>
+<string id="zat_killer_spez_1_text7">
+<text>Convince Freedom's leader in your 'innocence' regarding the incident.</text>
+</string>
+<string id="zat_killer_spez_1_title8">
+<text>隐蔽反对: 与舒尔加中校会面</text>
+</string>
+<string id="zat_killer_spez_1_text8">
+<text>Convince the Duty leader in his innocence and lack of communication with the mercenaries ...</text>
+</string>
+<string id="zat_killer_spez_2_title0">
+<text>隐蔽反对: 让舒尔加中校知道对科学家可能的攻击</text>
+</string>
+<string id="zat_killer_spez_2_text0">
+<text>In order to 'assist' Freedom in the brewing adventure Shulga need to be convinced that he needs to transfer a group of his best fighters for you to use when you indicate a possible change to the route to enter Zaton.</text>
+</string>
+<string id="zat_killer_spez_2_title1">
+<text>反对秘密: 等待svobodovtsy到河湾.</text>
+</string>
+<string id="zat_killer_spez_2_text1">
+<text>Group svobodovskih saboteurs sent to the Creek. Wait until their arrival.</text>
+</string>
+<string id="zat_killer_spez_2_title2">
+<text>反对秘密: 会见首领svobodovtsev.</text>
+</string>
+<string id="zat_killer_spez_2_text2">
+<text>Speak with the commander of the detachment svobodovskogo upcoming surgery.</text>
+</string>
+<string id="zat_killer_spez_2_title3">
+<text>反对秘密: 选好位置</text>
+</string>
+<string id="zat_killer_spez_2_text3">
+<text>Prepare for an ambush on the team of scientists and a detachment of debt, taking a good position ...</text>
+</string>
+<string id="zat_killer_spez_2_title4">
+<text>反对秘密: 消灭科学家.</text>
+</string>
+<string id="zat_killer_spez_2_text4">
+<text>Destroy all the scientists and their accompanying dolgovtsev.</text>
+</string>
+<string id="zat_killer_spez_2_title5">
+<text>反对秘密: 搜科学家的箱子.</text>
+</string>
+<string id="zat_killer_spez_2_text5">
+<text>Collect next to the body of the murdered scientist with a cargo of valuable information.</text>
+</string>
+<string id="zat_killer_spez_2_title6">
+<text>反对秘密: 消灭支队的领导.</text>
+</string>
+<string id="zat_killer_spez_2_text6">
+<text>Mercenaries had been instructed to carry out sabotage against the two clans. Therefore, destroy, and svobodovtsev too.</text>
+</string>
+<string id="zat_killer_spez_2_title7">
+<text>反对秘密: 和不明佣兵交谈.</text>
+</string>
+<string id="zat_killer_spez_2_text7">
+<text>The mercenaries were sent a man kontroliravshego operation ... We need to discuss with him how to proceed.</text>
+</string>
+<string id="zat_killer_spez_2_title8">
+<text>反对秘密: 说服舒尔加中校袭击的清白.</text>
+</string>
+<string id="zat_killer_spez_2_text8">
+<text>Follow to Dolgovskomu colonel and convince in his innocence to what has happened. Thus it will be possible with the duty of neutrality.</text>
+</string>
+<string id="zat_killer_spez_2_title9">
+<text>隐蔽性: 说服洛基,死亡的小队,svobodovskogo的清白...</text>
+</string>
+<string id="zat_killer_spez_2_text9">
+<text>Follow the leader and convince svobodovtsev in his innocence to what has happened. Thus it will be possible with the freedom of neutrality.</text>
+</string>
+<string id="zat_sultan_kontr_title0">
+<text>优先选择: 对话巴吉尔</text>
+</string>
+<string id="zat_sultan_kontr_text0">
+<text>The Sultan has instructed you to conduct a special investigation and you found that his man Yakut has deceived him. First you need to get all possible information about Yakut from a Freedom 'whistleblower' called Bagheera.</text>
+</string>
+<string id="zat_sultan_kontr_title1">
+<text>优先选择: 会见卢西恩</text>
+</string>
+<string id="zat_sultan_kontr_text1">
+<text>Bagir said that the Yakut was caught Lucian a new member in the bandit gang of Chapaev who's based in Zaton's ranger station. Go there and check the veracity of the words of the informer.</text>
+</string>
+<string id="zat_sultan_kontr_title2">
+<text>优先选择: 询问雅库特</text>
+</string>
+<string id="zat_sultan_kontr_text2">
+<text>Lucian had promised to go on a possible compromise between the maturing konfrantatsii bandit clans, only if you manage to extract from the Yakut information on stolen documents. Get them in a hostage.</text>
+</string>
+<string id="zat_sultan_kontr_title3">
+<text>优先选择: 等待处理</text>
+</string>
+<string id="zat_sultan_kontr_text3">
+<text>Yakut split. But anyway it is no longer a rescue. Wait until it's over, and start hunting for caches.</text>
+</string>
+<string id="zat_sultan_kontr_title4">
+<text>优先选择: 寻找雅库特三个文件</text>
+</string>
+<string id="zat_sultan_kontr_text4">
+<text>Yakut before his death, told by you of all the stolen documents, the Sultan, which he hid in the recesses on the Creek and Jupiter. We'll have to find them under the tip of his words: '. Choke ... three cache. Creek on two: the recycling station and close to the BIS in the sewers ... and Janov, in his career ... in ... the iron. . cr .. '</text>
+</string>
+<string id="zat_sultan_kontr_title5">
+<text>优先选择: 决定做什么</text>
+</string>
+<string id="zat_sultan_kontr_text5">
+<text>All the documents you have the Sultan. Decide which side to take the bandit: Sultan and Lucian.</text>
+</string>
+<string id="zat_sultan_kontr_title_1_0">
+<text>优先选择: 告诉洛基巴吉尔不可靠.</text>
+</string>
+<string id="zat_sultan_kontr_text_1_0">
+<text>You have given the documents with all the information on the smuggling Lyutsianu. Now it is necessary to come up with a suitable excuse for the Sultan. Try to put all the blame on the informer svobodovskogo Bagheera.</text>
+</string>
+<string id="zat_sultan_kontr_title_1_1">
+<text>优先选择: 消灭巴吉尔</text>
+</string>
+<string id="zat_sultan_kontr_text_1_1">
+<text>Loki is believed duplicity stalker Bagheera, and gave its tacit consent to his removal. Kill svobodovtsa.</text>
+</string>
+<string id="zat_sultan_kontr_title_1_2">
+<text>优先选择: 欺骗苏丹</text>
+</string>
+<string id="zat_sultan_kontr_text_1_2">
+<text>Go see the Sultan and dump all the blame on the failure of his job on the informant Bagheera.</text>
+</string>
+<string id="zat_sultan_kontr_title_2_0">
+<text>优先选择: 等待卢西恩</text>
+</string>
+<string id="zat_sultan_kontr_text_2_0">
+<text>All documents are returned to the customer. Now the Sultan asked you to deal with a competitor in the smuggling - Lyutsianom. According to the obtained data from the Bagheera Lucian must soon leave the base and go to Jupiter. Wait for his appearance.</text>
+</string>
+<string id="zat_sultan_kontr_title_2_1">
+<text>优先选择: 杀卢西恩和他的人</text>
+</string>
+<string id="zat_sultan_kontr_text_2_1">
+<text>消灭 competitors Sultan.</text>
+</string>
+<string id="zat_sultan_kontr_title_2_2">
+<text>优先选择: 向苏丹报告成功</text>
+</string>
+<string id="zat_sultan_kontr_text_2_2">
+<text>Lucian is dead. Go back to the customer for a reward.</text>
+</string>
+</string_table>

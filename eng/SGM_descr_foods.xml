@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string id="st_sardina">
+	<text>Sardines 'Pirate'</text>
+</string>
+ 
+<string id="st_sardina_descr">
+	<text>Very tasty fish, caught in the Pacific Ocean, and carried some stalkers in the exclusion zone. The shelf life of 1.5 months.</text>
+</string>
+ 
+<string id="st_nuts">
+	<text>Bank with nuts 'Bim Bom'</text>
+</string>
+ 
+<string id="st_nuts_descr">
+	<text>A special bank nuts with an increased number of vitamins. They can quickly get enough and a little to restore energy.</text>
+</string>
+ 
+<string id="st_wild_drink">
+	<text>'Wild' drink</text>
+</string>
+ 
+<string id="st_wild_drink_descr">
+	<text>%c[default] Useful properties: \n %c[255,238,153,26] • %c[default] detoxifies %c[255,238,15,26] ( %c[255,1,128,54] -3% %c[255,238,15,26]) \n %c[default] The drink is called 'Wild',because it contains alcohol. The drink contains 5 %alcohol and drugs,, causes the release of adrenaline in the blood.</text>
+</string>
+ 
+<string id="st_olivki">
+	<text>Green Olives</text>
+</string>
+ 
+<string id="st_olivki_descr">
+	<text>Fresh olives Bank, in other Zone does not happen. Popular and very tradable commodities have stalkers, but perishable in a zone. Slightly reduces the effects of radiation on the body.</text>
+</string>
+ 
+<string id="st_cheese">
+	<text>Processed cheese 'Amber'</text>
+</string>
+ 
+<string id="st_cheese_descr">
+	<text>The usual processed cheese from the local underground plant. Despite the fact that in preparing the Zone, no one has been poisoned.</text>
+</string>
+ 
+<string id="st_galet">
+	<text>Biscuits</text>
+</string>
+ 
+<string id="st_galet_descr">
+	<text>Quite nutritious, allowing long storage product, but they are not particularly satisfied.</text>
+</string>
+ 
+<string id="st_shokolad">
+	<text>Chocolate 'Alionushka'</text>
+</string>
+ 
+<string id="st_shokolad_descr">
+	<text>Favorite treat many stalkers. Excellent remedy for bad mood.</text>
+</string>
+ 
+<string id="st_batonchik">
+	<text>Chocolate bar</text>
+</string>
+ 
+<string id="st_batonchik_descr">
+	<text>Delicious bar of milk chocolate with cream filling. Excellent remedy for bad mood.</text>
+</string>
+ 
+<string id="st_beer">
+	<text>Beer 'Zhigulevskoye'</text>
+</string>
+ 
+<string id="st_beer_descr">
+	<text>Good drink, uplifting. Barely noticeably reduces the effects of radiation on the body.</text>
+</string>
+ 
+<string id="st_juice">
+	<text>Orange juice 'Defaulted'</text>
+</string>
+ 
+<string id="st_juice_descr">
+	<text>Nutritious food, excellent restoring health.</text>
+</string>
+ 

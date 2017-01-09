@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string id="st_addon_silencer_9x18">
+	<text>Muffler caliber 9x18</text>
+</string>
+ 
+<string id="st_addon_silencer_9x19">
+	<text>Muffler caliber 9x19</text>
+</string>
+ 
+<string id="st_addon_silencer_11.43x23">
+	<text>11.43x23 caliber silencer</text>
+</string>
+ 
+<string id="st_addon_silencer_5.45x39">
+	<text>Muffler caliber 5.45x39</text>
+</string>
+ 
+<string id="st_addon_silencer_5.56x45">
+	<text>NATO caliber silencer</text>
+</string>
+ 
+<string id="st_addon_silencer_9x39">
+	<text>Muffler caliber 9x39</text>
+</string>
+ 

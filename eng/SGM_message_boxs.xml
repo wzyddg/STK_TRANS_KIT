@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string id="st_sigerous_top_1_text">
+	<text>Welcome to the rating system - Sigerous Top. You need to register. Enter your username. Write in Latin or Cyrillic. Of characters allowed only point. Limit: 10 characters.</text>
+</string>
+ 
+<string id="st_sigerous_top_2_text">
+	<text>Username accepted. Now enter the name of the city where you are. Write in Latin or Cyrillic. Limit: 12 characters.</text>
+</string>
+ 
+<string id="st_sigerous_top_3_text">
+	<text>Your data is successfully registered in the ranking Sigerous Top. Enjoy the game!</text>
+</string>
+ 
+<string id="st_sigerous_top_4_text">
+	<text>You are excluded from Sigerous Top. For the use of cheats. To return to the status quo - you must load the previously saved.</text>
+</string>
+ 
+<string id="st_sigerous_top_5_text">
+	<text>You are temporarily excluded from Sigerous Top. Difficulty level chosen at the beginning of the new game does not match your teschemu level of complexity. Sign in options of the game and to restore the complexity.</text>
+</string>
+ 
+<string id="st_question_game_manual_text">
+	<text>When a series of correct answers of 5 or more points: you get a tip on a cache, as well as an additional amount of money.</text>
+</string>
+ 
+<string id="st_question_game_less_available_text">
+	<text>Questions have been exhausted. Continuation of the game impossible.</text>
+</string>
+ 
+<string id="st_question_game_correct_answer_1_text">
+	<text>This is the correct answer!</text>
+</string>
+ 
+<string id="st_question_game_correct_answer_2_text">
+	<text>You answered correctly!</text>
+</string>
+ 
+<string id="st_question_game_correct_answer_3_text">
+	<text>Correct!</text>
+</string>
+ 
+<string id="st_question_game_correct_answer_4_text">
+	<text>Correct answer!</text>
+</string>
+ 
+<string id="st_question_game_wrong_answer_1_text">
+	<text>This is the wrong answer!</text>
+</string>
+ 
+<string id="st_question_game_wrong_answer_2_text">
+	<text>You answered incorrectly!</text>
+</string>
+ 
+<string id="st_question_game_wrong_answer_3_text">
+	<text>Incorrect!</text>
+</string>
+ 
+<string id="st_question_game_wrong_answer_4_text">
+	<text>Wrong answer!</text>
+</string>
+ 
+<string id="st_21_point_dont_money_to_rate">
+	<text>Rate increase is impossible: not enough money.</text>
+</string>
+ 
+<string id="st_21_point_dont_take_rate">
+	<text>Continuation of the game impossible bets are made.</text>
+</string>
+ 
+<string id="st_disk_breaking_loaded_text">
+	<text>Utilities installed successfully: get the opportunity to dispose of capital on any results and compromised the flash-drive.</text>
+</string>
+ 
+<string id="st_choose_weapon_repair_text">
+	<text>How to repair: Repair the weapon slot to use parts of weapons of the same type? Repair weapons, using only the repair kit?</text>
+</string>
+ 
+<string id="st_only_weapon_donor_repair_text">
+	<text>This repair kit can repair only using parts of arms of the donor, if any you have. What do you like to do?</text>
+</string>
+ 
+<string id="st_choose_weapon_repair_button1">
+	<text>Using details.</text>
+</string>
+ 
+<string id="st_choose_weapon_repair_button2">
+	<text>Only Kit.</text>
+</string>
+ 
+<string id="st_only_weapon_donor_repair_button1">
+	<text>Use of the donor.</text>
+</string>
+ 
+<string id="st_only_weapon_donor_repair_button2">
+	<text>Not to repair.</text>
+</string>
+ 
+<string id="st_only_outfit_donor_repair_text">
+	<text>This repair kit can repair the suit's only with the help of the donor, if you have one. What do you like to do?</text>
+</string>
+ 
+<string id="st_choose_outfit_repair_text">
+	<text>How to repair: Repair to put on armor, armor parts using the same type? Use only repair kit?</text>
+</string>
+ 
+<string id="st_choose_outfit_repair_button1">
+	<text>Using details.</text>
+</string>
+ 
+<string id="st_choose_outfit_repair_button2">
+	<text>Only Kit.</text>
+</string>
+ 
+<string id="st_only_outfit_donor_repair_button1">
+	<text>Use of the donor.</text>
+</string>
+ 
+<string id="st_only_outfit_donor_repair_button2">
+	<text>Not to repair.</text>
+</string>
+ 
+<string id="st_need_rgd5_box_text">
+	<text>To connect grenades - need 2 RGD-5 grenades.</text>
+</string>
+ 
+<string id="st_need_f1_box_text">
+	<text>To connect grenades - need 2 F-1 grenades.</text>
+</string>
+ 
+<string id="st_need_gd-05_box_text">
+	<text>To connect grenades - need 2 grenades DG-05.</text>
+</string>
+ 
+<string id="st_diplomatia_conclude_stalkers_text">
+	<text>Do you agree to sign a contract with a group of 'free stalkers' for 25000 rubles?</text>
+</string>
+ 
+<string id="st_diplomatia_conclude_bandits_text">
+	<text>Do you agree to sign a contract with a group of 'Bandits' at 28,000 rubles?</text>
+</string>
+ 
+<string id="st_diplomatia_conclude_dolgs_text">
+	<text>Do you agree to sign a contract with a group of 'long' for 30,000 rubles?</text>
+</string>
+ 
+<string id="st_diplomatia_conclude_freedoms_text">
+	<text>Do you agree to sign a contract with the group 'Freedom' for 30,000 rubles?</text>
+</string>
+ 
+<string id="st_diplomatia_conclude_killers_text">
+	<text>Do you agree to sign a contract with the group 'Mercenaries' for 35,000 rubles?</text>
+</string>
+ 
+<string id="st_diplomatia_conclude_rasvets_text">
+	<text>Do you agree to sign a contract with the group 'Breaking Dawn' for 10,000 rubles?</text>
+</string>
+ 
+<string id="st_diplomatia_conclude_final_text">
+	<text>The treaty was signed successfully. The revision.</text>
+</string>
+ 
+<string id="st_diplomatia_conclude_no_location_text">
+	<text>The contract is not held for unknown reasons.</text>
+</string>
+ 
+<string id="st_diplomatia_conclude_failure_text">
+	<text>You do not have the money for the contract.</text>
+</string>
+ 
+<string id="st_diplomatia_choose_button1">
+	<text>Agree.</text>
+</string>
+ 
+<string id="st_diplomatia_choose_button2">
+	<text>Opt Out.</text>
+</string>
+ 
+<string id="st_mod_options_return_default">
+	<text>All changes to the settings will be reset. You sure?</text>
+</string>
+ 
+<string id="st_mod_options_main_apply_text">
+	<text>Setting mode has been successfully changed.</text>
+</string>
+ 
+<string id="st_mod_options_hud_apply_text">
+	<text>HUD settings were changed successfully.</text>
+</string>
+ 
+<string id="st_mod_options_modes_apply_text">
+	<text>Chit-setting fashion has been successfully changed.</text>
+</string>
+ 
+<string id="st_mod_options_optimization_apply_text">
+	<text>Optimization settings were changed successfully.</text>
+</string>
+ 
+<string id="st_options_clean_anomaly">
+	<text>All additional SGM anomalies at locations Zaton and Jupiter Pripyat - successfully removed.</text>
+</string>
+ 
+<string id="st_options_clean_mines">
+	<text>All SGM mines successfully removed.</text>
+</string>
+ 
+<string id="st_options_clean_monsters">
+	<text>All the dead little animals were successfully removed.</text>
+</string>
+ 
+<string id="st_level_change_zone_yes_no_text">
+	<text>Go to another location?</text>
+</string>
+ 
+<string id="st_level_change_zone_ok_text">
+	<text>You can not go here.</text>
+</string>
+ 
+<string id="st_level_change_zone_ok_need_acces_card_text">
+	<text>You can not go here. Need access card.</text>
+</string>
+ 
+<string id="st_level_change_zone_ok_need_key_text">
+	<text>You can not go here. Need a key.</text>
+</string>
+ 
+<string id="st_warning_sleep_limited_text">
+	<text>You can not sleep, because less than an hour ago was asleep.</text>
+</string>
+ 

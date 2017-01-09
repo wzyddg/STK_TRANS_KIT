@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string id="st_activate_binocular_title">
+	<text>Binoculars 'Standard'</text>
+</string>
+ 
+<string id="st_activate_binocular_descr">
+	<text>To activate the binoculars - you want to use.</text>
+</string>
+ 
+<string id="st_activate_binocular_m1_title">
+	<text>Binoculars 'Hawk'</text>
+</string>
+ 
+<string id="st_activate_binocular_m1_descr">
+	<text>To activate the binoculars - you want to use.</text>
+</string>
+ 
+<string id="st_activate_binocular_m2_title">
+	<text>Binoculars 'Optimus'</text>
+</string>
+ 
+<string id="st_activate_binocular_m2_descr">
+	<text>To activate the binoculars - you want to use.</text>
+</string>
+ 
+<string id="st_activate_binocular_m3_title">
+	<text>Binoculars 'Cheetah'</text>
+</string>
+ 
+<string id="st_activate_binocular_m3_descr">
+	<text>To activate the binoculars - you want to use.</text>
+</string>
+ 
+<string id="st_activate_knife_title">
+	<text>Simple knife</text>
+</string>
+ 
+<string id="st_activate_knife_descr">
+	<text>To activate the knife - to be used.</text>
+</string>
+ 
+<string id="st_activate_knife_m1_title">
+	<text>Knife stalker</text>
+</string>
+ 
+<string id="st_activate_knife_m1_descr">
+	<text>To activate the knife - to be used.</text>
+</string>
+ 
+<string id="st_activate_knife_m2_title">
+	<text>Knife of Liberty</text>
+</string>
+ 
+<string id="st_activate_knife_m2_descr">
+	<text>To activate the knife - to be used.</text>
+</string>
+ 
+<string id="st_activate_knife_m3_title">
+	<text>Knife Debt</text>
+</string>
+ 
+<string id="st_activate_knife_m3_descr">
+	<text>To activate the knife - to be used.</text>
+</string>
+ 
+<string id="st_activate_knife_m4_title">
+	<text>Knife Veteran</text>
+</string>
+ 
+<string id="st_activate_knife_m4_descr">
+	<text>To activate the knife - to be used.</text>
+</string>
+ 
+<string id="st_activate_knife_m5_title">
+	<text>Knife Bandit</text>
+</string>
+ 
+<string id="st_activate_knife_m5_descr">
+	<text>To activate the knife - to be used.</text>
+</string>
+ 
+<string id="st_activate_knife_m6_title">
+	<text>Knife Monolith</text>
+</string>
+ 
+<string id="st_activate_knife_m6_descr">
+	<text>To activate the knife - to be used.</text>
+</string>
+ 
+<string id="st_activate_knife_m7_title">
+	<text>Knife Mercenary</text>
+</string>
+ 
+<string id="st_activate_knife_m7_descr">
+	<text>To activate the knife - to be used.</text>
+</string>
+ 
+<string id="st_activate_knife_m8_title">
+	<text>Knife Master</text>
+</string>
+ 
+<string id="st_activate_knife_m8_descr">
+	<text>To activate the knife - to be used.</text>
+</string>
+ 
+<string id="st_activate_knife_m9_title">
+	<text>Knife Vlad Prototype</text>
+</string>
+ 
+<string id="st_activate_knife_m9_descr">
+	<text>To activate the knife - to be used.</text>
+</string>
+ 

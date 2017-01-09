@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+<string id="red_psyho_trapper_call_text">
+       <text>少校,在亚诺夫 - 到我这里.你要的信息在那</text>
+	</string>
+<string id="zat_hero_title">
+	<text>"Degtyarev"</text>
+</string>
+<string id="jup_rasvet_leader_quest_about_dead_patrol_text">
+<text>少校,坏消息,一个巡逻队失去联系.我们要查明他们发生了什么事.我发送队长PDA坐标给你.他的信号看上去不稳定,检查那地方做你该做的.看来你要跟着巡逻路线,他们可能有大麻烦,快点.</text>
+</string>
+<string id="all_lucas_title">
+<text>卢卡斯</text>
+</string>
+<string id="esc_b1_base_commander_title">
+<text>梅德韦杰夫</text>
+</string>
+<string id="esc_blockpost_protection_began_text">
+<text>少校!突变体接近基地中,数量不断增加.我们需要你帮助.</text>
+</string>
+<string id="esc_blockpost_protection_done_1_text">
+<text>突变体解决了,给你特别的奖励,少校.</text>
+</string>
+<string id="esc_blockpost_protection_done_2_text">
+<text>哈!有你帮助,怪物解决了,我们欠你的,给你奖励.</text>
+</string>
+<string id="esc_blockpost_protection_done_3_text">
+<text>一场恶战,消灭怪物了,少校你做得好,给你特别奖励.</text>
+</string>
+<string id="jup_b220_trapper_title">
+<text>捕手</text>
+</string>
+<string id="jup_duty_shulga_about_spez_1_text">
+<text>少校,出于某些原因,我们安排保护一组科学家的分队失去联系,令人担忧,请去找出发生了什么.</text>
+</string>
+<string id="jup_duty_shulga_title">
+<text>Shulga</text>
+</string>
+
+<string id="jup_rasvet_migel_about_help_text">
+<text>救命....这是什么...非常....近...</text>
+</string>
+<string id="jup_rasvet_migel_title">
+<text>米格尔</text>
+</string>
+
+<string id="red_psyho_trapper_call_text">
+<text>少校,我是亚诺夫车站的捕手,到这里来,我有消息和工作给你..</text>
+</string>
+
+<string id="st_activated_item_is">
+<text>使用物品:</text>
+</string>
+
+<string id="st_detector_battery_discharged">
+<text>探测器需要新电池.</text>
+</string>
+<string id="st_detector_battery_replaced">
+<text>电池电量低.</text>
+</string>
+
+<string id="st_found_unique_treasure">
+<text>获得藏物坐标.</text>
+</string>
+
+<string id="st_revealled_area">
+<text> 地名:</text>
+</string>
+<string id="st_storyline_no_heli_key_text">
+<text>你需要通行卡进入其系统</text>
+</string>
+
+<string id="val_lucas_about_quest_text_1">
+<text>好的少校,随着任务的进行,现在没人打扰他们.现在首要回到基地.寻找所有三个文件的储物箱.我刚收到可靠消息,那里确实有.所以,继续.</text>
+</string>
+<string id="val_lucas_about_quest_text_2">
+<text>了不起!你拿到文件了..在那里等我.</text>
+</string>
+<string id="val_lucas_about_quest_text_3">
+<text>少校,在附近发生了什么.怪物疯了似的,有什么使它们越来越靠近...当心,它们接近中...找掩护.我会在那边等待.</text>
+</string>
+
+<string id="zat_accompany_stalker_title">
+<text>"鲍伯"</text>
+</string>
+<string id="zat_bandit_base_leader_title">
+<text>"恰帕耶夫"</text>
+</string>
+
+<string id="zat_general_staff_about_refer_parcel_intro_tip_1_text">
+<text>少校,特异区流出的信息非常有限,但我们确定你正在接近直升机坠毁的地方,找到幸存者和汇报情况.随着事情的进展,会有人联系你</text>
+</string>
+<string id="zat_general_staff_about_refer_parcel_intro_tip_2_text">
+<text>少校,我们相信在斯卡多夫斯克号有人了解直升机坠毁的详细情况,这是一艘干涸河床上老货船,是潜行者的避风港.据说幸存者到了那里.你的任务:找到幸存者,获取信息,发生了什么,原因.</text>
+</string>
+
+<string id="zat_killer_osman_about_spez_2_text">
+<text>少校,我跟进行动的进展,Destroy Dutiers with scientists as zaberesh case - do the rest.....</text>
+</string>
+<string id="zat_killer_osman_title">
+<text>山姆</text>
+</string>
+
+</string_table>

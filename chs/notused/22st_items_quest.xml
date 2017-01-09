@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+<string id="zat_spec_anomaly_scanner_1_name">
+	<text>Type 1 Scanner</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_1_descr">
+	<text>Specialized scanner used by scientists to study the processes occurring inside anomalies.</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_2_name">
+	<text>Type 2 Scanner</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_2_descr">
+	<text>Specialized scanner used by scientists to study the processes occurring inside anomalies.</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_3_name">
+	<text>Type 3 Scanner</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_3_descr">
+	<text>Specialized scanner used by scientists to study the processes occurring inside anomalies.</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_4_name">
+	<text>Type 4 Scanner</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_4_descr">
+	<text>Specialized scanner used by scientists to study the processes occurring inside anomalies.</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_5_name">
+	<text>Type 5 Scanner</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_5_descr">
+	<text>Specialized scanner used by scientists to study the processes occurring inside anomalies.</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_6_name">
+	<text>Type 6 Scanner</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_6_descr">
+	<text>Specialized scanner used by scientists to study the processes occurring inside anomalies.</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_7_name">
+	<text>Type 7 Scanner</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_7_descr">
+	<text>Specialized scanner used by scientists to study the processes occurring inside anomalies.</text>
+	</string>
+	<string id="jup_b2_detector_info_1_name">
+	<text>Schematic diagram: 1A38.1294</text>
+	</string>
+	<string id="jup_b2_detector_info_1_descr">
+	<text>Schematics providing the data required for using the formulas to calculate frequency and phase responses to construct the scanner systems required.</text>
+	</string>
+	<string id="jup_b2_detector_info_2_name">
+	<text>Plans for product sample: 22.17</text>
+	</string>
+	<string id="jup_b2_detector_info_2_descr">
+	<text>The drawings needed to build the instrument for tuning the Advanced scanner structural systems.</text>
+	</string>
+<string id="st_zat_homsa_quests_special_info_name">
+<text>'Note Homs'</text>
+</string>
+<string id="st_zat_homsa_quests_special_info_descr">
+<text>'Entries hardly legible:' ... their team of five people nominated ..... the ship ... at the south-west ... today ... will be minus one, and then have a go ... goal of all .... will update ... as agreed ... the mole. ''</text>
+</string>
+<string id="st_af_quest_b206_dyavol_flowers_name">
+<text>Flower of the Devil</text>
+</string>
+<string id="st_af_quest_b206_dyavol_flowers_descr">
+<text>Artifact thermal proiskhozhzheniya. It has a very peculiar structure. The shape of a flower. Radioactive. Many believe this artifact once a beautiful legend, but wrong. Because of the instability is often broken down and transformed into a fireball. Contradictory information about the properties.</text>
+</string>
+<string id="st_jup_rasvet_gudvin_pda_name">
+<text>PDA Goodwin</text>
+</string>
+<string id="st_jup_rasvet_gudvin_pda_descr">
+<text>One of the poslednimih records were deposited on the map mark the route patrols, as well as a few words about the behavior seen encamped on the route critters. The remaining information is encrypted.</text>
+</string>
+<string id="st_jup_rasvet_gudvin_letter_name">
+<text>Note Goodwin</text>
+</string>
+<string id="st_jup_rasvet_gudvin_letter_descr">
+<text>Illegible entry made in haste: '... the hell kind of tunnel really bad .. what kind of men in black ... and the beasts ... ak gone mad ... are kept side, do not try to attack, but as if guarded by ... need to quickly move to the base. '</text>
+</string>
+<string id="st_zat_ecolog_spez_case_name">
+<text>Case researchers</text>
+</string>
+<string id="st_zat_ecolog_spez_case_descr">
+<text>It gathers the data results of the study of psi-static anomalies.</text>
+</string>
+<string id="st_pri_alf_info_1_name">
+<text>Scheme gear</text>
+</string>
+<string id="st_pri_alf_info_1_descr">
+<text>The principal documents and charts containing data reduction for the assembly of devices.</text>
+</string>
+<string id="st_pri_alf_info_2_name">
+<text>Drawings phased devices</text>
+</string>
+<string id="st_pri_alf_info_2_descr">
+<text>Collected diagrams and drawings needed to build basic circuits phased devices.</text>
+</string>
+<string id="st_pri_alf_info_3_name">
+<text>The modular scheme</text>
+</string>
+<string id="st_pri_alf_info_3_descr">
+<text>Schemes contain a highly mattered information to create and build modular units.</text>
+</string>
+<string id="st_val_lucas_quests_info_1_name">
+<text>Documents Chekhov</text>
+</string>
+<string id="st_val_lucas_quests_info_1_desc">
+<text>Folder with documents svobodovskogo former leader, a stalker by the name of Chekhov. Some of the entries: 'Further progress in the center of the interior areas are vital. Main forces should proceed to the Military, they headed Lukas. Should be fixed at a point near the old military base. Loki with Egghead to send expeditionary forces to Limansk and further north in the vicinity of the station Yanov . Debt something was up, but kamenschikov can not be dismissed ... '</text>
+</string>
+<string id="st_val_lucas_quests_info_2_name">
+<text>Information on Scar</text>
+</string>
+<string id="st_val_lucas_quests_info_2_desc">
+<text>Documents Lukas, a former deputy svobodovskogo, and later leader of the clan in the Military, they are information about the appearance in the Dark Valley stalker named Scar, and the subsequent events after that conflict, the Fremen, and blue.</text>
+</string>
+<string id="st_val_lucas_quests_info_3_name">
+<text>X-Ray/: X18/ Top Secret</text>
+</string>
+<string id="st_val_lucas_quests_info_3_desc">
+<text>There is a special dotuments about one of the secret lab X18. Some more inormation about any experiments of schientists groups "O-Soznanie"</text>
+</string>
+<string id="st_val_lucas_quests_scanner_name">
+<text>Scanner frequencies</text>
+</string>
+<string id="st_val_lucas_quests_scanner_descr">
+<text>Special low-frequency scanner to detect, fixation and reading APC signal.</text>
+</string>
+<string id="st_jup_b12_plant_toolkit_name">
+<text>Special Tools</text>
+</string>
+<string id="st_jup_b12_plant_toolkit_descr">
+<text>Set of special tools designed for the removal of electronic equipment.</text>
+</string>
+<string id="st_jup_b12_plant_memory_1_name">
+<text>Transformer Module</text>
+</string>
+<string id="st_jup_b12_plant_memory_1_descr">
+<text>Module with stuffing and electronic circuits. It contains some important technical indicators and shot settings from the old factory equipment. Type 48-14.</text>
+</string>
+<string id="st_jup_b12_plant_memory_2_name">
+<text>Generator module</text>
+</string>
+<string id="st_jup_b12_plant_memory_2_descr">
+<text>Module with stuffing and electronic circuits. It contains some important technical indicators and shot settings from the old factory equipment. Type 72-12.</text>
+</string>
+<string id="st_jup_b12_plant_memory_3_name">
+<text>Electronic module</text>
+</string>
+<string id="st_jup_b12_plant_memory_3_descr">
+<text>Module with stuffing and electronic circuits. It contains some important technical indicators and shot settings from the old factory equipment. Type 21-27.</text>
+</string>
+<string id="zat_sultan_contra_info_1_name">
+<text>Folder Sultan</text>
+</string>
+<string id="zat_sultan_contra_info_1_descr">
+<text>A folder with the documents part of the bandit leader Sultan. Contain information on the supply to various areas in the contraband.</text>
+</string>
+<string id="zat_sultan_contra_info_2_name">
+<text>Overhead Sultan</text>
+</string>
+<string id="zat_sultan_contra_info_2_descr">
+<text>Documents with different accounts for consignment imported illegally into the Zone products.</text>
+</string>
+<string id="zat_sultan_contra_info_3_name">
+<text>Supply routes</text>
+</string>
+<string id="zat_sultan_contra_info_3_descr">
+<text>Supply chain, transportation and false documents smugglers operating in the zone.</text>
+</string>
+</string_table>

@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="escape">
+<text>封锁线</text>
+</string>
+
+<string id="marsh">
+<text>沼泽</text>
+</string>
+
+<string id="red_forest">
+<text>红森林</text>
+</string>
+
+<string id="st_esc_region_1_name">
+<text>南部前哨</text>
+</string>
+<string id="st_esc_region_2_name">
+<text>新兵营</text>
+</string>
+<string id="st_esc_region_3_name">
+<text>ATP</text>
+</string>
+<string id="st_esc_region_4_name">
+<text>桥</text>
+</string>
+<string id="st_esc_region_5_name">
+<text>基地</text>
+</string>
+<string id="st_esc_region_6_name">
+<text>北部前哨</text>
+</string>
+<string id="st_esc_smart_terrain_1_go">
+<text>去南部前哨.</text>
+</string>
+<string id="st_esc_smart_terrain_2_go">
+<text>去新手村.</text>
+</string>
+<string id="st_esc_smart_terrain_3_go">
+<text>我要去ATP.</text>
+</string>
+<string id="st_esc_smart_terrain_5_go">
+<text>转移到桥.</text>
+</string>
+<string id="st_esc_smart_terrain_6_go">
+<text>我要回基地.</text>
+</string>
+<string id="st_esc_smart_terrain_7_go">
+<text>北方下一个检查点.</text>
+</string>
+<string id="st_mar_region_1_name">
+<text>前哨</text>
+</string>
+<string id="st_mar_region_2_name">
+<text>抽水站</text>
+</string>
+<string id="st_mar_region_3_name">
+<text>渔村</text>
+</string>
+<string id="st_mar_region_4_name">
+<text>古老的教堂</text>
+</string>
+<string id="st_mar_region_5_name">
+<text>露营地</text>
+</string>
+<string id="st_mar_region_6_name">
+<text>烧毁的农场</text>
+</string>
+<string id="st_mar_region_7_name">
+<text>机械大院</text>
+</string>
+<string id="st_mar_region_8_name">
+<text>露营地</text>
+</string>
+<string id="st_mar_region_9_name">
+<text>露营地</text>
+</string>
+<string id="st_mar_smart_terrain_1_go">
+<text>我要去渔村.</text>
+</string>
+<string id="st_mar_smart_terrain_2_go">
+<text>去抽水站.</text>
+</string>
+<string id="st_mar_smart_terrain_3_go">
+<text>去教堂.</text>
+</string>
+<string id="st_mar_smart_terrain_4_go">
+<text>去机械大院.</text>
+</string>
+
+<string id="st_red_region_1_name">
+<text>桥头</text>
+</string>
+<string id="st_red_region_2_name">
+<text>凶恶营地</text>
+</string>
+<string id="st_red_region_3_name">
+<text>声名狼藉的小路</text>
+</string>
+<string id="st_red_region_4_name">
+<text>巫师圆环变异点</text>
+</string>
+<string id="st_red_region_5_name">
+<text>矿井营房</text>
+</string>
+<string id="st_red_region_6_name">
+<text>路边营地</text>
+</string>
+<string id="st_red_region_7_name">
+<text>营地marque</text>
+</string>
+<string id="st_red_region_8_name">
+<text>巴士车站</text>
+</string>
+<string id="st_red_region_9_name">
+<text>机库</text>
+</string>
+</string_table>

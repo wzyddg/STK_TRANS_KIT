@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string id="st_bandit_kastet_case_title">
+	<text>'Flash card brass knuckles'</text>
+</string>
+ 
+<string id="st_bandit_kastet_case_descr">
+	<text>Flash card with information about their personal hiding Six Sultan - brass knuckles.</text>
+</string>
+ 
+<string id="st_bandit_kastet_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions brass knuckles %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_bandit_kastet_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'brass knuckles' \n %c[default] Information from the stick: Southeast,CPR.</text>
+</string>
+ 
+<string id="st_bandit_port_leader_case_title">
+	<text>'Flash card unknown Bandos'</text>
+</string>
+ 
+<string id="st_bandit_port_leader_case_descr">
+	<text>Flash card with information about their personal hiding unidentified bandyugan.</text>
+</string>
+ 
+<string id="st_bandit_port_leader_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions unidentified gunmen %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_bandit_port_leader_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'unidentified gunmen' \n %c[default] Information from the stick:,Center burned down the farm.</text>
+</string>
+ 
+<string id="st_bandit_chapaev_case_title">
+	<text>'Flash card Chapaev'</text>
+</string>
+ 
+<string id="st_bandit_chapaev_case_descr">
+	<text>Flash card with information about their personal hiding godfather bandits - Chapaev.</text>
+</string>
+ 
+<string id="st_bandit_chapaev_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Chapaev %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_bandit_chapaev_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Chapaev' \n %c[default] Information from the stick:,Port cranes container.</text>
+</string>
+ 
+<string id="st_bandit_valet_case_title">
+	<text>'Flash card of Diamonds'</text>
+</string>
+ 
+<string id="st_bandit_valet_case_descr">
+	<text>Flash card with information about their personal hiding the self-proclaimed tuber - Diamonds.</text>
+</string>
+ 
+<string id="st_bandit_valet_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Diamonds %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_bandit_valet_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Diamonds' \n %c[default] Information from the stick: Near the station Yanov,bushes.</text>
+</string>
+ 
+<string id="st_bandit_shishak_case_title">
+	<text>'Flash card Shishak'</text>
+</string>
+ 
+<string id="st_bandit_shishak_case_descr">
+	<text>Flash card with information about their personal hiding godfather storage Bandos - Shishak.</text>
+</string>
+ 
+<string id="st_bandit_shishak_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Shishak %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_bandit_shishak_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Shishak' \n %c[default] Information from the stick:f/A tunnel.</text>
+</string>
+ 
+<string id="st_bandit_gnom_case_title">
+	<text>'Flash card Dwarf'</text>
+</string>
+ 
+<string id="st_bandit_gnom_case_descr">
+	<text>USB flash drive with about informatsieyu skhovanku bosyakuvatogo huligana - vuyka Gnome.</text>
+</string>
+ 
+<string id="st_bandit_gnom_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Gnome %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_bandit_gnom_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Dwarf' \n %c[default] Information from the stick: none.</text>
+</string>
+ 
+<string id="st_stalker_barga_case_title">
+	<text>'Flash card Barges'</text>
+</string>
+ 
+<string id="st_stalker_barga_case_descr">
+	<text>Flash card with information about their personal hiding caver - Barges.</text>
+</string>
+ 
+<string id="st_stalker_barga_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Barges %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_stalker_barga_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Barges' \n %c[default] Information from the stick: Somewhere in the middle,under the bridge.</text>
+</string>
+ 
+<string id="st_stalker_noy_case_title">
+	<text>'Flash card in November'</text>
+</string>
+ 
+<string id="st_stalker_noy_case_descr">
+	<text>Flash card with information about their personal hiding Zatonsky psychopath - Noah.</text>
+</string>
+ 
+<string id="st_stalker_noy_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] November possessions %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_stalker_noy_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'November' \n %c[default] Information from the stick: Northeast,Volcano anomaly.</text>
+</string>
+ 
+<string id="st_stalker_petruha_case_title">
+	<text>'Flash card Petrukha'</text>
+</string>
+ 
+<string id="st_stalker_petruha_case_descr">
+	<text>Flash card with information about their personal hiding desperate hunter for artifacts, the hero of the Battle of ATP - Petrukha.</text>
+</string>
+ 
+<string id="st_stalker_petruha_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Petrukha %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_stalker_petruha_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Petrukha' \n %c[default] Information from the stick: Somewhere in the middle of the deserted village ,.</text>
+</string>
+ 
+<string id="st_stalker_spartak_case_title">
+	<text>'Flash card Spartacus'</text>
+</string>
+ 
+<string id="st_stalker_spartak_case_descr">
+	<text>Flash card with information about their personal hiding detachment commander zachistochnogo - Spartacus.</text>
+</string>
+ 
+<string id="st_stalker_spartak_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Spartacus %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_stalker_spartak_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Spartacus' \n %c[default] Information from the stick:,Saw on assembly line.</text>
+</string>
+ 
+<string id="st_stalker_mayron_case_title">
+	<text>'Flash card Myron'</text>
+</string>
+ 
+<string id="st_stalker_mayron_case_descr">
+	<text>Flash card with information about their personal hiding place stalker puzzles, Myron.</text>
+</string>
+ 
+<string id="st_stalker_mayron_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Myron %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_stalker_mayron_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Myron' \n %c[default] Information from the stick:,West transformer room.</text>
+</string>
+ 
+<string id="st_stalker_crab_case_title">
+	<text>'Flash card Crab'</text>
+</string>
+ 
+<string id="st_stalker_crab_case_descr">
+	<text>Flash card with information about their personal hiding place stalker - Crab.</text>
+</string>
+ 
+<string id="st_stalker_crab_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Crab %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_stalker_crab_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Crab' \n %c[default] Information from the stick:,South mercenaries base.</text>
+</string>
+ 
+<string id="st_stalker_gluhar_case_title">
+	<text>'Flash card Glouchar'</text>
+</string>
+ 
+<string id="st_stalker_gluhar_case_descr">
+	<text>Flash card with information about their personal hiding brave ment, stalker - grouse.</text>
+</string>
+ 
+<string id="st_stalker_gluhar_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Glouchar %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_stalker_gluhar_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'grouse' \n %c[default] Information from the stick: South,parking at the break.</text>
+</string>
+ 
+<string id="st_stalker_commander_case_title">
+	<text>'Flash card Commander'</text>
+</string>
+ 
+<string id="st_stalker_commander_case_descr">
+	<text>Flash card with information about their personal hiding place unknown - Commander.</text>
+</string>
+ 
+<string id="st_stalker_commander_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Commander %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_stalker_commander_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Commander' \n %c[default] Information from the stick: Somewhere in the middle of ...</text>
+</string>
+ 
+<string id="st_stalker_vano_case_title">
+	<text>'Flash card genatsvale Vano'</text>
+</string>
+ 
+<string id="st_stalker_vano_case_descr">
+	<text>Flash card with information about their personal hiding connoisseur of Georgian cuisine, stalker - Vano.</text>
+</string>
+ 
+<string id="st_stalker_vano_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Vano %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_stalker_vano_unpack_descr">
+	<text>%c[, 255 238,153,26] possessions 'Vano' \n %c[default] Information from a flash drive: Do not just stash,anomalous field.</text>
+</string>
+ 
+<string id="st_stalker_zulus_case_title">
+	<text>'Flash card Zulu'</text>
+</string>
+ 
+<string id="st_stalker_zulus_case_descr">
+	<text>Flash card with information about their personal hiding place of the legendary Heavy, stalker - Zulu.</text>
+</string>
+ 
+<string id="st_stalker_zulus_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Zulu %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_stalker_zulus_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Zulu' \n %c[default] Information from the stick: Southeast,old building.</text>
+</string>
+ 
+<string id="st_stalker_koriaga_case_title">
+	<text>'Flash card Snags'</text>
+</string>
+ 
+<string id="st_stalker_koriaga_case_descr">
+	<text>Flash card with information about their personal hiding priblatn¸nnogo Lohan, would-be stalker - Driftwood.</text>
+</string>
+ 
+<string id="st_stalker_koriaga_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Snags %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_stalker_koriaga_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Driftwood' \n %c[default] Information from the stick:,PPC second floor.</text>
+</string>
+ 
+<string id="st_stalker_elbrus_case_title">
+	<text>'Flash card Elbrus'</text>
+</string>
+ 
+<string id="st_stalker_elbrus_case_descr">
+	<text>Flash card with information about their personal hiding hero Creek - Mount Elbrus.</text>
+</string>
+ 
+<string id="st_stalker_elbrus_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Elbrus %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_stalker_elbrus_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Elbrus' \n %c[default] Information from the stick:,Workshops substation in the house.</text>
+</string>
+ 
+<string id="st_stalker_vobla_case_title">
+	<text>'Flash card roach'</text>
+</string>
+ 
+<string id="st_stalker_vobla_case_descr">
+	<text>Flash card with information about their personal hiding arrogant asshole - roach.</text>
+</string>
+ 
+<string id="st_stalker_vobla_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions roach %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_stalker_vobla_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'roach' \n %c[default] Information from the stick:,Workshops substation in UAZ.</text>
+</string>
+ 
+<string id="st_freedom_gaiduk_case_title">
+	<text>'Flash card Haiduk'</text>
+</string>
+ 
+<string id="st_freedom_gaiduk_case_descr">
+	<text>Flash card with information about their personal hiding semi-commander of 'Liberty' - Hajduk.</text>
+</string>
+ 
+<string id="st_freedom_gaiduk_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Haiduk %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_freedom_gaiduk_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Haiduk' \n %c[default] Information from the stick:,Cement factory roof of the building.</text>
+</string>
+ 
+<string id="st_duty_kanevskiy_case_title">
+	<text>'Flash card Kanev'</text>
+</string>
+ 
+<string id="st_duty_kanevskiy_case_descr">
+	<text>Flash card with information about their personal hiding master sapper case - dolgovtsev Kanev.</text>
+</string>
+ 
+<string id="st_duty_kanevskiy_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Kanev %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_duty_kanevskiy_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Kanev' \n %c[default] Information from the stick: Saw.</text>
+</string>
+ 
+<string id="st_dolg_morgan_case_title">
+	<text>'Flash card Morgan'</text>
+</string>
+ 
+<string id="st_dolg_morgan_case_descr">
+	<text>Flash card with information about their personal hiding ushlogo huckster - dolgovtsev Morgan.</text>
+</string>
+ 
+<string id="st_dolg_morgan_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Morgan %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_dolg_morgan_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Morgan' \n %c[default] Information from the stick: Somewhere in the center,near the helicopter.</text>
+</string>
+ 
+<string id="st_killer_kruk_case_title">
+	<text>'Flash card Hook'</text>
+</string>
+ 
+<string id="st_killer_kruk_case_descr">
+	<text>Flash card with information about their personal hiding mercenary - Hook.</text>
+</string>
+ 
+<string id="st_killer_kruk_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Hook %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_killer_kruk_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Hook' \n %c[default] Information from the stick: Northwest,around the Guide.</text>
+</string>
+ 
+<string id="st_killer_tesak_case_title">
+	<text>'Flash card Tesakova'</text>
+</string>
+ 
+<string id="st_killer_tesak_case_descr">
+	<text>Flash card with information about their personal hiding commander of mercenaries - Grunt Tesakova.</text>
+</string>
+ 
+<string id="st_killer_tesak_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Tesak %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_killer_tesak_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Tesak' \n %c[default] Information from the stick:,Northwest dredger.</text>
+</string>
+ 
+<string id="st_killer_grif_case_title">
+	<text>'Flash card Vulture'</text>
+</string>
+ 
+<string id="st_killer_grif_case_descr">
+	<text>Flash card with information about their personal hiding mercenary - Vulture.</text>
+</string>
+ 
+<string id="st_killer_grif_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Vulture %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_killer_grif_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Vulture' \n %c[default] Information from the stick: bush near the anomalous field.</text>
+</string>
+ 
+<string id="st_killer_cherep_case_title">
+	<text>'Flash card Skull'</text>
+</string>
+ 
+<string id="st_killer_cherep_case_descr">
+	<text>Flash card with information about their personal hiding mercenary - the skull.</text>
+</string>
+ 
+<string id="st_killer_cherep_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Skull %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_killer_cherep_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Skulls' \n %c[default] Information from the stick: Surrounded by electrical anomalies.</text>
+</string>
+ 
+<string id="st_killer_molfar_case_title">
+	<text>'Flash card Molfara'</text>
+</string>
+ 
+<string id="st_killer_molfar_case_descr">
+	<text>Flash card with information about their personal hiding Chief of mercenaries - Molfara.</text>
+</string>
+ 
+<string id="st_killer_molfar_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Molfara %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_killer_molfar_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Molfara' \n %c[default] Information from the stick: None.</text>
+</string>
+ 
+<string id="st_army_smoliak_case_title">
+	<text>'Flash card litas. Smolyak '</text>
+</string>
+ 
+<string id="st_army_smoliak_case_descr">
+	<text>Flash card with information about their personal hiding hoarders lieutenant.</text>
+</string>
+ 
+<string id="st_army_smoliak_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Smolyak %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_army_smoliak_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Smolyak' \n %c[default] Information from the stick: Southeast,processing plant.</text>
+</string>
+ 
+<string id="st_monolit_brodiaga_case_title">
+	<text>'Flash card Rolling Stone'</text>
+</string>
+ 
+<string id="st_monolit_brodiaga_case_descr">
+	<text>Flash card with information about their personal hiding place of the former Monolith - Rogue.</text>
+</string>
+ 
+<string id="st_monolit_brodiaga_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Tramps %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_monolit_brodiaga_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Rolling Stone' \n %c[default] Information from the stick:,East blocks.</text>
+</string>
+ 
+<string id="st_monolit_kiborg_case_title">
+	<text>'Flash card Cyborg'</text>
+</string>
+ 
+<string id="st_monolit_kiborg_case_descr">
+	<text>Flash card with information about their personal hiding forces commander in chief of the Grand Monolith - Cyborg.</text>
+</string>
+ 
+<string id="st_monolit_kiborg_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Cyborg %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_monolit_kiborg_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Cyborg' \n %c[default] Information from the stick: The upper tier of the port.</text>
+</string>
+ 
+<string id="st_monolit_voland_case_title">
+	<text>'Flash card Woland'</text>
+</string>
+ 
+<string id="st_monolit_voland_case_descr">
+	<text>Flash card with information about their personal hiding faction leader Monolith - Voland.</text>
+</string>
+ 
+<string id="st_monolit_voland_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Voland %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_monolit_voland_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Woland' \n %c[default] Information from the stick Hospital. In the desktop.</text>
+</string>
+ 
+<string id="st_rasvet_nazar_case_title">
+	<text>'Flash card Nazar'</text>
+</string>
+ 
+<string id="st_rasvet_nazar_case_descr">
+	<text>Flash card with information about their personal hiding Director grouping 'Breaking Dawn' - Nazar.</text>
+</string>
+ 
+<string id="st_rasvet_nazar_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Nazar %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_rasvet_nazar_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Nazar' \n %c[default] Information from the stick: Eastern Depot.</text>
+</string>
+ 
+<string id="st_monolith_inquisitor_case_title">
+	<text>'Flash card Inquisitor'</text>
+</string>
+ 
+<string id="st_monolith_inquisitor_case_descr">
+	<text>Flash card with information about their personal hiding High Priest Monolith - Inquisitor.</text>
+</string>
+ 
+<string id="st_monolith_inquisitor_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Inquisitor %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_monolith_inquisitor_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'inquisitor' \n %c[default] Information from the stick: none.</text>
+</string>
+ 
+<string id="st_killer_revizor_case_title">
+	<text>'Flash card Examiner'</text>
+</string>
+ 
+<string id="st_killer_revizor_case_descr">
+	<text>Flash card with information about their personal hiding mercenary - Examiner.</text>
+</string>
+ 
+<string id="st_killer_revizor_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Examiner %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_killer_revizor_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Examiner' \n %c[default] Information from the stick: none.</text>
+</string>
+ 
+<string id="st_killer_warlord_case_title">
+	<text>'Flash card Warlord'</text>
+</string>
+ 
+<string id="st_killer_warlord_case_descr">
+	<text>Flash card with information about their personal hiding mercenary - Warlord.</text>
+</string>
+ 
+<string id="st_killer_warlord_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Warlord %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_killer_warlord_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Warlord' \n %c[default] Information from the stick: none.</text>
+</string>
+ 
+<string id="st_mercenary_suvorov_case_title">
+	<text>'Flash card captain Suvorov'</text>
+</string>
+ 
+<string id="st_mercenary_suvorov_case_descr">
+	<text>Flash card with information about their personal hiding kommandira mercenaries - Captain Suvorov.</text>
+</string>
+ 
+<string id="st_mercenary_suvorov_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions captain Suvorov %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_mercenary_suvorov_unpack_descr">
+	<text>%c[255,238,153,26] possessions captain 'Suvorov' \n %c[default] Information from the stick: none.</text>
+</string>
+ 
+<string id="st_mercenary_tverdohlebov_case_title">
+	<text>'Flash card Major Tv¸rdohlebova'</text>
+</string>
+ 
+<string id="st_mercenary_tverdohlebov_case_descr">
+	<text>Flash card with information about their personal hiding kommandira mercenaries - Major Tv¸rdohlebova.</text>
+</string>
+ 
+<string id="st_mercenary_tverdohlebov_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Major Tv¸rdohlebova %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_mercenary_tverdohlebov_unpack_descr">
+	<text>%c[255,238,153,26] Major possessions 'Tv¸rdohlebova' \n %c[default] Information from the stick: none.</text>
+</string>
+ 
+<string id="st_bandit_bulava_case_title">
+	<text>'Flash card Mace'</text>
+</string>
+ 
+<string id="st_bandit_bulava_case_descr">
+	<text>Flash card with information about their personal hiding thug - Mace.</text>
+</string>
+ 
+<string id="st_bandit_bulava_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Mace %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_bandit_bulava_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Mace' \n %c[default] Information from the stick: none.</text>
+</string>
+ 
+<string id="st_bandit_rogach_case_title">
+	<text>'Flash card Rogac'</text>
+</string>
+ 
+<string id="st_bandit_rogach_case_descr">
+	<text>Flash card with information about their personal hiding thug - Rogac.</text>
+</string>
+ 
+<string id="st_bandit_rogach_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Rogac %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_bandit_rogach_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Rogac' \n %c[default] Information from the stick: none.</text>
+</string>
+ 
+<string id="st_bandit_mazay_case_title">
+	<text>'Flash card Mazaya'</text>
+</string>
+ 
+<string id="st_bandit_mazay_case_descr">
+	<text>Flash card with information about their personal hiding thug - Mazaya.</text>
+</string>
+ 
+<string id="st_bandit_mazay_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Mazaya %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_bandit_mazay_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Mazaya' \n %c[default] Information from the stick: none.</text>
+</string>
+ 
+<string id="st_bandit_dinozavr_case_title">
+	<text>'Dinosaur USB Flash Drive'</text>
+</string>
+ 
+<string id="st_bandit_dinozavr_case_descr">
+	<text>Flash card with information about their personal hiding thug - Dinosaur.</text>
+</string>
+ 
+<string id="st_bandit_dinozavr_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Dinosaur %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_bandit_dinozavr_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Dinosaur' \n %c[default] Information from the stick: none.</text>
+</string>
+ 
+<string id="st_stalker_magomet_case_title">
+	<text>'Flash card Mohammed'</text>
+</string>
+ 
+<string id="st_stalker_magomet_case_descr">
+	<text>Flash card with information about their personal hiding place stalker freestyle - Mohammed.</text>
+</string>
+ 
+<string id="st_stalker_magomet_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Mohammed %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_stalker_magomet_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Mahomet' \n %c[default] Information from the stick: none.</text>
+</string>
+ 
+<string id="st_stalker_tamerlan_case_title">
+	<text>'Flash card Tamerlane'</text>
+</string>
+ 
+<string id="st_stalker_tamerlan_case_descr">
+	<text>Flash card with information about their personal hiding place stalker freestyle - Tamerlane.</text>
+</string>
+ 
+<string id="st_stalker_tamerlan_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Tamerlane %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_stalker_tamerlan_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Tamerlane' \n %c[default] Information from the stick: none.</text>
+</string>
+ 
+<string id="st_bandit_karas_case_title">
+	<text>'Flash card Karas'</text>
+</string>
+ 
+<string id="st_bandit_karas_case_descr">
+	<text>Flash card with information about their personal hiding thug - Carp.</text>
+</string>
+ 
+<string id="st_bandit_karas_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Carp %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_bandit_karas_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Carp' \n %c[default] Information from the stick: none.</text>
+</string>
+ 
+<string id="st_bandit_kaschey_case_title">
+	<text>'Flash card Kashchei'</text>
+</string>
+ 
+<string id="st_bandit_kaschey_case_descr">
+	<text>Flash card with information about their personal hiding thug - Kashchei.</text>
+</string>
+ 
+<string id="st_bandit_kaschey_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Kashchei %c[110,128,128,255]'</text>
+</string>
+ 
+<string id="st_bandit_kaschey_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Kashchei' \n %c[default] Information from the stick: none.</text>
+</string>
+ 

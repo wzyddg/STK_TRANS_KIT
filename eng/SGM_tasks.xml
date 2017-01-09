@@ -1,0 +1,3113 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string id="employer_find_item_title0">
+	<text>Jobs: Find</text>
+</string>
+ 
+<string id="employer_find_item_text0">
+	<text>Find</text>
+</string>
+ 
+<string id="employer_find_item_title1">
+	<text>Work: include</text>
+</string>
+ 
+<string id="employer_find_item_text1">
+	<text>Talk with your employer.</text>
+</string>
+ 
+<string id="employer_kill_stalker_title0">
+	<text>Work: kill</text>
+</string>
+ 
+<string id="employer_kill_stalker_text0">
+	<text>Find and neutralize</text>
+</string>
+ 
+<string id="employer_kill_stalker_title1">
+	<text>Work: return for a reward</text>
+</string>
+ 
+<string id="employer_kill_stalker_text1">
+	<text>Report on the implementation of the order to the employer.</text>
+</string>
+ 
+<string id="shustriy_find_1_title0">
+	<text>Find sharper for: trophy 'Ingram Mac10'</text>
+</string>
+ 
+<string id="shustriy_find_1_text0">
+	<text>Lively asked to find him captured weapons, the coordinates he left me.</text>
+</string>
+ 
+<string id="shustriy_find_1_title1">
+	<text>Return to Hustler: trophy 'Ingram Mac10'</text>
+</string>
+ 
+<string id="shustriy_find_1_text1">
+	<text>Return the captured weapons to the customer. Use can not be captured weapons. If there is no sharper to Skadovsk - need to wait for it.</text>
+</string>
+ 
+<string id="shustriy_find_2_title0">
+	<text>Find sharper for: trophy 'AK-47'</text>
+</string>
+ 
+<string id="shustriy_find_2_text0">
+	<text>Lively asked to find him captured weapons, the coordinates he left me.</text>
+</string>
+ 
+<string id="shustriy_find_2_title1">
+	<text>Return to Hustler: trophy 'AK-47'</text>
+</string>
+ 
+<string id="shustriy_find_2_text1">
+	<text>Return the captured weapons to the customer. Use can not be captured weapons. If there is no sharper to Skadovsk - need to wait for it.</text>
+</string>
+ 
+<string id="shustriy_find_3_title0">
+	<text>Find sharper for: trophy 'Mossberg 590Mk.L'</text>
+</string>
+ 
+<string id="shustriy_find_3_text0">
+	<text>Lively asked to find him captured weapons, the coordinates he left me.</text>
+</string>
+ 
+<string id="shustriy_find_3_title1">
+	<text>Return to Hustler: trophy 'Mossberg 590Mk.L'</text>
+</string>
+ 
+<string id="shustriy_find_3_text1">
+	<text>Return the captured weapons to the customer. Use can not be captured weapons. If there is no sharper to Skadovsk - need to wait for it.</text>
+</string>
+ 
+<string id="shustriy_find_4_title0">
+	<text>Find sharper for: trophy 'Steyr AUG SS190'</text>
+</string>
+ 
+<string id="shustriy_find_4_text0">
+	<text>Lively asked to find him captured weapons, the coordinates he left me.</text>
+</string>
+ 
+<string id="shustriy_find_4_title1">
+	<text>Return to Hustler: trophy 'Steyr AUG SS190'</text>
+</string>
+ 
+<string id="shustriy_find_4_text1">
+	<text>Return the captured weapons to the customer. Use can not be captured weapons. If there is no sharper to Skadovsk - need to wait for it.</text>
+</string>
+ 
+<string id="zat_danger_parcel_title0">
+	<text>Important premise: find Kanev</text>
+</string>
+ 
+<string id="zat_danger_parcel_text0">
+	<text>To pass the parcel Kanevskomu - you need to find him.</text>
+</string>
+ 
+<string id="zat_danger_parcel_title1">
+	<text>Important premise: to give a parcel Kanevskomu</text>
+</string>
+ 
+<string id="zat_danger_parcel_text1">
+	<text>Kanev found. You need to give him a package from the Avenger.</text>
+</string>
+ 
+<string id="zat_refer_parcel_title0">
+	<text>Courier: pass the parcel Markovich</text>
+</string>
+ 
+<string id="zat_refer_parcel_text0">
+	<text>Accidentally met a stalker Petka Pechkin asked me to pass the parcel with a monthly fee for local savers Skadovsk. According Petka, Markovic pay 'travel expenses'.</text>
+</string>
+ 
+<string id="zat_refer_parcel2_title0">
+	<text>Information search: find savers on Skadovsk</text>
+</string>
+ 
+<string id="zat_refer_parcel2_text0">
+	<text>According to available information, saver on Skadovsk should know something about the collapsed helicopters. You need to search and find out - what he knows.</text>
+</string>
+ 
+<string id="zat_breeder_talk_and_job_title0">
+	<text>Important information: talk to Makovet-</text>
+</string>
+ 
+<string id="zat_breeder_talk_and_job_text0">
+	<text>From a conversation with Markovic became clear that one of the pilots survived. But where to find the pilot, is not clear. To chat with local breeders.</text>
+</string>
+ 
+<string id="zat_breeder_talk_and_job_title1">
+	<text>Important information about the sawmill to find an unknown artifact</text>
+</string>
+ 
+<string id="zat_breeder_talk_and_job_text1">
+	<text>According to unconfirmed rumors about the mill may be unknown artifact. These should be checked, inspected the territory around the sawmill.</text>
+</string>
+ 
+<string id="zat_breeder_talk_and_job_title2">
+	<text>Important: to bring an artifact doctor Makovetsky</text>
+</string>
+ 
+<string id="zat_breeder_talk_and_job_text2">
+	<text>Near the sawmill found an unknown artifact. You need to take it to the doctor Makovetsky, to be exchanged for information about surviving pilot.</text>
+</string>
+ 
+<string id="zat_will_leave_jupiter_title0">
+	<text>Travel: to talk with a beard</text>
+</string>
+ 
+<string id="zat_will_leave_jupiter_text0">
+	<text>Apparently, I need to get to Jupiter. Only now, as ... breeder gave advice - talk to Beard, owner of a local bar.</text>
+</string>
+ 
+<string id="zat_will_leave_jupiter_title1">
+	<text>Travel: to go to Jupiter</text>
+</string>
+ 
+<string id="zat_will_leave_jupiter_text1">
+	<text>According to Beard, the way to Jupiter knows the pilot - the only guide on the Skadovsk. We need to agree with him about the transition.</text>
+</string>
+ 
+<string id="zat_accompany_to_boat_title0">
+	<text>Trekking: walk with a stalker to Skadovska</text>
+</string>
+ 
+<string id="zat_accompany_to_boat_text0">
+	<text>Stalker Petka Pechkin asked me to deliver a parcel to Skadovsk by promising a reward. Fortunate coincidence - the inhabitants of the base may know something about the helicopter crashed. It makes sense to go it there. Stalker-Guide agreed to show the way.</text>
+</string>
+ 
+<string id="zat_accompany_to_boat_title1">
+	<text>Hike: reach Skadovska</text>
+</string>
+ 
+<string id="zat_accompany_to_boat_text1">
+	<text>I moved too far away from the stalker-Guide. But the label on the map PDA preserved. Rest of the way will have to do yourself.</text>
+</string>
+ 
+<string id="zat_accompany_to_boat_title2">
+	<text>Hike: reach Skadovska</text>
+</string>
+ 
+<string id="zat_accompany_to_boat_text2">
+	<text>Examined the corpse of a stalker and found information about some Skadovsk. Go there, or something ...</text>
+</string>
+ 
+<string id="zat_accompany_to_boat_title3">
+	<text>Hike: reach Skadovska</text>
+</string>
+ 
+<string id="zat_accompany_to_boat_text3">
+	<text>Stalker, who agreed to accompany me - died. The label on the PDA I have left, so you need to travel alone.</text>
+</string>
+ 
+<string id="zat_assault_bandit_base_title0">
+	<text>Reid: to meet with a group of 'Elbrus'</text>
+</string>
+ 
+<string id="zat_assault_bandit_base_text0">
+	<text>You must meet with a team of 'Elbrus' and take command of themselves. But first you need to go to the meeting place - for port cranes.</text>
+</string>
+ 
+<string id="zat_assault_bandit_base_title1">
+	<text>Reid: to gain a foothold on the hill</text>
+</string>
+ 
+<string id="zat_assault_bandit_base_text1">
+	<text>Base for the siege of bandits must climb the hill and take a position near the main gate.</text>
+</string>
+ 
+<string id="zat_assault_bandit_base_title2">
+	<text>Reid: to make the first shot</text>
+</string>
+ 
+<string id="zat_assault_bandit_base_text2">
+	<text>Elbrus squad waiting for my signal - it is necessary to take the first shot at the enemy.</text>
+</string>
+ 
+<string id="zat_assault_bandit_base_title3">
+	<text>Reid: Destroy Chapaya and his gang</text>
+</string>
+ 
+<string id="zat_assault_bandit_base_text3">
+	<text>You must find and destroy the leader of the bandits - Chapaya, as well as all of its protection.</text>
+</string>
+ 
+<string id="zat_assault_bandit_base_title4">
+	<text>Reid: get the reward</text>
+</string>
+ 
+<string id="zat_assault_bandit_base_text4">
+	<text>Mission accomplished - the bandits destroyed. Need to return to the Skadovsk, the Sword, for an award.</text>
+</string>
+ 
+<string id="zat_deliver_monolith_case_title0">
+	<text>Shipping: lift case Monolith</text>
+</string>
+ 
+<string id="zat_deliver_monolith_case_text0">
+	<text>Wounded monolitovets asked me to take his case to Pripyat, the leader of the group for the transmission - a cyborg. But first you need to pick up this case.</text>
+</string>
+ 
+<string id="zat_deliver_monolith_case_title1">
+	<text>Shipping: carry case Leon in Pripyat</text>
+</string>
+ 
+<string id="zat_deliver_monolith_case_text1">
+	<text>Wounded soldier 'Monolith' before his death asked me to deliver the case to the leader Monolith - a cyborg. Their base is located in Pripyat.</text>
+</string>
+ 
+<string id="zat_deliver_monolith_case_title2">
+	<text>Shipping: to go to the cinema Prometheus</text>
+</string>
+ 
+<string id="zat_deliver_monolith_case_text2">
+	<text>Leon gave me the coordinates of the base of the monolith. If the data is correct, then the base is located in the cinema Prometheus.</text>
+</string>
+ 
+<string id="zat_deliver_monolith_case_title3">
+	<text>Shipping: case give security chief</text>
+</string>
+ 
+<string id="zat_deliver_monolith_case_text3">
+	<text>Case be transferred to the leader Monolith - Cyborg through security chief.</text>
+</string>
+ 
+<string id="zat_deliver_monolith_case_title4">
+	<text>Shipping: get the reward</text>
+</string>
+ 
+<string id="zat_deliver_monolith_case_text4">
+	<text>Contrary to expectations, there were no firing. Moreover, the security chief ordered him to pay me a fee for shipping case. To obtain it you need to approach Mitrofanov, local merchant.</text>
+</string>
+ 
+<string id="zat_bandit_kill_shakal_title0">
+	<text>Credibility: go to the shops substation</text>
+</string>
+ 
+<string id="zat_bandit_kill_shakal_text0">
+	<text>Godfather bandits Chapa instructed me to deal with the traitor - the Jackal. According to him, the Jackal is located in the substation workshops. Coordinates he threw on my PDA.</text>
+</string>
+ 
+<string id="zat_bandit_kill_shakal_title1">
+	<text>Trust: find the Jackal</text>
+</string>
+ 
+<string id="zat_bandit_kill_shakal_text1">
+	<text>Shop substation busy mercenaries - they are equipped with a temporary base. Judging by their number, to find and destroy the Jackal will not be easy.</text>
+</string>
+ 
+<string id="zat_bandit_kill_shakal_title2">
+	<text>Trust: pick barrel Chapaya</text>
+</string>
+ 
+<string id="zat_bandit_kill_shakal_text2">
+	<text>Most likely, the Jackal is hiding in the trunk of his rucksack. Need to examine the corpse and pick up a gun.</text>
+</string>
+ 
+<string id="zat_bandit_kill_shakal_title3">
+	<text>Trust: include trunk Chapa</text>
+</string>
+ 
+<string id="zat_bandit_kill_shakal_text3">
+	<text>Mission accomplished - that the barrel is obtained. You need to take it to Chapala and get a reward.</text>
+</string>
+ 
+<string id="zat_meet_authorities_agent_title0">
+	<text>Contact: Meet with connected</text>
+</string>
+ 
+<string id="zat_meet_authorities_agent_text0">
+	<text>I received a letter from a coherent, which indicates the call; In addition, the marked point on the map - a meeting place. Need to check the designated area.</text>
+</string>
+ 
+<string id="zat_check_sbu_cell_title0">
+	<text>Cell: cell search SBU</text>
+</string>
+ 
+<string id="zat_check_sbu_cell_text0">
+	<text>The Messenger gave me the coordinates of the cache created by one of our agents. I need to check the cache.</text>
+</string>
+ 
+<string id="zat_bring_flash_light_title0">
+	<text>Find Kochyubeya: flashlight with optics 'Messler'</text>
+</string>
+ 
+<string id="zat_bring_flash_light_text0">
+	<text>Kochyubey asked him to find the lost light, the coordinates he left me.</text>
+</string>
+ 
+<string id="zat_bring_flash_light_title1">
+	<text>Return Kochyubeyu: flashlight with optics 'Messler'</text>
+</string>
+ 
+<string id="zat_bring_flash_light_text1">
+	<text>Return Kochyubeyu flashlight and get the promised reward.</text>
+</string>
+ 
+<string id="zat_bring_drink_beylis_title0">
+	<text>Cardan anniversary: talk to Zhulyabskim</text>
+</string>
+ 
+<string id="zat_bring_drink_beylis_text0">
+	<text>According to Beard, Zhulyabsky has information on the whereabouts of the coveted bottle. Need to talk to the dealer and find out where you can get 'Baileys'.</text>
+</string>
+ 
+<string id="zat_bring_drink_beylis_title1">
+	<text>Cardan anniversary: find a treasured bottle</text>
+</string>
+ 
+<string id="zat_bring_drink_beylis_text1">
+	<text>In Cardano, a local mechanic, birthday soon. In this regard, Beard wants on behalf of the public to present him a valuable gift - a rare bottle of alcohol. But where to look, he does not know. That is why he entrusted it to me. Especially because I gave up and thump stopudovo this bubble came unopened.</text>
+</string>
+ 
+<string id="zat_bring_drink_beylis_title2">
+	<text>Cardan anniversary: go back to the Beard</text>
+</string>
+ 
+<string id="zat_bring_drink_beylis_text2">
+	<text>Include 'Baileys' beard in order that he reined in the beverage birthday Cardano. For work performed Beard promised a generous reward.</text>
+</string>
+ 
+<string id="zat_bring_sharpshooter_bino_title0">
+	<text>Rush Order: talk to Le Havre</text>
+</string>
+ 
+<string id="zat_bring_sharpshooter_bino_text0">
+	<text>Chapaev said that Gabriel is going in the direction of Jupiter. You can keep him company.</text>
+</string>
+ 
+<string id="zat_bring_sharpshooter_bino_title1">
+	<text>Rush Order: find the binoculars 'Ranger'</text>
+</string>
+ 
+<string id="zat_bring_sharpshooter_bino_text1">
+	<text>Chapaev, the leader of the bandits on the Creek, instructed me to find a special army binoculars. The coordinates obtained, the task is clear - to look for.</text>
+</string>
+ 
+<string id="zat_bring_sharpshooter_bino_title2">
+	<text>Rush Order: return to Chapala</text>
+</string>
+ 
+<string id="zat_bring_sharpshooter_bino_text2">
+	<text>Army binoculars 'Pathfinder' found. You must return it Chapaev and receive compensation for the execution of works.</text>
+</string>
+ 
+<string id="zat_monsters_wave_title0">
+	<text>'The wave of mutants': talk with Noah</text>
+</string>
+ 
+<string id="zat_monsters_wave_text0">
+	<text>Go to the barge and talk to Noah. It seems that this psycho was up to something.</text>
+</string>
+ 
+<string id="zat_monsters_wave_title1">
+	<text>'The wave of mutants': get the sniper rifle</text>
+</string>
+ 
+<string id="zat_monsters_wave_text1">
+	<text>I should as soon as possible to get a sniper weapon. The wave of mutants will arrive any minute.</text>
+</string>
+ 
+<string id="zat_monsters_wave_title2">
+	<text>'The wave of mutants': take the firing line</text>
+</string>
+ 
+<string id="zat_monsters_wave_text2">
+	<text>Noah asks for her help to protect the barge from the mutants. Need to take a defensive position.</text>
+</string>
+ 
+<string id="zat_monsters_wave_title3">
+	<text>'The wave of mutants': keep the defense</text>
+</string>
+ 
+<string id="zat_monsters_wave_text3">
+	<text>Sniper position is occupied, now you need to keep the defense. Leader David defensive operation, should remain in zhivih.</text>
+</string>
+ 
+<string id="zat_monsters_wave_title4">
+	<text>'The wave of mutants': continue the defense barge</text>
+</string>
+ 
+<string id="zat_monsters_wave_text4">
+	<text>Keep the defense barges. Leader David defensive operation, should remain in zhivih.</text>
+</string>
+ 
+<string id="zat_monsters_wave_title5">
+	<text>'The wave of mutants': kill the controller in 'port cranes'</text>
+</string>
+ 
+<string id="zat_monsters_wave_text5">
+	<text>Seen from the controller port cranes. You must kill him.</text>
+</string>
+ 
+<string id="zat_monsters_wave_title6">
+	<text>'The wave of mutants' neutralize the controller on 'Shevchenko'</text>
+</string>
+ 
+<string id="zat_monsters_wave_text6">
+	<text>Seen on the controller Shevchenko. You must kill him.</text>
+</string>
+ 
+<string id="zat_monsters_wave_title7">
+	<text>'The wave of mutants': kill the controller about 'stalker parking'</text>
+</string>
+ 
+<string id="zat_monsters_wave_text7">
+	<text>Seen controller about stalker parking. You must kill him.</text>
+</string>
+ 
+<string id="zat_monsters_wave_title8">
+	<text>'The wave of mutants': talk with Noah</text>
+</string>
+ 
+<string id="zat_monsters_wave_text8">
+	<text>The wave of mutants failed. Need to talk to Noah.</text>
+</string>
+ 
+<string id="zat_get_wireing_heli_key_title0">
+	<text>Detachment 'Skate': find the passkey for helicopters</text>
+</string>
+ 
+<string id="zat_get_wireing_heli_key_text0">
+	<text>In results helicopter detachment 'Ramp' got burned all the electronics, all the doors are locked inside. Doors can be opened only with a key to access the backup.</text>
+</string>
+ 
+<string id="zat_wisdom_books_title0">
+	<text>Wisdom: get three books</text>
+</string>
+ 
+<string id="zat_wisdom_books_text0">
+	<text>Get it for Informants three books.</text>
+</string>
+ 
+<string id="zat_wisdom_books_title1">
+	<text>Wisdom: get three books</text>
+</string>
+ 
+<string id="zat_wisdom_books_text1">
+	<text>Get it for Informants three books.</text>
+</string>
+ 
+<string id="zat_wisdom_books_title2">
+	<text>Wisdom: get three books</text>
+</string>
+ 
+<string id="zat_wisdom_books_text2">
+	<text>Get it for Informants three books.</text>
+</string>
+ 
+<string id="zat_wisdom_books_title3">
+	<text>Wisdom: pass books whistleblower</text>
+</string>
+ 
+<string id="zat_wisdom_books_text3">
+	<text>Return the books and get a reward.</text>
+</string>
+ 
+<string id="zat_carrying_antidote_title0">
+	<text>Antidote: pass antidote Chiropractor</text>
+</string>
+ 
+<string id="zat_carrying_antidote_text0">
+	<text>Attributed antidote chiropractor on Yanov.</text>
+</string>
+ 
+<string id="zat_carrying_antidote_title1">
+	<text>Antidote: return for a reward</text>
+</string>
+ 
+<string id="zat_carrying_antidote_text1">
+	<text>Get the shipping fees antidote.</text>
+</string>
+ 
+<string id="zat_mad_dog_title0">
+	<text>Reservoir Dogs: deal with Alpha</text>
+</string>
+ 
+<string id="zat_mad_dog_text0">
+	<text>Eliminate Alpha which has ruined that a dozen individuals. The last time this clique anomalies seen in 'Iron wood'.</text>
+</string>
+ 
+<string id="zat_mad_dog_title1">
+	<text>Reservoir Dogs: show Sword PDA leader Alpha</text>
+</string>
+ 
+<string id="zat_mad_dog_text1">
+	<text>Alpha destroyed. The leader of the flash-drive found. We have to show his sword.</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title0">
+	<text>Diversion Alpha: Check the appointed meeting place</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_text0">
+	<text>According to records in the PDA learned that the bandits carried out someone's order and is now waiting for them to reward someone in Ironwood. It would not hurt to check that it was for the commission, and who gave it.</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title1">
+	<text>Diversion Alpha: Destroy the enemies</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_text1">
+	<text>Need to deal with them.</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title2">
+	<text>Diversion Alpha: Alpha search body</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_text2">
+	<text>In the Iron Forest I had to deal with Alpha. It turns out that Alfa give orders bandits. But what is to me and to be seen. Now you need to search the body Alfovtsev.</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title3">
+	<text>Diversion Alpha: ask inhabitants Skadovska</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_text3">
+	<text>It's obvious that the bandits something had to crank on Skadovsk. Probably, they have managed to smuggle explosives there. Someone should have noticed something unusual. You need to ask the inhabitants of the cargo ship, to see whether strangers lately.</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title4">
+	<text>Diversion Alpha: talk to Sychom</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_text4">
+	<text>Beard told me that just now noticed strangers on Skadovse, two thugs with a sort of box. Perhaps in the box tolerated weapons and ammunition. Do not be amiss to inquire on this matter at owl.</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title5">
+	<text>Diversion Alpha: find the charge on the upper decks Skadovska</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_text5">
+	<text>From a conversation with Sychom was clearly that the bandits left the ship without the box. And one thing it means that it smells like kerosene. We need to find the charge on the upper decks of cargo ship.</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title6">
+	<text>Diversion Alpha: talk to Cardan</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_text6">
+	<text>Ask Cardan how to neutralize the charge.</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title7">
+	<text>Diversion Alpha: talk with nitrogen</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_text7">
+	<text>Cardan appeared ignorant of such matters as working with explosives. However, it is advised to seek help from nitrogen.</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title8">
+	<text>Diversion Alpha: find Nitrogen radio</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_text8">
+	<text>Nitrogen can collect for me spetsilno scanner to be able to detect the charges Alpha ustanovlennnye, as I see it, not only on one Skadovsk. He requested him to find a simple radio.</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title9">
+	<text>Diversion Alpha: Order of nitrogen scanner</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_text9">
+	<text>Nitrogen transfer radio and book scanner.</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title10">
+	<text>Diversion Alpha: Wait until the order</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_text10">
+	<text>Nitrogen is set to build a scanner. You must wait until the end of the work and pick up the scanner.</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title11">
+	<text>Diversion Alpha: Pay</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_text11">
+	<text>Take the scanner at Ashdod, and pay him for his efforts.</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title12">
+	<text>Diversion Alpha: survey all infested items Jupiter Creek</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title12_2">
+	<text>Diversion Alpha: continue searching charges</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title12_3">
+	<text>Diversion Alpha: continue searching charges</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title12_4">
+	<text>Diversion Alpha: continue searching charges</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title12_5">
+	<text>Diversion Alpha: continue searching charges</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_text12">
+	<text>Inspect all items infested backwater and Jupiter for the established charges.</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title13">
+	<text>Diversion Alpha: get the reward from the inhabitants of Janov</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_text13">
+	<text>All charges successfully defused. Stalkers, which is no longer in danger, we would like to give me the award.</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_title14">
+	<text>Diversion Alpha: get the reward from the inhabitants Skadovska</text>
+</string>
+ 
+<string id="zat_alfa_sabotage_text14">
+	<text>All charges successfully defused. Stalkers, which is no longer in danger, we would like to give me the award.</text>
+</string>
+ 
+<string id="jup_bring_detector_kit_title0">
+	<text>Find Novikov: a set of tools for working with detectors</text>
+</string>
+ 
+<string id="jup_bring_detector_kit_text0">
+	<text>Novikov asked me to get special tools for repair and modernization of detectors.</text>
+</string>
+ 
+<string id="jup_bring_detector_kit_title1">
+	<text>Novikov include: a set of tools for working with detectors</text>
+</string>
+ 
+<string id="jup_bring_detector_kit_text1">
+	<text>Novikov asked me to get special tools for repair and modernization of detectors.</text>
+</string>
+ 
+<string id="jup_avoid_witnesses_title0">
+	<text>Interception: get to the mercenary camp</text>
+</string>
+ 
+<string id="jup_avoid_witnesses_text0">
+	<text>Come to the camp of mercenaries, which allegedly held captive agent of the SBU.</text>
+</string>
+ 
+<string id="jup_avoid_witnesses_title1">
+	<text>Interception: to rescue the captive</text>
+</string>
+ 
+<string id="jup_avoid_witnesses_text1">
+	<text>To free the captive agent must neutralize all the protection of the camp.</text>
+</string>
+ 
+<string id="jup_avoid_witnesses_title2">
+	<text>Interception: talk with an agent</text>
+</string>
+ 
+<string id="jup_avoid_witnesses_text2">
+	<text>Start a dialogue with the captive agent.</text>
+</string>
+ 
+<string id="jup_avoid_witnesses_title3">
+	<text>Interception: to bring the agent to the station Yanov</text>
+</string>
+ 
+<string id="jup_avoid_witnesses_text3">
+	<text>To accompany the agent SBU station Yanov, because there safely.</text>
+</string>
+ 
+<string id="jup_arrive_on_bunker_title0">
+	<text>Pilot: ask Nitrogen Driver</text>
+</string>
+ 
+<string id="jup_arrive_on_bunker_text0">
+	<text>Get in Ashdod information about the pilot.</text>
+</string>
+ 
+<string id="jup_arrive_on_bunker_title1">
+	<text>Pilot: go to scientists in the bunker</text>
+</string>
+ 
+<string id="jup_arrive_on_bunker_text1">
+	<text>Go inside the bunker. Perhaps the pilot is still there.</text>
+</string>
+ 
+<string id="jup_arrive_on_bunker_title2">
+	<text>Pilot: Pilot find in a bunker</text>
+</string>
+ 
+<string id="jup_arrive_on_bunker_text2">
+	<text>Find the pilot and speak with him.</text>
+</string>
+ 
+<string id="jup_return_zaton_title0">
+	<text>Pilot: return to Zaton</text>
+</string>
+ 
+<string id="jup_return_zaton_text0">
+	<text>Information obtained, Sokolov gave a tip to Zaton, and said that he will give me the coordinates of the collapsed helicopter as soon as I find myself there. Find the station Yanov pilot and go with him on the Creek.</text>
+</string>
+ 
+<string id="jup_find_gromoboy_vintar_title0">
+	<text>'Nominal weapon': go to the village Kopachi</text>
+</string>
+ 
+<string id="jup_find_gromoboy_vintar_text0">
+	<text>Come to the village Kopachi.</text>
+</string>
+ 
+<string id="jup_find_gromoboy_vintar_title1">
+	<text>'Nominal weapon': Check the attic</text>
+</string>
+ 
+<string id="jup_find_gromoboy_vintar_text1">
+	<text>You need to see the attic of the village council - Gromoboya stunned there.</text>
+</string>
+ 
+<string id="jup_find_gromoboy_vintar_title2">
+	<text>'Nominal weapon': show PDA Crow Stormbreaker</text>
+</string>
+ 
+<string id="jup_find_gromoboy_vintar_text2">
+	<text>In the rucksack was discovered dead Monolith PDA with an unfamiliar version of the OS. Information on it is encrypted, you must give it Stormbreaker.</text>
+</string>
+ 
+<string id="jup_find_gromoboy_vintar_title3">
+	<text>'Nominal weapon': to examine in cement plant</text>
+</string>
+ 
+<string id="jup_find_gromoboy_vintar_text3">
+	<text>Stormbreaker was able to decompress the data on the PDA Crow. Among other things, it stores maps with labels of the cement plant. You must go there and find the nominal Vintorez.</text>
+</string>
+ 
+<string id="jup_find_gromoboy_vintar_title4">
+	<text>'Nominal weapon': return to the Stormbreaker</text>
+</string>
+ 
+<string id="jup_find_gromoboy_vintar_text4">
+	<text>Weapons found. You must take his Stormbreaker and decide what to do.</text>
+</string>
+ 
+<string id="jup_beat_from_monsters_title0">
+	<text>Protection tunnel: help stalkers</text>
+</string>
+ 
+<string id="jup_beat_from_monsters_text0">
+	<text>The wave of mutants is heading to the base group 'Dawn', intending to destroy everything within it alive. If you have a 'rassvetovtsam' help protect against villains - are likely to receive adequate remuneration.</text>
+</string>
+ 
+<string id="jup_beat_from_monsters_title1">
+	<text>Protection tunnel: talk with Nazar</text>
+</string>
+ 
+<string id="jup_beat_from_monsters_text1">
+	<text>Attack of the Mutant reflected. Need to talk to the commander of the grouping and get a well-deserved reward.</text>
+</string>
+ 
+<string id="jup_destroy_night_killers_title0">
+	<text>Night Snipers: go to bat</text>
+</string>
+ 
+<string id="jup_destroy_night_killers_text0">
+	<text>It is necessary to get a career and learn if there is someone.</text>
+</string>
+ 
+<string id="jup_destroy_night_killers_title1">
+	<text>Night Snipers: eliminate shooters</text>
+</string>
+ 
+<string id="jup_destroy_night_killers_text1">
+	<text>According to Neon on the territory were seen Career unknown villains shoot stalkers from an unknown weapon. They need to be destroyed.</text>
+</string>
+ 
+<string id="jup_destroy_night_killers_title2">
+	<text>Night Snipers: catch the fugitive</text>
+</string>
+ 
+<string id="jup_destroy_night_killers_text2">
+	<text>When stripping career of one bandit suspects managed to escape. As soon as possible to catch up with it and destroy it.</text>
+</string>
+ 
+<string id="jup_destroy_night_killers_title3">
+	<text>Night Snipers: return to the neon</text>
+</string>
+ 
+<string id="jup_destroy_night_killers_text3">
+	<text>Mission accomplished, the arrow cast. Neon promised a good reward.</text>
+</string>
+ 
+<string id="jup_follow_scientists_title0">
+	<text>Sally: escort scientists to mine</text>
+</string>
+ 
+<string id="jup_follow_scientists_text0">
+	<text>It is necessary to ensure the smooth passage of the research team to the mine. Professor Cooper is to survive.</text>
+</string>
+ 
+<string id="jup_follow_scientists_title1">
+	<text>Sally: talk to Cooper</text>
+</string>
+ 
+<string id="jup_follow_scientists_text1">
+	<text>The task successfully. It is necessary to receive the award from Professor Cooper.</text>
+</string>
+ 
+<string id="jup_search_treasure_title0">
+	<text>Personal box: check your private box</text>
+</string>
+ 
+<string id="jup_search_treasure_text0">
+	<text>Grouping 'Dawn' to give me a personal mailbox, it must be debit.</text>
+</string>
+ 
+<string id="jup_night_agent_meeting_title0">
+	<text>Night meeting: Meet with connected</text>
+</string>
+ 
+<string id="jup_night_agent_meeting_text0">
+	<text>Come to the territory of the helipad to meet with connected SBU.</text>
+</string>
+ 
+<string id="jup_bring_heavy_medkits_title0">
+	<text>Order Chiropractor: find Medkomplekt 'CCA72'</text>
+</string>
+ 
+<string id="jup_bring_heavy_medkits_text0">
+	<text>Medic from the station Yanov asked me to get a special set of medicines, which, presumably, can be located on the territory of the plant 'Jupiter'.</text>
+</string>
+ 
+<string id="jup_bring_heavy_medkits_title1">
+	<text>Order Chiropractor: deliver Medkomplekt 'CCA72' medic</text>
+</string>
+ 
+<string id="jup_bring_heavy_medkits_text1">
+	<text>Special Medkomplekt found. You need to take it chiropractor and get a reward.</text>
+</string>
+ 
+<string id="jup_bring_photo_device_title0">
+	<text>Order uncle Yar: finding camera 'Suzanna'</text>
+</string>
+ 
+<string id="jup_bring_photo_device_text0">
+	<text>Uncle Yar asked to provide a small favor - find a camera, lost one of the newcomer.</text>
+</string>
+ 
+<string id="jup_bring_photo_device_title1">
+	<text>Order uncle Yar: return Camera 'Suzanna'</text>
+</string>
+ 
+<string id="jup_bring_photo_device_text1">
+	<text>Equipment found. It is necessary to go back to Uncle Yar and get a reward.</text>
+</string>
+ 
+<string id="jup_bring_arms_case_title0">
+	<text>Please Hawaiians: find case</text>
+</string>
+ 
+<string id="jup_bring_arms_case_text0">
+	<text>Hawaiian, a trader from the station Yanov, asked me to find a lost case in Pripyat.</text>
+</string>
+ 
+<string id="jup_bring_arms_case_title1">
+	<text>Please Hawaiians: carry case for Janov</text>
+</string>
+ 
+<string id="jup_bring_arms_case_text1">
+	<text>Case found. You need to take it to the Hawaiians, to Yanov and get a reward.</text>
+</string>
+ 
+<string id="jup_rasvet_destroy_snorks_title0">
+	<text>Hazardous work: to clean the den poltergeists have little station</text>
+</string>
+ 
+<string id="jup_rasvet_destroy_snorks_text0">
+	<text>According to the leader of the group 'Dawn', near railway halt further in the warehouse Janov was found accumulation of dangerous mutants - poltergeysov. I signed a contract with him to sweep areas of monsters. You need to check the first point.</text>
+</string>
+ 
+<string id="jup_rasvet_destroy_snorks_title1">
+	<text>Hazardous work: to clean the den poltergeytsov in warehouse</text>
+</string>
+ 
+<string id="jup_rasvet_destroy_snorks_text1">
+	<text>Neobohodimo destroy all creatures will appear next to the warehouse Yanov station.</text>
+</string>
+ 
+<string id="jup_rasvet_destroy_snorks_title2">
+	<text>Hazardous work: follow the signal on the PDA</text>
+</string>
+ 
+<string id="jup_rasvet_destroy_snorks_text2">
+	<text>You managed to detect a weak signal from propadshey reconnaissance. Perhaps someone still alive. Provide them with assistance.</text>
+</string>
+ 
+<string id="jup_rasvet_destroy_snorks_title3">
+	<text>Hazardous work: accompany survivor rassvetovtsa to cover clan.</text>
+</string>
+ 
+<string id="jup_rasvet_destroy_snorks_text3">
+	<text>One of the scouts managed to escape from the mutants. Help him to get to his base.</text>
+</string>
+ 
+<string id="jup_rasvet_destroy_snorks_title4">
+	<text>Hazardous work: report to Nazar on the successful implementation of the mission</text>
+</string>
+ 
+<string id="jup_rasvet_destroy_snorks_text4">
+	<text>Poltergeytsy destroyed. One of the scouts saved. You can go to Nazar reward.</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_title0">
+	<text>Lost Command: to meet with a group</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_text0">
+	<text>Near the main gate awaits me group of mercenaries. To discuss with them the details of the senior operations.</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_title1">
+	<text>Lost Command: follow the detachment</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_text1">
+	<text>Follow the detachment of mercenaries.</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_title2">
+	<text>Lost Command: clean up the perimeter</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_text2">
+	<text>In the area of the checkpoint found a small cluster of zombie. It is necessary to secure the area.</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_title3">
+	<text>Lost Command: to examine the second floor</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_text3">
+	<text>You need to check the second floor - it stemmed from there last signal missing group of mercenaries.</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_title4">
+	<text>Lost Command: get out of the building</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_text4">
+	<text>Our unit attacked Controller. I was able to just use 'psihodelin' - it saved my life, but the guys are out of luck ... now they are brainwashed. Need as soon as possible to get out of the building. Note: The controller has an aura does not allow me to use my weapon.</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_title5">
+	<text>Lost Command: talk to Molfarom</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_text5">
+	<text>I managed to get out of the building, but the supervisor is still alive and dangerous. Need to tell the news Molfaru and take action. You may have to reassemble the squad.</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_title6">
+	<text>Lost Command: talk with the senior squad of the new</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_text6">
+	<text>Near the main gate to expect new group of mercenaries. Need to talk to their commander and strategize the upcoming operation.</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_title7">
+	<text>Lost Command: get 'psihodelin'</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_text7">
+	<text>To ensure the success of the operation, you need to get four drug packaging 'psihodelin'.</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_title8">
+	<text>Lost Command: to convey drugs detachment commander</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_text8">
+	<text>'Psihodelin' found. Need to pass it to the commander group of mercenaries, and he will give his squad members.</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_title9">
+	<text>Lost Command: accompany the squad to the plant</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_text9">
+	<text>To go along with a new squad of mercenaries to plant 'Jupiter'.</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_title10">
+	<text>Lost Command: clean pritsehovuyu territory</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_text10">
+	<text>It is necessary to destroy the supervisor, zombie, and the rest of the enemies.</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_title11">
+	<text>Lost Command: Molfaru report on the implementation of</text>
+</string>
+ 
+<string id="jup_mercenary_check_plant_text11">
+	<text>The task is completed, the supervisor and his victim dead. Need to talk about this Molfaru.</text>
+</string>
+ 
+<string id="jup_rasvet_eliminate_burrows_title0">
+	<text>Strange Activity: clean up the hole around the cement plant</text>
+</string>
+ 
+<string id="jup_rasvet_eliminate_burrows_text0">
+	<text>To protect the area from mutants that were dug near a cement factory.</text>
+</string>
+ 
+<string id="jup_rasvet_eliminate_burrows_title1">
+	<text>Strange Activity: clean up the hole inside the plant 'Jupiter'</text>
+</string>
+ 
+<string id="jup_rasvet_eliminate_burrows_text1">
+	<text>To protect the area from mutants that were dug at the plant 'Jupiter'.</text>
+</string>
+ 
+<string id="jup_rasvet_eliminate_burrows_title2">
+	<text>Strange Activity: clean hole in the south 'Jupiter'</text>
+</string>
+ 
+<string id="jup_rasvet_eliminate_burrows_text2">
+	<text>Find and destroy the hole, in the southern part of the neighborhood 'Jupiter'.</text>
+</string>
+ 
+<string id="jup_rasvet_eliminate_burrows_title3">
+	<text>Strange Activity: clean hole near thef/A</text>
+</string>
+ 
+<string id="jup_rasvet_eliminate_burrows_text3">
+	<text>Destroy the hole that nearf/A.</text>
+</string>
+ 
+<string id="jup_rasvet_eliminate_burrows_title4">
+	<text>Strange Activity: report on the implementation Nazar</text>
+</string>
+ 
+<string id="jup_rasvet_eliminate_burrows_text4">
+	<text>The task is completed, the hole cleaned. You can vozvraschatsya to Nazar.</text>
+</string>
+ 
+<string id="jup_rasvet_eliminate_burrows_title5">
+	<text>Strange Activity: mop up the last hole about SAM 'Volkhov'</text>
+</string>
+ 
+<string id="jup_rasvet_eliminate_burrows_text5">
+	<text>Found another hole. Need to destroy it.</text>
+</string>
+ 
+<string id="jup_rasvet_eliminate_burrows_title6">
+	<text>Strange Activity: talk with Nazar</text>
+</string>
+ 
+<string id="jup_rasvet_eliminate_burrows_text6">
+	<text>The task is completed. Now you can get a reward.</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_title0">
+	<text>Unknown breed: to get a sample of an unknown artifact</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_text0">
+	<text>Detect unknown breed, and a detector 'Seraphim'.</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_title1">
+	<text>Unknown breed: show sample Herman</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_text1">
+	<text>Attributed to Hermann unknown artifact.</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_title2">
+	<text>Unknown breed: find other samples</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_text2">
+	<text>Herman told the news that the number of such breed will only increase. To conduct a successful experiment, it is necessary to get at least six samples. One sample is already there.</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_title3">
+	<text>Unknown breed: find four sample</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_text3">
+	<text>For a successful experiment of scientists, to be at least six samples. Two samples already have.</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_title4">
+	<text>Unknown breed: find three sample</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_text4">
+	<text>For a successful experiment of scientists, to be at least six samples. Three samples already have.</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_title5">
+	<text>Unknown breed: find two sample</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_text5">
+	<text>For a successful experiment of scientists, to be at least six samples. Four samples already have.</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_title6">
+	<text>Unknown breed: find the last sample</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_text6">
+	<text>For a successful experiment of scientists, to be at least six samples. Five samples already have.</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_title7">
+	<text>Unknown breed: return to the last sample</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_text7">
+	<text>Give Herman missing samples.</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_title8">
+	<text>Unknown breed: wait until the end of the experiment</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_text8">
+	<text>The samples were collected, now, for their full research requires conducting a scientific experiment. Herman decided to conduct an experiment today. You must wait until the end of the experience, and then return for your reward.</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_title9">
+	<text>Unknown breed: talk with Herman</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_text9">
+	<text>Herman said that the experiment successfully finished. Need to talk to Herman.</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_title10">
+	<text>Unknown breed: show samples of Herman</text>
+</string>
+ 
+<string id="jup_search_anomal_prototype_text10">
+	<text>Attributed to Hermann unknown artifacts.</text>
+</string>
+ 
+<string id="jup_darkvalley_travel_bubble_title0">
+	<text>Spatial teleport: to find a spatial anomaly</text>
+</string>
+ 
+<string id="jup_darkvalley_travel_bubble_text0">
+	<text>On the General Staff have a new job. The command requires a speedy departure in the dark valley, to search for the missing agent SBU and some documents of national importance. Also received information that in the vicinity of Jupiter, there is a kind of spatial anomaly that can, with the right of its use, send the person to any location. Command believed that I could, with the help of this anomaly, to go into the dark valley. The rest of the way into the dark valley is not yet available.</text>
+</string>
+ 
+<string id="jup_examine_caravan_title0">
+	<text>Frustrated Caravan: to help</text>
+</string>
+ 
+<string id="jup_examine_caravan_text0">
+	<text>On the way to the base of the caravan mercenaries ran into a large psevdogiganta. They're about the vent complex. They need my help.</text>
+</string>
+ 
+<string id="jup_examine_caravan_title1">
+	<text>Frustrated Caravan: kill the monster</text>
+</string>
+ 
+<string id="jup_examine_caravan_text1">
+	<text>Deal with psevdogigantom.</text>
+</string>
+ 
+<string id="jup_examine_caravan_title2">
+	<text>Frustrated Caravan: choose the goods</text>
+</string>
+ 
+<string id="jup_examine_caravan_text2">
+	<text>Caravan to carry loads of valuable information for mercenaries. You need to pick it up.</text>
+</string>
+ 
+<string id="jup_examine_caravan_title3">
+	<text>Frustrated Caravan: surrender the goods Molfaru</text>
+</string>
+ 
+<string id="jup_examine_caravan_text3">
+	<text>Give the goods and receive a reward.</text>
+</string>
+ 
+<string id="jup_liquidate_valet_title0">
+	<text>The attempt on the Jack of Diamonds kill</text>
+</string>
+ 
+<string id="jup_liquidate_valet_text0">
+	<text>Molfar decided to become uproarious with his bosom enemy - jacks. Need to shoot him.</text>
+</string>
+ 
+<string id="jup_liquidate_valet_title1">
+	<text>Attempt at Diamonds: Molfaru report on the implementation of</text>
+</string>
+ 
+<string id="jup_liquidate_valet_text1">
+	<text>Talk to Molfarom.</text>
+</string>
+ 
+<string id="jup_weak_lighthouse_title0">
+	<text>Weak lighthouse: to find a hiding place in the factory</text>
+</string>
+ 
+<string id="jup_weak_lighthouse_text0">
+	<text>Mercenaries long ago established a hiding place inside the plant Jupiter. Whoever installed - has long been dead. Where exactly this hidden stash, nobody knows. GPS signal beacon on the cache is very weak. That it is necessary to load up on him closer. My task - to scour the plant.</text>
+</string>
+ 
+<string id="jup_weak_lighthouse_title1">
+	<text>Weak lighthouse: check cache</text>
+</string>
+ 
+<string id="jup_weak_lighthouse_text1">
+	<text>Cache signal detected. It is necessary to search the cache.</text>
+</string>
+ 
+<string id="jup_weak_lighthouse_title2">
+	<text>Weak lighthouse notify Molfaru</text>
+</string>
+ 
+<string id="jup_weak_lighthouse_text2">
+	<text>Stash found. It is closed. Need to talk about this Molfaru.</text>
+</string>
+ 
+<string id="jup_weak_lighthouse_title3">
+	<text>Weak lighthouse: hold teams to the cache</text>
+</string>
+ 
+<string id="jup_weak_lighthouse_text3">
+	<text>Molfar ordered to bring his guys to the cache. They know how to open the cache.</text>
+</string>
+ 
+<string id="jup_weak_lighthouse_title4">
+	<text>Weak lighthouse: return to base</text>
+</string>
+ 
+<string id="jup_weak_lighthouse_text4">
+	<text>Talk to Molfarom.</text>
+</string>
+ 
+<string id="pri_find_science_briefing_title0">
+	<text>Scientific report: track professors</text>
+</string>
+ 
+<string id="pri_find_science_briefing_text0">
+	<text>According to a coherent, professor disappeared near the river port. You must go there and find the professor.</text>
+</string>
+ 
+<string id="pri_find_science_briefing_title1">
+	<text>Working paper: paper include coherent</text>
+</string>
+ 
+<string id="pri_find_science_briefing_text1">
+	<text>Information is received, you now need to give it connected.</text>
+</string>
+ 
+<string id="pri_find_science_briefing_title2">
+	<text>Science briefing: search premium cache</text>
+</string>
+ 
+<string id="pri_find_science_briefing_text2">
+	<text>The command gave me a stash of compensation money spent.</text>
+</string>
+ 
+<string id="pri_necessary_kill_kasilov_title0">
+	<text>Dirty Work: go on a signal PDA</text>
+</string>
+ 
+<string id="pri_necessary_kill_kasilov_text0">
+	<text>The signal at the flash-drive indicates that the place of deployment Kasilova - laundry. You need to come closer.</text>
+</string>
+ 
+<string id="pri_necessary_kill_kasilov_title1">
+	<text>Dirty Work: Kill Colonel Kasilova</text>
+</string>
+ 
+<string id="pri_necessary_kill_kasilov_text1">
+	<text>Kill Colonel Kasilova. This is the will of the Great Monolith.</text>
+</string>
+ 
+<string id="pri_necessary_kill_kasilov_title2">
+	<text>Dirty Work: to search the body Kasilova</text>
+</string>
+ 
+<string id="pri_necessary_kill_kasilov_text2">
+	<text>In rucksack Kasilova political instructor must be a PDA with important information. You need to pick it up.</text>
+</string>
+ 
+<string id="pri_necessary_kill_kasilov_title3">
+	<text>Dirty Work: return to the Commander in Chief</text>
+</string>
+ 
+<string id="pri_necessary_kill_kasilov_text3">
+	<text>PDA Kasilova bring to the base of the monolith and give it to Cyborg.</text>
+</string>
+ 
+<string id="pri_necessary_kill_kasilov_title4">
+	<text>Dirty Work: catch and kill Kasilova</text>
+</string>
+ 
+<string id="pri_necessary_kill_kasilov_text4">
+	<text>Quietly failed Kasilov fled ... It is necessary to catch up with him and shoot.</text>
+</string>
+ 
+<string id="pri_zone_cleaning_title0">
+	<text>Splash psy-radiation: to clean the area from the zombie</text>
+</string>
+ 
+<string id="pri_zone_cleaning_text0">
+	<text>Instruments recorded a very powerful flash psy-radiation, which led to a huge number of zombie stalkers. Necessary to protect Zone neutralize at least four hundred zombie.</text>
+</string>
+ 
+<string id="pri_assault_monolith_base_title0">
+	<text>'Operation Volcano': will meet with a group in the backyard</text>
+</string>
+ 
+<string id="pri_assault_monolith_base_text0">
+	<text>Colonel Kowalski organized special. operation to destroy the clusters 'Monolith' in Cinema 'Prometheus'. I've been involved in the operation, and to start the operation I need to meet with a group in the yard.</text>
+</string>
+ 
+<string id="pri_assault_monolith_base_title1">
+	<text>'Operation Volcano': follow the party leader</text>
+</string>
+ 
+<string id="pri_assault_monolith_base_text1">
+	<text>The operation started, you must follow the leader specials. detachment.</text>
+</string>
+ 
+<string id="pri_assault_monolith_base_title2">
+	<text>'Operation Volcano': take a firing position</text>
+</string>
+ 
+<string id="pri_assault_monolith_base_text2">
+	<text>Take the firing line on the 2nd floor of the CCD.</text>
+</string>
+ 
+<string id="pri_assault_monolith_base_title3">
+	<text>'Operation Volcano': Destroy the clusters 'Monolith'</text>
+</string>
+ 
+<string id="pri_assault_monolith_base_text3">
+	<text>To shoot to kill, to eliminate the enemy.</text>
+</string>
+ 
+<string id="pri_assault_monolith_base_title4">
+	<text>'Operation Volcano': talk to the party leader</text>
+</string>
+ 
+<string id="pri_assault_monolith_base_text4">
+	<text>The transaction is completed, it is necessary to base vozvraschatsya - along with survivors of the group.</text>
+</string>
+ 
+<string id="pri_assault_monolith_base_title5">
+	<text>'Operation Volcano': report on the implementation of Kowalski</text>
+</string>
+ 
+<string id="pri_assault_monolith_base_text5">
+	<text>You need to tell Kowalski about the successful operation.</text>
+</string>
+ 
+<string id="pri_bloodsucker_vaccine_title0">
+	<text>'Vaccine for bloodsucker': rasprosy of NG-7 Ozersk</text>
+</string>
+ 
+<string id="pri_bloodsucker_vaccine_text0">
+	<text>The apartment is on the Pripyat me stunned bloodsucker. Oddly enough - I woke up and there was nobody around. I found a note in the place, it was said that bloodsucker needs a vaccine, known as drug NG-7, which is why he did not touch me. Since he did not touch me, you need to help him by going to Ozersk and ask for the NG-7.</text>
+</string>
+ 
+<string id="pri_bloodsucker_vaccine_title1">
+	<text>'Vaccine for bloodsucker': purchase NG-7 in Ozersk</text>
+</string>
+ 
+<string id="pri_bloodsucker_vaccine_text1">
+	<text>Ozersky agree to sell me NG-7, 5400. I need to buy the vaccine at Ozersk.</text>
+</string>
+ 
+<string id="pri_bloodsucker_vaccine_title2">
+	<text>'Vaccine for bloodsucker': return to the past meeting place</text>
+</string>
+ 
+<string id="pri_bloodsucker_vaccine_text2">
+	<text>I vaccine. You need to pass a vaccine that bloodsucker.</text>
+</string>
+ 
+<string id="pri_bloodsucker_vaccine_title3">
+	<text>'Vaccine for bloodsucker': pick award</text>
+</string>
+ 
+<string id="pri_bloodsucker_vaccine_text3">
+	<text>Bloodsucker left me a reward.</text>
+</string>
+ 
+<string id="pri_bloodsucker_vaccine_title4">
+	<text>'Vaccine for bloodsucker': survey the room</text>
+</string>
+ 
+<string id="pri_bloodsucker_vaccine_text4">
+	<text>Waking up, I noticed that I bought the drug NG-7 disappeared. Bloodsucker took what he wanted. In the note he said about the award, it is possible somewhere in the room.</text>
+</string>
+ 
+<string id="pri_rescue_underground_guide_title0">
+	<text>'The Lost Explorer': get down to the overpass 'Pripyat-1 '</text>
+</string>
+ 
+<string id="pri_rescue_underground_guide_text0">
+	<text>Not so long ago lost friend Garik - Miller, who by occupation was a Guide. Garik very worried about the fate of his friend, and as he now can not check everything yourself, outsource it to me. The last signal coming from the flash-drive Miller indicates that it is in the overpass 'Pripyat-1. You need to check the overpass.</text>
+</string>
+ 
+<string id="pri_rescue_underground_guide_title1">
+	<text>'The Lost Explorer': find Miller</text>
+</string>
+ 
+<string id="pri_rescue_underground_guide_text1">
+	<text>Miller PDA signal is still active, he comes from an overpass. You need to check the source.</text>
+</string>
+ 
+<string id="pri_rescue_underground_guide_title2">
+	<text>'The Lost Explorer': save Miller</text>
+</string>
+ 
+<string id="pri_rescue_underground_guide_text2">
+	<text>It seems that Miller captured. It is necessary to rescue, to understand the enemy.</text>
+</string>
+ 
+<string id="pri_rescue_underground_guide_title3">
+	<text>'The Lost Explorer': talk with Miller</text>
+</string>
+ 
+<string id="pri_rescue_underground_guide_text3">
+	<text>Melnik saved, you need to talk to him.</text>
+</string>
+ 
+<string id="pri_rescue_underground_guide_title4">
+	<text>'The Lost Explorer': get back together with Miller to Garik</text>
+</string>
+ 
+<string id="pri_rescue_underground_guide_text4">
+	<text>Walk together with Miller to Garik.</text>
+</string>
+ 
+<string id="pri_rescue_underground_guide_title5">
+	<text>'The Lost Explorer': talk with Garik</text>
+</string>
+ 
+<string id="pri_rescue_underground_guide_text5">
+	<text>Get rewarded Garik.</text>
+</string>
+ 
+<string id="pri_expiation_sin_1_title0">
+	<text>'Atonement for sins': find anabiotiki and living water</text>
+</string>
+ 
+<string id="pri_expiation_sin_1_text0">
+	<text>Need to bring 10 anabiotikov and living water, to atone for their sins before 'Monolith'. Need to look to the physician on the Creek, maybe he knows something.</text>
+</string>
+ 
+<string id="pri_expiation_sin_1_title1">
+	<text>'Atonement for sins': to help find a medic first aid kit</text>
+</string>
+ 
+<string id="pri_expiation_sin_1_text1">
+	<text>Medic Creek agreed to tell me everything he knows about the living water, but not just so, and for finding its universal kit.</text>
+</string>
+ 
+<string id="pri_expiation_sin_1_title2">
+	<text>'Atonement for sins': first-aid kit to exchange information on the living water</text>
+</string>
+ 
+<string id="pri_expiation_sin_1_text2">
+	<text>Give first aid kit medic, and to obtain information about living water.</text>
+</string>
+ 
+<string id="pri_expiation_sin_1_title3">
+	<text>'Atonement for sins': ask about water in Ozersk</text>
+</string>
+ 
+<string id="pri_expiation_sin_1_text3">
+	<text>Medic suggested that Ozersky can know more about it. Need to talk to Ozersk.</text>
+</string>
+ 
+<string id="pri_expiation_sin_1_title4">
+	<text>'Atonement for sins': found on the territory of the Oasis of living water</text>
+</string>
+ 
+<string id="pri_expiation_sin_1_text4">
+	<text>Ozersky says that somewhere in the territory of Oasis should be living water.</text>
+</string>
+ 
+<string id="pri_expiation_sin_1_title5">
+	<text>'Atonement for sins': bring the water of life and anabiotiki Cyborg</text>
+</string>
+ 
+<string id="pri_expiation_sin_1_text5">
+	<text>Living Water and anabiotiki found necessary to carry them cyborgs.</text>
+</string>
+ 
+<string id="pri_expiation_sin_1_title6">
+	<text>'Atonement for sins': find 10 anabiotikov</text>
+</string>
+ 
+<string id="pri_expiation_sin_1_text6">
+	<text>Living water is found, however anabitikov of 10 pieces I do not need as soon as possible to find them, and take a cyborg.</text>
+</string>
+ 
+<string id="pri_expiation_sin_1_title7">
+	<text>'Atonement for sins': talk to the new brothers</text>
+</string>
+ 
+<string id="pri_expiation_sin_1_text7">
+	<text>Living Water will help our brothers healed. They would like me to tell.</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_title0">
+	<text>'Atonement for sins': fill the 1st cache monolith</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_text0">
+	<text>Need to restore the caches and caches 'Monolith'. To do this, I need to put in the cache Macaire marked on the map the following subjects: 1) AK-74 and LR-300 or SPAS 12, and one store to the appropriate weapons. 2) batteries, or batteries for Handicraft Gauss Cannon. 3) Any first aid kit, any bandage, and a choice of anti-radiation drug or psihodelin.</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_title1">
+	<text>'Atonement for sins': fill the 2nd cache monolith</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_text1">
+	<text>Need to restore the caches and caches 'Monolith'. To do this, I need to put in the cache Macaire marked on the map the following subjects: 1) AK-74 and LR-300 or SPAS 12, and one store to the appropriate weapons. 2) batteries, or batteries for Handicraft Gauss Cannon. 3) Any first aid kit, any bandage, and a choice of anti-radiation drug or psihodelin.</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_title2">
+	<text>'Atonement for sins': fill the third cache monolith</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_text2">
+	<text>Need to restore the caches and caches 'Monolith'. To do this, I need to put in the cache Macaire marked on the map the following subjects: 1) AK-74 and LR-300 or SPAS 12, and one store to the appropriate weapons. 2) batteries, or batteries for Handicraft Gauss Cannon. 3) Any first aid kit, any bandage, and a choice of anti-radiation drug or psihodelin.</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_title3">
+	<text>'Atonement for sins': fill the 4th cache monolith</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_text3">
+	<text>Need to restore the caches and caches 'Monolith'. To do this, I need to put in the cache Macaire marked on the map the following subjects: 1) AK-74 and LR-300 or SPAS 12, and one store to the appropriate weapons. 2) batteries, or batteries for Handicraft Gauss Cannon. 3) Any first aid kit, any bandage, and a choice of anti-radiation drug or psihodelin.</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_title4">
+	<text>'Atonement for sins': fill the 5th cache monolith</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_text4">
+	<text>Need to restore the caches and caches 'Monolith'. To do this, I need to put in the cache Macaire marked on the map the following subjects: 1) AK-74 and LR-300 or SPAS 12, and one store to the appropriate weapons. 2) batteries, or batteries for Handicraft Gauss Cannon. 3) Any first aid kit, any bandage, and a choice of anti-radiation drug or psihodelin.</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_title5">
+	<text>'Atonement for sins': fill 6th cache monolith</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_text5">
+	<text>Need to restore the caches and caches 'Monolith'. To do this, I need to put in the cache Macaire marked on the map the following subjects: 1) AK-74 and LR-300 or SPAS 12, and one store to the appropriate weapons. 2) batteries, or batteries for Handicraft Gauss Cannon. 3) Any first aid kit, any bandage, and a choice of anti-radiation drug or psihodelin.</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_title6">
+	<text>'Atonement for sins': fill 7th cache monolith</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_text6">
+	<text>Need to restore the caches and caches 'Monolith'. To do this, I need to put in the cache Macaire marked on the map the following subjects: 1) AK-74 and LR-300 or SPAS 12, and one store to the appropriate weapons. 2) batteries, or batteries for Handicraft Gauss Cannon. 3) Any first aid kit, any bandage, and a choice of anti-radiation drug or psihodelin.</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_title7">
+	<text>'Atonement for sins': fill 8th cache monolith</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_text7">
+	<text>Need to restore the caches and caches 'Monolith'. To do this, I need to put in the cache Macaire marked on the map the following subjects: 1) AK-74 and LR-300 or SPAS 12, and one store to the appropriate weapons. 2) batteries, or batteries for Handicraft Gauss Cannon. 3) Any first aid kit, any bandage, and a choice of anti-radiation drug or psihodelin.</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_title8">
+	<text>'Atonement for sins': fill the 9th cache monolith</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_text8">
+	<text>Need to restore the caches and caches 'Monolith'. To do this, I need to put in the cache Macaire marked on the map the following subjects: 1) AK-74 and LR-300 or SPAS 12, and one store to the appropriate weapons. 2) batteries, or batteries for Handicraft Gauss Cannon. 3) Any first aid kit, any bandage, and a choice of anti-radiation drug or psihodelin.</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_title9">
+	<text>'Atonement for sins': tell Cyborg</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_text9">
+	<text>All caches monolith on Creek laid. Need to talk to Cyborg.</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_title10">
+	<text>'Atonement for sins': a reward</text>
+</string>
+ 
+<string id="pri_expiation_sin_2_text10">
+	<text>Pick up fee from the merchant Monolith.</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_title0">
+	<text>'Atonement for sins': find a subspace relay</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_text0">
+	<text>Monolith want to renovate your antenna to communicate with the higher mind - 'Monolith'. The main component of this type of antenna is a subspace relay, it was destroyed. After the death of spiritual leader Monolith Adept subspace relay location remained a mystery. All costs necessary to get the information about this repeater.</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_title1">
+	<text>'Atonement for sins': to get more information about the repeater</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_text1">
+	<text>I was able to get information about the location of the repeater. From the words of owl, the repeater can be located on the territory of the plant Jupiter, in the inner housing, and is rumored to weigh about 200 kg. Information may not be reliable, it is necessary to obtain information from another Informant, and compared to determine the exact location of the object.</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_title2">
+	<text>'Atonement for sins': to get more information about the repeater</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_text2">
+	<text>I was able to get information about the location of the repeater. From the words of Hawaiians, the repeater is located on the territory of the plant Jupiter, and does not weigh enough. Information may not be reliable, it is necessary to obtain information from another Informant, and compared to determine the exact location of the object.</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_title3">
+	<text>'Atonement for sins': to get more information about the repeater</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_text3">
+	<text>I was able to get information about the location of the repeater. From the words of Ozersk, the repeater can be located on the territory of the plant Jupiter, in the Department of Radio Engineering and weigh about 200 kg. Perhaps subspace transponder is still in one of the containers. Information may not be reliable, it is necessary to obtain information from another Informant, and compared to determine the exact location of the object.</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_title4">
+	<text>'Atonement for sins': find a subspace relay</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_text4">
+	<text>Information about the location of the relay is compared. Coordinates obtained from Informants coincided. You need to make sure.</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_title5">
+	<text>'Atonement for sins': talk to Cyborg</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_text5">
+	<text>Repeater subspace was found, but its weight is too large. Need to talk about finding a cyborg.</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_title6">
+	<text>'Atonement for sins': talk to the Monster</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_text6">
+	<text>Cyborg instructed to recapture one of the antennas from the infidels. I need to keep our brothers in battle.</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_title7">
+	<text>'Atonement for sins': to accompany a detachment to the store 'Books'</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_text7">
+	<text>I need to accompany our brothers to the store 'Books'.</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_title8">
+	<text>'Atonement for sins': repulse shop 'Books'</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_text8">
+	<text>Eradicate the infidels that barricaded themselves in the shop 'Books'.</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_title9">
+	<text>'Atonement for sins': start repairing antennas</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_text9">
+	<text>Monolith to instruct them to start repairing antennas.</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_title10">
+	<text>'Atonement for sins': talk to Cyborg</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_text10">
+	<text>Back to Cyborg.</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_title11">
+	<text>'Atonement for sins': a reward</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_text11">
+	<text>Take a reward from a dealer MetroFan.</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_title12">
+	<text>'Atonement for sins': wait for the repair of the antenna</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_text12">
+	<text>Wait for the repair of the antenna.</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_title13">
+	<text>'Atonement for sins': return to the Temple</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_text13">
+	<text>Repairs completed antenna. You need to visit the brothers in the Temple.</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_title14">
+	<text>'Atonement for sins': get in touch with 'Monolith'</text>
+</string>
+ 
+<string id="pri_expiation_sin_3_text14">
+	<text>Use an antenna to communicate with 'Monolith'. Monolith will show me the way.</text>
+</string>
+ 
+<string id="pri_fenix_vendetta_title0">
+	<text>Vendetta: deal with Inquisitor</text>
+</string>
+ 
+<string id="pri_fenix_vendetta_text0">
+	<text>It is necessary to eliminate the Inquisitor - High Priest of the Monolith. This Inquisitor involved in the death of his brother Phoenix - Germanicus.</text>
+</string>
+ 
+<string id="pri_fenix_vendetta_title1">
+	<text>Vendetta: deal with Inquisitor</text>
+</string>
+ 
+<string id="pri_fenix_vendetta_text1">
+	<text>PDA found at the fallen Monolith, updated information about the coordinates of the detachment headed by Inquisitor. It is necessary to catch up with the squad, and deal with the killer's brother Phoenix.</text>
+</string>
+ 
+<string id="pri_fenix_vendetta_title2">
+	<text>Vendetta: deal with Inquisitor</text>
+</string>
+ 
+<string id="pri_fenix_vendetta_text2">
+	<text>Obtain new information. Now Inquisitor accurately detected. It is necessary to eliminate it.</text>
+</string>
+ 
+<string id="pri_fenix_vendetta_title3">
+	<text>Vendetta: check body Inquisitor</text>
+</string>
+ 
+<string id="pri_fenix_vendetta_text3">
+	<text>Take the stick Inquisitor.</text>
+</string>
+ 
+<string id="pri_fenix_vendetta_title4">
+	<text>Vendetta: Activate the stick Inquisitor</text>
+</string>
+ 
+<string id="pri_fenix_vendetta_text4">
+	<text>Use the stick Inquisitor.</text>
+</string>
+ 
+<string id="pri_fenix_vendetta_title5">
+	<text>Vendetta: search zagashnik Inquisitor</text>
+</string>
+ 
+<string id="pri_fenix_vendetta_text5">
+	<text>Check cache left by the Inquisitor.</text>
+</string>
+ 
+<string id="pri_fenix_vendetta_title6">
+	<text>Vendetta: return found Phoenix</text>
+</string>
+ 
+<string id="pri_fenix_vendetta_text6">
+	<text>Give something that was in the cache - Phoenix.</text>
+</string>
+ 
+<string id="val_first_coming_on_valley_title0">
+	<text>Arrival: find Akulova</text>
+</string>
+ 
+<string id="val_first_coming_on_valley_text0">
+	<text>This Shark must know something about Balthazar. You must find it.</text>
+</string>
+ 
+<string id="val_first_coming_on_valley_title1">
+	<text>Arrival: talk to the commander of the checkpoint</text>
+</string>
+ 
+<string id="val_first_coming_on_valley_text1">
+	<text>Talk to the commander of the checkpoint.</text>
+</string>
+ 
+<string id="val_first_coming_on_valley_title2">
+	<text>Arrival: wait a stalker Guide</text>
+</string>
+ 
+<string id="val_first_coming_on_valley_text2">
+	<text>Kulikov agreed with fighters from eastern roadblock to that led me to the farm.</text>
+</string>
+ 
+<string id="val_first_coming_on_valley_title3">
+	<text>Arrival: go to the farm with a stalker</text>
+</string>
+ 
+<string id="val_first_coming_on_valley_text3">
+	<text>Stalkers base is located on the farm. The commander of the checkpoint asked his subordinates to show me the way to the farm.</text>
+</string>
+ 
+<string id="val_first_coming_on_valley_title4">
+	<text>Arrival: go to the farm</text>
+</string>
+ 
+<string id="val_first_coming_on_valley_text4">
+	<text>Guide died. Need to find a farm.</text>
+</string>
+ 
+<string id="val_first_coming_on_valley_title5">
+	<text>Arrival: go to the farm</text>
+</string>
+ 
+<string id="val_first_coming_on_valley_text5">
+	<text>Need to find a farm.</text>
+</string>
+ 
+<string id="val_first_coming_on_valley_title6">
+	<text>Arrival: talk to the leader of stalkers</text>
+</string>
+ 
+<string id="val_first_coming_on_valley_text6">
+	<text>On the basis of stalkers have a leader. Need to talk to him and get information on the status of the Dark Valley.</text>
+</string>
+ 
+<string id="val_first_coming_on_valley_title7">
+	<text>Arrival: help stalkers</text>
+</string>
+ 
+<string id="val_first_coming_on_valley_text7">
+	<text>Leader of stalkers in the Dark Valley - Akulov, agreed to tell me everything he knows, but on condition that I cracking down on the problem chimera.</text>
+</string>
+ 
+<string id="val_kill_night_predator_title0">
+	<text>Saucy Predator: go to the anomaly 'split'</text>
+</string>
+ 
+<string id="val_kill_night_predator_text0">
+	<text>The last time the chimera seen in the area of anomaly 'split'. Maybe she lives there. Need to come closer.</text>
+</string>
+ 
+<string id="val_kill_night_predator_title1">
+	<text>Saucy Predator: Combat chimera</text>
+</string>
+ 
+<string id="val_kill_night_predator_text1">
+	<text>Chimera detected. It is necessary to fix it.</text>
+</string>
+ 
+<string id="val_kill_night_predator_title2">
+	<text>Saucy Predator: report Akulova</text>
+</string>
+ 
+<string id="val_kill_night_predator_text2">
+	<text>Once again not to risk his life will be more effective to organize a defensive line on the site of the checkpoint, near the farm. Akulova need to tell about my plan.</text>
+</string>
+ 
+<string id="val_kill_night_predator_title3">
+	<text>Saucy Predator: talk with Leonid</text>
+</string>
+ 
+<string id="val_kill_night_predator_text3">
+	<text>Prevent stalkers at the checkpoint of the chimera. You must tell Leonid about my plan.</text>
+</string>
+ 
+<string id="val_kill_night_predator_title4">
+	<text>Saucy Predator: find chimera</text>
+</string>
+ 
+<string id="val_kill_night_predator_text4">
+	<text>Leonid and his guys strengthen roadblock to repel and destroy Chimera. It remains only to find and lure the chimera to the checkpoint.</text>
+</string>
+ 
+<string id="val_kill_night_predator_title5">
+	<text>Saucy predators lure chimera at checkpoint</text>
+</string>
+ 
+<string id="val_kill_night_predator_text5">
+	<text>Chimera again found. Need to bring it to the checkpoint.</text>
+</string>
+ 
+<string id="val_kill_night_predator_title6">
+	<text>Saucy Predator: Combat chimera</text>
+</string>
+ 
+<string id="val_kill_night_predator_text6">
+	<text>Chimera trapped. Need it decided to do until it was gone.</text>
+</string>
+ 
+<string id="val_kill_night_predator_title7">
+	<text>Saucy Predator: talk to Akulov</text>
+</string>
+ 
+<string id="val_kill_night_predator_text7">
+	<text>Chimera defeated. Need to talk about this Akulova.</text>
+</string>
+ 
+<string id="val_assault_factory_title0">
+	<text>Interception: destroy cluster snorkov</text>
+</string>
+ 
+<string id="val_assault_factory_text0">
+	<text>Stalkers are going to storm the plant, which is now under the control of the renegades. For the approach to the plant, they will need to cross the bridge. At the moment, the bridge is unsafe - about him were discovered clusters snorkov. Need to resolve this issue, clearing close to the bridge area.</text>
+</string>
+ 
+<string id="val_assault_factory_title1">
+	<text>Interception: destroy cluster snorkov</text>
+</string>
+ 
+<string id="val_assault_factory_text1">
+	<text>They decided snorkov cluster.</text>
+</string>
+ 
+<string id="val_assault_factory_title2">
+	<text>Interception: get together with a group at the main gate</text>
+</string>
+ 
+<string id="val_assault_factory_text2">
+	<text>Akoulov squad gathered for a march on the plant. It is necessary to take part in the capture plant.</text>
+</string>
+ 
+<string id="val_assault_factory_title3">
+	<text>Interception: follow the detachment</text>
+</string>
+ 
+<string id="val_assault_factory_text3">
+	<text>Go along with a detachment of the bridge.</text>
+</string>
+ 
+<string id="val_assault_factory_title4">
+	<text>Interception: make a surprise attack</text>
+</string>
+ 
+<string id="val_assault_factory_text4">
+	<text>Get as close as possible to the main gate of the plant to catch the renegade surprise.</text>
+</string>
+ 
+<string id="val_assault_factory_title5">
+	<text>Interception: capture plant</text>
+</string>
+ 
+<string id="val_assault_factory_text5">
+	<text>Squad broke into the factory. Must be decided to do all the renegades and seize the factory.</text>
+</string>
+ 
+<string id="val_assault_factory_title6">
+	<text>Interception: search the corpses of renegades</text>
+</string>
+ 
+<string id="val_assault_factory_text6">
+	<text>Perhaps someone from the renegades may have valuable information on your PDA. It is necessary to search the corpses of renegades.</text>
+</string>
+ 
+<string id="val_assault_factory_title7">
+	<text>Interception: results include PDAs Akulova</text>
+</string>
+ 
+<string id="val_assault_factory_text7">
+	<text>Pass Akulova collected renegades PDA.</text>
+</string>
+ 
+<string id="val_brigand_title0">
+	<text>Robbery: raided the camp renegades</text>
+</string>
+ 
+<string id="val_brigand_text0">
+	<text>Split renegades near anomaly 'Split'.</text>
+</string>
+ 
+<string id="val_brigand_title1">
+	<text>Robbery: return for a reward</text>
+</string>
+ 
+<string id="val_brigand_text1">
+	<text>Receive the award at the Leviathan.</text>
+</string>
+ 
+<string id="val_secret_development_title0">
+	<text>Secret development: go down to the lab X18</text>
+</string>
+ 
+<string id="val_secret_development_text0">
+	<text>Go to the underground laboratory X18.</text>
+</string>
+ 
+<string id="val_secret_development_title1">
+	<text>Secret development: to find the secret weapon</text>
+</string>
+ 
+<string id="val_secret_development_text1">
+	<text>In the laboratory, X18 has a secret development of scientists - Gauss rifle. You must find it.</text>
+</string>
+ 
+<string id="val_secret_development_title2">
+	<text>Secret development: carry weapons Leviathan</text>
+</string>
+ 
+<string id="val_secret_development_text2">
+	<text>Give the secret weapon Leviathan and get a reward.</text>
+</string>
+ 
+<string id="val_shade_of_time_title0_1">
+	<text>The shadow of time: in the control room to find Balthazar</text>
+</string>
+ 
+<string id="val_shade_of_time_text0_1">
+	<text>The Night Stalker is certain that Balthazar went to the control room. You need to go there and find it.</text>
+</string>
+ 
+<string id="val_shade_of_time_title0_2">
+	<text>The shadow of time: to find Balthazar</text>
+</string>
+ 
+<string id="val_shade_of_time_text0_2">
+	<text>Find a stalker named 'Balthazar'.</text>
+</string>
+ 
+<string id="val_shade_of_time_title1">
+	<text>The shadow of time: to get to the lab X18</text>
+</string>
+ 
+<string id="val_shade_of_time_text1">
+	<text>From the data on the PDA Balthazar follows that the secret documents that are so necessary SBU are in the corridors of the underground laboratory X18. Need to go down there.</text>
+</string>
+ 
+<string id="val_shade_of_time_title2">
+	<text>The shadow of time: talk to Akulov</text>
+</string>
+ 
+<string id="val_shade_of_time_text2">
+	<text>Doors leading to the lab X18 - locked. Requires access card. Perhaps, the shark may have something to know about it.</text>
+</string>
+ 
+<string id="val_shade_of_time_title3_1">
+	<text>The shadow of time: the map of access to lab X18</text>
+</string>
+ 
+<string id="val_shade_of_time_text3_1">
+	<text>One of the three commanders of the Renegades are likely to have a card access to the lab. This card was first at Balthazar, but now, when he died, she probably migrated to someone from the group blockheads 'Renegades'.</text>
+</string>
+ 
+<string id="val_shade_of_time_title3_2">
+	<text>The shadow of time: the map of access to lab X18</text>
+</string>
+ 
+<string id="val_shade_of_time_text3_2">
+	<text>To get to the underground laboratory, it is necessary to find an access card.</text>
+</string>
+ 
+<string id="val_shade_of_time_title4">
+	<text>The shadow of time: to get access card</text>
+</string>
+ 
+<string id="val_shade_of_time_text4">
+	<text>Find a way to get an access card.</text>
+</string>
+ 
+<string id="val_shade_of_time_title5">
+	<text>The shadow of time: open the safe</text>
+</string>
+ 
+<string id="val_shade_of_time_text5">
+	<text>Take the access card from the safe.</text>
+</string>
+ 
+<string id="val_shade_of_time_title6">
+	<text>The shadow of time: go down to the lab X18</text>
+</string>
+ 
+<string id="val_shade_of_time_text6">
+	<text>Go for the documents in the underground laboratory.</text>
+</string>
+ 
+<string id="val_shade_of_time_title7">
+	<text>Jimmy: find the key to the safe</text>
+</string>
+ 
+<string id="val_shade_of_time_text7">
+	<text>The safe must be card access to the lab. Need to get the key.</text>
+</string>
+ 
+<string id="val_issue_secret_data_title0">
+	<text>Translation of documents: meeting with connected on the Pripyat</text>
+</string>
+ 
+<string id="val_issue_secret_data_text0">
+	<text>Transfer documents found in the lab X18, the agent of the SBU in Pripyat.</text>
+</string>
+ 
+<string id="x18_abyss_title0">
+	<text>Abyss: find the secret documents</text>
+</string>
+ 
+<string id="x18_abyss_text0">
+	<text>Find three secret document.</text>
+</string>
+ 
+<string id="x18_abyss_title1">
+	<text>Abyss: find the secret documents</text>
+</string>
+ 
+<string id="x18_abyss_text1">
+	<text>Find two secret document.</text>
+</string>
+ 
+<string id="x18_abyss_title2">
+	<text>Abyss: to find a secret document</text>
+</string>
+ 
+<string id="x18_abyss_text2">
+	<text>Find a secret document.</text>
+</string>
+ 
+<string id="x18_abyss_title3">
+	<text>Abyss: get out of the underground laboratory</text>
+</string>
+ 
+<string id="x18_abyss_text3">
+	<text>Come to the surface.</text>
+</string>
+ 
+<string id="mil_come_to_military_title0">
+	<text>New Territory: get to the Military Warehouses</text>
+</string>
+ 
+<string id="mil_come_to_military_text0">
+	<text>It is necessary to find a way into the territory of military warehouses.</text>
+</string>
+ 
+<string id="mil_first_receipts_title0">
+	<text>A new acquaintance: find faction leader Dawn</text>
+</string>
+ 
+<string id="mil_first_receipts_text0">
+	<text>Talk with Hezbollah leader Dawn. Find it on the basis of Dawn.</text>
+</string>
+ 
+<string id="mil_first_receipts_title1">
+	<text>A new acquaintance: talk to the Demiurge</text>
+</string>
+ 
+<string id="mil_first_receipts_text1">
+	<text>Talk with Hezbollah leader Dawn.</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_title0">
+	<text>Devastation: grab Farm</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_text0">
+	<text>Grouping Dawn plans to take control of the entire territory of military warehouses. I can help. It is necessary to clear the renegades of Farms and wait for the arrival of friendly forces.</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_title1">
+	<text>Devastation: conquer</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_text1">
+	<text>Need to smoke a renegade from the Village and allow friendly troops enter and consolidate its position in the village.</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_title2">
+	<text>Devastation: invade western outpost</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_text2">
+	<text>Need to break the renegades in Western outpost, then to Dawn group has expanded its influence in the military warehouses.</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_title3">
+	<text>Devastation: grab village</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_text3">
+	<text>Razchihvostit renegades to the village to friendly troops were able to enter and secure the position.</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_title4">
+	<text>Desolation: The parking capture</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_text4">
+	<text>Razdrakonit renegades from parking lot to the detachment of friendly troops could occupy this position.</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_title5">
+	<text>Devastation: grab Eastern Outpost</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_text5">
+	<text>Take control of the eastern outpost and wait for the arrival of friendly forces.</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_title6">
+	<text>Devastation: talk to the Demiurge</text>
+</string>
+ 
+<string id="mil_dislodge_invaders_text6">
+	<text>Received an award from the Demiurge for help.</text>
+</string>
+ 
+<string id="mil_defence_b1_title0">
+	<text>Grin beast fight off farm from mutants</text>
+</string>
+ 
+<string id="mil_defence_b1_text0">
+	<text>Mutants enraged. They decided to attack the village. With this you need something to do.</text>
+</string>
+ 
+<string id="mil_defence_b2_title0">
+	<text>Grin beast protect the village from mutants</text>
+</string>
+ 
+<string id="mil_defence_b2_text0">
+	<text>New attack mutants. This time the attack was subjected - Village. Resolve the situation.</text>
+</string>
+ 
+<string id="mil_defence_b3_title0">
+	<text>Grin beast: to protect Western Outposts</text>
+</string>
+ 
+<string id="mil_defence_b3_text0">
+	<text>Again their savage assaults. Assist friendly troops.</text>
+</string>
+ 
+<string id="mil_defence_b4_title0">
+	<text>Grin beast to support allies in the village</text>
+</string>
+ 
+<string id="mil_defence_b4_text0">
+	<text>Help allies fight off mutants in the village.</text>
+</string>
+ 
+<string id="mil_defence_b5_title0">
+	<text>Grin beast protect Parking area</text>
+</string>
+ 
+<string id="mil_defence_b5_text0">
+	<text>Saute mutants, which are now coveted in the parking lot.</text>
+</string>
+ 
+<string id="mil_defence_b6_title0">
+	<text>Grin beast sustain defense Eastern Outpost</text>
+</string>
+ 
+<string id="mil_defence_b6_text0">
+	<text>Under the threat of a strategic point. It is important to keep the defense and not to break the mutants.</text>
+</string>
+ 
+<string id="mil_defence_b7_title0">
+	<text>Grin beast: defend the base group Dawn</text>
+</string>
+ 
+<string id="mil_defence_b7_text0">
+	<text>To protect the base group 'Dawn' from the wave of mutants Why would I not worth it. At stake is everything.</text>
+</string>
+ 
+<string id="mil_smash_monster_hole_title0">
+	<text>Grin beast monster den clean</text>
+</string>
+ 
+<string id="mil_smash_monster_hole_text0">
+	<text>Detected hole from which monsters crawl. Need to destroy it.</text>
+</string>
+ 
+<string id="mil_smash_monster_hole_title1">
+	<text>Grin beast to take explosives on the basis of</text>
+</string>
+ 
+<string id="mil_smash_monster_hole_text1">
+	<text>Nora still in place. Mutants can get. Therefore, an urgent need to take explosives and lay it in the hole. Explosion fill up the surfacing and mutants will be forever buried under the ground.</text>
+</string>
+ 
+<string id="mil_smash_monster_hole_title2">
+	<text>Grin beast: set the explosives in a hole</text>
+</string>
+ 
+<string id="mil_smash_monster_hole_text2">
+	<text>Flunk out of a hole in a massive explosion.</text>
+</string>
+ 
+<string id="mil_smash_monster_hole_title3">
+	<text>Grin beast activate charge</text>
+</string>
+ 
+<string id="mil_smash_monster_hole_text3">
+	<text>Detonate the explosives by remote control.</text>
+</string>
+ 
+<string id="mil_akulov_offer_title0">
+	<text>Resurrection: make an offer Akulova</text>
+</string>
+ 
+<string id="mil_akulov_offer_text0">
+	<text>Shark - leader of The Night Stalker. It is necessary to invite him to take its origin Military Warehouses.</text>
+</string>
+ 
+<string id="mil_conduct_night_stalkers_title0">
+	<text>Colonization: encounter with a group of Akulova</text>
+</string>
+ 
+<string id="mil_conduct_night_stalkers_text0">
+	<text>Need to meet with a group of Akulova in the southern part of the military stores.</text>
+</string>
+ 
+<string id="mil_conduct_night_stalkers_title1">
+	<text>Colonization: Akulova hold teams to the base</text>
+</string>
+ 
+<string id="mil_conduct_night_stalkers_text1">
+	<text>Help Akulova squad to move to a new base. Accompany the squad.</text>
+</string>
+ 
+<string id="mil_conduct_night_stalkers_title2">
+	<text>Colonization: talk to the party leader</text>
+</string>
+ 
+<string id="mil_conduct_night_stalkers_text2">
+	<text>Talk with the leader of the group.</text>
+</string>
+ 
+<string id="mil_boarding_money_case_title0">
+	<text>Collectors: away from the Renegades box with money</text>
+</string>
+ 
+<string id="mil_boarding_money_case_text0">
+	<text>According to intelligence reports, in the dark valley is now a detachment 'collectors' Renegades groups. They carry a box with a lot of money. You need to take away from them the box.</text>
+</string>
+ 
+<string id="mil_boarding_money_case_title1">
+	<text>Collectors: include box Akulova</text>
+</string>
+ 
+<string id="mil_boarding_money_case_text1">
+	<text>We must pay box.</text>
+</string>
+ 
+<string id="mil_meet_with_morten_title0">
+	<text>A visit to the new database: talk with Morten</text>
+</string>
+ 
+<string id="mil_meet_with_morten_text0">
+	<text>Akulov told communicate with Morten.</text>
+</string>
+ 
+<string id="mil_bolted_influence_title0">
+	<text>Total control: grab Farm</text>
+</string>
+ 
+<string id="mil_bolted_influence_text0">
+	<text>Morten wants to take the entire territory of military warehouses. The Night Stalker to help take Bowery.</text>
+</string>
+ 
+<string id="mil_bolted_influence_title1">
+	<text>Total control: conquer</text>
+</string>
+ 
+<string id="mil_bolted_influence_text1">
+	<text>The Night Stalker help debit Village.</text>
+</string>
+ 
+<string id="mil_bolted_influence_title2">
+	<text>Total control: invade western outpost</text>
+</string>
+ 
+<string id="mil_bolted_influence_text2">
+	<text>The Night Stalker help take the West Gate.</text>
+</string>
+ 
+<string id="mil_bolted_influence_title3">
+	<text>Total control: grab village</text>
+</string>
+ 
+<string id="mil_bolted_influence_text3">
+	<text>The Night Stalker help take the village.</text>
+</string>
+ 
+<string id="mil_bolted_influence_title4">
+	<text>Total control: grab Parking area</text>
+</string>
+ 
+<string id="mil_bolted_influence_text4">
+	<text>The Night Stalker help take the parking lot.</text>
+</string>
+ 
+<string id="mil_bolted_influence_title5">
+	<text>Total control: grab Eastern Outpost</text>
+</string>
+ 
+<string id="mil_bolted_influence_text5">
+	<text>The Night Stalker help capture the Eastern Gate.</text>
+</string>
+ 
+<string id="mil_bolted_influence_title6">
+	<text>Total control: get the reward</text>
+</string>
+ 
+<string id="mil_bolted_influence_text6">
+	<text>Talk to Morten.</text>
+</string>
+ 
+<string id="agr_research_heli_1_crash_title0">
+	<text>'Ramp-6': To investigate the crash site</text>
+</string>
+ 
+<string id="agr_research_heli_1_crash_text0">
+	<text>Explore the helicopter crash site 'Scat-6'.</text>
+</string>
+ 
+<string id="agr_research_heli_2_crash_title0">
+	<text>'Ramp-7': to investigate the crash site</text>
+</string>
+ 
+<string id="agr_research_heli_2_crash_text0">
+	<text>Explore the helicopter crash site 'Scat-7'.</text>
+</string>
+ 
+<string id="agr_find_underground_way_title0">
+	<text>New path: to go to Zaton</text>
+</string>
+ 
+<string id="agr_find_underground_way_text0">
+	<text>Come to the Creek, then to find a way to Agriculture.</text>
+</string>
+ 
+<string id="agr_find_underground_way_title1">
+	<text>New trail: go in Agriculture</text>
+</string>
+ 
+<string id="agr_find_underground_way_text1">
+	<text>Path on Agriculture found. It is necessary to use it.</text>
+</string>
+ 
+<string id="agr_find_underground_way_title2">
+	<text>New path: to get into the dungeon Agroproma</text>
+</string>
+ 
+<string id="agr_find_underground_way_text2">
+	<text>Find a way to go into the caves of the Agricultural industry.</text>
+</string>
+ 
+<string id="agr_deliver_secret_docks_title0">
+	<text>Transmission of documents: Meet with connected</text>
+</string>
+ 
+<string id="agr_deliver_secret_docks_text0">
+	<text>Return the documents coherent SBU.</text>
+</string>
+ 
+<string id="agru_search_door_key_title0">
+	<text>Door to find a way to open the door</text>
+</string>
+ 
+<string id="agru_search_door_key_text0">
+	<text>To open the door - you need a key.</text>
+</string>
+ 
+<string id="agru_search_door_key_title1">
+	<text>Door: use the key</text>
+</string>
+ 
+<string id="agru_search_door_key_text1">
+	<text>Unlock the door keys found.</text>
+</string>
+ 
+<string id="agru_underground_cave_title0">
+	<text>Document Search: Find the secret documents</text>
+</string>
+ 
+<string id="agru_underground_cave_text0">
+	<text>Discover two secret document.</text>
+</string>
+ 
+<string id="agru_underground_cave_title1">
+	<text>Document Search: find a secret document</text>
+</string>
+ 
+<string id="agru_underground_cave_text1">
+	<text>To find the last secret document.</text>
+</string>
+ 
+<string id="agru_underground_cave_title2">
+	<text>Document Search: leave the dungeon</text>
+</string>
+ 
+<string id="agru_underground_cave_text2">
+	<text>All documents found. You must come to the surface.</text>
+</string>
+ 
+<string id="esc_whimsical_artefact_title0">
+	<text>Quaint artifact: find artifact</text>
+</string>
+ 
+<string id="esc_whimsical_artefact_text0">
+	<text>Merchant asked me to look at Cordone artifact with the interesting name 'Gibus'. This artifact is to be found.</text>
+</string>
+ 
+<string id="esc_whimsical_artefact_title1">
+	<text>Quaint artifact: to bring the artifact to the customer</text>
+</string>
+ 
+<string id="esc_whimsical_artefact_text1">
+	<text>Artifact found. Need to pass it Krivouhovu.</text>
+</string>
+ 
+<string id="esc_blockpost_protection_title0">
+	<text>Defence roadblock: protect</text>
+</string>
+ 
+<string id="esc_blockpost_protection_text0">
+	<text>Help stalkers fight off mutants.</text>
+</string>
+ 
+<string id="esc_blockpost_protection_title1">
+	<text>Defense outpost: a reward</text>
+</string>
+ 
+<string id="esc_blockpost_protection_text1">
+	<text>Pick up an award from the box.</text>
+</string>
+ 
+<string id="esc_introduction_kordon_title0">
+	<text>Cordon: find the checkpoint commander</text>
+</string>
+ 
+<string id="esc_introduction_kordon_text0">
+	<text>In the SBU was requested - find Medvedev on arrival. He should be somewhere at the checkpoint. The purpose of my visit to the Cordon - find out what happened to the missing military recently performed in the area of special assignment.</text>
+</string>
+ 
+<string id="esc_renew_spares_title0">
+	<text>Preparation: restock ammo</text>
+</string>
+ 
+<string id="esc_renew_spares_text0">
+	<text>The commander of the checkpoint Medvedev has allowed me to take advantage of stocks stalker. You need to stock up on ammunition.</text>
+</string>
+ 
+<string id="esc_renew_spares_title1">
+	<text>Preparation: talk with Medvedev</text>
+</string>
+ 
+<string id="esc_renew_spares_text1">
+	<text>We need to discuss with the commander of the checkpoint the details of the operation.</text>
+</string>
+ 
+<string id="esc_village_annex_title0">
+	<text>Drastic measures: support stalkers</text>
+</string>
+ 
+<string id="esc_village_annex_text0">
+	<text>To assist in the capture of the village of stalkers.</text>
+</string>
+ 
+<string id="esc_village_annex_title1">
+	<text>Drastic measures: to catch up with the retreating</text>
+</string>
+ 
+<string id="esc_village_annex_text1">
+	<text>The village is invaded. However, part of the bandits decided to escape hasty Retreat. They do not have to leave.</text>
+</string>
+ 
+<string id="esc_village_annex_title2">
+	<text>Drastic measures: find the body of Tamerlane</text>
+</string>
+ 
+<string id="esc_village_annex_text2">
+	<text>Many scouts free stalkers were executed criminals in this country. Their bodies were to remain. Among the dead was and Tamerlane - a close friend Medvedev. It is necessary to find his remains.</text>
+</string>
+ 
+<string id="esc_village_annex_title3">
+	<text>Drastic measures: find explosives</text>
+</string>
+ 
+<string id="esc_village_annex_text3">
+	<text>There is information that in one safe place on the territory of the village - is the explosive C4. Without it, the door leading to the basement did not give up.</text>
+</string>
+ 
+<string id="esc_village_annex_title4">
+	<text>Drastic measures: lay explosives</text>
+</string>
+ 
+<string id="esc_village_annex_text4">
+	<text>Set the C4 charge at the door.</text>
+</string>
+ 
+<string id="esc_village_annex_title5">
+	<text>Drastic measures: detonate the charge</text>
+</string>
+ 
+<string id="esc_village_annex_text5">
+	<text>Use the remote control bomb.</text>
+</string>
+ 
+<string id="esc_village_annex_title6">
+	<text>Drastic measures: explore basement</text>
+</string>
+ 
+<string id="esc_village_annex_text6">
+	<text>It is necessary to search the basement.</text>
+</string>
+ 
+<string id="esc_village_annex_title7">
+	<text>Drastic measures: pass the stick Medvedev</text>
+</string>
+ 
+<string id="esc_village_annex_text7">
+	<text>In the basement was found dead Tamerlane. When it was his stick. It is necessary to carry Medvedev.</text>
+</string>
+ 
+<string id="esc_village_annex_title8">
+	<text>Drastic measures: the village is protected by mutants</text>
+</string>
+ 
+<string id="esc_village_annex_text8">
+	<text>Explosion door in the basement attracted mutants. Need to reflect their invasion.</text>
+</string>
+ 
+<string id="esc_village_annex_title9">
+	<text>Drastic measures: report Medvedev successful conquer</text>
+</string>
+ 
+<string id="esc_village_annex_text9">
+	<text>The village is invaded. Flash card Tamerlane found. You can return to Medvedev.</text>
+</string>
+ 
+<string id="esc_lull_before_borax_title0">
+	<text>Hunting for mutants eliminate pack blind dogs</text>
+</string>
+ 
+<string id="esc_lull_before_borax_text0">
+	<text>To deal with blind dogs attacking stalkers.</text>
+</string>
+ 
+<string id="esc_lull_before_borax_title1">
+	<text>Hunting for mutants to destroy the pack psedosobak</text>
+</string>
+ 
+<string id="esc_lull_before_borax_text1">
+	<text>To deal with a bunch of Pseudodogs.</text>
+</string>
+ 
+<string id="esc_lull_before_borax_title2">
+	<text>Hunting for mutants eliminate herd of fleshes</text>
+</string>
+ 
+<string id="esc_lull_before_borax_text2">
+	<text>They decided herd flesh.</text>
+</string>
+ 
+<string id="esc_lull_before_borax_title3">
+	<text>Hunting for mutants eliminate boar herd</text>
+</string>
+ 
+<string id="esc_lull_before_borax_text3">
+	<text>To deal with annoying boars.</text>
+</string>
+ 
+<string id="esc_lull_before_borax_title4">
+	<text>Hunting for mutants: a reward</text>
+</string>
+ 
+<string id="esc_lull_before_borax_text4">
+	<text>Back to Medvedev for a reward.</text>
+</string>
+ 
+<string id="esc_atp_annex_title0">
+	<text>Blockade: wait for the night</text>
+</string>
+ 
+<string id="esc_atp_annex_text0">
+	<text>Start operation on the siege of bandits on the ATP would be most appropriate only at night. Need to wait for the night.</text>
+</string>
+ 
+<string id="esc_atp_annex_title1">
+	<text>Blockade: to take a stand</text>
+</string>
+ 
+<string id="esc_atp_annex_text1">
+	<text>Come at the appointed meeting place.</text>
+</string>
+ 
+<string id="esc_atp_annex_title2">
+	<text>Blockade: start operation</text>
+</string>
+ 
+<string id="esc_atp_annex_text2">
+	<text>Initiate the assault.</text>
+</string>
+ 
+<string id="esc_atp_annex_title3">
+	<text>Blockade: take ATP</text>
+</string>
+ 
+<string id="esc_atp_annex_text3">
+	<text>Destroy the bandits in the ATP.</text>
+</string>
+ 
+<string id="esc_atp_annex_title4">
+	<text>Blockade: find a safe bandit</text>
+</string>
+ 
+<string id="esc_atp_annex_text4">
+	<text>On the ATP should be safe. For it is required to find it.</text>
+</string>
+ 
+<string id="esc_atp_annex_title5">
+	<text>Blockade: find a way to open the safe</text>
+</string>
+ 
+<string id="esc_atp_annex_text5">
+	<text>To open the safe - need a key.</text>
+</string>
+ 
+<string id="esc_atp_annex_title6">
+	<text>Blockade: open the safe</text>
+</string>
+ 
+<string id="esc_atp_annex_text6">
+	<text>Use the key and examine the safe.</text>
+</string>
+ 
+<string id="esc_atp_annex_title7">
+	<text>Blockade: to carry the stick Medvedev</text>
+</string>
+ 
+<string id="esc_atp_annex_text7">
+	<text>Medvedev to convey the stick with the ATP found in the Bandit's safe.</text>
+</string>
+ 
+<string id="esc_spy_meeting_title0">
+	<text>Meeting with scout: find Belousov</text>
+</string>
+ 
+<string id="esc_spy_meeting_text0">
+	<text>To arrive at the venue.</text>
+</string>
+ 
+<string id="esc_spy_meeting_title1">
+	<text>Meeting with scout: talk to Belousov</text>
+</string>
+ 
+<string id="esc_spy_meeting_text1">
+	<text>Belousov ask about the military.</text>
+</string>
+ 
+<string id="esc_uncoupling_title0">
+	<text>Isolation: talk to Yermak</text>
+</string>
+ 
+<string id="esc_uncoupling_text0">
+	<text>Ermak find on the southern checkpoint. Belousov said that the stalker knows about the war on Cordone more than anyone else - he repaired them with weapons.</text>
+</string>
+ 
+<string id="esc_uncoupling_title1">
+	<text>Decoupling: check places halts</text>
+</string>
+ 
+<string id="esc_uncoupling_text1">
+	<text>Ermak gave me the coordinates of the three places to stop military cordon. Military detachment, heading for the swamps, was on the way there to arrange halts at these places.</text>
+</string>
+ 
+<string id="esc_uncoupling_title2">
+	<text>Decoupling: go to the Swamp</text>
+</string>
+ 
+<string id="esc_uncoupling_text2">
+	<text>Examining the point halts - I was able to find some data. They imply that the military detachment was attacked by bandits. The survivors fled to the army team Marshes. You need to follow them.</text>
+</string>
+ 
+<string id="esc_army_halt_1_title0">
+	<text>Military camp: to investigate the base point</text>
+</string>
+ 
+<string id="esc_army_halt_1_text0">
+	<text>Check the base point.</text>
+</string>
+ 
+<string id="esc_army_halt_2_title0">
+	<text>Military camp: to investigate the base point</text>
+</string>
+ 
+<string id="esc_army_halt_2_text0">
+	<text>Check the base point.</text>
+</string>
+ 
+<string id="esc_army_halt_3_title0">
+	<text>Military camp: to investigate the base point</text>
+</string>
+ 
+<string id="esc_army_halt_3_text0">
+	<text>Check the base point.</text>
+</string>
+ 
+<string id="mar_find_army_squad_title0">
+	<text>Marshes: find military</text>
+</string>
+ 
+<string id="mar_find_army_squad_text0">
+	<text>The military should be somewhere in the swamp. You need to find them.</text>
+</string>
+ 
+<string id="mar_army_cargo_title0">
+	<text>Army luggage: find military cargo</text>
+</string>
+ 
+<string id="mar_army_cargo_text0">
+	<text>Wounded soldier told me that their squad was attacked by bandits. The goods they umyknuli. We need to find the bandits who were involved in this.</text>
+</string>
+ 
+<string id="mar_army_cargo_title1">
+	<text>Army luggage: infiltrate the base to the bandits</text>
+</string>
+ 
+<string id="mar_army_cargo_text1">
+	<text>Minefield, preventing the passage of the base of the bandits - no longer a hindrance. I have minoskatel. With it, I freely make your way to the base of the bandits.</text>
+</string>
+ 
+<string id="mar_army_cargo_title1_2">
+	<text>Army luggage: find military cargo</text>
+</string>
+ 
+<string id="mar_army_cargo_text1_2">
+	<text>Search for military cargo, or information about it, in the territory of machine yard.</text>
+</string>
+ 
+<string id="mar_army_cargo_title2">
+	<text>Army luggage: talk to Bagration</text>
+</string>
+ 
+<string id="mar_army_cargo_text2">
+	<text>On the basis of the bandits military cargo was not found. Most likely the bandits hid it. I consider it necessary to seek help from stalkers.</text>
+</string>
+ 
+<string id="mar_army_cargo_title3">
+	<text>Army luggage: find a mechanic at the pumping station</text>
+</string>
+ 
+<string id="mar_army_cargo_text3">
+	<text>Bagration advised to seek help from the mechanics of Makarenko. He may be able to collect for me GPR.</text>
+</string>
+ 
+<string id="mar_army_cargo_title4">
+	<text>Army luggage: for a message from mechanics</text>
+</string>
+ 
+<string id="mar_army_cargo_text4">
+	<text>Makarenko took to help me. He will gather GPR. But it will take him some time.</text>
+</string>
+ 
+<string id="mar_army_cargo_title5">
+	<text>Army luggage: take GPR</text>
+</string>
+ 
+<string id="mar_army_cargo_text5">
+	<text>Received a message from a mechanic. GPR is ready.</text>
+</string>
+ 
+<string id="mar_army_cargo_title6">
+	<text>Army luggage: find military cargo</text>
+</string>
+ 
+<string id="mar_army_cargo_text6">
+	<text>Use ground penetrating radar to detect a military cargo.</text>
+</string>
+ 
+<string id="mar_army_cargo_title7">
+	<text>Army luggage: the load transfer to the connected</text>
+</string>
+ 
+<string id="mar_army_cargo_text7">
+	<text>Luggage military should be transferred to the SBU. Dally with her zone - is meaningless.</text>
+</string>
+ 
+<string id="mar_army_cargo_title8">
+	<text>Army luggage: follow on Zaton</text>
+</string>
+ 
+<string id="mar_army_cargo_text8">
+	<text>Go to Zaton.</text>
+</string>
+ 
+<string id="mar_capture_church_title0">
+	<text>Support allies help stalkers grab Church</text>
+</string>
+ 
+<string id="mar_capture_church_text0">
+	<text>Stalkers are asked to support. They intend to take the church.</text>
+</string>
+ 
+<string id="mar_capture_church_title1">
+	<text>Support allies return for a reward</text>
+</string>
+ 
+<string id="mar_capture_church_text1">
+	<text>Talk to the commander of stalkers.</text>
+</string>
+ 
+<string id="mar_mine_detector_title0">
+	<text>Minesweeper: talk to Yermak</text>
+</string>
+ 
+<string id="mar_mine_detector_text0">
+	<text>Talk to Ermak about mine detector. It should help.</text>
+</string>
+ 
+<string id="mar_mine_detector_title1">
+	<text>Minesweeper: pick sensor mine detector</text>
+</string>
+ 
+<string id="mar_mine_detector_text1">
+	<text>Go to the Swamp and take sensor for Ermak.</text>
+</string>
+ 
+<string id="mar_mine_detector_title2">
+	<text>Minesweeper: include sensor Ermaku</text>
+</string>
+ 
+<string id="mar_mine_detector_text2">
+	<text>Transmitters Ermakov, so he gathered a minesweeper.</text>
+</string>
+ 
+<string id="mar_mine_detector_title3">
+	<text>Minesweeper: Wait until the order</text>
+</string>
+ 
+<string id="mar_mine_detector_text3">
+	<text>You must wait until Ermak gather minesweeper.</text>
+</string>
+ 
+<string id="mar_mine_detector_title4">
+	<text>Minesweeper: get mine detector</text>
+</string>
+ 
+<string id="mar_mine_detector_text4">
+	<text>Mine detector has to be ready.</text>
+</string>
+ 
+<string id="red_psyho_title0">
+	<text>Unknown thing: talk to the scientist</text>
+</string>
+ 
+<string id="red_psyho_text0">
+	<text>St. John's Wort said to me wants to meet pundit. There is an important conversation. Details on the venue.</text>
+</string>
+ 
+<string id="red_psyho_title1">
+	<text>Psycho: go to the Red Forest</text>
+</string>
+ 
+<string id="red_psyho_text1">
+	<text>The scientist told me that stalkers recently opened a new path. It leads to the Red Forest. Immediately after it became known, scientists sent there two research groups under the guise of a hired guard, to carry out some experiments, is only possible on the ground. Expedition nobody came back, and communication with them was lost. I have to go out there and find the research team.</text>
+</string>
+ 
+<string id="red_psyho_title2">
+	<text>Psycho: check out the place where the broken link with the expedition</text>
+</string>
+ 
+<string id="red_psyho_text2">
+	<text>Proceed to the place from which the last signal was sent to the place of dislocation.</text>
+</string>
+ 
+<string id="red_psyho_title3">
+	<text>Psycho: go to the place of testing</text>
+</string>
+ 
+<string id="red_psyho_text3">
+	<text>In the corpse was found scientist PDA information that the second group of the expedition went to the Fairy ring anomaly to test a new drug. You need to check this place.</text>
+</string>
+ 
+<string id="red_psyho_title4">
+	<text>Psycho: leave the Red Forest</text>
+</string>
+ 
+<string id="red_psyho_text4">
+	<text>Go to the place of trial of the drug does not work - prevents strong psy-radiation. We must return to Jupiter.</text>
+</string>
+ 
+<string id="red_psyho_title5">
+	<text>Psycho: talk to the scientist</text>
+</string>
+ 
+<string id="red_psyho_text5">
+	<text>You need to tell scientists about what they saw.</text>
+</string>
+ 
+<string id="red_psyho_title6">
+	<text>Psycho: prepare to march in Red Forest</text>
+</string>
+ 
+<string id="red_psyho_text6">
+	<text>You need to stock preparation 'Psihodelin' in the amount of ten pieces.</text>
+</string>
+ 
+<string id="red_psyho_title7">
+	<text>Psycho: proceed to the Red Forest</text>
+</string>
+ 
+<string id="red_psyho_text7">
+	<text>Go to the Red Forest.</text>
+</string>
+ 
+<string id="red_psyho_title8">
+	<text>Psycho: to examine the likely parking space scientists</text>
+</string>
+ 
+<string id="red_psyho_text8">
+	<text>Check the hypothetical stop the research team.</text>
+</string>
+ 
+<string id="red_psyho_title9">
+	<text>Psycho: to examine the likely parking space scientists</text>
+</string>
+ 
+<string id="red_psyho_text9">
+	<text>Check the hypothetical stop the research team.</text>
+</string>
+ 
+<string id="red_psyho_title10">
+	<text>Psycho: to examine the likely parking space scientists</text>
+</string>
+ 
+<string id="red_psyho_text10">
+	<text>Check the hypothetical stop the research team.</text>
+</string>
+ 
+<string id="red_psyho_title11">
+	<text>Psycho: destroy the controller</text>
+</string>
+ 
+<string id="red_psyho_text11">
+	<text>Survive in a fight with the controller.</text>
+</string>
+ 
+<string id="red_psyho_title12">
+	<text>Psycho: explore den controller</text>
+</string>
+ 
+<string id="red_psyho_text12">
+	<text>Inspect the lair of the controller.</text>
+</string>
+ 
+<string id="red_psyho_title13">
+	<text>Psycho: talk to the scientist</text>
+</string>
+ 
+<string id="red_psyho_text13">
+	<text>Convey information to scientists on the expedition and two proven drug.</text>
+</string>
+ 

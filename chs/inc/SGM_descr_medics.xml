@@ -1,0 +1,78 @@
+﻿<string id="st_psy_complex"> 
+	<text> Psi复合剂 </text>
+</string> 
+<string id="st_psy_complex_descr"> 
+	<text>能够有效减少psy辐射对身体的伤害, 阻止Psy对人脑的造成精神影响. </text>
+</string> 
+<string id="st_medkit_elite"> 
+	<text> 特制医疗箱 </text>
+</string> 
+<string id="st_medkit_elite_descr"> 
+	<text> 特制急救医疗箱, 专门针对特异区设计. 里面包括了特制的医疗药物,能够迅速阻止伤口流血,提高人体对辐射的抵抗能力.防止辐射病的恶化,减小体内辐射量并回复耐力. </text>
+</string> 
+<string id="st_bio_bandage"> 
+	<text> 特制绷带 </text>
+</string> 
+<string id="st_bio_bandage_descr"> 
+	<text>强力的止血绷带. 能止血并降低体内的辐射量. </text>
+</string> 
+<string id="st_medkit_used"> 
+	<text>急救箱(已被使用过)</text>
+</string> 
+<string id="st_medkit_used_descr"> 
+	<text>通用的一次性急救箱. 可用来治疗数种不同类型的伤害--创伤、烧伤, 中毒等等. 非常受潜行者欢迎.由于已经被使用过了, 所以它的效果没有新的好. </text>
+</string> 
+<string id="st_medkit_army_used"> 
+	<text>军用急救箱(已被使用过) </text>
+</string> 
+<string id="st_medkit_army_used_descr"> 
+	<text> 一种专门的急救箱用来在战场上进行急救. 里面包含有维生素K制作的凝血剂、止痛药、抗生素, 免疫素. 还有简单的外科工具来拔出弹片和子弹.由于已经被使用过了, 所以它的效果没有新的好.  </text>
+</string> 
+<string id="st_medkit_science_used"> 
+	<text>科学家急救箱(已被使用过)</text>
+</string> 
+<string id="st_medkit_science_used_descr"> 
+	<text> 这种急救箱专门针对变异区设计. 这个急救箱包含了处理伤口和阻止辐射中毒发展以及降低辐射体内残留的药物.由于已经被使用过了, 所以它的效果没有新的好. </text>
+</string> 
+<string id="st_medkit_elite_used"> 
+	<text>特制医疗箱 (已被使用过) </text>
+</string> 
+<string id="st_medkit_elite_used_descr"> 
+	<text> 特制急救医疗箱, 专门针对特异区设计. 里面包括了特制的医疗药物,能够迅速阻止伤口流血,提高人体对辐射的抵抗能力.防止辐射病的恶化,减小体内辐射量并回复耐力.由于已经被使用过了, 所以它的效果没有新的好. </text>
+</string>
+<string id="st_drug_engine">
+	<text>抗毒剂</text>
+</string>
+<string id="st_drug_engine_descr">
+	<text>构成: 主要成分是人造固醇, 包含了Indralin-B190, 盐酸盐, Vicasol, 胃复安,吡哆醇, 维生素B1和其他药物. 进入人体血液后,能够中和各种毒素并吸收人体内积累的毒液. 相当强力. 当在特异区活动时最好带上它.</text>
+</string> 
+	<string id="st_bag_medkit_1_title">
+		<text>SMV 药袋</text>
+	</string>
+	<string id="st_bag_medkit_1_descr">
+		<text>为急救准备的一袋医疗物品.</text>
+	</string>
+	<string id="st_bag_medkit_2_title">
+		<text>SMV 药袋</text>
+	</string>
+	<string id="st_bag_medkit_2_descr">
+		<text>为急救准备的一袋医疗物品.</text>
+	</string>
+	<string id="st_bag_medkit_3_title">
+		<text>SMV 药袋</text>
+	</string>
+	<string id="st_bag_medkit_3_descr">
+		<text>为急救准备的一袋医疗物品.</text>
+	</string>
+	<string id="st_bag_medkit_4_title">
+		<text>SMV 药袋</text>
+	</string>
+	<string id="st_bag_medkit_4_descr">
+		<text>为急救准备的一袋医疗物品.</text>
+	</string>
+	<string id="st_cat_eye">
+		<text>猫眼</text>
+	</string>
+	<string id="st_cat_eye_descr">
+		<text>%c[default]有害效果:\n%c[255,238,153,26]• %c[default]毒素污染 %c[255,238,15,26](%c[255,1,128,54]+5%%c[255,238,15,26])\n%c[default]变异区科学家新研发的药物,十分神奇.可以改变瞳孔大小,可以让人在夜间有更好的视觉效果,是切尔诺贝利的猫眼为材料制作的.非常受雇佣兵的喜爱.直接服用.副作用是暂时丧失视力.有效时间:一小时.</text>
+	</string>

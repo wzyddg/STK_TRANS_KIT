@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string id="reduce_novice_stalker_outfit_name">
+	<text>Leather Jacket</text>
+</string>
+ 
+<string id="reduce_novice_bandit_outfit_name">
+	<text>Bandit Jacket</text>
+</string>
+ 
+<string id="reduce_cs_heavy_outfit_name">
+	<text>CS-3a body armor</text>
+</string>
+ 
+<string id="reduce_dolg_heavy_outfit_name">
+	<text>PSZ-9d Armor 'long'</text>
+</string>
+ 
+<string id="reduce_dolg_outfit_name">
+	<text>PS5-M Universal Protection</text>
+</string>
+ 
+<string id="reduce_exo_outfit_name">
+	<text>Exoskeleton</text>
+</string>
+ 
+<string id="reduce_military_outfit_name">
+	<text>Bulat armored suit</text>
+</string>
+ 
+<string id="reduce_novice_outfit_name">
+	<text>Leather trench coat</text>
+</string>
+ 
+<string id="reduce_scientific_outfit_name">
+	<text>SEVA bodysuit</text>
+</string>
+ 
+<string id="reduce_specops_outfit_name">
+	<text>Berill-5M armored suit</text>
+</string>
+ 
+<string id="reduce_stalker_outfit_name">
+	<text>Sunrise bodysuit</text>
+</string>
+ 
+<string id="reduce_svoboda_heavy_outfit_name">
+	<text>Freedom Guard bodysuit</text>
+</string>
+ 
+<string id="reduce_svoboda_light_outfit_name">
+	<text>Wind of Freedom bodysuit</text>
+</string>
+ 
+<string id="reduce_heavy_stalker_outfit_name">
+	<text>Coverall 'Master'</text>
+</string>
+ 
+<string id="reduce_bandit_raid_outfit_name">
+	<text>exoskeleton 'Raider'</text>
+</string>
+ 
+<string id="reduce_svoboda_army_outfit_name">
+	<text>exoskeleton 'Commander'</text>
+</string>
+ 
+<string id="reduce_bandit_prikid_outfit_name">
+	<text>Bandit jacket C12</text>
+</string>
+ 
+<string id="reduce_csky_specnaz_outfit_name">
+	<text>Body armor RS-5 'Special Forces'</text>
+</string>
+ 
+<string id="reduce_ecolog_regular_outfit_name">
+	<text>MOP-99 'Environmentalist'</text>
+</string>
+ 
+<string id="reduce_ecolog_military_outfit_name">
+	<text>Jumpsuit SS-99M</text>
+</string>
+ 
+<string id="reduce_killer_outfit_name">
+	<text>Coverall mercenary</text>
+</string>
+ 
+<string id="reduce_csky_exo_outfit_name">
+	<text>Exoskeleton 'Breaking Dawn'</text>
+</string>
+ 
+<string id="reduce_freedom_exo_outfit_name">
+	<text>Exoskeleton 'Freedom'</text>
+</string>
+ 
+<string id="reduce_monolit_exo_outfit_name">
+	<text>Exoskeleton 'Monolith'</text>
+</string>
+ 
+<string id="reduce_dolg_exo_outfit_name">
+	<text>Exoskeleton 'long'</text>
+</string>
+ 
+<string id="reduce_army_exo_outfit_name">
+	<text>Exoskeleton 'Military'</text>
+</string>
+ 
+<string id="reduce_bandit_exo_outfit_name">
+	<text>Exoskeleton 'Bandits'</text>
+</string>
+ 
+<string id="reduce_killer_exo_outfit_name">
+	<text>Exoskeleton 'mercenaries'</text>
+</string>
+ 
+<string id="st_helm_spectacles">
+	<text>Points Degter¸va</text>
+</string>
+ 
+<string id="st_helm_spectacles_descr">
+	<text>%c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Head Protection = 0 %\n %c[default] Points with integrated NVS 3rd generation.</text>
+</string>
+ 
+<string id="st_helm_piranhas">
+	<text>Helmet 'Piranha'</text>
+</string>
+ 
+<string id="st_helm_piranhas_descr">
+	<text>%c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Head Protection = 23 %\n %c[default] Lightweight helmet with visor sealed,designed to protect persons from Some anomalous effects. Based on technology developed by the same,defense,Research Institute that jumpsuit 'SEWA',supposed,to be used in the army complete with protective suits.</text>
+</string>
+ 
+<string id="st_helm_mercenary">
+	<text>Helmet 'Spring'</text>
+</string>
+ 
+<string id="st_helm_mercenary_descr">
+	<text>%c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Head Protection = 38 %\n %c[default] Helmet average degree of protection with hermetic visor,designed to protect persons on certain abnormal impact. Based on technology developed,mercenaries.</text>
+</string>
+ 
+<string id="st_novice_stalker_outfit_name">
+	<text>Leather Jacket</text>
+</string>
+ 
+<string id="st_novice_stalker_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 50 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 60 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 0 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 5 %\n %c[default] Normal Heavy leather jacket,any lot. Slightly increases the protivopulevuyu and fragmentation protection. Ineffective against abnormal and other influences.</text>
+</string>
+ 
+<string id="st_novice_bandit_outfit_name">
+	<text>Bandit Jacket</text>
+</string>
+ 
+<string id="st_novice_bandit_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 50 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 60 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 0 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 7 %\n %c[default] Traditional clothing bandit - leather jacket with sewn armored elements. Gives protection,extremely inadequate in harsh environments Zone.</text>
+</string>
+ 
+<string id="st_killer_outfit_name">
+	<text>Coverall mercenary</text>
+</string>
+ 
+<string id="st_killer_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 63 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 73 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 2 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 24 %\n %c[default] overalls stalker factions of 'mercenaries'. It is based on samples of equipment Special Forces Western armies. Due to special handling fabric reinforced armor resistance in the physical displacement of the plates. On protective characteristics slightly larger army body armor series PSZ-7.</text>
+</string>
+ 
+<string id="st_ecolog_regular_outfit_name">
+	<text>MOP-99 'Environmentalist'</text>
+</string>
+ 
+<string id="st_ecolog_regular_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 70 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 80 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 3 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 35 %\n %c[default] Designed to work in Zone chemical protection suit MOP-99. Used expeditions of scientists and collaborating with them stalkers environmentalists. Built-in air filtration and air-conditioning. Not designed for combat operations.</text>
+</string>
+ 
+<string id="st_ecolog_military_outfit_name">
+	<text>Jumpsuit SS-99M</text>
+</string>
+ 
+<string id="st_ecolog_military_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 78 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 88 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 3 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 50 %\n %c[default] High-modified jumpsuit MOP-99. Added protection from the torso gunshot and shrapnel injuries. Designed for equipment protection of scientific expeditions. Effective protection from radiation and biological anomalies. Resistant to chemically aggressive media and other harmful effects to the body.</text>
+</string>
+ 
+<string id="st_monolith_outfit_name">
+	<text>exoskeleton 'The Prophet'</text>
+</string>
+ 
+<string id="st_monolith_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 77 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 87 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 4 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 40 %\n %c[default] overalls stalker factions 'Monolith',manufacturer unknown. Excellent protection against small arms average. Protection against abnormal activity provided excellent. Contains modernized container for artifacts.</text>
+</string>
+ 
+<string id="st_heavy_stalker_outfit_name">
+	<text>Coverall 'Master'</text>
+</string>
+ 
+<string id="st_heavy_stalker_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 68 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 78 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 3 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 22 %\n %c[default] Produced by craftsmen jumpsuit stalker is a combination of a two-layer rubberized fabric with a plexiglass spacer and built-in body armor. Despite the fact that the,body armor breaks even pistol bullet,costume is very common because of its cheapness and opportunities for improvement. Equipped with a built-in containers for artifacts.</text>
+</string>
+ 
+<string id="st_bandit_raid_outfit_name">
+	<text>exoskeleton 'Raider'</text>
+</string>
+ 
+<string id="st_bandit_raid_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 72 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 82 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 0 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 40 %\n %c[default] This suit of armor designed bandits. Bandit engineers made it look like a suit of armor 'Bulat',but the similarity in characteristics did not keep,because this prototype provides less protection. Primarily used for raiding operations. Not equipped with containers for artifacts.</text>
+</string>
+ 
+<string id="st_svoboda_army_outfit_name">
+	<text>exoskeleton 'Commander'</text>
+</string>
+ 
+<string id="st_svoboda_army_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 76 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 86 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 2 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 55 %\n %c[default] overalls military personnel grouping Liberty,produced by artisans of this group,- a successful combination of combat and abnormal protection. Built vest of armor plates and stacked in multiple layers of Kevlar can stop a bullet pistol. To protect against abnormal effects suit fabric impregnated with the composition of 'Sovereign'. Equipped with a container for artifacts.</text>
+</string>
+ 
+<string id="st_bandit_prikid_outfit_name">
+	<text>Bandit jacket C12</text>
+</string>
+ 
+<string id="st_bandit_prikid_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 50 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 60 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 0 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 5 %\n %c[default] Traditional clothing villain - leather jacket with sewn armored elements. Gives protection,extremely inadequate in harsh environments Zone.</text>
+</string>
+ 
+<string id="st_csky_specnaz_outfit_name">
+	<text>Body armor RS-5 'Special Forces'</text>
+</string>
+ 
+<string id="st_csky_specnaz_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 80 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 90 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 2 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 55 %\n %c[default] once it was full-time special forces outfit 'Clean Sky'. This protective suit can not only stop the pistol bullet,but also provides good protection from abnormal influences. Equipped with additional containers for artifacts.</text>
+</string>
+ 
+<string id="st_csky_exo_outfit_name">
+	<text>Exoskeleton 'Breaking Dawn'</text>
+</string>
+ 
+<string id="st_csky_exo_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 150 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 160 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 2 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 80 %\n %c[default] Modernization of conventional exoskeleton. Produced with the participation of groups of artisans 'Dawn'. The use of lighter materials has reduced the weight of the costume,as well as increase the maximum carrying weight. With the new system of movement,achieved the possibility of running.</text>
+</string>
+ 
+<string id="st_freedom_exo_outfit_name">
+	<text>Exoskeleton 'Freedom'</text>
+</string>
+ 
+<string id="st_freedom_exo_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 100 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 110 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 3 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 80 %\n %c[default] Modernization of conventional exoskeleton. Produced with the participation of artisans from group Liberty. The use of lighter materials has reduced the weight of the suit. With the new system of movement,achieved the possibility of running. Also added a special breathing system,allows its owner to provide excellent stamina.</text>
+</string>
+ 
+<string id="st_dolg_exo_outfit_name">
+	<text>Exoskeleton 'long'</text>
+</string>
+ 
+<string id="st_dolg_exo_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 90 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 100 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 1 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 90 %\n %c[default] Modernization of conventional exoskeleton. Produced with the participation of artisans from groups 'long'. The use of lighter materials has reduced the weight of the suit. With the new system of movement,achieved the possibility of running. Introduced additional Kevlar plate.</text>
+</string>
+ 
+<string id="st_monolit_exo_outfit_name">
+	<text>Exoskeleton 'Monolith'</text>
+</string>
+ 
+<string id="st_monolit_exo_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 110 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 120 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 3 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 85 %\n %c[default] Modernization of conventional exoskeleton. Produced with the participation of groups of artisans 'Monolith'. The use of lighter materials has reduced the weight of the suit. With the new system of movement,achieved the possibility of running. Also installed additional containers for artifacts.</text>
+</string>
+ 
+<string id="st_bandit_exo_outfit_name">
+	<text>Exoskeleton 'Bandits'</text>
+</string>
+ 
+<string id="st_bandit_exo_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 80 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 90 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 0 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 60 %\n %c[default] Modernization of conventional exoskeleton. Produced with the participation of groups of artisans 'Bandits'. The use of lighter materials has reduced the weight of the suit. With the new system of movement,achieved the possibility of running.</text>
+</string>
+ 
+<string id="st_army_exo_outfit_name">
+	<text>Exoskeleton 'Military'</text>
+</string>
+ 
+<string id="st_army_exo_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 90 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 100 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 1 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 98 %\n %c[default] Modernization of conventional exoskeleton. Produced with the participation of groups of artisans 'Military'. The use of lighter materials has reduced the weight of the suit. With the new system of movement,achieved the possibility of running. Introduced additional Kevlar plates of the new generation.</text>
+</string>
+ 
+<string id="st_killer_exo_outfit_name">
+	<text>Exoskeleton 'mercenaries'</text>
+</string>
+ 
+<string id="st_killer_exo_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 88 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 98 kg \n %c[255,238,153,26] • %c[default] containers for artifacts = 1 \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 75 %\n %c[default] Modernization of conventional exoskeleton. Produced with the participation of groups of artisans 'Mercenaries'. The use of lighter materials has reduced the weight of the suit. With the new system of movement,achieved the possibility of running.</text>
+</string>
+ 
+<string id="stalker_reinforced_outfit_name">
+	<text>Bronekombinezon 'Rising'</text>
+</string>
+ 
+<string id="stalker_reinforced_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 75 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 85 kg \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 60 %\n %c[default] developed Cardan heavily armored version stalker suit ITChpR-3a 'Sunrise'. Served as the basis components of different costumes and prototype exoskeleton,available in the zone. The main steel armor army base ekzoskleta,bronezhelet with berilievym plated,built-in aluminum-titanium helmet and jumpsuit mantle result of abnormal protection. Despite the manual assembly provides excellent protection against bullets and shrapnel and is also comfortable,almost does not limit the mobility of the carrier. Equipped with 2 containers for artifacts.</text>
+</string>
+ 
+<string id="army_nauchniy_outfit_name">
+	<text>Army insulating exoskeleton</text>
+</string>
+ 
+<string id="army_nauchniy_outfit_description">
+	<text>%c[default] transfer characteristics: \n %c[255,238,153,26] • %c[default] Min. carried weight = 57.5 kg \n %c[255,238,153,26] • %c[default] Max. carried weight = 67.5 kg \n %c[default] protection characteristics: \n %c[255,238,153,26] • %c[default] Bullet Resistance = 60 %\n %c[default] Army insulating exoskeleton 'Gagarin ', created for assault operations in extreme conditions Zone. Equipped with an external insulation coating and closed-loop system of breathing,main element of which is a modification of a gas mask GP-17. Due to such a decision perfectly protects against abnormal effects. The basis is the modification of armor vests Series Fort Redoubt T7,which provides excellent protection against bullets and shell fragments,at the same time does not reduce the mobility of the owner. Despite the excellent barrier properties in terms of stalkers has the following disadvantages: small portable weight and lack of built-in containers for artifacts.</text>
+</string>
+ 

@@ -1,0 +1,1747 @@
+﻿	<string id="jup_b6_scientist_tech_detector_quest_title_0">
+		<text>特别信息:寻找调整装置用的图纸.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_detector_quest_text_0">
+		<text>要改进探测器,诺维科夫需要详细的资料.据可靠消息,这些资料放在沃尔库霍夫防空基地和水泥厂.找到文件.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_detector_quest_title_1">
+		<text>特别信息: 在沃尔库霍夫防空基地找到了一份电路图.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_detector_quest_text_1">
+		<text>找到了一份装置的电路图.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_detector_quest_title_2">
+		<text>特别信息:寻找文件.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_detector_quest_text_2">
+		<text>找到了一份图纸,去水泥厂寻找蓝图.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_detector_quest_title_3">
+		<text>特别信息:把两份图纸交给诺维科夫.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_detector_quest_text_3">
+		<text>图纸已经找齐了,把他们交给诺维科夫.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_title_0">
+		<text>猎杀史诺克:消灭第一批史诺克.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_text_0">
+		<text>清除所有异变生物.怪物聚集地:旧车附近.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_title_1">
+		<text>猎杀史诺克: 消灭第二批异变生物.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_text_1">
+		<text>清除所有异变生物.怪物聚集地:采石场附近的丛林.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_title_2">
+		<text>猎杀史诺克: 消灭第三批异变生物.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_text_2">
+		<text>清除所有异变生物.怪物聚集地:木星工厂西边的丛林.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_title_3">
+		<text>猎杀史诺克: 消灭最后一批异变生物.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_text_3">
+		<text>清除所有异变生物.怪物聚集地:水泥厂旁边的断桥.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_title_4">
+		<text>猎杀史诺克: 向夹兽者报告任务已经完成了.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_text_4">
+		<text>所有四个地点都搜寻过了,史诺克已经杀光了.现在回去报告情况.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_title_0">
+		<text>猎杀史诺克:消灭第一批史诺克.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_text_0">
+		<text>清除所有异变生物.怪物聚集地:旧车附近.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_title_1">
+		<text>猎杀史诺克: 消灭第二批异变生物.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_text_1">
+		<text>清除所有异变生物.怪物聚集地:采石场附近的丛林.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_title_2">
+		<text>猎杀史诺克: 消灭第三批异变生物.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_text_2">
+		<text>清除所有异变生物.怪物聚集地:木星工厂西边的丛林.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_title_3">
+		<text>猎杀史诺克: 消灭最后一批异变生物.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_text_3">
+		<text>清除所有异变生物.怪物聚集地:水泥厂旁边的断桥.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_title_4">
+		<text>猎杀史诺克: 向夹兽者报告任务已经完成了.</text>
+	</string>
+	<string id="jup_b220_trapper_snorks_quest_text_4">
+		<text>所有四个地点都搜寻过了,史诺克已经杀光了.现在回去报告情况.</text>
+	</string>
+	<string id="employer_find_item_title0">
+		<text>工作:寻找</text>
+	</string>
+	<string id="employer_find_item_text0">
+		<text>寻找</text>
+	</string>
+	<string id="employer_find_item_title1">
+		<text>工作:内容</text>
+	</string>
+	<string id="employer_find_item_text1">
+		<text>和雇主谈话.</text>
+	</string>
+	<string id="employer_kill_stalker_title0">
+		<text>工作: 杀</text>
+	</string>
+	<string id="employer_kill_stalker_text0">
+		<text>寻找并消灭</text>
+	</string>
+	<string id="employer_kill_stalker_title1">
+		<text>工作:拿取报酬</text>
+	</string>
+	<string id="employer_kill_stalker_text1">
+		<text>向雇主汇报情况并拿取报酬.</text>
+	</string>
+<string id="shustriy_find_1_title0">
+	<text> 搜寻丢失的武器 "Ingram M10"</text>
+</string>
+<string id="shustriy_find_1_text0">
+	<text> 明眼叫你去找丢了的武器,坐标已上传.</text>
+</string>
+<string id="shustriy_find_1_title1">
+	<text> 把物品带给明眼: 丢失的武器 "Ingram M10" </text>
+</string>
+<string id="shustriy_find_1_text1">
+	<text> 把丢失的武器还给明眼,这把武器用不了,如果他不在斯卡多夫斯就要等到他回来.</text>
+</string>
+<string id="shustriy_find_2_title0">
+	<text> 搜寻丢失的武器 "AK-47"</text>
+</string>
+<string id="shustriy_find_2_text0">
+	<text> 明眼叫你去找丢了的武器,坐标已上传.</text>
+</string>
+<string id="shustriy_find_2_title1">
+	<text> 把物品带给明眼: 丢失的武器 "AK-47"</text>
+</string>
+<string id="shustriy_find_2_text1">
+	<text> 把丢失的武器还给明眼,这把武器用不了,如果他不在斯卡多夫斯就要等到他回来.</text>
+</string>
+<string id="shustriy_find_3_title0">
+	<text> 搜寻丢失的武器 "Mossberg 590Mk.L" </text>
+</string>
+<string id="shustriy_find_3_text0">
+	<text> 明眼叫你去找丢了的武器,坐标已上传.</text>
+</string>
+<string id="shustriy_find_3_title1">
+	<text> 把物品带给明眼: 丢失的武器 "Mossberg 590Mk.L"</text>
+</string>
+<string id="shustriy_find_3_text1">
+	<text> 把丢失的武器还给明眼,这把武器用不了,如果他不在斯卡多夫斯克就要等到他回来.</text>
+</string>
+<string id="shustriy_find_4_title0">
+	<text> 搜寻丢失的武器 "Steyr AUG SS190"</text>
+</string>
+<string id="shustriy_find_4_text0">
+	<text> 明眼叫你去找丢了的武器,坐标已上传.</text>
+</string>
+<string id="shustriy_find_4_title1">
+	<text> 把物品带给明眼: 丢失的武器 "Steyr AUG SS190"</text>
+</string>
+<string id="shustriy_find_4_text1">
+	<text> 把丢失的武器还给明眼,这把武器用不了,如果他不在斯卡多夫斯就要等到他回来.</text>
+</string>
+<string id="zat_danger_parcel_title0">
+	<text>重要的承诺: 找到凯恩夫斯基</text>
+</string>
+<string id="zat_danger_parcel_text0">
+	<text>找到凯恩夫斯基把这个小烟花包送给他.</text>
+</string>
+<string id="zat_danger_parcel_title1">
+	<text>重要的承诺: 把小烟花包给凯恩夫斯基.</text>
+</string>
+<string id="zat_danger_parcel_text1">
+	<text>找到了凯恩夫斯基,现在需要把复仇者的包裹送给他.</text>
+</string>
+<string id="zat_refer_parcel_title0">
+	<text>帮助: 把包裹送给马克洛维奇</text>
+</string>
+<string id="zat_refer_parcel_text0">
+	<text> 我碰到了一个叫皮特卡 雷兹曼德,他叫我把这个装有可疑牌照的包裹送给斯卡多夫斯克的Markovich.他说Markovich会付路费.</text>
+</string>
+<string id="zat_refer_parcel2_title0">
+	<text>搜寻信息：和当地银行员工谈话.</text>
+</string>
+<string id="zat_refer_parcel2_text0">
+	<text> 有什么东西告诉我银行员工知道被撞击的直升机,我需要找到是什么.</text>
+</string>
+<string id="zat_breeder_talk_and_job_title0">
+	<text>重要信息: 和马克维特斯基谈话.</text>
+</string>
+<string id="zat_breeder_talk_and_job_text0">
+	<text>和马克洛维奇的谈话中清楚地得知直升机飞行员还活着,但是还不清楚飞行员在哪里,我需要去找当地神器商人谈话.</text>
+</string>
+<string id="zat_breeder_talk_and_job_title1">
+	<text>重要信息: 在锯木厂寻找未知神器. </text>
+</string>
+<string id="zat_breeder_talk_and_job_text1">
+	<text>据传说,锯木厂里有一个未知的神器,要知道是不是真的,你要去锯木厂确认一下.</text>
+</string>
+<string id="zat_breeder_talk_and_job_title2">
+	<text>重要信息: 把未知神器带给马克维特斯基博士.</text>
+</string>
+<string id="zat_breeder_talk_and_job_text2">
+	<text>在锯木厂周围确实找到了一个未知的神器,应该带给马克维特斯基博士,交换关于飞行员的重要信息.</text>
+</string>
+<string id="zat_will_leave_jupiter_title0">
+	<text>冒险: 和比尔德谈话</text>
+</string>
+<string id="zat_will_leave_jupiter_text0">
+	<text>我很可能需要去木星,但是怎么去....神器商人叫我和当地酒吧主人比尔德说谈谈.</text>
+</string>
+<string id="zat_will_leave_jupiter_title1">
+	<text>冒险: 去木星</text>
+</string>
+<string id="zat_will_leave_jupiter_text1">
+	<text>据比尔德说,那个向导知道怎样快速安全的从斯卡多夫斯克去木星,需要给钱.</text>
+</string>
+<string id="zat_accompany_to_boat_title0">
+	<text>旅行: 和潜行者一起到斯卡多夫斯克</text>
+</string>
+<string id="zat_accompany_to_boat_text0">
+	<text>一个叫皮特卡 雷兹曼德的潜行者叫我送一个包裹到斯卡多夫斯克,他承诺过报酬 - 送到之后会告诉我关于撞毁的直升机,是一个那里去的好理由,一个潜行者答应了给我带路.</text>
+</string>
+<string id="zat_accompany_to_boat_title1">
+	<text>旅行: 到达斯卡多夫斯克</text>
+</string>
+<string id="zat_accompany_to_boat_text1">
+	<text>我离潜行者向导太远了,但是我的PDA上有地图,剩下的路我必须独自走完.</text>
+</string>
+<string id="zat_accompany_to_boat_title2">
+	<text>旅行: 到达斯卡多夫斯克</text>
+</string>
+<string id="zat_accompany_to_boat_text2">
+	<text>搜索了潜行者的尸体之后我找到了一点关于斯卡多夫斯克的信息,我需要去那里.</text>
+</string>
+<string id="zat_accompany_to_boat_title3">
+	<text>旅行: 到达斯卡多夫斯克</text>
+</string>
+<string id="zat_accompany_to_boat_text3">
+	<text>答应和我一起走的潜行者被杀了,他的PDA上有地图,我需要一个人去了..</text>
+</string>
+<string id="zat_assault_bandit_base_title0">
+	<text>袭击: 和"厄尔布鲁士"小组碰面</text>
+</string>
+<string id="zat_assault_bandit_base_text0">
+	<text>我应该和"厄尔布鲁士"小组碰面,然后让我来指挥他们,但是我必须先要去码头起重机.</text>
+</string>
+<string id="zat_assault_bandit_base_title1">
+	<text>袭击:和"厄尔布鲁士" 小组一起爬上山</text>
+</string>
+<string id="zat_assault_bandit_base_text1">
+	<text>为了围攻强盗基地,我需要爬上山然后找个靠近大门的位置.</text>
+</string>
+<string id="zat_assault_bandit_base_title2">
+	<text>袭击: 开第一枪</text>
+</string>
+<string id="zat_assault_bandit_base_text2">
+	<text>"厄尔布鲁士" 小组等候我的信号,我要对强盗开第一枪.</text>
+</string>
+<string id="zat_assault_bandit_base_title3">
+	<text>袭击: 杀死切别耶夫和他的一帮土匪.</text>
+</string>
+<string id="zat_assault_bandit_base_text3">
+	<text>我需要找到并杀死强盗头子 - 切别耶夫,和他所有的小弟.</text>
+</string>
+<string id="zat_assault_bandit_base_title4">
+	<text>袭击: 拿取奖金</text>
+</string>
+<string id="zat_assault_bandit_base_text4">
+	<text>任务结束了,强盗被消灭,我需要回到斯卡多夫斯克找Sword并拿取我的奖金.</text>
+</string>
+<string id="zat_deliver_monolith_case_title0">
+	<text>邮递:黑石的箱子</text>
+</string>
+<string id="zat_deliver_monolith_case_text0">
+	<text>那个受伤的人,黑石士兵,托付我把这个箱子带到普利皮亚并给他们团队的首领 - 机械人,但是首先我必须把它捡起来.</text>
+</string>
+<string id="zat_deliver_monolith_case_title1">
+	<text>快递: 把里昂的箱子带到普利皮亚</text>
+</string>
+<string id="zat_deliver_monolith_case_text1">
+	<text>在那个受伤的黑石士兵死之前,他托付我把这个箱子送给他们的首领机械人,他们的基地在普利皮亚.</text>
+</string>
+<string id="zat_deliver_monolith_case_title2">
+	<text>快递: 去普罗米修斯剧院 </text>
+</string>
+<string id="zat_deliver_monolith_case_text2">
+	<text>里昂告诉了我黑石基地的坐标,如果资料正确,基地正在普罗米修斯剧院.</text>
+</string>
+<string id="zat_deliver_monolith_case_title3">
+	<text>快递: 把箱子送给保安首领</text>
+</string>
+<string id="zat_deliver_monolith_case_text3">
+	<text>我需要把箱子送给黑石保安首领 - 机械人.</text>
+</string>
+<string id="zat_deliver_monolith_case_title4">
+	<text>快递: 领取奖励</text>
+</string>
+<string id="zat_deliver_monolith_case_text4">
+	<text>和预料相反,在快递中我没有吃到任何枪子,而且的是保安首领还命令给我快递的路费来偿还,我需要和当地商人 Mitrofan 说话.</text>
+</string>
+<string id="zat_bandit_kill_shakal_title0">
+	<text>承诺: 到变电所去</text>
+</string>
+<string id="zat_bandit_kill_shakal_text0">
+	<text>切别耶夫叫我去解决一个叫沙克尔的叛徒,并给了我变电站的坐标,根据切别耶夫说 , 沙克尔藏在此处.</text>
+</string>
+<string id="zat_bandit_kill_shakal_title1">
+	<text>承诺: 找到然后干掉沙克尔</text>
+</string>
+<string id="zat_bandit_kill_shakal_text1">
+	<text>切别耶夫了给我的坐标,并让我直接去雇佣兵的基地,据他们的人数来看,我很难找到并杀死Shakal.</text>
+</string>
+<string id="zat_bandit_kill_shakal_title2">
+	<text>承诺: 捡起沙克尔的武器</text>
+</string>
+<string id="zat_bandit_kill_shakal_text2">
+	<text>搜索沙克尔的尸体并找到他的武器.</text>
+</string>
+<string id="zat_bandit_kill_shakal_title3">
+	<text>承诺:把武器带给切别耶夫</text>
+</string>
+<string id="zat_bandit_kill_shakal_text3">
+	<text>任务完成 - 现在武器已经找到,我需要带给切别耶夫并拿到报酬.</text>
+</string>
+<string id="zat_meet_authorities_agent_title0">
+	<text>联络: 与联络人碰面</text>
+</string>
+<string id="zat_meet_authorities_agent_text0">
+	<text>我得到了一封信,叫我去碰面,并有标志处了碰面地点,我应该去查看一下.</text>
+</string>
+<string id="zat_check_sbu_cell_title0">
+	<text>单元: 检查 SBU 箱子</text>
+</string>
+<string id="zat_check_sbu_cell_text0">
+	<text>跑腿的给我送了一份信息,探员给我留了个箱子并附有坐标,我需要去检查一下那个箱子.</text>
+</string>
+<string id="zat_bring_flash_light_title0">
+	<text>为科奇乌比寻找: "梅塞尔"手电筒</text>
+</string>
+<string id="zat_bring_flash_light_text0">
+	<text>科奇乌比叫我去找他丢失的手电筒,坐标已经上传.</text>
+</string>
+<string id="zat_bring_flash_light_title1">
+	<text>回去找科奇乌比:并把"梅塞尔"手电筒带给他.</text>
+</string>
+<string id="zat_bring_flash_light_text1"> 
+	<text>把手电筒带给科奇乌比并得到承诺的报酬.</text> 
+</string> 
+<string id="zat_bring_drink_beylis_title0">
+	<text>卡丹的生日: 和祖雅比斯基谈谈.</text>
+</string>
+<string id="zat_bring_drink_beylis_text0">
+	<text>据比尔德说,祖雅比斯基有关于珍贵的酒的信息,我必须和他谈谈并找到一瓶百利甜.</text>
+</string>
+<string id="zat_bring_drink_beylis_title1">
+	<text>卡丹的生日: 找到那瓶珍贵的百利甜.</text>
+</string>
+<string id="zat_bring_drink_beylis_text1">
+	<text>卡丹的生日不就了,比尔德希望代表斯卡斯多夫的人给他一个礼物,但是它却不能去找,所以就让我去.</text>
+</string>
+<string id="zat_bring_drink_beylis_title2">
+	<text>卡丹的生日:回到比尔德那里</text>
+</string>
+<string id="zat_bring_drink_beylis_text2">
+	<text>把百利甜给比尔德,让他把这个礼物送给卡丹作为他出色的工作的奖励, 比尔德承诺过给我报酬.</text>
+</string>
+<string id="zat_bring_sharpshooter_bino_title0">
+	<text>紧急任务: 和哈弗雷谈话</text>
+</string>
+<string id="zat_bring_sharpshooter_bino_text0">
+	<text>切别耶夫说哈弗雷要带人去木星,你可以加入.</text>
+</string>
+<string id="zat_bring_sharpshooter_bino_title1">
+	<text>紧急任务: 找到"拾荒者" 望远镜</text>
+</string>
+<string id="zat_bring_sharpshooter_bino_text1">
+	<text>河湾的土匪头子切别耶夫托付我找一个特别的望远镜,坐标已经上传,这次挑战我已经很清楚了,我能行.</text>
+</string>
+<string id="zat_bring_sharpshooter_bino_title2">
+	<text>紧急任务: 回到切别耶夫身边</text>
+</string>
+<string id="zat_bring_sharpshooter_bino_text2">
+	<text>军用望远镜 "拾荒者" 已经找到. 是时候回去找切别耶夫并领取报酬了.</text>
+</string>
+<string id="zat_monsters_wave_title0">
+	<text>怪物波: 和诺瓦谈话</text>
+</string>
+<string id="zat_monsters_wave_text0">
+	<text>去废船找诺瓦谈谈,看这个疯子在忙什么.</text>
+</string>
+<string id="zat_monsters_wave_title1">
+	<text>怪物波: 找一把狙击步枪</text>
+</string>
+<string id="zat_monsters_wave_text1">
+	<text>我应该尽快找一把狙击步枪,怪物波任何时候都可能来临.</text>
+</string>
+<string id="zat_monsters_wave_title2">
+	<text>怪物波: 找一个狙击点</text>
+</string>
+<string id="zat_monsters_wave_text2">
+	<text>诺瓦叫我保护废船,我需要找一个阵点防御.</text>
+</string>
+<string id="zat_monsters_wave_title3">
+	<text>怪物波: 保护废船</text>
+</string>
+<string id="zat_monsters_wave_text3">
+	<text>已经到达狙击点,保护废船.</text>
+</string>
+<string id="zat_monsters_wave_title4">
+	<text>怪物波: 继续保护废船</text>
+</string>
+<string id="zat_monsters_wave_text4">
+	<text>继续防守,防御部队的首领 David 必须存活.</text>
+</string>
+<string id="zat_monsters_wave_title5">
+	<text>怪物波: 杀死集装箱附近的脑波怪</text>
+</string>
+<string id="zat_monsters_wave_text5">
+	<text>我注意到有一只脑波怪在集装箱附近,我需要杀死它.</text>
+</string>
+<string id="zat_monsters_wave_title6">
+	<text>怪物波: 杀死舍普琴科附近的脑波怪.</text>
+</string>
+<string id="zat_monsters_wave_text6">
+	<text>我注意到有一只脑波怪在舍普琴科附近,我需要杀死它.</text>
+</string>
+<string id="zat_monsters_wave_title7">
+	<text>怪物波:杀死脑波怪</text>
+</string>
+<string id="zat_monsters_wave_text7">
+	<text>我注意到一只脑波怪,我需要杀死它.</text>
+</string>
+<string id="zat_monsters_wave_title8">
+	<text>怪物波: 和诺瓦谈谈</text>
+</string>
+<string id="zat_monsters_wave_text8">
+	<text>怪物波已经停止了,我需要和诺瓦谈谈.</text>
+</string>
+<string id="zat_get_wireing_heli_key_title0">
+	<text>特遣队 "刺瑶": 找到直升机的钥匙</text>
+</string>
+<string id="zat_get_wireing_heli_key_text0">
+	<text>我找到了 "刺瑶" 特遣队的直升机 , 所有的电路都被烧毁了,门从里面锁住了.门只能用钥匙打开.</text>
+</string>
+<string id="jup_bring_detector_kit_title0">
+	<text>为诺维科夫找到:一个探测器工具箱</text>
+</string>
+<string id="jup_bring_detector_kit_text0">
+	<text>诺维科夫叫我去找专业的探测器维修和改造工具箱.</text>
+</string>
+<string id="jup_bring_detector_kit_title1">
+	<text>为诺维科夫找到: 一个探测器工具箱</text>
+</string>
+<string id="jup_bring_detector_kit_text1">
+	<text>诺维科夫叫我去找专业的探测器维修和改造工具箱.</text>
+</string>
+<string id="jup_avoid_witnesses_title0">
+	<text>截击:到达雇佣兵营地</text>
+</string>
+<string id="jup_avoid_witnesses_text0">
+	<text>我必须去雇佣兵营地,他们俘虏着 SBU 探员.</text>
+</string>
+<string id="jup_avoid_witnesses_title1">
+	<text>截击: 营救犯人</text>
+</string>
+<string id="jup_avoid_witnesses_text1">
+	<text>要解救被俘虏的探员,我必须杀死营地里所有的佣兵.</text>
+</string>
+<string id="jup_avoid_witnesses_title2">
+	<text>截击: 与探员谈话</text>
+</string>
+<string id="jup_avoid_witnesses_text2">
+	<text>我应该和探员谈谈.</text>
+</string>
+<string id="jup_avoid_witnesses_title3">
+	<text>截击: 把探员带到亚诺瓦车站</text>
+</string>
+<string id="jup_avoid_witnesses_text3">
+	<text>我必须让 SBU 探员安全的达亚诺瓦车站.</text>
+</string>
+<string id="jup_arrive_on_bunker_title0">
+	<text>飞行员: 问硝基有关飞行员的情况</text>
+</string>
+<string id="jup_arrive_on_bunker_text0">
+	<text>从硝基处得到飞行员的情报.</text>
+</string>
+<string id="jup_arrive_on_bunker_title1">
+	<text>飞行员: 到达科学家的碉堡.</text>
+</string>
+<string id="jup_arrive_on_bunker_text1">
+	<text>到碉堡里面去,飞行员可能还在那里.</text>
+</string>
+<string id="jup_arrive_on_bunker_title2">
+	<text>飞行员: 在碉堡中找到飞行员</text>
+</string>
+<string id="jup_arrive_on_bunker_text2">
+	<text>找到飞行员并和他谈话.</text>
+</string>
+<string id="jup_return_zaton_title0">
+	<text>飞行员: 回到河湾</text>
+</string>
+<string id="jup_return_zaton_text0">
+	<text>情报已经得到,索科洛夫给了我一把钥匙,能够通过河湾撞毁的直升机的电子安全系统还有直升机的坐标,找到向导尽快回到河湾.</text>
+</string>
+<string id="jup_find_gromoboy_vintar_title0">
+	<text>"找到Vintar": 去科瓦奇村庄</text>
+</string>
+<string id="jup_find_gromoboy_vintar_text0">
+	<text>去科瓦奇村庄.</text>
+</string>
+<string id="jup_find_gromoboy_vintar_title1">
+	<text>"找到Vintar": 检查阁楼</text>
+</string>
+<string id="jup_find_gromoboy_vintar_text1">
+	<text>你需要去查看村庄的阁楼 - 武器可能在那里.</text>
+</string>
+<string id="jup_find_gromoboy_vintar_title2">
+	<text>"找到Vintar": 把黑石的PDA给雷电看看</text>
+</string>
+<string id="jup_find_gromoboy_vintar_text2">
+	<text>你在死掉的黑石士兵的背包里找到了一个PDA, 但是它装着不一样的系统. 上面的信息已经被加密了, 你需要把它交给雷电.</text>
+</string>
+<string id="jup_find_gromoboy_vintar_title3">
+	<text>"找到Vintar": 检查水泥厂</text>
+</string>
+<string id="jup_find_gromoboy_vintar_text3">
+	<text>风暴突击者把乌鸦的PDA破解了.在一大堆信息中水泥厂的地方有一个特殊的标记. 我需要过去然后找到那把罕见的VSS.</text>
+</string>
+<string id="jup_find_gromoboy_vintar_title4">
+	<text>"找到Vintar": 回到雷电那里.</text>
+</string>
+<string id="jup_find_gromoboy_vintar_text4">
+	<text>武器已经找到了. 我需要把它带到雷电那里再决定怎么做.</text>
+</string>
+<string id="jup_beat_from_monsters_title0">
+	<text>保护隧道: 帮助潜行者</text>
+</string>
+<string id="jup_beat_from_monsters_text0">
+	<text>一波怪物正在冲击着 "黎明" 基地, 想杀死所有的人.如果你能帮助"黎明"组织抵抗怪物的话 - 他们给你写能满足你的报酬.(BT)</text>
+</string>
+<string id="jup_beat_from_monsters_title1">
+	<text>保护隧道: 和纳扎尔谈话</text>
+</string>
+<string id="jup_beat_from_monsters_text1">
+	<text>怪物波已经被抵挡住了.我需要和这个阵营的指挥官谈话, 并且得到我应得的报酬.</text>
+</string>
+<string id="jup_destroy_night_killers_title0">
+	<text>暗夜狙击手: 去采石场</text>
+</string>
+<string id="jup_destroy_night_killers_text0">
+	<text>我需要去采石场看看有没有人在那里.</text>
+</string>
+<string id="jup_destroy_night_killers_title1">
+	<text>暗夜狙击手: 杀死所有枪手</text>
+</string>
+<string id="jup_destroy_night_killers_text1">
+	<text>据尼昂说, 在采石场里面有一些坏人, 他们用不知道什么武器射杀潜行者, 他们必须死.</text>
+</string>
+<string id="jup_destroy_night_killers_title2">
+	<text>暗夜狙击手: 抓住逃跑的人</text>
+</string>
+<string id="jup_destroy_night_killers_text2">
+	<text>在我清理掉采石场那些可疑的人的时候, 一个枪手逃走了. 我需要尽快抓住他, 然后灭了他.</text>
+</string>
+<string id="jup_destroy_night_killers_title3">
+	<text>暗夜狙击手: 回到尼昂那里.</text>
+</string>
+<string id="jup_destroy_night_killers_text3">
+	<text>任务完成, 狙击手都死掉了, 尼昂保证过给你一份报酬.</text>
+</string>
+<string id="jup_follow_scientists_title0">
+	<text>出征: 和科学家一起去综合设施通风口</text>
+</string>
+<string id="jup_follow_scientists_text0">
+	<text>我要和一个科学家团队一起去综合设施通风口. 库伯教授必须存活.</text>
+</string>
+<string id="jup_follow_scientists_title1">
+	<text>出征: 和库伯谈话</text>
+</string>
+<string id="jup_follow_scientists_text1">
+	<text>工作顺利完成. 现在我只需要从库伯那里收取报酬.</text>
+</string>
+<string id="jup_search_treasure_title0">
+	<text>私人物品箱: 检查你的私人物品箱</text>
+</string>
+<string id="jup_search_treasure_text0">
+	<text>"黎明" 组织给了我一个私人物品箱,我应该去检查它.</text>
+</string>
+<string id="jup_night_agent_meeting_title0">
+	<text>夜谈: 和通讯员见面</text>
+</string>
+<string id="jup_night_agent_meeting_text0">
+	<text>去停机坪, 和SBU联络员见面.</text>
+</string>
+<string id="jup_bring_heavy_medkits_title0">
+	<text>接骨师的订单: 找到 "CCA72" 医疗包 (BT)</text>
+</string>
+<string id="jup_bring_heavy_medkits_text0">
+	<text>亚诺瓦车站的医生让我去拿一份特殊的医疗包, 应该能在"木星"工厂找到.</text>
+</string>
+<string id="jup_bring_heavy_medkits_title1">
+	<text>接骨师的订单: 把 "CCA72" 医疗包交给医生</text>
+</string>
+<string id="jup_bring_heavy_medkits_text1">
+	<text>我找到了医疗包,我应该把它带给医生.(BT)</text>
+</string>
+<string id="jup_bring_photo_device_title0">
+	<text>雅叔的要求:找到 "苏珊娜" 相机</text>
+</string>
+<string id="jup_bring_photo_device_text0">
+	<text>雅叔让我帮他做点事 - 找到一个被新手弄丢的相机.</text>
+</string>
+<string id="jup_bring_photo_device_title1">
+	<text>雅叔的要求: 把 "苏珊娜" 给他.</text>
+</string>
+<string id="jup_bring_photo_device_text1">
+	<text>东西找到了. 需要回到雅叔那里去得到我的报酬.</text>
+</string>
+<string id="jup_bring_arms_case_title0">
+	<text>夏维伊的请求: 找到箱子</text>
+</string>
+<string id="jup_bring_arms_case_text0">
+	<text>夏维伊, 亚诺瓦车站的商人, 让我找一个丢在普利皮亚的箱子.</text>
+</string>
+<string id="jup_bring_arms_case_title1">
+	<text>夏维伊的请求: 把箱子送到亚诺瓦</text>
+</string>
+<string id="jup_bring_arms_case_text1">
+	<text>箱子找到了, 我需要去亚诺瓦的夏维伊那里得到报酬.</text>
+</string>
+<string id="jup_rasvet_destroy_snorks_title0">
+	<text>危险工作: 清理史诺克的老窝</text>
+</string>
+<string id="jup_rasvet_destroy_snorks_text0">
+	<text>根据"黎明"的首领说, 他们在地铁站发现了一个史诺克的老窝,我和他约定好了去清理史诺克的老窝, 我需要遵守约定.</text>
+</string>
+<string id="jup_rasvet_destroy_snorks_title1">
+	<text>危险工作: 给纳扎尔报告约定已经执行</text>
+</string>
+<string id="jup_rasvet_destroy_snorks_text1">
+	<text>史诺克的老窝被毁掉了, 我需要回到纳扎尔那里拿取报酬.</text>
+</string>
+<string id="jup_rasvet_eliminate_burrows_title0">
+	<text>奇怪的活动: 清理水泥厂附近的洞</text>
+</string>
+<string id="jup_rasvet_eliminate_burrows_text0">
+	<text>清理变异怪物在水泥厂附近挖的洞.</text>
+</string>
+<string id="jup_rasvet_eliminate_burrows_title1">
+	<text>奇怪的活动: 清理木星工厂附近的洞</text>
+</string>
+<string id="jup_rasvet_eliminate_burrows_text1">
+	<text>清理变异怪物在木星工厂附近挖的洞.</text>
+</string>
+<string id="jup_rasvet_eliminate_burrows_title2">
+	<text>奇怪的活动: 清理木星工厂南边的洞</text>
+</string>
+<string id="jup_rasvet_eliminate_burrows_text2">
+	<text>找到并摧毁木星工厂南边的的洞.</text>
+</string>
+<string id="jup_rasvet_eliminate_burrows_title3">
+	<text>奇怪的活动: 清理铁轨附近的洞</text>
+</string>
+<string id="jup_rasvet_eliminate_burrows_text3">
+	<text>清理铁轨附近的洞.</text>
+</string>
+<string id="jup_rasvet_eliminate_burrows_title4">
+	<text>奇怪的活动: 报告纳扎尔约定完成</text>
+</string>
+<string id="jup_rasvet_eliminate_burrows_text4">
+	<text>工作完成了, 所有的洞已经被清理干净,我需要回到纳扎尔那里去.</text>
+</string>
+<string id="jup_rasvet_eliminate_burrows_title5">
+	<text>奇怪的活动: 清理在空军基地附近的最后一个洞</text>
+</string>
+<string id="jup_rasvet_eliminate_burrows_text5">
+	<text>又发现了一个洞,在空军基地附近.</text>
+</string>
+<string id="jup_rasvet_eliminate_burrows_title6">
+	<text>奇怪的活动: 和纳扎尔谈谈</text>
+</string>
+<string id="jup_rasvet_eliminate_burrows_text6">
+	<text>工作完成. 现在我能得到我的报酬了.</text>
+</string>
+<string id="jup_mercenary_check_plant_title0">
+	<text>失踪的单位: 和小队会合</text>
+</string>
+<string id="jup_mercenary_check_plant_text0">
+	<text>在大门附近有一队佣兵正等着我.我需要和他们的队长谈谈接下来行动的细节.</text>
+</string>
+<string id="jup_mercenary_check_plant_title1">
+	<text>失踪的单位: 跟着小队</text>
+</string>
+<string id="jup_mercenary_check_plant_text1">
+	<text>跟着佣兵小队.</text>
+</string>
+<string id="jup_mercenary_check_plant_title2">
+	<text>失踪的单位: 清理周边地区</text>
+</string>
+<string id="jup_mercenary_check_plant_text2">
+	<text>在目标地检测到了十分集中地僵尸群.需要清楚这个地区以消除他们的威胁.</text>
+</string>
+<string id="jup_mercenary_check_plant_title3">
+	<text>失踪的单位: 检查二楼</text>
+</string>
+<string id="jup_mercenary_check_plant_text3">
+	<text>我们要去检查二楼 - 失踪的佣兵单位最后传回来的信号的地方.</text>
+</string>
+<string id="jup_mercenary_check_plant_title4">
+	<text>失踪的单位: 逃出大楼</text>
+</string>
+<string id="jup_mercenary_check_plant_text4">
+	<text>我们的小队被脑波怪攻击了, 我及时的使用了Psi复合剂 - 它救了我的命, 但是这些孩子们不走运...现在他们被洗脑了.我必须尽快的逃出这栋大楼.</text>
+</string>
+<string id="jup_mercenary_check_plant_title5">
+	<text>失踪的单位: 和摩尔法拉谈谈</text>
+</string>
+<string id="jup_mercenary_check_plant_text5">
+	<text>我逃出了大楼,但是现在脑波怪还活着而且很危险.我需要把消息带给摩尔法拉然后行动.我也许需要重组小队.</text>
+</string>
+<string id="jup_mercenary_check_plant_title6">
+	<text>失踪的单位: 和新小队的队长谈谈</text>
+</string>
+<string id="jup_mercenary_check_plant_text6">
+	<text>在大门附近有一队佣兵正等着我.我需要和他们的队长谈谈接下来行动的细节.</text>
+</string>
+<string id="jup_mercenary_check_plant_title7">
+	<text>失踪的单位: 得到一些Psi复合剂</text>
+</string>
+<string id="jup_mercenary_check_plant_text7">
+	<text>要确保行动的成功, 我必须找到四包 Psi复合剂.</text>
+</string>
+<string id="jup_mercenary_check_plant_title8">
+	<text>失踪的单位: 把复合剂给小队的指挥官</text>
+</string>
+<string id="jup_mercenary_check_plant_text8">
+	<text>Psi复合剂找到了. 我应该让小队的指挥官分给小队成员.</text>
+</string>
+<string id="jup_mercenary_check_plant_title9">
+	<text>失踪的单位: 和小队一起去木星工厂</text>
+</string>
+<string id="jup_mercenary_check_plant_text9">
+	<text>我要和新的小队一起到木星工厂里去.</text>
+</string>
+<string id="jup_mercenary_check_plant_title10">
+	<text>失踪的单位: 清理木星工厂周围的地区</text>
+</string>
+<string id="jup_mercenary_check_plant_text10">
+	<text>杀死脑波怪, 僵尸以及其他任何敌人.</text>
+</string>
+<string id="jup_mercenary_check_plant_title11">
+	<text>失踪的单位: 报告摩尔法拉任务成功</text>
+</string>
+<string id="jup_mercenary_check_plant_text11">
+	<text>工作完成, 脑波怪死了, 它的受害者也死了, 我必须让摩尔法拉知道.</text>
+</string>
+<string id="pri_find_science_briefing_title0">
+	<text>调查报告: 找到教授</text>
+</string>
+<string id="pri_find_science_briefing_text0">
+	<text>根据联络员的话, 教授在港口附近失踪. 我必须去找教授.</text>
+</string>
+<string id="pri_find_science_briefing_title1">
+	<text>调查报告: 把秘密文件送到联络员处.</text>
+</string>
+<string id="pri_find_science_briefing_text1">
+	<text>得到了信息, 现在我需要回到联络员那里去. </text>
+</string>
+<string id="pri_find_science_briefing_title2">
+	<text>调查报告: 检查箱子里的报酬</text>
+</string>
+<string id="pri_find_science_briefing_text2">
+	<text>指挥官给了我一个藏物点里面有一些东西.</text>
+</string>
+<string id="pri_necessary_kill_kasilov_title0">
+	<text>肮脏的活: 去 PDA 信号的位置</text>
+</string>
+<string id="pri_necessary_kill_kasilov_text0">
+	<text>PDA上的信号显示了上校卡西洛夫的位置 - 自助洗衣店里的一个小点.我应该靠近点.</text>
+</string>
+<string id="pri_necessary_kill_kasilov_title1">
+	<text>肮脏的活: 杀死卡西洛夫上校</text>
+</string>
+<string id="pri_necessary_kill_kasilov_text1">
+	<text>杀死卡西洛夫上校. 这是伟大的黑石的意志.</text>
+</string>
+<string id="pri_necessary_kill_kasilov_title2">
+	<text>肮脏的活: 搜索卡西洛夫的的尸体</text>
+</string>
+<string id="pri_necessary_kill_kasilov_text2">
+	<text>卡西洛夫的背包里应该有一个带有重要信息的 PDA 我需要拿过来.</text>
+</string>
+<string id="pri_necessary_kill_kasilov_title3">
+	<text>肮脏的活: 回去找机械人</text>
+</string>
+<string id="pri_necessary_kill_kasilov_text3">
+	<text>拿着卡西洛夫的PDA去黑石基地找机械人.</text>
+</string>
+<string id="pri_necessary_kill_kasilov_title4">
+	<text>肮脏的活: 抓住并杀死卡西洛夫</text>
+</string>
+<string id="pri_necessary_kill_kasilov_text4">
+	<text>我在潜行时失败了, 卡西洛夫逃走了 ...需要抓住并杀死他.</text>
+</string>
+<string id="pri_zone_cleaning_title0">
+	<text>Psy射线: 清除这个地区里的僵尸</text>
+</string>
+<string id="pri_zone_cleaning_text0">
+	<text>工具记录了一个很强大的Psy射线让一个巨大数量的潜行者变成了僵尸. 我需要拯救变异区, 至少要杀死四百只僵尸.</text>
+</string>
+	<string id="jup_search_anomal_prototype_title0">
+		<text>未知神器: 得到一份未知神器的样本</text>
+	</string>
+	<string id="jup_search_anomal_prototype_text0">
+		<text>要拿到这个未知神器需要用特殊的探测器.</text>
+	</string>
+	<string id="jup_search_anomal_prototype_title1">
+		<text>未知神器: 把未知的样本给赫尔曼教授</text>
+	</string>
+	<string id="jup_search_anomal_prototype_text1">
+		<text>把未知的样本带给赫尔曼教授.</text>
+	</string>
+	<string id="jup_search_anomal_prototype_title2">
+		<text>未知神器: 找到其他样本</text>
+	</string>
+	<string id="jup_search_anomal_prototype_text2">
+		<text>赫尔曼说这么少数量的神器只能发光. 我需要至少拿到六块神器以保证实验的成功进行.我已经找到了一个神器.</text>
+	</string>
+	<string id="jup_search_anomal_prototype_title3">
+		<text>未知神器: 找到四个样本</text>
+	</string>
+	<string id="jup_search_anomal_prototype_text3">
+		<text>赫尔曼说这么少数量的神器只能发光. 我需要至少拿到六块神器以保证实验的成功进行.我已经找到了两个神器.</text>
+	</string>
+	<string id="jup_search_anomal_prototype_title4">
+		<text>未知神器: 找到三个样本</text>
+	</string>
+	<string id="jup_search_anomal_prototype_text4">
+		<text>赫尔曼说这么少数量的神器只能发光. 我需要至少拿到六块神器以保证实验的成功进行.我已经找到了三个个神器.</text>
+	</string>
+	<string id="jup_search_anomal_prototype_title5">
+		<text>未知神器: 找到两个样本</text>
+	</string>
+	<string id="jup_search_anomal_prototype_text5">
+		<text>赫尔曼说这么少数量的神器只能发光. 我需要至少拿到六块神器以保证实验的成功进行.我已经找到了四个神器.</text>
+	</string>
+	<string id="jup_search_anomal_prototype_title6">
+		<text>未知神器: 找到最后一个样本</text>
+	</string>
+	<string id="jup_search_anomal_prototype_text6">
+		<text>赫尔曼说这么少数量的神器只能发光. 我需要至少拿到六块神器以保证实验的成功进行.我已经找到了五个神器.</text>
+	</string>
+	<string id="jup_search_anomal_prototype_title7">
+		<text>未知神器: 把最后一个样本给赫尔曼</text>
+	</string>
+	<string id="jup_search_anomal_prototype_text7">
+		<text>把样本给赫尔曼</text>
+	</string>
+	<string id="jup_search_anomal_prototype_title8">
+		<text>未知神器: 等待实验</text>
+	</string>
+	<string id="jup_search_anomal_prototype_text8">
+		<text>所有需要的样本都已经被收集了. 赫尔曼已经开始试验了. 当他完成的时候他会告诉我让我领取报酬的.</text>
+	</string>
+	<string id="jup_search_anomal_prototype_title9">
+		<text>未知神器: 和赫尔曼谈谈</text>
+	</string>
+	<string id="jup_search_anomal_prototype_text9">
+		<text>赫尔曼告诉你实验已经成功完成.去和他谈谈.</text>
+	</string>
+	<string id="jup_search_anomal_prototype_title10">
+		<text>未知神器: 把样本给赫尔曼</text>
+	</string>
+	<string id="jup_search_anomal_prototype_text10">
+		<text>把未知神器的样本给赫尔曼.</text>
+	</string>
+<!--------------New since v1.4------------>
+<string id="pri_assault_monolith_base_title0">
+	<text>"火山行动": 在院子里去见先遣队</text>
+</string>
+<string id="pri_assault_monolith_base_text0">
+	<text>上校科瓦尔斯基,计划了一次行动去消灭一群 "普罗米修斯" 影院里的黑石.我被命令参加这次行动,要开始行动,我要去院子里见先遣队.</text>
+</string>
+<string id="pri_assault_monolith_base_title1">
+	<text>"火山行动": 跟着先遣队队长</text>
+</string>
+<string id="pri_assault_monolith_base_text1">
+	<text>行动开始了, 我需要跟着队长.</text>
+</string>
+<string id="pri_assault_monolith_base_title2">
+	<text>"火山行动": 占领开火位置</text>
+</string>
+<string id="pri_assault_monolith_base_text2">
+	<text>在二楼占领开火位置 [KBO]. </text>
+</string>
+<string id="pri_assault_monolith_base_title3">
+	<text>"火山行动": 消灭黑石团队</text>
+</string>
+<string id="pri_assault_monolith_base_text3">
+	<text>射击,杀戮, 杀死所有敌人.</text>
+</string>
+<string id="pri_assault_monolith_base_title4">
+	<text>"火山行动": 和队长谈话</text>
+</string>
+<string id="pri_assault_monolith_base_text4">
+	<text>行动顺利完成,你应该回到基地 - 和活着的队员一起.</text>
+</string>
+<string id="pri_assault_monolith_base_title5">
+	<text>"火山行动": 把你成功的消息报告给科瓦尔斯基</text>
+</string>
+<string id="pri_assault_monolith_base_text5">
+	<text>我必须告诉科瓦尔斯基这次行动的消息.</text>
+</string>
+<string id="pri_bloodsucker_vaccine_title0">
+	<text>"吸血鬼疫苗": 向奥泽斯基打听 NG-7 疫苗</text>
+</string>
+<string id="pri_bloodsucker_vaccine_text0">
+	<text>在普利皮亚的一所公寓里,我被吸血鬼攻击了.很奇怪 - 我醒来的时候没看到人.我找到了一个留言条,它提到了一种吸血鬼的疫苗,叫做 NG-7 看来是因为这个它没碰我.我如果想帮忙的话需要去问奥泽斯基有关这个疫苗. </text>
+</string>
+<string id="pri_bloodsucker_vaccine_title1">
+	<text>"吸血鬼疫苗":从奥泽斯基那里拿到 NG-7</text>
+</string>
+<string id="pri_bloodsucker_vaccine_text1">
+	<text>奥泽斯基同意用5400把 NG-7 疫苗卖给我.</text>
+</string>
+<string id="pri_bloodsucker_vaccine_title2">
+	<text>"吸血鬼疫苗": 回到上次见面的地方</text>
+</string>
+<string id="pri_bloodsucker_vaccine_text2">
+	<text>我找到疫苗了,需要把它送给吸血鬼</text>
+</string>
+<string id="pri_bloodsucker_vaccine_title3">
+	<text>"吸血鬼疫苗": 拿去报酬</text>
+</string>
+<string id="pri_bloodsucker_vaccine_text3">
+	<text>吸血鬼给我留了一笔酬金.</text>
+</string>
+<string id="pri_bloodsucker_vaccine_title4">
+	<text>"吸血鬼疫苗": 调查这个房间</text>
+</string>
+<string id="pri_bloodsucker_vaccine_text4">
+	<text>恢复了意识,我注意到 NG-7 疫苗消失了.吸血鬼拿到了它想要的.在留言条里说到了报酬,可能就在这个房间里.</text>
+</string>
+<string id="pri_rescue_underground_guide_title0">
+	<text>"失踪的向导": 到 "普利皮亚一号通道" 下面去</text>
+</string>
+<string id="pri_rescue_underground_guide_text0">
+	<text>在不久前米勒,盖瑞的朋友失踪了.他以前是个向导. 盖瑞很担心这段时间来他朋友的情况,他委托给我这个任务.米勒失踪前的 PDA 信号是在 "普利皮亚一号通道".我需要去检查地下通道.</text>
+</string>
+<string id="pri_rescue_underground_guide_title1">
+	<text>"失踪的向导": 找到米勒</text>
+</string>
+<string id="pri_rescue_underground_guide_text1">
+	<text>米勒 PDA 的信号还是激活状态,来自于地下通道.我需要查找信号源.</text>
+</string>
+<string id="pri_rescue_underground_guide_title2">
+	<text>"失踪的向导": 解救米勒</text>
+</string>
+<string id="pri_rescue_underground_guide_text2">
+	<text>看来米勒被抓住了.要救他我需要把这个地区的敌人清理掉.</text>
+</string>
+<string id="pri_rescue_underground_guide_title3">
+	<text>"失踪的向导": 和米勒交谈</text>
+</string>
+<string id="pri_rescue_underground_guide_text3">
+	<text>米勒已经被解救了, 我应该和他谈话.</text>
+</string>
+<string id="pri_rescue_underground_guide_title4">
+	<text>"失踪的向导": 和米勒一起去找盖瑞</text>
+</string>
+<string id="pri_rescue_underground_guide_text4">
+	<text>和米勒一起去找盖瑞.</text>
+</string>
+<string id="pri_rescue_underground_guide_title5">
+	<text>"失踪的向导": 和盖瑞谈话</text>
+</string>
+<string id="pri_rescue_underground_guide_text5">
+	<text>从盖瑞那里拿去报酬.</text>
+</string>
+<string id="pri_expiation_sin_1_title0">
+	<text>"救赎": 找到抗生素和生命之水</text>
+</string>
+<string id="pri_expiation_sin_1_text0">
+	<text>需要找到 10 个抗生素和生命之水,在黑石下赎回他们的罪恶.我需要去河湾找医生,也许他知道什么.</text>
+</string>
+<string id="pri_expiation_sin_1_title1">
+	<text>"救赎": 找到万用医疗包.</text>
+</string>
+<string id="pri_expiation_sin_1_text1">
+	<text>河湾的医生同意告诉我生命之水的消息,但是不是免费的,我需要去找一个万用医疗包.</text>
+</string>
+<string id="pri_expiation_sin_1_title2">
+	<text>"救赎": 用医疗包交换生命之水的消息.</text>
+</string>
+<string id="pri_expiation_sin_1_text2">
+	<text>交出医疗包然后拿去生命之水的消息.</text>
+</string>
+<string id="pri_expiation_sin_1_title3">
+	<text>"救赎": 去奥泽斯基那里问生命之水.</text>
+</string>
+<string id="pri_expiation_sin_1_text3">
+	<text>医生告诉我奥泽斯基知道更多消息,他叫我去找他.</text>
+</string>
+<string id="pri_expiation_sin_1_title4">
+	<text>"救赎": 找到生命之水</text>
+</string>
+<string id="pri_expiation_sin_1_text4">
+	<text>奥泽斯基想也许绿洲里面有生命之水.</text>
+</string>
+<string id="pri_expiation_sin_1_title5">
+	<text>"救赎": 把抗生素和生命之水带给机械人</text>
+</string>
+<string id="pri_expiation_sin_1_text5">
+	<text>生命之水和抗生素已经找到了,我需要把它带给机械人.</text>
+</string>
+<string id="pri_expiation_sin_1_title6">
+	<text>"救赎": 找到 10 个抗生素.</text>
+</string>
+<string id="pri_expiation_sin_1_text6">
+	<text>生命之水已经找到了,但是我还没有 10 个抗生素,我需要尽快找到抗生素然后带给机械人.</text>
+</string>
+<string id="pri_expiation_sin_1_title7">
+	<text>"救赎": 和新兄弟谈话</text>
+</string>
+<string id="pri_expiation_sin_1_text7">
+	<text>生命之水帮我们的新兄弟康复了,我想如果我告诉他们他们会很高兴的.</text>
+</string>
+<string id="pri_expiation_sin_2_title0">
+	<text>"救赎": 填满第 1 个黑石补给箱</text>
+</string>
+<string id="pri_expiation_sin_2_text0">
+	<text>需要补充黑石补给箱.地图上已经标记好了,我需要放进去 1)一把AK74 或者 LR-300 或者 SAPA 12和一个些相应的子弹. 2)高斯枪的充电池或者自制电池. 3）任何种类的医疗包,抗辐射药或者 Psi治疗药.</text>
+</string>
+<string id="pri_expiation_sin_2_title1">
+	<text>"救赎": 填满第 2 个黑石补给箱</text>
+</string>
+<string id="pri_expiation_sin_2_text1">
+	<text>需要补充黑石补给箱.地图上已经标记好了,我需要放进去 1)一把AK74 或者 LR-300 或者 SAPA 12和一个些相应的子弹. 2)高斯枪的充电池或者自制电池. 3）任何种类的医疗包,抗辐射药或者 Psi治疗药.</text>
+</string>
+<string id="pri_expiation_sin_2_title2">
+	<text>"救赎": 填满第 3 个黑石补给箱</text>
+</string>
+<string id="pri_expiation_sin_2_text2">
+	<text>需要补充黑石补给箱.地图上已经标记好了,我需要放进去 1)一把AK74 或者 LR-300 或者 SAPA 12和一个些相应的子弹. 2)高斯枪的充电池或者自制电池. 3）任何种类的医疗包,抗辐射药或者 Psi治疗药.</text>
+</string>
+<string id="pri_expiation_sin_2_title3">
+	<text>"救赎": 填满第 4 个黑石补给箱</text>
+</string>
+<string id="pri_expiation_sin_2_text3">
+	<text>需要补充黑石补给箱.地图上已经标记好了,我需要放进去 1)一把AK74 或者 LR-300 或者 SAPA 12和一个些相应的子弹. 2)高斯枪的充电池或者自制电池. 3）任何种类的医疗包,抗辐射药或者 Psi治疗药.</text>
+</string>
+<string id="pri_expiation_sin_2_title4">
+	<text>"救赎": 填满第 5 个黑石补给箱</text>
+</string>
+<string id="pri_expiation_sin_2_text4">
+	<text>需要补充黑石补给箱.地图上已经标记好了,我需要放进去 1)一把AK74 或者 LR-300 或者 SAPA 12和一个些相应的子弹. 2)高斯枪的充电池或者自制电池. 3）任何种类的医疗包,抗辐射药或者 Psi治疗药.</text>
+</string>
+<string id="pri_expiation_sin_2_title5">
+	<text>"救赎": 填满第 6 个黑石补给箱</text>
+</string>
+<string id="pri_expiation_sin_2_text5">
+	<text>需要补充黑石补给箱.地图上已经标记好了,我需要放进去 1)一把AK74 或者 LR-300 或者 SAPA 12和一个些相应的子弹. 2)高斯枪的充电池或者自制电池. 3）任何种类的医疗包,抗辐射药或者 Psi治疗药.</text>
+</string>
+<string id="pri_expiation_sin_2_title6">
+	<text>"救赎": 填满第 7 个黑石补给箱</text>
+</string>
+<string id="pri_expiation_sin_2_text6">
+	<text>需要补充黑石补给箱.地图上已经标记好了,我需要放进去 1)一把AK74 或者 LR-300 或者 SAPA 12和一个些相应的子弹. 2)高斯枪的充电池或者自制电池. 3）任何种类的医疗包,抗辐射药或者 Psi治疗药.</text>
+</string>
+<string id="pri_expiation_sin_2_title7">
+	<text>"救赎": 填满第 8 个黑石补给箱</text>
+</string>
+<string id="pri_expiation_sin_2_text7">
+	<text>需要补充黑石补给箱.地图上已经标记好了,我需要放进去 1)一把AK74 或者 LR-300 或者 SAPA 12和一个些相应的子弹. 2)高斯枪的充电池或者自制电池. 3）任何种类的医疗包,抗辐射药或者 Psi治疗药.</text>
+</string>
+<string id="pri_expiation_sin_2_title8">
+	<text>"救赎": 填满第 9 个黑石补给箱</text>
+</string>
+<string id="pri_expiation_sin_2_text8">
+	<text>需要补充黑石补给箱.地图上已经标记好了,我需要放进去 1)一把AK74 或者 LR-300 或者 SAPA 12和一个些相应的子弹. 2)高斯枪的充电池或者自制电池. 3）任何种类的医疗包,抗辐射药或者 Psi治疗药.</text>
+</string>
+<string id="pri_expiation_sin_2_title9">
+	<text>"救赎": Tell 机械人</text>
+</string>
+<string id="pri_expiation_sin_2_text9">
+	<text>河湾所有的黑石补给箱都被填满了,是时候向机械人汇报了.</text>
+</string>
+<string id="pri_expiation_sin_2_title10">
+	<text>"救赎": 一份报酬</text>
+</string>
+<string id="pri_expiation_sin_2_text10">
+	<text>从黑石商人那里拿取报酬.</text>
+</string>
+<string id="pri_expiation_sin_3_title0">
+	<text>"赎罪": 找到转播发射器的位置</text>
+</string>
+<string id="pri_expiation_sin_3_text0">
+	<text>黑石部队想维修天线,和 "黑石" 沟通.天线的主要部件,一个转播发射机已经被摧毁了.在黑石部队的精神领袖的死亡后,转播发射器的位置成了秘密.我需要不计代价去找到转播发射机的消息. </text>
+</string>
+<string id="pri_expiation_sin_3_title1">
+	<text>"赎罪":找到转播发射器的更多消息</text>
+</string>
+<string id="pri_expiation_sin_3_text1">
+	<text>我找到了一些转播发射器的消息,根据猫头鹰说,转播发射器能在木星工厂找到,我听他说拿东西有 200 公斤.这个消息不一定是真的,我需要找到更多消息,然后对比到底是怎么样的.</text>
+</string>
+<string id="pri_expiation_sin_3_title2">
+	<text>"赎罪": 找到转播发射器的更多消息</text>
+</string>
+<string id="pri_expiation_sin_3_text2">
+	<text>我找到了一些转播发射器的消息,根据夏维伊说,转播发射器能在木星工厂找到,我听他说拿东西有 200 公斤.这个消息不一定是真的,我需要找到更多消息,然后对比到底是怎么样的.</text>
+</string>
+<string id="pri_expiation_sin_3_title3">
+	<text>"赎罪": 找到转播发射器的更多消息</text>
+</string>
+<string id="pri_expiation_sin_3_text3">
+	<text>我找到了一些转播发射器的消息,根据奥泽斯基说,转播发射器能在木星工厂找到,我听他说拿东西有 200 公斤.这个消息不一定是真的,我需要找到更多消息,然后对比到底是怎么样的.</text>
+</string>
+<string id="pri_expiation_sin_3_title4">
+	<text>"赎罪": 找到转播发射器</text>
+</string>
+<string id="pri_expiation_sin_3_text4">
+	<text>我对比了几个消息,转播发射器的位置已经</text>
+</string>
+<string id="pri_expiation_sin_3_title5">
+	<text>"赎罪": 和机械人交谈</text>
+</string>
+<string id="pri_expiation_sin_3_text5">
+	<text>我找到了发射器,但是它太重了.我觉得告诉机械人这东西在哪里就行了.</text>
+</string>
+<string id="pri_expiation_sin_3_title6">
+	<text>"赎罪": 和魔鬼交谈</text>
+</string>
+<string id="pri_expiation_sin_3_text6">
+	<text>机械人要占领书店,我应该带领兄弟们战斗.</text>
+</string>
+<string id="pri_expiation_sin_3_title7">
+	<text>"赎罪": 和队伍一起去书店</text>
+</string>
+<string id="pri_expiation_sin_3_text7">
+	<text>我需要和兄弟们一起到书店去.</text>
+</string>
+<string id="pri_expiation_sin_3_title8">
+	<text>"赎罪": 防守书店</text>
+</string>
+<string id="pri_expiation_sin_3_text8">
+	<text>消灭所有的来书店的不受欢迎的客人.</text>
+</string>
+<string id="pri_expiation_sin_3_title9">
+	<text>"赎罪": 开始维修天线</text>
+</string>
+<string id="pri_expiation_sin_3_text9">
+	<text>黑石部队的人告诉我他们会开始天线的维修了.</text>
+</string>
+<string id="pri_expiation_sin_3_title10">
+	<text>"赎罪": 和机械人交谈</text>
+</string>
+<string id="pri_expiation_sin_3_text10">
+	<text>回去找机械人.</text>
+</string>
+<string id="pri_expiation_sin_3_title11">
+	<text>"赎罪": 得到报酬</text>
+</string>
+<string id="pri_expiation_sin_3_text11">
+	<text>从地铁爱好者那里拿取报酬</text>
+</string>
+<string id="pri_expiation_sin_3_title12">
+	<text>"赎罪": 等待天线维修结束</text>
+</string>
+<string id="pri_expiation_sin_3_text12">
+	<text>等待天线维修结束.</text>
+</string>
+<string id="pri_expiation_sin_3_title13">
+	<text>"赎罪": 回到塔里去</text>
+</string>
+<string id="pri_expiation_sin_3_text13">
+	<text>天线已经维修好了我需要去找塔里的兄弟们.</text>
+</string>
+<string id="pri_expiation_sin_3_title14">
+	<text>"赎罪": 和黑石交谈</text>
+</string>
+<string id="pri_expiation_sin_3_text14">
+	<text>用天线和黑石交谈,黑石会指引我的道路.</text>
+</string>
+	<string id="pri_fenix_vendetta_title0">
+		<text>血债血偿: 干掉审判官</text>
+	</string>
+	<string id="pri_fenix_vendetta_text0">
+		<text>审判官-黑石的高层人物,必须干掉他. 凤凰的兄弟凤凰-格马尼库斯的死就是他策划的.</text>
+	</string>
+	<string id="pri_fenix_vendetta_title1">
+		<text>血债血偿: 干掉审判官</text>
+	</string>
+	<string id="pri_fenix_vendetta_text1">
+		<text>发现了一个掉队的黑石组织成员,他身上的PDA标出了一个坐标,这是由审判官率领的小分队的位置.必须追上这个小队,干掉谋杀凤凰的凶手.</text>
+	</string>
+	<string id="pri_fenix_vendetta_title2">
+		<text>血债血偿: 干掉审判官</text>
+	</string>
+	<string id="pri_fenix_vendetta_text2">
+		<text>获得新的信息.已经找到了审判官. 现在干掉他.</text>
+	</string>
+	<string id="pri_fenix_vendetta_title3">
+		<text>血债血偿: 检查审判官的尸体</text>
+	</string>
+	<string id="pri_fenix_vendetta_text3">
+		<text>拿取U盘.</text>
+	</string>
+	<string id="pri_fenix_vendetta_title4">
+		<text>血债血偿: 发现审判官的藏匿处</text>
+	</string>
+	<string id="pri_fenix_vendetta_text4">
+		<text>使用审判官的U盘.</text>
+	</string>
+	<string id="pri_fenix_vendetta_title5">
+		<text>血债血偿: 搜索审判官的藏匿物</text>
+	</string>
+	<string id="pri_fenix_vendetta_text5">
+		<text>检查审判官的藏匿物.</text>
+	</string>
+	<string id="pri_fenix_vendetta_title6">
+		<text>血债血偿: 将找到的物品交给凤凰</text>
+	</string>
+	<string id="pri_fenix_vendetta_text6">
+		<text>将找到的藏匿物交给凤凰.</text>
+	</string>
+	<string id="val_first_coming_on_valley_title0">
+		<text>抵达:和阿库洛夫碰面</text>
+	</string>
+	<string id="val_first_coming_on_valley_text0">
+		<text>阿库洛夫肯定知道关于巴尔塔扎尔的事情.必须找到他.</text>
+	</string>
+	<string id="val_first_coming_on_valley_title1">
+		<text>抵达: 和检查点的指挥官交谈.</text>
+	</string>
+	<string id="val_first_coming_on_valley_text1">
+		<text>和检查点的指挥官交谈.</text>
+	</string>
+	<string id="val_first_coming_on_valley_title2">
+		<text>抵达: 等待潜行者向导</text>
+	</string>
+	<string id="val_first_coming_on_valley_text2">
+		<text>库利科夫已经下令向东部哨所进攻,向导将带我去农场.</text>
+	</string>
+	<string id="val_first_coming_on_valley_title3">
+		<text>抵达: 和潜行者一起去农场</text>
+	</string>
+	<string id="val_first_coming_on_valley_text3">
+		<text>潜行者的基地就在农场.检查点的指挥官派他的手下给我带路.</text>
+	</string>
+	<string id="val_first_coming_on_valley_title4">
+		<text>抵达:前往农场</text>
+	</string>
+	<string id="val_first_coming_on_valley_text4">
+		<text>向导遇难了.自己找路前往农场.</text>
+	</string>
+	<string id="val_first_coming_on_valley_title5">
+		<text>抵达: 前往农场</text>
+	</string>
+	<string id="val_first_coming_on_valley_text5">
+		<text>找到农场.</text>
+	</string>
+	<string id="val_first_coming_on_valley_title6">
+		<text>抵达: 和潜行者的领导人交谈</text>
+	</string>
+	<string id="val_first_coming_on_valley_text6">
+		<text>潜行者基地有一个负责人. 和他交谈并了解黑暗山谷的情况.</text>
+	</string>
+	<string id="val_first_coming_on_valley_title7">
+		<text>抵达: 帮助潜行者</text>
+	</string>
+	<string id="val_first_coming_on_valley_text7">
+		<text>黑暗山谷潜行者的领袖-阿库洛夫已经答应将对我知无不言,不过我必须先帮他解决奇美拉这个大麻烦.</text>
+	</string>
+	<string id="val_kill_night_predator_title0">
+		<text>亲爱的掠食者:前往"分裂"变异区</text>
+	</string>
+	<string id="val_kill_night_predator_text0">
+		<text>最后一次有人目击到奇美拉活动就是在"分裂"变异区.说不定她的老巢就在那.有必要过去调查一下.</text>
+	</string>
+	<string id="val_kill_night_predator_title1">
+		<text>亲爱的掠食者: 干掉奇美拉</text>
+	</string>
+	<string id="val_kill_night_predator_text1">
+		<text>找到奇美拉了.干掉它.</text>
+	</string>
+	<string id="val_kill_night_predator_title2">
+		<text>亲爱的掠食者: 向阿库洛夫报告</text>
+	</string>
+	<string id="val_kill_night_predator_text2">
+		<text>奇美拉已经被干掉了,农场旁边检查点的威胁已经消除了,现在那里固若金汤了.现在该去和阿库洛夫谈谈我的事情了.</text>
+	</string>
+	<string id="val_kill_night_predator_title3">
+		<text>亲爱的掠食者: 和狮子座谈谈</text>
+	</string>
+	<string id="val_kill_night_predator_text3">
+		<text>警告检查点的潜行者,一只奇美拉将要袭击那里. 将我的计划告诉狮子座.</text>
+	</string>
+	<string id="val_kill_night_predator_title4">
+		<text>亲爱的掠食者: 找到奇美拉</text>
+	</string>
+	<string id="val_kill_night_predator_text4">
+		<text>狮子座和他的手下正在为消灭奇美拉而加强防线.现在你要做的就是找到奇美拉然后把他引到检查点.</text>
+	</string>
+	<string id="val_kill_night_predator_title5">
+		<text>亲爱的掠食者:引诱奇美拉到检查点</text>
+	</string>
+	<string id="val_kill_night_predator_text5">
+		<text>总算找到奇美拉了.把它引到检查点.</text>
+	</string>
+	<string id="val_kill_night_predator_title6">
+		<text>亲爱的掠食者: 干掉奇美拉</text>
+	</string>
+	<string id="val_kill_night_predator_text6">
+		<text>奇美拉上当了.现在干掉它.</text>
+	</string>
+	<string id="val_kill_night_predator_title7">
+		<text>亲爱的掠食者: 和阿库洛夫交谈</text>
+	</string>
+	<string id="val_kill_night_predator_text7">
+		<text>奇美拉死了.和阿库洛夫谈谈.</text>
+	</string>
+	<string id="val_assault_factory_title0">
+		<text>拦截:消灭史诺克</text>
+	</string>
+	<string id="val_assault_factory_text0">
+		<text>潜行者计划攻击工厂,现在那儿由反叛者占据着.要靠近工厂,就必须穿过这座桥.而目前大桥那危机四伏-一群史诺克正在那里溜达.清除大桥的危险,消灭史诺克.</text>
+	</string>
+	<string id="val_assault_factory_title1">
+		<text>拦截:消灭史诺克</text>
+	</string>
+	<string id="val_assault_factory_text1">
+		<text>史诺克的威胁已经消除了.</text>
+	</string>
+	<string id="val_assault_factory_title2">
+		<text>拦截: 和大门口的小队汇合</text>
+	</string>
+	<string id="val_assault_factory_text2">
+		<text>阿库洛夫派遣了一支小队来进攻工厂.和他们汇合一起出发.</text>
+	</string>
+	<string id="val_assault_factory_title3">
+		<text>拦截: 跟随小队</text>
+	</string>
+	<string id="val_assault_factory_text3">
+		<text>跟随小队过桥.</text>
+	</string>
+	<string id="val_assault_factory_title4">
+		<text>拦截: 发动突袭</text>
+	</string>
+	<string id="val_assault_factory_text4">
+		<text>接近工厂大门干掉反叛者守卫.</text>
+	</string>
+	<string id="val_assault_factory_title5">
+		<text>拦截: 包围工厂</text>
+	</string>
+	<string id="val_assault_factory_text5">
+		<text>带领小队突入工厂内部.包围工厂并消灭所有反叛者.</text>
+	</string>
+	<string id="val_assault_factory_title6">
+		<text>拦截: 搜索反叛者的尸体</text>
+	</string>
+	<string id="val_assault_factory_text6">
+		<text>反叛者成员随身携带的PDA可能含有重要情报.搜索尸体找到PDA.</text>
+	</string>
+	<string id="val_assault_factory_title7">
+		<text>拦截: 将情报交给阿库洛夫</text>
+	</string>
+	<string id="val_assault_factory_text7">
+		<text>把反叛者的PDA送给阿库洛夫.</text>
+	</string>
+	<string id="val_brigand_title0">
+		<text>抢劫: 袭击反叛者营地</text>
+	</string>
+	<string id="val_brigand_text0">
+		<text>消灭"分裂"变异区的反叛者.</text>
+	</string>
+	<string id="val_brigand_title1">
+		<text>抢劫: 拿取报酬</text>
+	</string>
+	<string id="val_brigand_text1">
+		<text>找利维坦拿取报酬.</text>
+	</string>
+	<string id="val_secret_development_title0">
+		<text>秘密研发:进入地下的x18实验室</text>
+	</string>
+	<string id="val_secret_development_text0">
+		<text>进入地下的x18实验室.</text>
+	</string>
+	<string id="val_secret_development_title1">
+		<text>秘密研发: 寻找秘密武器</text>
+	</string>
+	<string id="val_secret_development_text1">
+		<text>x18实验室就是秘密开发新式武器-高斯步枪的地方. 必须找到它.</text>
+	</string>
+	<string id="val_secret_development_title2">
+		<text>秘密研发: 将武器交给利维坦</text>
+	</string>
+	<string id="val_secret_development_text2">
+		<text>将秘密武器交给利维坦,然后拿取报酬.</text>
+	</string>
+	<string id="val_shade_of_time_title0_1">
+		<text>阴影之时: 去控制室找巴尔塔扎尔</text>
+	</string>
+	<string id="val_shade_of_time_text0_1">
+		<text>暗夜潜行者确信巴尔塔扎尔就在控制室.去控制室找到他.</text>
+	</string>
+	<string id="val_shade_of_time_title0_2">
+		<text>阴影之时: 寻找巴尔塔扎尔</text>
+	</string>
+	<string id="val_shade_of_time_text0_2">
+		<text>寻找一位名叫 "巴尔萨扎"的潜行者.</text>
+	</string>
+	<string id="val_shade_of_time_title1">
+		<text>阴影之时: 进入x18实验室</text>
+	</string>
+	<string id="val_shade_of_time_text1">
+		<text>根据巴尔塔扎尔的PDA,SBU所需的秘密文件就在地下X18实验室的通道里. 想办法下去进入实验室.</text>
+	</string>
+	<string id="val_shade_of_time_title2">
+		<text>阴影之时: 和阿库洛夫交谈</text>
+	</string>
+	<string id="val_shade_of_time_text2">
+		<text>进入X18实验室的大门打不开.需要通行卡方可进入.也许鲨鱼知道些什么.</text>
+	</string>
+	<string id="val_shade_of_time_title3_1">
+		<text>阴影之时: 寻找进入X18实验室的通行卡</text>
+	</string>
+	<string id="val_shade_of_time_text3_1">
+		<text>有三名反叛者的指挥官,其中之一应该有进入X18实验室的通行卡. 这张地图原本是巴尔塔扎尔的,但是,他死后, 她可能将东西交给了一个名为"反叛者的组织.</text>
+	</string>
+	<string id="val_shade_of_time_title3_2">
+		<text>阴影之时: 寻找进入X18实验室的一张通行卡</text>
+	</string>
+	<string id="val_shade_of_time_text3_2">
+		<text>要进入地下实验室,必须拿到一张通行卡.</text>
+	</string>
+	<string id="val_shade_of_time_title4">
+		<text>阴影之时: 拿取一张通行卡</text>
+	</string>
+	<string id="val_shade_of_time_text4">
+		<text>想办法拿到一张通行卡.</text>
+	</string>
+	<string id="val_shade_of_time_title5">
+		<text>阴影之时: 打开保险箱</text>
+	</string>
+	<string id="val_shade_of_time_text5">
+		<text>打开保险箱拿取通行卡.</text>
+	</string>
+	<string id="val_shade_of_time_title6">
+		<text>阴影之时: 进入x18实验室</text>
+	</string>
+	<string id="val_shade_of_time_text6">
+		<text>进入地下实验室寻找秘密文件.</text>
+	</string>
+	<string id="val_shade_of_time_title7">
+		<text>路路通: 寻找保险箱的钥匙</text>
+	</string>
+	<string id="val_shade_of_time_text7">
+		<text>保险箱里面装有进行实验室的通行卡.想办法找到钥匙.</text>
+	</string>
+	<string id="val_issue_secret_data_title0">
+		<text>交送文件: 去普利皮亚季河港和联络人碰面</text>
+	</string>
+	<string id="val_issue_secret_data_text0">
+		<text>将从x18实验室找到的文件交给SBU位于普利皮亚季秘密探员.</text>
+	</string>
+	<string id="x18_abyss_title0">
+		<text>深渊：找到秘密文件</text>
+	</string>
+	<string id="x18_abyss_text0">
+		<text>需要找到三个机密文件.</text>
+	</string>
+	<string id="x18_abyss_title1">
+		<text>深渊：找到秘密文件</text>
+	</string>
+	<string id="x18_abyss_text1">
+		<text>还找到两个机密文件.</text>
+	</string>
+	<string id="x18_abyss_title2">
+		<text>深渊：找到秘密文件</text>
+	</string>
+	<string id="x18_abyss_text2">
+		<text>还需要找到一个机密文件.</text>
+	</string>
+	<string id="x18_abyss_title3">
+		<text>深渊: 离开实验室</text>
+	</string>
+	<string id="x18_abyss_text3">
+		<text>到地面上去.</text>
+	</string>
+<string id="mil_come_to_military_title0">
+<text>新地区:进入军事仓库</text>
+</string>
+<string id="mil_come_to_military_text0">
+<text>你需要抵达军事仓库.</text>
+</string>
+<string id="mil_first_receipts_title0">
+<text>一个熟人:找到黎明组织的领导人</text>
+</string>
+<string id="mil_first_receipts_text0">
+<text>和黎明组织的领导人谈话,他就在基地里面.</text>
+</string>
+<string id="mil_first_receipts_title1">
+<text>新任务:和Demiurge对话</text>
+</string>
+<string id="mil_first_receipts_text1">
+<text>和小队队长对话.</text>
+</string>
+<string id="mil_dislodge_invaders_title0">
+<text>破坏:占领农场</text>
+</string>
+<string id="mil_dislodge_invaders_text0">
+<text>黎明组织当前的任务是彻底占领军事仓库. 你也要参与进来,为了达成目标你必须得和农场的反叛者交战并坚守到友军增援部队到达为止</text>
+</string>
+<string id="mil_dislodge_invaders_title1">
+<text>破坏: 占领村庄</text>
+</string>
+<string id="mil_dislodge_invaders_text1">
+<text>你要将反叛者从村庄里面彻底清除,从而使友军部队进入这里并与他们回合巩固防线.</text>
+</string>
+<string id="mil_dislodge_invaders_title2">
+<text>破坏:占领西部哨所</text>
+</string>
+<string id="mil_dislodge_invaders_text2">
+<text>你要突破反叛者位于西部哨所的防线,从而使得黎明的部队可以占据更多的地盘,进而扩大他们在军事仓库的控制范围.</text>
+</string>
+<string id="mil_dislodge_invaders_title3">
+<text>破坏:占领村庄</text>
+</string>
+<string id="mil_dislodge_invaders_text3">
+<text>进攻村庄的反叛者们,以便友军部队顺利进入该地区并建立起防线.</text>
+</string>
+<string id="mil_dislodge_invaders_title4">
+<text>破坏:占领临时营地</text>
+</string>
+<string id="mil_dislodge_invaders_text4">
+<text>消灭所有反叛者,以便友军部队占领该地.</text>
+</string>
+<string id="mil_dislodge_invaders_title5">
+<text>破坏:占领东部哨所</text>
+</string>
+<string id="mil_dislodge_invaders_text5">
+<text>占领东部哨所,等待友军抵达.</text>
+</string>
+<string id="mil_dislodge_invaders_title6">
+<text>破坏: 和Demiurge对话</text>
+</string>
+<string id="mil_dislodge_invaders_text6">
+<text>从Demiurge手中拿到了报酬.</text>
+</string>
+<string id="mil_defence_b1_title0">
+<text>野兽之罪:赶到农场并建立防线.</text>
+</string>
+<string id="mil_defence_b1_text0">
+<text>异变生物发疯了.它们正在进攻农场.快去阻止它们.</text>
+</string>
+<string id="mil_defence_b2_title0">
+<text>野兽之罪: 保护村庄</text>
+</string>
+<string id="mil_defence_b2_text0">
+<text>异变生物正在攻击村庄.快想想办法.</text>
+</string>
+<string id="mil_defence_b3_title0">
+<text>野兽之罪: 保护西部哨所</text>
+</string>
+<string id="mil_defence_b3_text0">
+<text>怪物的迅猛攻击又开始了.协助友军小队.</text>
+</string>
+<string id="mil_defence_b4_title0">
+<text>野兽之罪: 支援村庄内的友军</text>
+</string>
+<string id="mil_defence_b4_text0">
+<text>协助友军击退进攻村庄的怪物.</text>
+</string>
+<string id="mil_defence_b5_title0">
+<text>野兽之罪: 保护临时营地</text>
+</string>
+<string id="mil_defence_b5_text0">
+<text>消灭怪物,它们正在进攻临时营地.</text>
+</string>
+<string id="mil_defence_b6_title0">
+<text>野兽之罪: 守住东部哨所的阵地</text>
+</string>
+<string id="mil_defence_b6_text0">
+<text>此处是战略要地.一定要阻止怪物,不能让它们突破我们的防线.</text>
+</string>
+<string id="mil_defence_b7_title0">
+<text>野兽之罪: 保护黎明基地</text>
+</string>
+<string id="mil_defence_b7_text0">
+<text>你要阻止怪物对黎明基地的进攻,目前的状况已经是火烧眉毛了.</text>
+</string>
+<string id="mil_smash_monster_hole_title0">
+<text>野兽之罪: 阻止怪物的攻势</text>
+</string>
+<string id="mil_smash_monster_hole_text0">
+<text>我们已经找到了怪物进入这里的隧道.必须炸掉隧道.</text>
+</string>
+<string id="mil_smash_monster_hole_title1">
+<text>野兽之罪: 拿取炸药并炸毁隧道</text>
+</string>
+<string id="mil_smash_monster_hole_text1">
+<text>怪物使用电额隧道仍然完好.它们仍像潮水一般涌来.目前,情况已经十分危急了,你带上炸药把他们放到隧道入口.爆炸的冲击波将使隧道顶部塌陷,并封住隧道口.这样一来怪物们就长眠地下了.</text>
+</string>
+<string id="mil_smash_monster_hole_title2">
+<text>野兽之罪: 将炸药放到隧道入口</text>
+</string>
+<string id="mil_smash_monster_hole_text2">
+<text>触发引信后你必须立刻离开,炸药的威力非同小可.</text>
+</string>
+<string id="mil_smash_monster_hole_title3">
+<text>野兽之罪: 触发引信</text>
+</string>
+<string id="mil_smash_monster_hole_text3">
+<text>使用遥控装置引爆炸药.</text>
+</string>
+<string id="mil_akulov_offer_title0">
+<text>复苏:帮助阿库洛夫</text>
+</string>
+<string id="mil_akulov_offer_text0">
+<text>和暗夜潜行者的领导人碰面.告诉他发生的事情并探讨如何利用当前优势取得地区控制权.</text>
+</string>
+<string id="mil_conduct_night_stalkers_title0">
+<text>殖民者:和阿库洛夫的手下会面</text>
+</string>
+<string id="mil_conduct_night_stalkers_text0">
+<text>你要去军事仓库南部和阿库洛夫的人碰头</text>
+</string>
+<string id="mil_conduct_night_stalkers_title1">
+<text>殖民者:和阿库洛夫的小队一起攻占基地</text>
+</string>
+<string id="mil_conduct_night_stalkers_text1">
+<text>帮助阿库洛夫的分队占领军事仓库内部的空基地. 和他们一起行动.</text>
+</string>
+<string id="mil_conduct_night_stalkers_title2">
+<text>殖民者: 和分队队长交谈</text>
+</string>
+<string id="mil_conduct_night_stalkers_text2">
+<text>和小队队长交谈.</text>
+</string>
+<string id="mil_boarding_money_case_title0">
+<text>收税人:夺取反叛者的钱箱</text>
+</string>
+<string id="mil_boarding_money_case_text0">
+<text>情报表明,在黑暗山谷活跃着一支为反叛者服务的'收税人'. 他们带着一个塞满了钱的箱子. 该为他们'减负'了.</text>
+</string>
+<string id="mil_boarding_money_case_title1">
+<text>收税人: 把钱箱送给阿库洛夫</text>
+</string>
+<string id="mil_boarding_money_case_text1">
+<text>你必须把钱箱交出去.</text>
+</string>
+<string id="mil_meet_with_莫滕_title0">
+<text>参观新基地:和莫滕对话</text>
+</string>
+<string id="mil_meet_with_莫滕_text0">
+<text>阿库洛夫派我到新基地来和莫滕对话.</text>
+</string>
+<string id="mil_bolted_influence_title0">
+<text>完全控制: 占领农场</text>
+</string>
+<string id="mil_bolted_influence_text0">
+<text>莫滕想占领整个区域.帮助暗夜潜行者占领农场.</text>
+</string>
+<string id="mil_bolted_influence_title1">
+<text>完全控制: 占领村庄</text>
+</string>
+<string id="mil_bolted_influence_text1">
+<text>帮助暗夜潜行者占领村庄.</text>
+</string>
+<string id="mil_bolted_influence_title2">
+<text>完全控制: 占领西部哨所</text>
+</string>
+<string id="mil_bolted_influence_text2">
+<text>帮助暗夜潜行者占领西部哨所.</text>
+</string>
+<string id="mil_bolted_influence_title3">
+<text>完全控制: 占领小镇</text>
+</string>
+<string id="mil_bolted_influence_text3">
+<text>帮助暗夜潜行者占领小镇.</text>
+</string>
+<string id="mil_bolted_influence_title4">
+<text>完全控制: 占领临时营地</text>
+</string>
+<string id="mil_bolted_influence_text4">
+<text>帮助暗夜潜行者占领临时营地.</text>
+</string>
+<string id="mil_bolted_influence_title5">
+<text>完全控制: 占领东部哨所</text>
+</string>
+<string id="mil_bolted_influence_text5">
+<text>帮助暗夜潜行者占领东部哨所</text>
+</string>
+<string id="mil_bolted_influence_title6">
+<text>完全控制: 收取报酬</text>
+</string>
+<string id="mil_bolted_influence_text6">
+<text>和莫滕交谈.</text>
+</string>
+<string id="agr_find_underground_way_title0">
+<text>新的足迹:前往河湾</text>
+</string>
+<string id="agr_find_underground_way_text0">
+<text>返回河湾,寻找进入农业研究所的路.</text>
+</string>
+<string id="agr_find_underground_way_title1">
+<text>新的足迹:前往农业研究所</text>
+</string>
+<string id="agr_find_underground_way_text1">
+<text>通向农业研究所的路已经找到了.现在前往农业研究所.</text>
+</string>
+<string id="agr_find_underground_way_title2">
+<text>新的路径:进入农业研究所地下</text>
+</string>
+<string id="agr_find_underground_way_text2">
+<text>找到进入农业研究所地下的入口.</text>
+</string>
+<string id="agr_deliver_secret_docks_title0">
+<text>转交文件:送交文件</text>
+</string>
+<string id="agr_deliver_secret_docks_text0">
+<text>SSU的特工正等着你,你需要把文件交给他.</text>
+</string>
+<string id="agru_search_door_key_title0">
+<text>找到门的钥匙</text>
+</string>
+<string id="agru_search_door_key_text0">
+<text>寻找开门的钥匙.</text>
+</string>
+<string id="agru_search_door_key_title1">
+<text>门:使用钥匙</text>
+</string>
+<string id="agru_search_door_key_text1">
+<text>用钥匙打开了门.</text>
+</string>
+<string id="agru_underground_cave_title0">
+<text>寻找文件:寻找秘密文件</text>
+</string>
+<string id="agru_underground_cave_text0">
+<text>找到2份文件.</text>
+</string>
+<string id="agru_underground_cave_title1">
+<text>寻找文件: 找到一份秘密文件</text>
+</string>
+<string id="agru_underground_cave_text1">
+<text>找到一份秘密文件.</text>
+</string>
+<string id="agru_underground_cave_title2">
+<text>寻找文件: 离开地下</text>
+</string>
+<string id="agru_underground_cave_text2">
+<text>返回地面.</text>
+</string>

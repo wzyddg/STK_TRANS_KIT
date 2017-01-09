@@ -1,0 +1,1146 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+<string id="jup_freedom_trader_dialog_23_1">
+    <text>自由团外骨骼</text>
+</string>
+<string id="jup_freedom_trader_dialog_23_2">
+    <text>纪律团外骨骼</text>
+</string>
+<string id="jup_b220_trapper_about_quest_psyho_dialog_1">
+		<text>你好. 我有你的消息. 你有什么?</text>
+	</string>
+        <string id="jup_b220_trapper_about_quest_psyho_dialog_2">
+		<text>欢迎. 你是否愿意去见科学家,你必须做一些任务.这里是他的位置.</text>
+	</string>
+        <string id="jup_b220_trapper_about_quest_psyho_dialog_3">
+		<text>好吧. 就这样.</text>
+	</string>
+        <string id="jup_authorities_agent2_dialog_10">
+		<text>了解.</text>
+	</string>
+	<string id="esc_b1_stalker_commander_dialog_1">
+<text>问候你, 少校. 我被告知你会来,我知道你的任务.我曾经是安全部门的探员.所以请你帮助封锁线的潜行者.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_2">
+<text>谢谢. 我很高兴听到. 那么换个话题,你知道最近到封锁线的军方吗?</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_3">
+<text>我没见到他们, 但我的人前几天见到, 有一位曾经和他们在一起,应该知道一些.奇怪的是这战士早应回来了.上帝保佑,不会出事吧.你得等他回来才能问他.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_4">
+<text>好,那现在封锁线形势怎么样?</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_5">
+<text>最近没什么比这更能引起关注了.最近有几个小队强盗在附近,企图逼迫我们撤出封锁线,而这检查点是最后据点.为了保卫据点和收复失地,我们必须对付他们.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_6">
+<text>我可以提供帮助, 毕竟我在等你手下,但我缺少补给.哪里有弹药?</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_7">
+<text>这里有,我们准备行动时你去取弹药,再回到这讨论怎么帮忙.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_8">
+<text>同意.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_9">
+<text>嗯, 少校, 我们的人准备好了.你呢? 确信你能面对恶战.强盗已经抓住或杀死我部分手下,他们不会手软.这是见到就杀的行动,他们不会排队等子弹</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_10">
+<text>我不会准备不足,我随时准备好.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_11">
+<text>好我们去做吧.我手下已经在途中.杀光强盗后搜索我方探员铁木尔,无论生死,因为他携带情报.他也是我好友,请求你找到他.这很重要.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_12">
+<text>很好, 我会找到送回给你.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_13">
+<text>那么, 是否顺利?</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_14">
+<text>也好也坏.我很抱歉铁木尔死了.他在我去之前已经被杀, 这是他携带的U盘.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_15">
+<text>该死,至少我们拿到他拼死得来的情报,并夺取新手村.那些杂种滚蛋了对我们有利. 希望如此.谢谢送回U盘, 少校. 铁木尔曾经是好战士,他会被被怀念,但战斗将继续.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_16">
+<text>我肯定. 那么接着我们做什么?</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_17">
+<text>接下来我们要打到他们家门口,我们夺取ATP,另外据情报我们还要搜索强盗的保险箱, 约14名守着,白天容易被发现. 这意味着要深夜行动. 我们已经派出精英,你要和他们一起行动. 等待深夜,到他们那里.这是会面坐标..</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_18">
+<text>了解.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_19">
+<text>在你等待的时候, 少校. 有个小问题,突变体正在骚扰我们.我们要做些什么,你愿意对付突变体吗?</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_20">
+<text>不成问题, 我会完成.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_21">
+<text>怎样?我希望你能在它们无防备时干掉它们.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_22">
+<text>行动像钟表一样精准.完美.我搜索了保险箱,这是所有的.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_23">
+<text>很好, 听起来你们很走运,很成功!欢呼吧!神知道我们需要这个,我们目的就快达成,很快封锁线就在我们控制下.谢谢帮忙, 少校. 请拿取奖励.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_24">
+<text>谢谢. 我的事情呢? 你那接触过军方的手下到了吗?</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_25">
+<text>他刚到,我已经安排你们会见.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_26">
+<text>很好.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_27">
+<text>这是会面坐标,你该走了.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_28">
+<text>谢谢, 再见并祝你好运.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_29">
+<text>消灭突变体了?</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_30">
+<text>没错. 我消灭了几群,现在应该没有了.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_31">
+<text>好,问题解决. 谢谢你的帮助.</text>
+</string>
+<string id="esc_b1_stalker_commander_dialog_32">
+<text>再见.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_1">
+<text>你好, 少校. 我听说过你.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_2">
+<text>我也听说过你,叶尔马克. 告诉我, 关于在封锁线的军方,你知道什么?</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_3">
+<text>Oh yeah, 我遇见过他们,为他们做了些事情,一堆维修工作,并提供建议,比如当地气候影响武器等此类事情 .</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_4">
+<text>我想知道他们到封锁线为了什么,遇到什么?</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_5">
+<text>不知道. 我只能说他们去沼泽.我知道他们当时的露营地,如果这能帮上忙.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_6">
+<text>这是一个开始.坐标是正确的.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_7">
+<text>祝你好运, 少校. 那就是我所知道的.走吧,祝你好运.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_8">
+<text>谢谢帮忙.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_9">
+<text>我能帮你什么?少校! 你要什么? 修理? 如果是,我很高兴帮忙.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_10">
+<text>谢谢.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_11">
+<text>我能帮你什么?少校! 你要什么? 修理工作? 无论什么你可要求.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_12">
+<text>我要地雷探测器,能帮忙吗?</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_13">
+<text>这地方不容易去做, 当然,我会尽力. 但不会毫不费力,我失去了一个传感器要制作探测器的.幸好我知道在哪,你要到沼泽找到并拿来给我.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_14">
+<text>好. 我会去找传感器.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_15">
+<text>好吧,我猜你带来了传感器?</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_16">
+<text>还没.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_17">
+<text>没错.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_18">
+<text>现在我开始制作.不要走远,很快做好.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_19">
+<text>同意.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_20">
+<text>我在做地雷探测器,等待我完成.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_21">
+<text>我很期待.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_22">
+<text>完成,你可以拿了,请给 10,000.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_23">
+<text>我没那么多,我稍后再来.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_24">
+<text>就这样. 拿着.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_25">
+<text>在这里. 你怎么看?</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_26">
+<text>干得好. 谢谢.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_27">
+<text>你好, 兄弟. 你要什么? 修理? 可以随时联系.</text>
+</string>
+<string id="esc_b1_stalker_mechanic_dialog_28">
+<text>再见.</text>
+</string>
+<string id="esc_b3_attack_commander_dialog_1">
+<text>欢迎. 我们的卧底刚回来.他留下了两个炸药包,现在我们可以行动了.你准备好了吗?</text>
+</string>
+<string id="esc_b3_attack_commander_dialog_2">
+<text>是. 让我们开始.</text>
+</string>
+<string id="esc_b3_attack_commander_dialog_3">
+<text>好吧. 就这样,为了任务你带上这有夜视的面具.ATP的爆炸就是行动开始的信号.</text>
+</string>
+<string id="esc_b3_attack_commander_dialog_4">
+<text>了解. 我们走吧.</text>
+</string>
+<string id="esc_b3_attack_commander_dialog_5">
+<text>不,我要准备.</text>
+</string>
+<string id="esc_stalker_scout_dialog_1">
+<text>你好, 少校. 他们叫我别洛乌索夫.与你相识很好.我听说你的帮助扭转了战争和改变了封锁线的状况.</text>
+</string>
+<string id="esc_stalker_scout_dialog_2">
+<text>你好. 我猜是的,我想知道你对被派到封锁线的军方有什么了解.</text>
+</string>
+<string id="esc_stalker_scout_dialog_3">
+<text>知道不多.只知道他们运送不明箱子.不知是什么,他们严密保护.我建议你去问叶尔马克,他是我们的技工,还修理过军方的武器.也许他知道什么,他应该来到南部前哨了.</text>
+</string>
+<string id="esc_stalker_scout_dialog_4">
+<text>谢谢. 我去找他.</text>
+</string>
+<string id="esc_stalker_trader_dialog_1">
+<text>欢迎.</text>
+</string>
+<string id="esc_stalker_trader_dialog_1_2">
+<text>欢迎. 货到了,你可以购买.</text>
+</string>
+<string id="esc_stalker_trader_dialog_2">
+<text>我想交易.</text>
+</string>
+<string id="esc_stalker_trader_dialog_3">
+<text>最好的.快点.</text>
+</string>
+<string id="esc_stalker_trader_dialog_4">
+<text>再见.</text>
+</string>
+<string id="esc_stalker_trader_dialog_5">
+<text>我不需要什么.</text>
+</string>
+<string id="esc_stalker_trader_dialog_6">
+<text>不, 我不会取消订单.</text>
+</string>
+<string id="esc_stalker_trader_dialog_7">
+<text>订单已被接受.很快会准备好,一些约需一小时.</text>
+</string>
+<string id="esc_stalker_trader_dialog_8">
+<text>同意.我付500卢布取消费订购其它货物.</text>
+</string>
+<string id="esc_stalker_trader_dialog_9">
+<text>好吧. </text>
+</string>
+<string id="esc_stalker_trader_dialog_10">
+<text>给,拿着.</text>
+</string>
+<string id="esc_stalker_trader_dialog_11">
+<text>选择订购的货物.</text>
+</string>
+<string id="esc_stalker_trader_dialog_12">
+<text>我要订其他货物.</text>
+</string>
+<string id="esc_stalker_trader_dialog_13">
+<text>太贵了.</text>
+</string>
+<string id="esc_stalker_trader_dialog_14">
+<text>我改变主意了.</text>
+</string>
+<string id="esc_stalker_trader_dialog_15">
+<text>好吧. 就这样.</text>
+</string>
+<string id="esc_stalker_trader_dialog_16">
+<text>订单发出,只是支付运费.</text>
+</string>
+<string id="esc_stalker_trader_dialog_17">
+<text>选择你要的.</text>
+</string>
+<string id="esc_stalker_trader_dialog_18">
+<text>我想订货.</text>
+</string>
+<string id="esc_stalker_trader_dialog_19">
+<text>武器,防具?选择.</text>
+</string>
+<string id="esc_stalker_trader_dialog_20">
+<text>武器.</text>
+</string>
+<string id="esc_stalker_trader_dialog_21">
+<text>防具.</text>
+</string>
+<string id="esc_stalker_trader_dialog_22">
+<text>'Colt 1911'</text>
+</string>
+<string id="esc_stalker_trader_dialog_23">
+<text>'Chaser-13'</text>
+</string>
+<string id="esc_stalker_trader_job_dialog_1">
+<text>那么,有工作给我吗?</text>
+</string>
+<string id="esc_stalker_trader_job_dialog_10">
+<text>奇迹的奇迹.真美.你帮了大忙.这个神器看上去有意思,我从来没见过.谢谢,这是你的奖励.</text>
+</string>
+<string id="esc_stalker_trader_job_dialog_11">
+<text>好吧.</text>
+</string>
+<string id="esc_stalker_trader_job_dialog_12">
+<text>不.</text>
+</string>
+<string id="esc_stalker_trader_job_dialog_13">
+<text>你的意见对我来说很有趣.</text>
+</string>
+<string id="esc_stalker_trader_job_dialog_14">
+<text>怎么了,你真的放弃寻找神器?</text>
+</string>
+<string id="esc_stalker_trader_job_dialog_15">
+<text>是.</text>
+</string>
+<string id="esc_stalker_trader_job_dialog_16">
+<text>不.</text>
+</string>
+<string id="esc_stalker_trader_job_dialog_2">
+<text>是. 我有个好任务给你潜行者,我听说一种稀有神器只在这地区的变异点里,名叫'Opera hat'.我想知道是怎样的神器.我不能离开岗位去寻找,但我真的想见这传说的神器.因此,出外找到它...那么...你会帮助一个老商人吗?</text>
+</string>
+<string id="esc_stalker_trader_job_dialog_3">
+<text>不.</text>
+</string>
+<string id="esc_stalker_trader_job_dialog_4">
+<text>是.</text>
+</string>
+<string id="esc_stalker_trader_job_dialog_5">
+<text>好. 我不知道到哪里找,你要检查这里的特异点,找到就有奖励,潜行者.</text>
+</string>
+<string id="esc_stalker_trader_job_dialog_6">
+<text>同意.</text>
+</string>
+<string id="esc_stalker_trader_job_dialog_7">
+<text>我为工作而来.</text>
+</string>
+<string id="esc_stalker_trader_job_dialog_8">
+<text>你找到神器?</text>
+</string>
+<string id="esc_stalker_trader_job_dialog_9">
+<text>是. 给你.</text>
+</string>
+
+    <string id="jup_alfa_sabotage_talk_azot_about_order_dialog_1">
+	    <text>探测器好了?</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_azot_about_order_dialog_2">
+	    <text>是, 你要支付 5,000.</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_azot_about_order_dialog_3">
+	    <text>拿着.</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_azot_about_order_dialog_4">
+	    <text>很好,这是你的扫描仪和关于炸药的工具,要帮忙请开口,祝你好运!</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_azot_about_order_dialog_5">
+	    <text>谢谢, Bye.</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_azot_about_order_dialog_6">
+	    <text>我没钱.</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_azot_bring_raciya_dialog_1">
+	    <text>就这样, 无线电设备.</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_azot_bring_raciya_dialog_2">
+	    <text>好,我期望 5,000.</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_azot_bring_raciya_dialog_3">
+	    <text>了解,同意.</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_azot_about_scaner_dialog_1">
+	    <text>基, 我要你帮忙, 我发现斯卡多夫斯克有遥控引爆的爆炸装置,我迫切需要采购设备进行扫描和工具去反激活它们.</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_azot_about_scaner_dialog_2">
+	    <text>工具不是问题,但扫描仪要制作.要找到一个便携式无线电设备,这样我就可以制作了.</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_azot_about_scaner_dialog_3">
+	    <text>嗯,这很幸运,我正好有一台便携式无线电设备,看.</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_azot_about_scaner_dialog_4">
+	    <text>啊,正是你要的, 好吧,我接受...5000</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_azot_about_scaner_dialog_5">
+	    <text>好, 谢谢.</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_azot_about_scaner_dialog_6">
+	    <text>好吧! 现在...去哪找?</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_azot_about_scaner_dialog_7">
+	    <text>找找木星工厂,有各种电气设备.</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_azot_about_scaner_dialog_8">
+	    <text>明白, 谢谢.</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_gavaec_about_reward_dialog_1">
+	    <text>我有好和坏的消息,该讲哪个?</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_gavaec_about_reward_dialog_2">
+	    <text>坏的.</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_gavaec_about_reward_dialog_3">
+	    <text>我还发现,在亚诺夫有遥控引爆炸弹,是阿尔法小队干的,似乎要攻击我们痛处.好消息是,我解除炸弹了...</text>
+	    </string>
+	<string id="jup_alfa_sabotage_talk_gavaec_about_reward_dialog_4">
+	    <text>天,这是阿尔法小队的机会,他们不会再有了.谢谢,我会奖励你.为感谢你,拿着</text>
+	</string>
+	<string id="jup_alfa_sabotage_talk_gavaec_about_reward_dialog_5">
+	    <text>谢谢, 再见.</text>
+	</string>
+
+<string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_1">
+<text>我救了Miller. 他曾被囚禁.</text>
+</string>
+<string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_10">
+<text>我真不知道.</text>
+</string>
+<string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_11">
+<text>不.</text>
+</string>
+<string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_12">
+<text>不知道.我为另一工作而来.</text>
+</string>
+<string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_2">
+<text>谢谢搭救,为工作,友谊...我免费带你木星.顺便问问,Miller呢?</text>
+</string>
+<string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_3">
+<text>他决定到附近的洗衣店看他的汽车.好吧, 保重.</text>
+</string>
+<string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_4">
+<text>嘿!听着,你能帮助我吗?</text>
+</string>
+<string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_5">
+<text>Yeah, 你要什么?</text>
+</string>
+<string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_6">
+<text>我最好的朋友米勒消失了.他在做我相同的工作,向导.我记得三天前,当我仍在亚诺夫,米勒带领不明潜行者从木星到普里皮亚季,但由于某些原因,他们推迟到第二天出发.到那个时候,我已经在这里.从没听说过这样,但留下一条线索-PDA信号,来自地下道'普里皮亚-1'.抱歉我不能和你一起去,我有一个重要客户要见.所以我决定请求你去那里检查.你能帮助我吗?</text>
+</string>
+<string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_7">
+<text>Yeah.</text>
+</string>
+<string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_8">
+<text>那好...  我已经传送米勒PDA的坐标给你,你可以去了.</text>
+</string>
+<string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_9">
+<text>了解. 就这样.</text>
+</string>
+
+<string id="jup_duty_leader_entering_to_dolg_dialog_1">
+<text>你想要新人吗?</text>
+</string>
+<string id="jup_duty_leader_entering_to_dolg_dialog_2">
+<text>当然.  我们一向欢迎正派的人, 并且你在许多方面帮助我们,所以我觉得我们会为你安排在英勇小队.</text>
+</string>
+<string id="jup_duty_leader_entering_to_dolg_dialog_3">
+<text>我改变主意了.</text>
+</string>
+<string id="jup_duty_leader_entering_to_dolg_dialog_4">
+<text>我准备好了,让我加入.</text>
+</string>
+<string id="jup_duty_leader_entering_to_dolg_dialog_5">
+<text>好.  作为纪律团成员忠实地服务.</text>
+</string>
+<string id="jup_duty_leader_entering_to_dolg_dialog_6">
+<text>当然. 在会议之前.</text>
+</string>
+
+<string id="jup_ecolog_trader_dialog_1_2">
+<text>你好, 你的订货到了,可以买.</text>
+</string>
+
+<string id="jup_freedom_trader_dialog_1_2">
+<text>欢迎. 你可以购买订货.</text>
+</string>
+
+<string id="jup_killer_base_leader_jobs_dialog_1">
+<text>你有工作给我吗?</text>
+</string>
+<string id="jup_killer_base_leader_jobs_dialog_10">
+<text>是, 我去看看.</text>
+</string>
+<string id="jup_killer_base_leader_jobs_dialog_11">
+<text>我稍后为你做.</text>
+</string>
+<string id="jup_killer_base_leader_jobs_dialog_2">
+<text>现在没工作.</text>
+</string>
+<string id="jup_killer_base_leader_jobs_dialog_3">
+<text>是, 我刚收到消息,一支护送队在通风设施遭到巨型地狱犬攻击,去那里帮助他们回基地.Okay!</text>
+</string>
+<string id="jup_killer_base_leader_jobs_dialog_4">
+<text>Okay,我去那里 .</text>
+</string>
+<string id="jup_killer_base_leader_jobs_dialog_5">
+<text>不是现在, 迟些也许.</text>
+</string>
+<string id="jup_killer_base_leader_jobs_dialog_6">
+<text>很好,我有一个老冤家,杰克.他据点在检查站附近.他有很好的保护,我们已经无法对付他和他的手下.所以这应该是您的拿手好戏,你会做吗?</text>
+</string>
+<string id="jup_killer_base_leader_jobs_dialog_7">
+<text>我会.</text>
+</string>
+<string id="jup_killer_base_leader_jobs_dialog_8">
+<text>下次吧.</text>
+</string>
+<string id="jup_killer_base_leader_jobs_dialog_9">
+<text>我有一个严重的问题,你可以帮我.我有一名手下藏我的一些独特的物品,可惜不久他掉进一个特异点,死于他的伤势而没有通知我储物箱位置.我知道它被藏在木星工厂,但我们还没有运气发现.它有一个GPS发射器,但它非常弱和出现故障,但希望它给出的位置,只要足够接近.我想请你设法找到它.</text>
+</string>
+<string id="jup_killer_base_leader_reward_dialog_1">
+<text>我为任务而来.</text>
+</string>
+<string id="jup_killer_base_leader_reward_dialog_10">
+<text>怎么样?</text>
+</string>
+<string id="jup_killer_base_leader_reward_dialog_11">
+<text>我和你手下到那里,他们正在处理它.</text>
+</string>
+<string id="jup_killer_base_leader_reward_dialog_12">
+<text>很好...约定就这样.</text>
+</string>
+<string id="jup_killer_base_leader_reward_dialog_13">
+<text>还没.</text>
+</string>
+<string id="jup_killer_base_leader_reward_dialog_14">
+<text>还没.</text>
+</string>
+<string id="jup_killer_base_leader_reward_dialog_15">
+<text>我发现了藏物,但不可以对它做什么,它已被锁定.</text>
+</string>
+<string id="jup_killer_base_leader_reward_dialog_16">
+<text>我们认为这可能需要一把密匙,我手下有.带他们到那里,他们可以打开它,现在去.</text>
+</string>
+<string id="jup_killer_base_leader_reward_dialog_2">
+<text>怎么样,你帮助护卫队了?</text>
+</string>
+<string id="jup_killer_base_leader_reward_dialog_3">
+<text>可悲的是,他们没有在战斗中幸存.但我拿到货物,在这里.</text>
+</string>
+<string id="jup_killer_base_leader_reward_dialog_4">
+<text>真是遗憾,队长是个好人,与一个很好的小队.无论如何,谢谢送回我的货物.这里是您的奖励.</text>
+</string>
+<string id="jup_killer_base_leader_reward_dialog_5">
+<text>还没.</text>
+</string>
+<string id="jup_killer_base_leader_reward_dialog_6">
+<text>完成了?我终于报复或他还在呼吸?</text>
+</string>
+<string id="jup_killer_base_leader_reward_dialog_7">
+<text>杰克的问题不会再打扰你.</text>
+</string>
+<string id="jup_killer_base_leader_reward_dialog_8">
+<text>漂亮的表现,很好,这是奖励.</text>
+</string>
+<string id="jup_killer_base_leader_reward_dialog_9">
+<text>还没.</text>
+</string>
+
+<string id="jup_killer_trader_dialog_1_2">
+<text>Oh, 潜行者. 你可以购买订货.</text>
+</string>
+
+<string id="jup_medic_has_got_antidote_dialog_1">
+<text>Hi,新来的家伙在斯卡多夫斯克说,他需要给您带这个.</text>
+</string>
+<string id="jup_medic_has_got_antidote_dialog_2">
+<text>Ahh 好.我一直在想什么时候送来.我很感谢你带来,但不幸的是这里补给短缺,你需要返回扎通问他要报酬.我稍后联系他,他会理解的 .</text>
+</string>
+<string id="jup_medic_has_got_antidote_dialog_3">
+<text>别客气. Yet.</text>
+</string>
+
+<string id="jup_rasvet_base_leader_jobs_dialog_80">
+<text>怪物, 是.遗憾没有一个探员存活.我丢失的,我无法保护他.</text>
+</string>
+<string id="jup_rasvet_base_leader_jobs_dialog_8_2">
+<text>是. 明白.</text>
+</string>
+
+<string id="jup_rasvet_base_leader_jobs_dialog_90">
+<text>Preskorbno听到它.不幸的是.我不能支付你的出色工作.但你可以在其他方面帮助我们.</text>
+</string>
+
+<string id="jup_rasvet_trader_dialog_1_2">
+<text>欢迎到来. 你可以购买订货.</text>
+</string>
+
+<string id="jup_scientific_workman_dialog_1">
+<text>你好, 年轻人. 我很高兴你到来. 我们有工作给你. 是这样的:我们最近收到的信息说潜行者们开辟一条路通往红树林.当时,我们正在做有关PSI辐射的一些实验,因此决定建立两个研究小组远征.但不幸的是,在佣兵带领下一直没有返回.所有联系中断,我们不知道怎么做,现在决定寻求帮助.你怎么看,你愿意帮助吗?</text>
+</string>
+<string id="jup_scientific_workman_dialog_10">
+<text>你知道什么?</text>
+</string>
+<string id="jup_scientific_workman_dialog_11">
+<text>没错. 两小组都死了.显然,是因为一种不寻常类型的脑波怪.怪物有PSI能力.我差点不能在战斗中生存.</text>
+</string>
+<string id="jup_scientific_workman_dialog_12">
+<text>你做到了很好.希望你已经发现实验药物了?</text>
+</string>
+<string id="jup_scientific_workman_dialog_13">
+<text>是这样. 它们在这里.</text>
+</string>
+<string id="jup_scientific_workman_dialog_14">
+<text>太好了.我表示我们的谢意.这是工作的报酬.</text>
+</string>
+<string id="jup_scientific_workman_dialog_15">
+<text>别客气. 就这样.</text>
+</string>
+<string id="jup_scientific_workman_dialog_2">
+<text>是. 我同意.</text>
+</string>
+<string id="jup_scientific_workman_dialog_3">
+<text>好吧.现在你会接收到小队最后的信号 . 祝你好运, 少校同志.</text>
+</string>
+<string id="jup_scientific_workman_dialog_4">
+<text>我去做了.</text>
+</string>
+<string id="jup_scientific_workman_dialog_5">
+<text>我不同意.我有更好事情去做.</text>
+</string>
+<string id="jup_scientific_workman_dialog_6">
+<text>问候你, 少校. 你知道研究小组的情况吗?</text>
+</string>
+<string id="jup_scientific_workman_dialog_7">
+<text>是, 最后一个信号的地方,我发现了两个PDA.在这里.此外,我曾经面对最强的PSY-射线,在试图进行测试一种新药物的地方.</text>
+</string>
+<string id="jup_scientific_workman_dialog_8">
+<text>我们怀疑有强大的PSY-射线.每个组员在出发前携带'Psi复合剂'.我建议你准备这些药物.根据我们的计算,可以持续一小时.要准备10个.没有就不要去红森林.</text>
+</string>
+<string id="jup_scientific_workman_dialog_9">
+<text>好吧. 现在去做.</text>
+</string>
+
+<string id="jup_svoboda_leader_entering_to_freedom_dialog_1">
+<text>我可以加入自由团吗?</text>
+</string>
+<string id="jup_svoboda_leader_entering_to_freedom_dialog_2">
+<text>当然.我们总是乐于得到一个新成员,你帮助我们虽然有些艰难的时候.我认为,将你安排在我们的神奇组.</text>
+</string>
+<string id="jup_svoboda_leader_entering_to_freedom_dialog_3">
+<text>你给我坏的共鸣,我不希望加入.</text>
+</string>
+<string id="jup_svoboda_leader_entering_to_freedom_dialog_4">
+<text>听上去不错,我加入.</text>
+</string>
+<string id="jup_svoboda_leader_entering_to_freedom_dialog_5">
+<text>Here and sushi bar. Prepare then Cubans will move us to Cuba, until Fidel cane.</text>
+</string>
+<string id="jup_svoboda_leader_entering_to_freedom_dialog_6">
+<text>Prospectus to you and uvazhuha. Do not smoke a lot, minzonzdrav has warned. 就这样.</text>
+</string>
+
+<string id="mar_army_wounded_dialog_1">
+<text>O. .. oh .. 潜行者 .. 走开 .. 让我死于平静 ..</text>
+</string>
+<string id="mar_army_wounded_dialog_2">
+<text>我叫Dyagtyarev,是SBU少校.我需要知道是怎么回事,军方发生了什么,你为什么独自在这里,其他人呢?</text>
+</string>
+<string id="mar_army_wounded_dialog_3">
+<text>这很难说..少校..我们被强盗攻击..他们压倒我们,我被留在这里等死,我只是受伤但对于突变体很无助..我们在转运一个秘密的化学装置...</text>
+</string>
+<string id="mar_army_wounded_dialog_4">
+<text>我明白.所以强盗得到装置.下面让我帮助你?</text>
+</string>
+<string id="mar_army_wounded_dialog_5">
+<text>不, 少校 .. 我不会幸存..请离开留下我...</text>
+</string>
+<string id="mar_army_wounded_dialog_6">
+<text>好吧. 我会.</text>
+</string>
+<string id="mar_authorities_agent_dialog_1">
+<text>你好,少校, 我相信你拿到包裹了?</text>
+</string>
+<string id="mar_authorities_agent_dialog_2">
+<text>没错. 给你.</text>
+</string>
+<string id="mar_authorities_agent_dialog_3">
+<text>干得好, 少校. 现在你需要去扎通,做你最初来到这里的工作,你需要采取的路线现在在您的PDA.</text>
+</string>
+<string id="mar_authorities_agent_dialog_4">
+<text>了解. 再见.</text>
+</string>
+<string id="mar_b1_stalker_commander_dialog_1">
+<text>你好. 欢迎到我们营地. 我想给你奖励,表达我的感激之情,在对教堂的帮助.现在是你的.</text>
+</string>
+<string id="mar_b1_stalker_commander_dialog_2">
+<text>别客气.我来到这里,因为我需要有关强盗的信息,他们的主要基地在哪里?</text>
+</string>
+<string id="mar_b1_stalker_commander_dialog_3">
+<text>他们在机械大院,烧毁的农场附近.那里满布地雷,不知从哪里得到这些该死的地雷.没有地雷探测器接近那里的话会有严重后果.</text>
+</string>
+<string id="mar_b1_stalker_commander_dialog_4">
+<text>好吧. 我从哪里找地雷探测器?</text>
+</string>
+<string id="mar_b1_stalker_commander_dialog_5">
+<text>啊, 我不知道.也许去问封锁线的叶尔马克,他处理各种各样的小玩意,所以最好找他,看看能帮什么 .</text>
+</string>
+<string id="mar_b1_stalker_commander_dialog_6">
+<text>谢谢信息.</text>
+</string>
+<string id="mar_b1_stalker_commander_dialog_7">
+<text>你为什么来这里?</text>
+</string>
+<string id="mar_b1_stalker_commander_dialog_8">
+<text>我追踪被抢的东西到强盗主基地,但我找不到.所以我需要探地雷达.我需要顶级技工帮助.去哪里找?</text>
+</string>
+<string id="mar_b1_stalker_commander_dialog_9">
+<text>技工不是问题,去抽水站找马卡连柯,看他有什么能帮上的.</text>
+</string>
+<string id="mar_b1_stalker_commander_dialog_10">
+<text>谢谢, 再见.</text>
+</string>
+<string id="mar_b2_stalker_mechanic_dialog_1">
+<text>Oh, 你好 潜行者. 你想要什么?</text>
+</string>
+<string id="mar_b2_stalker_mechanic_dialog_2">
+<text>hi,营地建议我来找你.我需要探地雷达,也可用于地面扫描.你可以制作吗?</text>
+</string>
+<string id="mar_b2_stalker_mechanic_dialog_3">
+<text>我有一个我拆开的,我可以重组它,如果你真的需要.但也不是那么容易,我做的工作将需要5000卢布,那么你想要吗?</text>
+</string>
+<string id="mar_b2_stalker_mechanic_dialog_4">
+<text>要吗?真需要...我一定要的,我毫无疑问</text>
+</string>
+<string id="mar_b2_stalker_mechanic_dialog_5">
+<text>成交.我会去工作.一旦准备好,我会送你一个消息来拿.</text>
+</string>
+<string id="mar_b2_stalker_mechanic_dialog_6">
+<text>了解. 稍后再见.</text>
+</string>
+<string id="mar_b2_stalker_mechanic_dialog_7">
+<text>我正在做GPR. 很快了.</text>
+</string>
+<string id="mar_b2_stalker_mechanic_dialog_8">
+<text>好吧,到时让我知道.</text>
+</string>
+<string id="mar_b2_stalker_mechanic_dialog_9">
+<text>完成. GPR完全组装并可以使用了. 现在,支付约定的5,000卢布.</text>
+</string>
+<string id="mar_b2_stalker_mechanic_dialog_10">
+<text>对不起,我没有足够的钱.我会回来拿GPR.</text>
+</string>
+<string id="mar_b2_stalker_mechanic_dialog_11">
+<text>就这样.</text>
+</string>
+<string id="mar_b2_stalker_mechanic_dialog_12">
+<text>好,你现在自豪地拥有一个调整的探地雷达.拿着.</text>
+</string>
+<string id="mar_b2_stalker_mechanic_dialog_13">
+<text>很好. 谢谢.</text>
+</string>
+<string id="mar_b2_stalker_mechanic_dialog_14">
+<text>你为什么来这里. 你要什么?</text>
+</string>
+<string id="mar_b2_stalker_mechanic_dialog_15">
+<text>没什么. 再见.</text>
+</string>
+<string id="mar_stalker_trader_dialog_1">
+<text>你好.</text>
+</string>
+<string id="mar_stalker_trader_dialog_1_2">
+<text>你好. 你的订货到了,可以购买.</text>
+</string>
+<string id="mar_stalker_trader_dialog_2">
+<text>我想交易.</text>
+</string>
+<string id="mar_stalker_trader_dialog_3">
+<text>很好. 快点.</text>
+</string>
+<string id="mar_stalker_trader_dialog_4">
+<text>回头见.</text>
+</string>
+<string id="mar_stalker_trader_dialog_5">
+<text>我不需要什么.</text>
+</string>
+<string id="mar_stalker_trader_dialog_6">
+<text>No, 我不会取消订单.</text>
+</string>
+<string id="mar_stalker_trader_dialog_7">
+<text>你订单已经接受.会很快准备好.一小时后再来.</text>
+</string>
+<string id="mar_stalker_trader_dialog_8">
+<text>同意. 回头见.</text>
+</string>
+<string id="mar_stalker_trader_dialog_9">
+<text>好吧. 支付500卢布可以订其它货物 .</text>
+</string>
+<string id="mar_stalker_trader_dialog_10">
+<text>给,拿着.</text>
+</string>
+<string id="mar_stalker_trader_dialog_11">
+<text>现在选择,这货物将被订购.</text>
+</string>
+<string id="mar_stalker_trader_dialog_12">
+<text>我要订其他货物.</text>
+</string>
+<string id="mar_stalker_trader_dialog_13">
+<text>太贵了.</text>
+</string>
+<string id="mar_stalker_trader_dialog_14">
+<text>我改变主意了.</text>
+</string>
+<string id="mar_stalker_trader_dialog_15">
+<text>好吧. 就这样.</text>
+</string>
+<string id="mar_stalker_trader_dialog_16">
+<text>现在您已经选择了你想要的,现在支付定金.</text>
+</string>
+<string id="mar_stalker_trader_dialog_17">
+<text>选择你要的.</text>
+</string>
+<string id="mar_stalker_trader_dialog_18">
+<text>我想订货.</text>
+</string>
+<string id="mar_stalker_trader_dialog_19">
+<text>武器或防具,请选择.</text>
+</string>
+<string id="mar_stalker_trader_dialog_20">
+<text>武器.</text>
+</string>
+<string id="mar_stalker_trader_dialog_21">
+<text>防具.</text>
+</string>
+<string id="mar_stalker_trader_dialog_22">
+<text>'AN-94 Abakan'</text>
+</string>
+<string id="mar_stalker_trader_dialog_23">
+<text>«L85»</text>
+</string>
+
+<string id="mil_night_stalker_trader_dialog_1_2">
+<text>欢迎, 你订货已经到了可以购买.</text>
+</string>
+
+<string id="pri_army_trader_dialog_1_2">
+<text>祝你健康. 你可以购买订货.</text>
+</string>
+
+<string id="pri_monolith_trader_dialog_1_2">
+<text>你为什么来这里? 你要什么?</text>
+</string>
+
+<string id="val_night_stalker_trader_dialog_1">
+<text>你好, 我怎么帮助你?</text>
+</string>
+<string id="val_night_stalker_trader_dialog_1_2">
+<text>欢迎, 你订货已经到了可以购买.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_2">
+<text>我想交易.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_3">
+<text>所有最好的.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_4">
+<text>再见.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_5">
+<text>我不需要什么.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_6">
+<text>我不会.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_7">
+<text>你订单已经接受.会很快准备好.一小时后再来..</text>
+</string>
+<string id="val_night_stalker_trader_dialog_8">
+<text>同意, 再见.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_9">
+<text>好吧, 支付500卢布可以订其它货物.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_10">
+<text>给,拿着.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_11">
+<text>现在选择,这货物将被订购</text>
+</string>
+<string id="val_night_stalker_trader_dialog_12">
+<text>我要订其他货物.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_13">
+<text>太贵了.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_14">
+<text>我改变主意了.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_15">
+<text>好吧, 就这样.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_16">
+<text>现在您已经选择了你想要的,现在支付定金.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_17">
+<text>选择你要的.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_18">
+<text>我想下一些货物订单.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_19">
+<text>武器或防具,请选择.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_20">
+<text>武器.</text>
+</string>
+<string id="val_night_stalker_trader_dialog_21">
+<text>防具.</text>
+</string>
+
+<string id="zat_alfa_sabotage_talk_boroda_about_reward_dialog_1">
+<text>大胡子,还记得我问你斯卡多夫斯克的陌生人?</text>
+</string>
+<string id="zat_alfa_sabotage_talk_boroda_about_reward_dialog_2">
+<text>是,找到什么?</text>
+</string>
+<string id="zat_alfa_sabotage_talk_boroda_about_reward_dialog_3">
+<text>我发现,这些罪犯带着炸药上船,这一切都是因为阿尔法.我能化解所有斯卡多夫斯克的炸弹.</text>
+</string>
+<string id="zat_alfa_sabotage_talk_boroda_about_reward_dialog_4">
+<text>阿尔法不好惹.感谢上帝,你发现了这一切.</text>
+</string>
+<string id="zat_alfa_sabotage_talk_boroda_about_reward_dialog_5">
+<text>谢谢. 会议之前.</text>
+</string>
+<string id="zat_alfa_sabotage_talk_boroda_dialog_1">
+<text>什么事,大胡子?</text>
+</string>
+<string id="zat_alfa_sabotage_talk_boroda_dialog_2">
+<text>工作如果美中不足.就在这里喝一杯?</text>
+</string>
+<string id="zat_alfa_sabotage_talk_boroda_dialog_3">
+<text>我不会介意, 但服务...服务......在一般情况下,我对工作.我有兴趣知道你是否做了没有...对另一个斯卡多夫斯克...啊啊...有人吗?</text>
+</string>
+<string id="zat_alfa_sabotage_talk_boroda_dialog_4">
+<text>我们常常散步空想,但我注意到.有一天黑帮兄弟 - 两个强盗带着箱子.我不是很熟悉.可能是猫头鹰的东西 - 我不知道.然后,走的时候没带箱子.问问大胡子,即使他们没有向他走去,他也会注意到他们.无论如何,相信我.</text>
+</string>
+<string id="zat_alfa_sabotage_talk_boroda_dialog_5">
+<text>谢谢. 就这样.</text>
+</string>
+<string id="zat_alfa_sabotage_talk_kardan_dialog_1">
+<text>哥们.我有事情找你.</text>
+</string>
+<string id="zat_alfa_sabotage_talk_kardan_dialog_2">
+<text>什么事?</text>
+</string>
+<string id="zat_alfa_sabotage_talk_kardan_dialog_3">
+<text>看到斯卡多夫斯克上甲板有远程控制的炸弹.需要消除它,你就需要一台扫描仪,可能还有更多炸弹.</text>
+</string>
+<string id="zat_alfa_sabotage_talk_kardan_dialog_4">
+<text>天.有趣的东西,它是烟花吗?所以,好吧,我马上就可以想到的...没有别的.嗯,这不是我能应付的.去问基.</text>
+</string>
+<string id="zat_alfa_sabotage_talk_kardan_dialog_5">
+<text>了解. Yet.</text>
+</string>
+<string id="zat_alfa_sabotage_talk_sich_dialog_1">
+<text>你好, 老伙计.有一个特殊的问题问你.</text>
+</string>
+<string id="zat_alfa_sabotage_talk_sich_dialog_2">
+<text>我听你说.</text>
+</string>
+<string id="zat_alfa_sabotage_talk_sich_dialog_3">
+<text>你最近接手过一个箱子吗?大胡子说有些人带着箱子,我想也许卖给了你.</text>
+</string>
+<string id="zat_alfa_sabotage_talk_sich_dialog_4">
+<text>哦,不,不是这样的.但是一些潜行者在斯卡多夫斯克上甲板看到像箱子的东西.来吧,你看,你可以找到它.</text>
+</string>
+<string id="zat_alfa_sabotage_talk_sich_dialog_5">
+<text>很好. 谢谢告知. 就这样.</text>
+</string>
+
+<string id="zat_bandit_base_leader_community_exit_dialog_1">
+<text>我想离开本阵营.</text>
+</string>
+<string id="zat_bandit_base_leader_community_exit_dialog_10">
+<text>那么坐下来,不要自找麻烦.</text>
+</string>
+<string id="zat_bandit_base_leader_community_exit_dialog_11">
+<text>我的钱会够的,下次再来.</text>
+</string>
+<string id="zat_bandit_base_leader_community_exit_dialog_12">
+<text>就这样.</text>
+</string>
+<string id="zat_bandit_base_leader_community_exit_dialog_2">
+<text>要不要我扔你出窗口! 你有问题,就自己想,也许你要人权?或者你要来威胁我?</text>
+</string>
+<string id="zat_bandit_base_leader_community_exit_dialog_3">
+<text>也许是的.</text>
+</string>
+<string id="zat_bandit_base_leader_community_exit_dialog_4">
+<text>该死的东西!</text>
+</string>
+<string id="zat_bandit_base_leader_community_exit_dialog_5">
+<text>不,我要走了,有更好的事情要做.</text>
+</string>
+<string id="zat_bandit_base_leader_community_exit_dialog_6">
+<text>好吧,如果你想离开还保持和平关系 - 要给 5,000 卢布.还等什么?</text>
+</string>
+<string id="zat_bandit_base_leader_community_exit_dialog_7">
+<text>就这样.</text>
+</string>
+<string id="zat_bandit_base_leader_community_exit_dialog_8">
+<text>你可以抱怨,但没人能忍受.</text>
+</string>
+<string id="zat_bandit_base_leader_community_exit_dialog_9">
+<text>钱不够,我会留下一直服务到天堂.</text>
+</string>
+
+<string id="zat_bandit_informer_about_self_dialog_1">
+<text>告诉我关于你的事情.</text>
+</string>
+<string id="zat_bandit_informer_about_self_dialog_2">
+<text>我是一名线人,我卖特异区的信息.我卖的重要信息如储物箱和更多,如果你想要这样的信息,我为您服务.</text>
+</string>
+<string id="zat_bandit_informer_game_call_dialog_1">
+<text>让我们玩游戏.</text>
+</string>
+<string id="zat_bandit_informer_game_call_dialog_2">
+<text>接下来?.</text>
+</string>
+<string id="zat_bandit_informer_intro_call_dialog_1">
+<text>我要一些有价值的信息,你有什么?</text>
+</string>
+<string id="zat_bandit_informer_intro_call_dialog_2">
+<text>正如我说我有很多的信息,但我不会只是出售或给你.我是一个信息迷,所以从我这得到任何信息,你必须回答我的问题.规则如下,你正确回答5个问题,会以意见的形式得到一些有价值的信息,你也将获得了一系列正确的答案,除了为每个正确答案的付款,支付奖金.你明白了吗?</text>
+</string>
+<string id="zat_bandit_informer_intro_call_dialog_3">
+<text>是,明白..</text>
+</string>
+<string id="zat_bandit_informer_intro_call_dialog_4">
+<text>了不起,准备玩了.</text>
+</string>
+<string id="zat_bandit_informer_job_dialog_1">
+<text>我可能会对一些工作感兴趣,如果您有任何可提供的.</text>
+</string>
+<string id="zat_bandit_informer_job_dialog_2">
+<text>真巧,你有没有听说过智慧书?..不..那么让我告诉你,这是说,如果你看过所有三本书,能理解含义并保持自己的清醒,那么它们将填补你知识,纯知识,没有什么问题不能回答.这种知识没有限制.我也知道所有三卷的下落,我只是需要某人收集.那么,你接受挑战?</text>
+</string>
+<string id="zat_bandit_informer_job_dialog_3">
+<text>我有怀疑,这样的事情是可能的吗?甚至在这里,但如果您的付款,我接受.</text>
+</string>
+<string id="zat_bandit_informer_job_dialog_4">
+<text>好,成交.现在上传信息,把它们带来直接给我,不要认为你可以读取它们,这使人疯狂,我多年才找出的秘密.</text>
+</string>
+<string id="zat_bandit_informer_job_dialog_5">
+<text>别担心, 我对书没兴趣,只要交书时付款.</text>
+</string>
+<string id="zat_bandit_informer_job_dialog_6">
+<text>我想我会记住,这听起来有点太疯狂,甚至在这个特异区.</text>
+</string>
+<string id="zat_bandit_informer_reward_dialog_1">
+<text>我搜索所有地方找到这些文件.</text>
+</string>
+<string id="zat_bandit_informer_reward_dialog_2">
+<text>干得好,我谢谢你, 这是奖励.</text>
+</string>
+<string id="zat_bandit_informer_reward_dialog_3">
+<text>谢谢.</text>
+</string>
+<string id="zat_bandit_informer_start_dialog_1">
+<text>你好 Degtyarev.</text>
+</string>
+<string id="zat_bandit_informer_start_dialog_2">
+<text>你好, 告诉我你怎么知道我是谁?</text>
+</string>
+<string id="zat_bandit_informer_start_dialog_3">
+<text>这是我的职业,我在特异区交易信息,我需要知道这样的事情,比如约储物箱的信息.我有有用的信息,如果你想获得信息,我为您服务.</text>
+</string>
+<string id="zat_bandit_informer_start_dialog_4">
+<text>问候你,你需要什么?</text>
+</string>
+
+<string id="zat_bandit_trader_dialog_1_2">
+<text>老兄,您的订单已接受.</text>
+</string>
+
+<string id="zat_bandit_trader_job_dialog_9_2">
+<text>有一件事.下面是故事,有一次我从钢铁森林去斯卡多夫斯克经过加油站,是深夜.似乎那个晚上没有如何好事.幸运的是我并不孤单,有人同行.还有我的枪.因此,我们走路,说话,当然我们喝太多了,突然在我们从左边的灌木丛中沙沙作响.我们提枪.然后从右边来了更多的沙沙声,然后立即再次从右侧和左...我必须承认,我们受到了惊吓,并开始在各个方向射击...然后,我们检查灌木丛,但没有,我们没有打中.嗯,我想我们要疯了.....更多的沙沙声.因此,我们再次开始射击...但再次甚至没有一个血,然后野猪突然从背后袭击兄弟之一......我们最终设法杀死野猪,幸运的是我的兄弟还活着.并回基地.一旦在基地,我突然想起在那该死的猪的攻击,我放弃了我的手电筒,以保持紧握我的枪.从那时起,我已经没有了我的手电筒,仍然躺在附近某个地方,这是肯定的.我想你去那里,并找到我的手电筒.你说呢?</text>
+</string>
+
+<string id="zat_sich_minigame_21_point_dialog_21_1">
+<text>封锁线.</text>
+</string>
+<string id="zat_sich_minigame_21_point_dialog_21_2">
+<text>沼泽.</text>
+</string>
+<string id="zat_sich_minigame_21_point_dialog_21_3">
+<text>农研所.</text>
+</string>
+<string id="zat_sich_minigame_21_point_dialog_21_4">
+<text>红森林.</text>
+</string>
+<string id="zat_sich_minigame_21_point_dialog_21_5">
+<text>黑暗山谷.</text>
+</string>
+<string id="zat_sich_minigame_21_point_dialog_21_6">
+<text>军方仓库.</text>
+</string>
+
+<string id="zat_stalker_elbrus_dialog_2">
+<text>好吧. 我正执行剑的命令.</text>
+</string>
+
+<string id="zat_stalker_medic_job_dialog_1">
+<text>Hi,你需要帮忙吗?</text>
+</string>
+<string id="zat_stalker_medic_job_dialog_2">
+<text>有一件事,我最近开发的解毒剂需要提供给我亚诺夫车站同行.需要尽快交给他.我相信你能做这个工作?</text>
+</string>
+<string id="zat_stalker_medic_job_dialog_3">
+<text>我会做.</text>
+</string>
+<string id="zat_stalker_medic_job_dialog_4">
+<text>好, 给你, 坐标传到你PDA,我指望你了,完成它, 祝你好运.</text>
+</string>
+<string id="zat_stalker_medic_job_dialog_5">
+<text>Okay.</text>
+</string>
+<string id="zat_stalker_medic_job_dialog_6">
+<text>我会记住的.</text>
+</string>
+<string id="zat_stalker_medic_reward_dialog_1">
+<text>接骨师说我需要返回问你付款,现在我已经完成了任务,我必须告诉你,他会稍后联系你.</text>
+</string>
+<string id="zat_stalker_medic_reward_dialog_2">
+<text>是的,我预计要他花一小会儿.请接受我谢谢您的奖励,现在我相信在未来可以再叫你帮忙.</text>
+</string>
+<string id="zat_stalker_medic_reward_dialog_3">
+<text>你会在附近找到我只管问, 谢谢.</text>
+</string>
+
+<string id="zat_stalker_trader_dialog_1_2">
+<text>你好,潜行者, 你要什么? 选择你想要的,支付定金..</text>
+</string>
+
+<string id="zat_stalker_trader_dialog_38">
+<text>OC-33</text>
+</string>
+
+<string id="zat_wounded_monolith_dialog_18">
+<text>Okay.</text>
+</string>
+
+</string_table>

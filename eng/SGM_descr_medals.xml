@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string id="st_medal_50_title">
+	<text>Superiority 'Beginner'</text>
+</string>
+ 
+<string id="st_medal_50_descr">
+	<text>The reward for the achievement of rank. Is issued if the current rank of more than 50. To convert into capital - must be used.</text>
+</string>
+ 
+<string id="st_medal_100_title">
+	<text>Superiority 'Pathfinder'</text>
+</string>
+ 
+<string id="st_medal_100_descr">
+	<text>The reward for the achievement of rank. Is issued if the current rank of more than 100. To convert into capital - must be used.</text>
+</string>
+ 
+<string id="st_medal_250_title">
+	<text>Superiority of 'Stalker'</text>
+</string>
+ 
+<string id="st_medal_250_descr">
+	<text>The reward for the achievement of rank. Issued if the current rank over 250. To convert into capital - must be used.</text>
+</string>
+ 
+<string id="st_medal_500_title">
+	<text>Superiority 'Experimental'</text>
+</string>
+ 
+<string id="st_medal_500_descr">
+	<text>The reward for the achievement of rank. Is issued if the current rank of more than 500. To convert into capital - must be used.</text>
+</string>
+ 
+<string id="st_medal_750_title">
+	<text>Superiority 'Veteran'</text>
+</string>
+ 
+<string id="st_medal_750_descr">
+	<text>The reward for the achievement of rank. Issued if the current rank over 750. To convert into capital - must be used.</text>
+</string>
+ 
+<string id="st_medal_1000_title">
+	<text>Superiority of 'Master'</text>
+</string>
+ 
+<string id="st_medal_1000_descr">
+	<text>The reward for the achievement of rank. Issued if the current rank over 1000. To convert into capital - must be used.</text>
+</string>
+ 
+<string id="st_medal_1250_title">
+	<text>Superiority of 'elitist'</text>
+</string>
+ 
+<string id="st_medal_1250_descr">
+	<text>The reward for the achievement of rank. Issued if the current rank over 1250. To convert into capital - must be used.</text>
+</string>
+ 
+<string id="st_medal_1500_title">
+	<text>Superiority of 'Hero of the area'</text>
+</string>
+ 
+<string id="st_medal_1500_descr">
+	<text>The reward for the achievement of rank. Issued if the current rank over 1500. To convert into capital - must be used.</text>
+</string>
+ 
+<string id="st_medal_1750_title">
+	<text>Superiority 'Greatest stalker'</text>
+</string>
+ 
+<string id="st_medal_1750_descr">
+	<text>The reward for the achievement of rank. Issued if the current rank over 1750. To convert into capital - must be used.</text>
+</string>
+ 
+<string id="st_medal_2000_title">
+	<text>Superiority of 'Call of Pripyat'</text>
+</string>
+ 
+<string id="st_medal_2000_descr">
+	<text>The reward for the achievement of rank. Issued if the current rank over 2000. To convert into capital - must be used.</text>
+</string>
+ 
+<string id="st_silver_coin_descr">
+	<text>Old silver Russian ruble. Outside the zone would have a good price.</text>
+</string>
+ 
+<string id="st_gold_ten_coin_descr">
+	<text>Ancient golden ducat. Found in the cave ...</text>
+</string>
+ 
+<string id="st_medallion_strelka_descr">
+	<text>Gold locket on a silver chain, owned by the arrow.</text>
+</string>
+ 
+<string id="st_zheton_stalker_descr">
+	<text>Badge stalker: \n Name: Shooter \n Grouping: Monolith \n Rank: 1200 \n Reputation: 900</text>
+</string>
+ 
+<string id="st_silver_coin_title">
+	<text>'Silver ruble'</text>
+</string>
+ 
+<string id="st_gold_ten_coin_title">
+	<text>'Golden ducat'</text>
+</string>
+ 
+<string id="st_medallion_strelka_title">
+	<text>Medallion 'Arrow'</text>
+</string>
+ 
+<string id="st_zheton_stalker_title">
+	<text>Badge 'S.T.A.L.K.E.R'</text>
+</string>
+ 

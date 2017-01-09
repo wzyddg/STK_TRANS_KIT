@@ -1,0 +1,1029 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_2_dialog_0">
+<text>洛基,行动失败,但结果是 ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_2_dialog_1">
+<text>But you suchenysh. Obyanitsya wilt, or flow directly into you?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_2_dialog_2">
+<text>我没有办法..一切都在按计划进行.Dolgovtsev 设置了,但你手下都死了.Campaign that order was and blue ..</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_2_dialog_3">
+<text>这是哪儿来的?你这个骗子.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_2_dialog_4">
+<text>你想的-是错误的,但我没有说谎.这份合同was in blue.他们杀你手下拿走货物了 ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_2_dialog_5">
+<text>好吧,暂且相信.With the blue question 将得到解决.在此期间,消失...没有更多的冒险.你必须keep an ear to the urgent.至少在很长一段时间,并得到它.走吧.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_2_dialog_6">
+<text>祝你好运.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_1_dialog_0">
+<text>作为非常有价值的信息,有兴趣?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_1_dialog_1">
+<text>找那信息.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_1_dialog_2">
+<text>一组科学家和一个非常有价值的货物,这可能令您感兴趣另外,你给他们一巴掌已经想了很长一段时间.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_1_dialog_3">
+<text>有趣的消息,那你想要什么?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_1_dialog_4">
+<text>保护科学家们的只有一个小队.有必要消灭他们,我需要你的士兵小队.帮忙吗?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_1_dialog_5">
+<text>人类不会只有一只手!通吃.明天将是我的人在河湾,等着...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_1_dialog_6">
+<text>我们正在做...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_0">
+<text>问候你! 你应该是苏丹的人?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_1">
+<text>那, 你一直在期待着我,你知道为什么我在这里,不如我们跳过问候,你告诉我,你知道什么.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_2">
+<text>对!.... 我知道很多事情,我听,我看,我记得.但不是一切都可以共享 ...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_3">
+<text>我不想玩游戏.你有任何信息给我吗?如果你有告诉我.你知道苏丹感兴趣的是什么?如果没有,不要浪费我的时间.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_33">
+<text>好吧..他从事走私活动.基本上,他提供的武器.他还安排特别是珍贵神器的搬运,使用免费的潜行者.他们中的许多人定期运送货物,通过封戒线.他总是似乎有某人在军方掩盖他的业务往来.特异区这里的人们总是试图分一份.雅库特是知道一切有关这些交易和安排的人,并参与,理想主义者和支持者.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_4">
+<text>那么你是苏丹需要时在木星的耳目?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_44">
+<text>是. 但仅此而已,这是生意,人们都知道,只要支付,我就会说出来.他知道我有良好的信息和我的信息是可靠的.我这是为了钱,如果有人不付钱给我,然后我会沉默.在特异区的每个人都有他们的才华和生命,这是我的...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_5">
+<text>关于你知道什么Yakut?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_6">
+<text>他不久前被人抓住并带走.他们是苏丹的竞争对手.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_7">
+<text>他们是谁?潜行者,佣兵也许?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_8">
+<text>潜行者不希望卷进麻烦的业务,佣兵不会这么做特别是走私.当他们这样做,他们有自己的渠道.事实上,是另一个强盗阵营.无论出于何种原因,他们决定扩大自己的地盘,直到苏丹那里.苏丹的人做事的时候被抓住,那些人和Chapaev's人有关联.更确切地说,是一个家伙和他的追随者.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_9">
+<text>那, 继续, 我怎么找到他,他们在哪?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_10">
+<text>他的名字是卢西安.他最近从利曼斯克抵达.有传言说,他是一个利曼斯克叛徒的大玩家,但我一直无法证实这一点,所以我不知道这是否正确的,他最近发现使用新的路线,通过红森林到这里.只是一件事,他认为苏丹不配在这里.苏丹的业务是他想要的东西,他打算清除他.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_11">
+<text>Okay. 那么,他们在哪里留住雅库特?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_12">
+<text>在恰帕耶夫控制的基地.坐标,我给你发送了.不要忘记让苏丹知道我提供这个信息帮助</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_13">
+<text>谢谢指点. 要小心.像你这样职业的人通常不能久活...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_14">
+<text>你也是. 祝你好运.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_15">
+<text>同祝...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_0">
+<text>你好, 苏丹.有我感兴趣的工作信息吗.我不认为你不会有什么?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_1">
+<text>Hmm, 有一件事,有传言说你是政府的探员,不仅如此,也是军方的人?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_01">
+<text>那, 流言肯定是在这里有效,如果你不想试试我,我将离开你,再见.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_2">
+<text>谣言可能是正确的,但还等什么!T它不会改变事实,我还是提供一些工作机会,你可能会看到适合的.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_3">
+<text>那是谁散布这样的谣言?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_33">
+<text>这不用你关心.我相信来源,只是这样.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_333">
+<text>好吧, 但这并不意味着我们不能一起occassions工作</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_4">
+<text>也许你对, 也许.我们可以一起工作.但记住,这些都是严肃的事情,如果你参加的事情,不符合我们的任何协议,或损害我,你会发现自己吊在港口起重机,这将一直折腾到死.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_5">
+<text>我不打算挂着,你不必担心我的任何问题,那么你到底想让我做什么?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_6">
+<text>有一个优先对待的问题.最近我的一个人偷我的东西.这个愚蠢的混蛋被称为雅库特,他偷走了我的一些非常有价值的文件...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_7">
+<text>什么样的文件?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_8">
+<text>一些我的商业事务,但不要紧,不会找到任何会引起麻烦的东西.那有详细说明入区运送武器和其他物品.我的原则超过价值.对于雅库特,在这样的行动可以切断了他的喉咙,但首先你需要说服他告诉你隐藏的文件.然后当然 ,还给我.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_9">
+<text>好吧, 你觉得我在哪能找到雅库特?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_10">
+<text>我知道不需要为您提供,我有一个建议在何处开始搜索.你将需要到自由团去和我的线人谈话.我被告知,他最近看到了雅库特.我会送消息,他在亚诺夫站附近等待你,我确保.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_11">
+<text>明白,我会去见他.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_1_0">
+<text>苏丹,解决情况了,但有点曲折.总之,我们得到了东西.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_1_1">
+<text>就像一个煎饼.所以我认为你不能相信这件事情.常识,忘了吧.你什么prosak命中.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_1_2">
+<text>那, 不是我,或者说你的巴吉尔.只是在prosak,变异点.连同文件.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_1_3">
+<text>Hmm, 你认为我会相信?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_1_4">
+<text>我不能告诉你相信什么,无论你要相信或没有,巴吉尔背叛了你.也许他觉得你克扣他.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_1_5">
+<text>雅库特怎样?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_1_6">
+<text>死了.然而,所有的文件被破坏.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_1_7">
+<text>那, 这是你如何处理给你的工作,然后呢? hmmph,我查一下你说的.现在离开.你没有得到任何金钱.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_vibor_0">
+<text>在这里,取你的文件.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_vibor_1">
+<text>Oh, 这就是我想的.好样的.雅库特怎样?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_vibor_2">
+<text>您的业务的竞争对手杀了他.你听说过叫卢西恩一个小伙子吗?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_vibor_3">
+<text>卢西恩.....卢西恩... AHH是,我记得.现在一切都清楚了.巴吉尔说过他的.小鱼苗,前利曼斯克叛徒.没有更多了.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_vibor_4">
+<text>他试图通过获取所有信息接管你的业务,所以我不会说,我会说他是一个很大的问题,或者正在成为一个.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_vibor_5">
+<text>那, 如果这么回事,那么我们将解决这个问题.巴吉尔告诉我,他很快将进入到木星.因此,正好可以杀死他.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_vibor_6">
+<text>考虑他已不再长久...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_2_0">
+<text>卢西恩和他的部下死了.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_2_1">
+<text>好. 你是否高兴来做生意.这里是你的份额. 祝你好运. 我们不会忘记你的帮助.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_2_2">
+<text>再见.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_0">
+<text>永远自由!T</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_1">
+<text>我能帮什么, 你为什么来这里?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_2">
+<text>你有一个名为巴吉尔的战士?我有他的信息.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_3">
+<text>什么? 他发生了什么事?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_4">
+<text>那, 我的信息更普遍的,他已经销售信息.出售任何信息,他认为,包括你的秘密.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_5">
+<text>更具体的?给我一些具体的,让我相信你?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_6">
+<text>具体来说.我被苏丹派来对付他.他细语很多事情给他.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_7">
+<text>这实际上使一些最近发生的事件说得通.还有什么呢?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_8">
+<text>最近有人杀死苏丹手下雅库特.他是巴吉尔经常联系的人.我看见一堆歹徒从他那得到你手下的信息.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_9">
+<text>那, 我相信你. 这一切能解释了,现在我知道这一点,最近发生的事件怎么会变成这样.所以告诉我你想要什么?为了对付巴吉尔?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_10">
+<text>我对付他. 我只是不希望任何打扰,我需要你告诉我,他现在在哪里.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_11">
+<text>不远处的水泥厂.在你的PDA的坐标.我不喜欢老鼠.所以我会闭上眼睛.坏事情常发生.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_12">
+<text>就这样.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_0">
+<text>你是谁? 你想要什么?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_1">
+<text>我在工作,关于那个跪着的人.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_2">
+<text>你怎么知道他? Well 说, 快! 对你他是什么人 ...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_3">
+<text>他是苏丹的人.他们正在寻找他,他试图运送属于苏丹的东西.苏丹不喜欢别人动他的东西...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_4">
+<text>Hmm, 苏丹有他的一天.我会很快取代苏丹和然后每个人都须顺应我,而不是那个傻瓜.不管怎么样,你需要是什么?你不说.我也许能帮助你.明智的是,你与我打交道而不是那条狗...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_5">
+<text>我认为,苏丹将生气,一旦他知道你的计划,他可能不是你的期望的那么轻松取胜.你一定会成功中,就是造成一场屠杀.这就是你想要的吗?你需要不仅仅是这欢快的乐队,是苏丹,如果你明白这一点,仍然觉得这是你的时代,告诉我怎么做?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_6">
+<text>提供什么?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_7">
+<text>这会击倒Gavrik.他已经失去了他的有用性.相信我,他的日子屈指可数.但首先我需要知道他在哪里藏偷来的文件.之后,我会把它们给你...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_8">
+<text>听着,你的话是有意义的.所以看起来不那么担心,现在告诉我你决定做什么,当你得到苏丹的文件?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_9">
+<text>我不知道它是如何有用.我需要考虑某事.如果我只是给你的文件,我会离开河湾.所以现在我决定如何进行.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_10">
+<text>来吧,不要忘记这里所有的计划最终将属于我的 - 考虑到这,你会不欢迎.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_11">
+<text>我们会看到.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_01">
+<text>那, 你带文件来了?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_02">
+<text>还没.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_03">
+<text>是, 拿着.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_031">
+<text>Oh, 干得好. 我没想到你做到了.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_032">
+<text>正如我所说,他不好对付.所以,现在你必须离开河湾一段时间.我需要做决定下一步要做什么.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_033">
+<text>是, 现在,我们将去利曼斯克.从这些信息中,我们将弄清我们的下一步行动.同时,你有别的事情处理.巴吉尔出卖我们,给你的.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_034">
+<text>他是亚诺夫自由团的一部分,也是与苏丹有交易,但出来混总要还.他是不可信的败类.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_035">
+<text>那, 我想最好除掉他.告诉洛基他打小报告.他应该立即紧张起来.至于苏丹,我会说,巴吉尔在我之前得到的文件.或他跌倒在异常点或其他, 也许 ...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_036">
+<text>老生常谈莫名其妙.但没有.主要的事情,要去相信.祝你好运.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_yakut_dialog_0">
+<text>你是谁 ..? ...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_yakut_dialog_1">
+<text>你唯一的机会.你偷了苏丹的文件?你要告诉我.如果你,那么我会走开,没多久后,这些家伙会确保你保持沉默......永远,如果你想.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_yakut_dialog_2">
+<text>Hmm .. .. 我会死 ... 他们没有,所以苏丹怪才prikonchat....</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_yakut_dialog_3">
+<text>文件在哪里.死了,他们告诉你完全无关.及你说的 - 有一个机会你可能生,只是我一句.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_yakut_dialog_4">
+<text>来吧,我会好好把握机会,有三个储物箱.在扎通,在废料回收站和木星雷达站下...另一个在亚诺夫,在附近的采石场挖掘机...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_yakut_dialog_5">
+<text>那, 你决定告诉我,这是很好的.但告别了.说实话,你不能离开,所以抱歉,但这一地方将是你安息的地方...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_yakut_dialog_6">
+<text>你这该死的...笨......怪物...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_yakut_dialog_7">
+<text>And 你和我已经找到 ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_freedom_kom_2_dialog_0">
+<text>你是洛基派来的家伙?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_freedom_kom_2_dialog_1">
+<text>没错. 我希望你们最终走到一起好吗? 纪律团会马上就来了.采取的据点,等待敌人出现.射击头部.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_freedom_kom_2_dialog_2">
+<text>是, we put these geeks - then you yourself, take what's on nauchnikov necessary, and we go ... we will do His work.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_freedom_kom_2_dialog_3">
+<text>满意.只是我不oplashay...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_freedom_kom_2_dialog_4">
+<text>It's not you oplashay too me sbushnik ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_freedom_kom_2_dialog_5">
+<text>祝你好运, Freeman - she'll come in handy ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_killer_osman_2_dialog_0">
+<text>Are you done, sbushnik. Look how wisely not solve everything. It was nice to watch from afar the work of pros. Even it was not necessary to intervene.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_killer_osman_2_dialog_1">
+<text>How could, and not solve. 你是谁?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_killer_osman_2_dialog_2">
+<text>I Sam. Diluting the north-western teams.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_killer_osman_2_dialog_3">
+<text>接下来? Need to clean up the tracks. Duty and Freedom can I calculate ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_killer_osman_2_dialog_4">
+<text>So what now? Konfrantatsii between clans vryatli to avoid ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_killer_osman_2_dialog_31">
+<text>The main thing that you have fulfilled the order. The syndicate will not forget. With the clans 不要担心. Loki with Shulga - even those assholes. You will believe a word. Come up with something to say. Svali on us, if you want. They have the guts to contact us in the open ... will know that the syndicate will always have the last word. And most importantly - themselves, these jackals gnawed each other's throats. We just pushed them in the right direction.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_killer_osman_2_dialog_32">
+<text>A good slap Freedom and debt. Do not say anything. These documents nauchnikov - do you need?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_killer_osman_2_dialog_33">
+<text>Leave a Case. Will you give to someone from the clan leaders. We are not interested in it.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_killer_osman_2_dialog_34">
+<text>And I do not work for pologaetsya?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_killer_osman_2_dialog_35">
+<text>It should be. The neutral attitude of our team. That you enough. All go. And forget that he had seen me ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_killer_osman_2_dialog_36">
+<text>那, sometimes.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_killer_osman_2_dialog_41">
+<text>Avoided. Is that what you resolve. Talked to their leaders, convincing in his innocence to what has happened. Can you blame everything on us. They have the guts to communicate with the syndicate.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_killer_osman_2_dialog_42">
+<text>I'm owed something for his trouble? Or are you stupid me used by putting in a very disadvantageous position in relation to the groups.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_killer_osman_2_dialog_43">
+<text>Due. Our neutrality. That is enough.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_killer_osman_2_dialog_44">
+<text>No, my friend is not enough. Use me 我会 not let ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_killer_osman_2_dialog_45">
+<text>Already allowed. Go away or you will regret his words.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_killer_osman_2_dialog_46">
+<text>Is that you, 抱歉 ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_1_2_dialog_0">
+<text>洛基, 我很抱歉, 你所有的士兵被打死 ... 佣兵干的 ..</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_1_2_dialog_1">
+<text>真的吗?我有其他的信息...这说明一切,所以不怪什么,谎言就在你的脚下?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_1_2_dialog_2">
+<text>这里是信息和文件,我答应的.拿它们...你可能不相信,但我没有说谎,这一切是佣兵的一招 ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_1_2_dialog_3">
+<text>看看. Go otsyudova until 我改变主意了 ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_dialog_0">
+<text>我有一些非常有价值的信息,您会感兴趣的?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_dialog_1">
+<text>Hmm, 那, 什么?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_dialog_2">
+<text>有一个打击纪律团,影响地区声誉的机会</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_dialog_3">
+<text>目前有亚诺夫相互停火,我不能公开打破,但我可能会考虑一个隐蔽的行动.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_dialog_4">
+<text>在这种情况下我建议你送一个小团队帮我扰乱纪律团提供保护扬塔科学家的任务,他们在远征.我们需要干掉一些,和在扎通的理论家.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_dialog_5">
+<text>原则上是可能的. 你要什么?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_dialog_6">
+<text>您将需要提供一队士兵.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_dialog_7">
+<text>好吧,明天他们将在那里...只要告知他们埋伏的地方</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_dialog_8">
+<text>那, 不要担心. 只在乎成功的任务.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_dialog_9">
+<text>你最好通知Shulga你听到消息人士,说会有人在另一个地方...而且他们发送其所有小队到河湾.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_loki_2_dialog_10">
+<text>不要担心...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_0">
+<text>祝你健康, 上校同志.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_1">
+<text>And you, 我希望你没有得到什么病?究竟SBU探员在这里做什么?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_2">
+<text>Well 我们调查已经探出的信息,我们必须报告科学家的情报.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_3">
+<text>Well我称赞你,我们开始与他们合作的一个很好的通道,告诉我你知道什么?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_4">
+<text>你知道,我们不能透露我们收到我们的信息,我们只是觉得这是非常重要的,我们从你这得到了什么.你需要准备针对一组科学家的突袭,当他们在扎通的研究你提供保护...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_5">
+<text>在哪里,谁攻击?我会多派两个小队到河湾 ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_6">
+<text>是谁不要紧,上校...一些额外的人是没有帮助的.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_7">
+<text>你是什么意思 - 这没有帮助.然后你有什么建议吗?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_8">
+<text>我可以处理好客户 - 你需要安排科学家小组从另一条路线到达扎通.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_9">
+<text>那, 我不得不转移士兵从普列奥布拉任斯基桥到目标点.我希望你不会失败...我真的不喜欢这个计划.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_10">
+<text>别担心 我不会让你失望 ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_0">
+<text>你为什么在这里?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_1">
+<text>你不必为此担心,这不是你的关心只是心存感激,你已经被允许进入这里.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_2">
+<text>谢谢.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_22">
+<text>Hah, 现在走开.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_222">
+<text>如你所愿 ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_3">
+<text>Hmm, 看来在这里有些事情正在发生.这让我不知道我可以.....</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_33">
+<text>听着,你聪明的最好滚蛋,不要管不关你的事.另外你谋划什么?黑帮并没有透露计划给任何人.你那么积极究竟想干什么..</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_333">
+<text>就像喜欢的食物,我只是想帮忙,你们有没有别的事情我可以做?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_4">
+<text>我问一问,只是我想知道,你有什么工作给我?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_5">
+<text>嗯...有一件事,听好了......最近,我们收到的订单令人为难,会被知道我们运东西出去</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_6">
+<text>继续.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_7">
+<text>最近一组科学家抵达特异区北部,基地在扬塔.我不知道他们在那里为什么,而我听说此事毫无意义,但我知道的是,这些科学家们雇了向导,亚诺夫纪律团提供保护.他们保护这里的地方,从扎通到异常区,这是唯一使我的生意难以开展..</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_8">
+<text>纪律团?嗯,必须是一个重要的使命,才要雇用这样的保护.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_9">
+<text>这可能是重要的,但,你也许已经猜到,我们的目标是,消除该小队.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_10">
+<text>为什么你有这个问题?这不像你们与纪律团的盟友关系.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_11">
+<text>没有没有,但目前我们需要避免针对纪律团.至于原因,我不能与你讨论...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_12">
+<text>好吧,所以,如果你不会告诉我,让我们说说重点,你说,你要我为你做肮脏的工作?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_13">
+<text>简而言之是,完成工作,你会得到一个丰厚奖励.顺便说一句,雇人做事是合理的.例如自由团.但重要的是,对自由团和纪律团保持秘密.非常重要!记住这一点.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_14">
+<text>Okay 我同意. 只是让我去想一想如何决定.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_15">
+<text>好吧, 确信你要去做.不要太久,潜行者.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_0">
+<text>我有非常重要的信息给你.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_1">
+<text>真的? So 你想要告诉我什么? 说.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_2">
+<text>A group of scientists. With Amber. They were ordered. Blue. Artists from the most likely freedom.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_3">
+<text>你怎么知道?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_4">
+<text>Just know that. Order your men just does not work, and lie with egg heads ....</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_5">
+<text>Possible singer - the freedom to speak. 那, believe, but check it. We proceed in this way. Tell Loki saw nauchnikov who went to the Creek. Does not explain anything. Offered him help, he will believe, I know him ....</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_6">
+<text>Do you think he will team?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_7">
+<text>I do not think and believe. Even if customers hired the blue - Fremen do not miss the chance to do the job ahead of them.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_8">
+<text>接下来我做什么?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_9">
+<text>Freedom to play off the blue and I especially do not want. Although it is possible and to do so. Generally, if Loki agree, then decide what to do ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_10">
+<text>All I have to Loki ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_za_dolg_end_dialog_0">
+<text>我不明白,为什么?. 一天你要我帮忙,然后又害我.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_za_dolg_end_dialog_1">
+<text>是 ... you were a means to an end. You came to us, you yourself 同意 to help. That has helped. So it hasn't gone so well for you but what we needed doing has been done ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_za_dolg_end_dialog_2">
+<text>So that's what this was all about. Causing friction between Duty and Freedom. Well 我不会 allow let myself be used in this way...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_za_dolg_end_dialog_3">
+<text>It has already been done, what you do now makes no difference to me ... I have fulfilled my task. A slap in the face of Duty from the syndicate just received by Freedom. That was the whole point.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_za_dolg_end_dialog_5">
+<text>不要担心, raskhlebayu.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_za_dolg_end_dialog_4">
+<text>You already ran the tasks we needed you to, Now your nothing but collateral...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_za_dolg_end_dialog_6">
+<text>是, and I spit on duty with freedom - let him do as they please, and swivel ..</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_za_dolg_end_dialog_66">
+<text>Not a wise decision. You lit up, and those and others. Now you just do not bear the head ... Wait until one or the other will send you a bullet in the forehead. But our goal has been achieved. Everything is free.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_za_dolg_end_dialog_666">
+<text>是, andyou're gone.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_2_dialog_0">
+<text>Shulga, 我很抱歉, but the detachment of the debt and all the scientists were killed ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_2_dialog_1">
+<text>怎么会这样? 快告诉我 ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_2_dialog_2">
+<text>Everything went as we have 同意 ... I svobodovtsev destroyed, but the mercenaries - they were originally rigged it to pit clans. I did not expect this turn of events ....</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_2_dialog_3">
+<text>Mercenaries say ... 那, let's believe it ... where the goods?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_2_dialog_4">
+<text>I had to give svobodovtsam not to slaughter has risen among your clans. I said that blue was killed, and their team, too ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_2_dialog_5">
+<text>Damn ... go show your Freedom not quit ... 那, okay - go for a walk. And no longer interfere in such adventures, you can not always get away with it ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_2_dialog_0">
+<text>Shulga, 我很抱歉, 但你送的支队和所有的科学家被杀害 ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_2_dialog_1">
+<text>Your division! And then you command your trust? What went wrong?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_2_dialog_2">
+<text>Mercenaries. They destroyed the scientists before my arrival. I have no idea how they found out about the workaround.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_2_dialog_3">
+<text>And from what I have to believe in some mercenaries?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_2_dialog_4">
+<text>That case, the documents, that were with the scientists. if they were so important to me why would I bring them to you?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_2_dialog_5">
+<text>那, let's say, must have been originally blue carry the damn order? It is painful smacks svobodovskim trace.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_2_dialog_6">
+<text>No, nothing to do with the Fremen. The thing mercenaries.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_2_dialog_7">
+<text>Curse ... So, in short disappear from my eyes. So many bad guys because of your council put ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_2_dialog_8">
+<text>All leave. I feel 抱歉 for a long time.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_0">
+<text>祝你健康, Comrade Colonel.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_1">
+<text>And you do not get ill with anything here? As SBU doing?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_2">
+<text>是, live quietly - do not complain. Here, our investigation reported - with scientists say you recently worked closely.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_3">
+<text>Well 有一件事 in common with it. And this is how you care?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_4">
+<text>是, that's - one received information, it is extremely important. Prepare for a raid against a group of scientists who arrived at the Creek for research ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_5">
+<text>Where and who proznal? I now send two more on the squad's Creek ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_6">
+<text>It does not matter who proznal, Colonel ... And the extra people there are absolutely no help.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_7">
+<text>你什么意思 - did not help. Then what do you suggest?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_8">
+<text>I can deal with customers - you also need to arrange a group of scientists arrived at the Creek by another route.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_9">
+<text>那, I'll have to divert soldiers nauchnikov a detour from the bridge to the Transfiguration of the target point. I hope you will not fail ... But anyway I really do not like.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_10">
+<text>Do not let you down ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_wounded_helper_dialog_0">
+<text>药箱... 救命...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_wounded_helper_dialog_1">
+<text>你可以先回答我的问题.这里发生了什么?谁杀死了科学家?货物为什么丢下?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_wounded_helper_dialog_2">
+<text>指挥官,他下令攻击......该计划是...制造麻烦......纪律团和自由团之间的....并使它看起来像......你的杰作...现在一切完成...反正......谁会被杀害......没关系...最重要的是,...该犯罪集团的攻击成功...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_wounded_helper_dialog_3">
+<text>你混蛋,这是你的杰作,而不是我.该死的佣兵...我会证明这一点......至于你,这是死亡的时间.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_0">
+<text>我找工作,有什么最近发生的,您需要帮助吗?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_1">
+<text>附近怎么了?在这个区域?少校,你是在开玩笑,总是有事情发生.虽然严重...似乎什么在扎通北面绕来绕去.最近,潜行者正在消失,如果这还不够坏,我们已经开始失去北上的潜行者,在那里消失得无影无踪.我们甚至没有找到任何躺在附近的幸存者或者尸体,所以我们不能认为是突变体的袭击.这是我们以前没有见过的情况,我们不能解释它,这让人们担心.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_2">
+<text>有趣.关于这个情况,是否有任何你能告诉我的?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_3">
+<text>嗯 , 让我想一想.... 现在除了空想和假设以外没什么特别的能告诉你的了. 不幸的是我们现在就知道这么一点. 至于这些伙计的命运, 嘛... 我甚至不敢冒风险去猜测, 尽管此地的强盗们看起来遇到了同样的情况所以我们可以把他们排除,但自从一个叫做号角的人领着的一大伙人消失以后，大家开始越来越焦虑.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_4">
+<text>也许你是对的, 我们或许可以排除常规的嫌疑人, 但是我们在确定一切之前要获得更多消息...</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_5">
+<text>那么对于这些消失事件, 你认为发生了什么?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_41">
+<text>我们最好把注意力集中在最近到来的黎明潜行者小队的失踪情况上. 他们有我们破船的一个向导跟随他们. 一个叫号角的家伙. 他在领航员不去的路线上带路. 他们一起离开,但是有一段时间没有消息了...</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_42">
+<text>黎明在扎通干什么?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_43">
+<text>我们不知道他们要干什么,但我们尽全力理解. 他们是一伙奇怪的家伙, 在某些方面和纪律团很相似. 目标明确的空想家... 但我们好像并不很了解他们. 对于他们来做什么,我也没什么想法. 我只知道他们来到这,雇佣了号角,然后就消失了.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_44">
+<text>所以没办法联系他们?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_45">
+<text>没有,我们等了一阵,然后试图与他们联系,但都无济于事......号角是一个经验丰富的向导,还有那些黎明...一队人怎么可能平白无故就消失呢?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_46">
+<text>那么这个号角,他知道地形和自己在做什么,电磁风暴最近也没有大到足以从根本上改变该地区的地形,我们可以排除这种可能性.我很好奇他们在干什么?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_47">
+<text>少校, 看起来这是一个严重的问题.尝试找出你可以找的线索,也许你可以找当地人问到一些有用东西.帮助我们,你会得到一份不错的奖励.先去问问破船的管理者大胡子吧 .</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_48">
+<text>好吧, 我会尽力的 ...</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_50">
+<text>黎明小队.说实话,我很难想象这样一个小组发生事情,与他们的一起的号角也是经验丰富的向导,他们怎么会消失无踪...</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_6">
+<text>什么吸引黎明来这里?他们在找什么?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_7">
+<text>号角可能有敌人?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_61">
+<text>我不知道那些理想主义者将在这里做什么,或者他们可能会想要什么.我听到有很多目击人看到他们一直在木星和亚诺夫附近.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_62">
+<text>好的, 我会尽力找到答案.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_63">
+<text>少校, 这很快会演变成很严重的事态.你的帮助会很有用，也许你该问问附近的人们有什么我漏掉的信息，这些可能有助于你的调查.先去问问破船的管理者大胡子吧 .</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_64">
+<text>好吧, 我会尽力 ...</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_71">
+<text>几乎我们所有人在特异区都有敌人,少校.但我不相信有人会决定在此刻报复号角,至少当他和一队潜行者一起时...一对一时很容易干掉他,但当他和一个小队同行的时候这并不容易.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_72">
+<text>为什么你这么肯定?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_73">
+<text>号角是个好伙计,他从来不真正和别人敌对,所以我无法想像有任何人有足够的理由和他作对,而且他与黎明小队一起.即使有,也不必在那个时候,有大量的机会很容易除掉他,不...我觉得还有别的事情发生.问问附近的伙计们知道什么.帮助我们调查下去,你会得到一个体面的报酬.先去问问破船的管理者大胡子吧.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_74">
+<text>好吧, 我会尽力 ...</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_boroda_dialog_0">
+<text>亲爱的, 你有没有听说最近的失踪事件?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_boroda_dialog_1">
+<text>没有多少..看来现在冈塔让你帮他调查这个,来一杯么(来一发么)?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_boroda_dialog_2">
+<text>现在还是算了吧, 对于那些失踪的潜行者和最近的失踪事件你听说到什么细节了么?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_boroda_dialog_3">
+<text>恐怕除了冈塔告诉你的我不知道别的什么了. 人们在特异区对事情总是会很健忘.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_boroda_dialog_4">
+<text>我注意到了. 那么, 你能告诉我关于号角的什么事情?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_boroda_dialog_5">
+<text>他是个像样的家伙? 他第一次来的时候, 领航员照看了他, 并且好好地教了他一些东西. 他能够在一英里外闻到变异点的气息. 他曾经是个很棒的向导和追踪者.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_boroda_dialog_6">
+<text>关于他最后一次工作你知道些什么?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_boroda_dialog_7">
+<text>我所知道的一切就是他被雇佣去给一个黎明小分队当向导. 5天前他们离开了,从那之后再也没有他们的消息. 冈塔自从失踪事件开始就在关注,并且想要找出发生了什么, 但其他一些需要他注意的事情出现了. 所以他雇佣了你来帮他调查.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_boroda_dialog_8">
+<text>他可能把黎明那些人领到哪里以至于这么长时间都无法联系上? 还有,你知道问什么黎明的人选择首先来河湾?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_boroda_dialog_9">
+<text>鬼知道, 他早就应该回来或者联络我们了. 至于那伙黎明的家伙在这一片干什么, 我也不太清楚. 我想象不出任何能吸引他们来到这的东西,但这并不代表就没有.. 谁知道呢,也许他们实在无聊来逛动物园? 号角不讨厌独自去打猎, 他喜欢把追踪和狩猎野兽当做一种运动. 也许你该去和 机灵鬼 谈谈, 他们是朋友, 我确定号角一定跟他谈过这次出行.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_boroda_dialog_10">
+<text>我会去的, 谢谢.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_boroda_dialog_11">
+<text>如果你又得知了什么, 来我这跟我聊聊...</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_shustryi_dialog_0">
+<text>你能告诉我这一次号角和黎明之间的业务吗?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_shustryi_dialog_1">
+<text>恐怕我知道的不多, 也许我能做的只是和你做一个关于一把好枪或者一件顶级质量的外套的生意. 我有路子能弄到特异区最稀有最棒的装备.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_shustryi_dialog_2">
+<text>现在还是算了吧, 我非常需要知道关于号角和他最近一次与陌生人的秘密出行你都知道些什么.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_shustryi_dialog_3">
+<text>对此号角非常沉默, 他几乎没说什么. 他说黎明的人付钱让他保守秘密所以我恐怕真的帮不了你了, 我确实不知道.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_shustryi_dialog_4">
+<text>那么你知道他可能去了哪里, 或者他有没有什么秘密通道,藏物点之类的地方? 任何我能找到他的地方都行.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_shustryi_dialog_5">
+<text>如果他把这些秘密地点讲给别人听,那么这些就不再是秘密了,而且这种做法很可能将自己带进坟墓. 注意, 我想起来一件事,很久以前有一次我和他一起去亚诺夫然后从那儿回来,途中遇到了电磁风暴, 我们躲进了烧毁的农场旁边山腰上的一个洞穴里, 看起来他对那个地方很了解. 无论如何那地方都不像独自一人能偶然进去的, 事实上如果你问我, 我会告诉你那是一个睡大觉的好地方...</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_shustryi_dialog_6">
+<text>那么,你认为我可以排除那里么? 嗯, 也许那里值得去看看... OK, 让我想想.... 是谁把任务交给号角的?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_shustryi_dialog_7">
+<text>那种事情我哪儿知道. 猫头鹰或者领航员, 他们是公认的能够操控这种事情的人. 号角以前是领航员的徒弟. 但他们现在不再是朋友了, 如果你去问他,我敢保证他能够全都告诉你.不过你最好先去问问猫头鹰.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_shustryi_dialog_8">
+<text>OK, 谢谢.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_shustryi_dialog_9">
+<text>祝你好运. 看看他到底在搞什么 ... 是不是还活着,如果已经挂掉了至少找到尸体吧 ...</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_sich_dialog_0">
+<text>有人告诉我你能给我一些关于号角的信息?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_sich_dialog_1">
+<text>嗯, 如果你想问关于他失踪的事情那么你真的不走运, 我也想知道他那发生了什么情况. 我并不想浪费你的时间. 我确定你找他找得很闹心.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_sich_dialog_2">
+<text>据说你和领航员控制了所有有关旅行和向导的生意,这是真的么? 我这么问是因为我想知道关于号角干了什么和他去了哪条线路的更多信息. 关于这些你一定知道一些能够告诉我的消息.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_sich_dialog_3">
+<text>他曾经为我工作了六个月. 关于我们的生意,我只能告诉你和告诉其他人一样的东西, 我们的生意是我们的秘密. 至于你能在哪里找到他.. 我倒是可以告诉一些. 他总是在集装箱附近的停车场被人看到, 他在走南部路线的时候经常在那停留.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_sich_dialog_4">
+<text>谢谢你的信息. 最后一个问题, 你认为相对于个人这些情况更可能是破船的敌人造成的么?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_sich_dialog_5">
+<text>任何事情都有可能.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_sich_dialog_6">
+<text>好吧. 祝你好运.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_sich_dialog_7">
+<text>你也一样.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_lotcman_dialog_0">
+<text>基友你好. 我来问问关于号角的事情. 我听说你过去是他的老师, 我想知道他可能走哪些路线?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_lotcman_dialog_1">
+<text>具体的路线要看顾客的情况. 他们要去哪里,我们就找一条最安全的道路带领他们过去. 变异点时常移动,我们就要开辟新的路线, 这才是我们的工作.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_lotcman_dialog_2">
+<text>我能理解,但你能不能再详细一些? 还有你为什么对你以前学生的遭遇漠不关心呢?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_lotcman_dialog_3">
+<text>更详细一些? 每次走出这个门一切都会变化,昨天很好的地方今天可能已经不再是那样,而今天走的路线明天就可能让你送命,这样我没办法详细说, 明白么? 而且在他掌握了我的一些生意和路线以后, 号角就不再是我的学生或朋友, 从那时候开始他就是个竞争者, 他令我屁股作痛(还是蛋疼?), 原谅我不去关心他这一点吧 ...</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_lotcman_dialog_4">
+<text>好吧,那么至少告诉我你对于那些和他一起的人你知道些什么.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_lotcman_dialog_5">
+<text>那些家伙看起来是典型的黎明狩猎者, 或者说至少我最开始这样认为, 但后来我开始注意到一些不是很正确的地方. 黎明猎人们常常穿着西式的狩猎服, 尽管有时候也看他们要去哪里,他们有什么计划. 事实上有一个地方值得你关注, 你看在钢铁森林附近的这个停车点，号角很可能去过这里.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_lotcman_dialog_6">
+<text>谢谢你提供的消息.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_lotcman_dialog_7">
+<text>祝你好运.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_second_dialog_0">
+<text>我来跟你谈有关黎明的事情.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_second_dialog_1">
+<text>那么, 你找到什么线索了么?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_second_dialog_2">
+<text>没有新的线索, 但如果我们再等几天, 我们兴许会走运, 他们就会重新出现 ...</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_second_dialog_3">
+<text>我们能够与黎明支队恢复通信.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_second_dialog_11">
+<text>是, 我走访了三个可能的地点.号角从烧毁的农庄附近的一个洞穴中离开.在一个地方我没有发现任何东西.但在钢铁森林附近的停车场营地我发现了尸体,从他的装束来看,他是号角的同伴.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_second_dialog_12">
+<text>有趣,我也了解到了更多信息.黎明猎人们似乎发现了一些吸血鬼. 当然, 关于号角他们多聊了一点点 ...</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_second_dialog_13">
+<text>他们说了些什么,这些黎明潜行者现在在哪?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_second_dialog_14">
+<text>他们没有完整的解释清楚. 他们说需要帮助,他们的向导消失了 ... 我没有了解整个情况, 因为在他们解释清楚以前，通话被切断了, 所以我们必须等下一条通讯.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_second_dialog_15">
+<text>那么我们就等吧.那么现在这些潜行者还有活着的希望.但没有确切坐标我找不到他们.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_second_dialog_16">
+<text>我们不得不等. 信号中断导致联络变成不可能. 当他们再次联络的时候我会通知你. 希望到时候他们距离我们足够近,信号足够强.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_second_dialog_31">
+<text>那么到底怎么回事? 他们现在在哪里?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_second_dialog_32">
+<text>一个猎人说他在烧毁的村庄旁边的湖边. 我无法得到更多消息,但他听起来很激动. 从他的言语中得知,号角拒绝继续给他们当向导,所以他们设立了一个营地用来过夜,突然号角攻击了他们, 射杀了他们的一员然后试图逃跑.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_second_dialog_33">
+<text>为什么他那样做?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_second_dialog_34">
+<text>猎人没有说. 他只说他们让号角负伤,号角跑不了太远. 你要去找他, 到时候要好好盘问他,要他好好解释解释. 一切都没有人告诉我们. 为什么他要突然开枪 ...</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_second_dialog_35">
+<text>你是对的, 这确实不科学, 我会试图了解更多情况的.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_rasvet_dialog_0">
+<text>我相信你是代表斯卡多夫斯克到这里来的?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_rasvet_dialog_1">
+<text>是的. 我要找出到底发生了什么, 与你们一起的向导号角现在在哪里?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_rasvet_dialog_2">
+<text>他袭击我们后离开了,一个小伙子打伤他,所以他不可能走得太远.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_rasvet_dialog_3">
+<text>他为什么攻击你们?另外你们为什么在河湾?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_rasvet_dialog_4">
+<text>关于本阵营的宗旨和目标,我不会告诉你.只能给你这样的提示.号角不是个简单的潜行者.可悲的是我们没有发现他的真面目.那时到了夜里,我们设立了营地,他突然攻击我们.我们能活下来纯属幸运.我们被干掉了一个人,他的攻击是有计划的,所以我们猜测,他应该是接受了命令,找到我们到河湾的原因然后消灭我们,我可以推测出,他与了解并对我们抱有敌意的佣兵有联系...</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_rasvet_dialog_5">
+<text>我仍然希望看到能证明你的话的证据.你们的人在哪里,你们的工作是什么?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_rasvet_dialog_6">
+<text>他们都忙于自己的工作,我已经说过,这不是该你关心的.佣兵们试图占据上风,他们证实了我们并不确定的事情. 我需要会见大部队,并给他们支援,也许我能够探测到号角的PDA信号.我会尽力追查.一旦查到你应该找到并杀死他.这样他好我也好,大家好才是真的好,毕竟斯卡多夫斯克不希望卷进这场斗争.之后,他们需要忘记,不要设法找到我们,其实你最好告诉斯卡多夫斯克那边,我们的团队在行动中丧生...</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_rasvet_dialog_7">
+<text>为什么我要相信你,你可能说谎?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_rasvet_dialog_8">
+<text>如果我说谎,杀了你更简单.看吧...最好的选择是你的人忘记我们,并试图找出佣兵如何知道我们的计划,以及他们如何雇佣了斯卡多夫斯克的向导.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_rasvet_dialog_9">
+<text>在行进过程中我会作出决定的, 现在你去找你的伙计们而我会跟着你 ...也许我能搞定这件事.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_homsa_dialog_0">
+<text>啊 ... 你 ..</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_homsa_dialog_1">
+<text>你怎么知道我? 说,伙计! 你是谁, 你为什么伏击黎明?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_homsa_dialog_2">
+<text>你不会... 明白 .... 你不知道他们的帮手,他们得到了什么... Fuck ... you ...</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_homsa_dialog_3">
+<text>是吗, 你知道现在你面临的是头顶盘旋等待的盛宴的鸟,这是你自作自受,永别了.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_third_dialog_0">
+<text>我发现号角.他死了.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_third_dialog_1">
+<text>我就知道会出现这种情况.那么,没有什么可以为他做了.那些黎明的家伙呢?他们把他干掉了?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_third_dialog_2">
+<text>是的. 在号角攻击他们之后.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_third_dialog_3">
+<text>为什么号角攻击他们?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_third_dialog_4">
+<text>看来号角和佣兵有联系.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_third_dialog_5">
+<text>那么, 你怎么知道这个? 你找到黎明成员了吗?</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_third_dialog_6">
+<text>是的. 他们的一些幸存者,不幸的是,我与他们会见后被吸血鬼攻击,他们全部遇难.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_third_dialog_7">
+<text>好吧, 少校. 我们感谢你. 这是你应得的报酬.在这种情况下,出现了很多混乱的事情.一旦我们理清头绪我们不得不处理这些.</text>
+</string>
+<string id="zat_b106_stalker_gonta_b52_about_hunters_third_dialog_8">
+<text>祝你好运.</text>
+</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_8081">
+	<text>一个有趣的东西,真好.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_8082">
+	<text>好, 这里是你的钱,将会更多 - 多访问.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_8083">
+	<text>好吧.</text>
+	</string>
+<string id="zat_bandit_base_leader_community_exit_dialog_1">
+	    <text>我想打破和这个派别的关系.</text>
+    </string>
+	<string id="zat_bandit_base_leader_community_exit_dialog_2">
+	    <text>当您加入我们你加入人生,你知道这个也许你应该重新考虑.</text>
+	</string>
+	<string id="zat_bandit_base_leader_community_exit_dialog_3">
+	    <text>我明白你在说什么,我会再思考.</text>
+	</string>
+	<string id="zat_bandit_base_leader_community_exit_dialog_4">
+	    <text>这可能是一个明智的想法.</text>
+	</string>
+	<string id="zat_bandit_base_leader_community_exit_dialog_5">
+	    <text>不,我必须继续我最初来到特异区的任务.</text>
+	</string>
+	<string id="zat_bandit_base_leader_community_exit_dialog_6">
+	    <text>你希望一走了之,你真的认为我只是退后,让你离开?</text>
+	</string>
+	<string id="zat_bandit_base_leader_community_exit_dialog_7">
+	    <text>我想没有,但我别无选择,只有这样做,当然我们能够达成某种协议友好的分开,让你做大佬,怎么样,如果我付给你5000卢布.</text>
+	</string>
+	<string id="zat_bandit_base_leader_community_exit_dialog_8">
+	    <text>Hmmm, Okay你会付钱离开我们,我已经决定允许这种奢侈.但我希望你支付5000卢布.</text>
+	</string>
+	<string id="zat_bandit_base_leader_community_exit_dialog_9">
+	    <text>如果你说我不能,那我不能确定我们会怎样</text>
+	</string>
+	<string id="zat_bandit_base_leader_community_exit_dialog_10">
+	    <text>正如我说你加入为了生活,生命意味着生活.</text>
+	</string>
+	<string id="zat_bandit_base_leader_community_exit_dialog_11">
+	    <text>我会给您回复,只要我有一个解决方案,我们都将接受.</text>
+	</string>
+	<string id="zat_bandit_base_leader_community_exit_dialog_12">
+	    <text>那么我们这里完了,再见和好运.</text>
+	</string>
+</string_table>

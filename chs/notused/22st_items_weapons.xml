@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="st_addon_scope_susat_detector">
+	<text>SUSAT 'Detector'</text>
+	</string>
+	<string id="st_addon_scope_susat_detector_descr">
+	<text>An optical 5.0x SUSAT scope with built in heat visor designed to detect heat sources emanating from mammalian bodies. Attaches to weapons by means of the NATO-standard Picatinny rail.</text>
+	</string>
+<string id="st_grenade_lighting">
+	<text>Illuminating grenade</text>
+	</string>
+	<string id="st_grenade_lighting_descr">
+	<text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Effect time = 120 seconds\n%c[default]It is designed to illuminate dark areas, Extremely useful at night and for foray's into underground areas.</text>
+	</string>
+</string_table>
