@@ -133,7 +133,7 @@
 <string id="st_save_zat_bring_sharpshooter_bino_got">
 <text>Found 'Pathfinder' binoculars</text>
 </string>
-<string id="save_zat_monsters_1st_wave_end">
+<string id="st_save_zat_monsters_1st_wave_end">
 <text>First wave of mutants destroyed</text>
 </string>
 <string id="st_save_zat_monsters_2nd_wave_end">
@@ -297,9 +297,6 @@
 </string>
 <string id="st_save_pri_fenix_vendetta_is_killed">
 <text>Inquisitor neutralize</text>
-</string>
-<string id="save_val_first_coming_on_valley_on_base">
-<text>The base of 'Night Stalkers'</text>
 </string>
 <string id="st_save_val_kill_night_predator_is_searched">
 <text>To hook the grey chimera</text>

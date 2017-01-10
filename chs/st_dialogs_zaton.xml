@@ -1006,10 +1006,10 @@
 		<text>......</text>
 	</string>
 	<string id="zat_b22_barmen_about_vampire_actor3_0">
-		<text>......</text>
+		<text>松鸡死了.看起来是威震天杀了他...但现在他也死了.</text>
 	</string>
 	<string id="zat_b22_barmen_about_vampire_actor3_1">
-		<text>威震天?!...我很抱歉,老兄,我不相信.如果有证据的话,再说吧...可怜的松鸡.</text>
+		<text>威震天?!...我很抱歉,老兄,我不相信.如果有证据的话再说吧...可怜的松鸡.</text>
 	</string>
 	<string id="zat_b22_barmen_about_vampire_actor4_0">
 		<text>这是威震天的PDA.这些证据说明他就是凶手.</text>
@@ -3132,7 +3132,284 @@
 	<string id="zat_b22_stalker_medic_need_health_care_11">
 		<text>[继续...]</text>
 	</string>
-	<string id="zat_b22_barmen_about_vampire_actor3_0">
-		<text>松鸡死了.看起来是威震天杀了他...但现在他也死了.</text>
-	</string>
+
+	<string id="zat_a6_sultan_quest_kontra_dialog_begin_0">
+<text>你好, 苏丹.有我感兴趣的工作信息吗.我不认为你不会有什么?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_1">
+<text>Hmm, 有一件事,有传言说你是政府的探员,不仅如此,也是军方的人?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_01">
+<text>那, 流言肯定是在这里有效,如果你不想试试我,我将离开你,再见.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_2">
+<text>谣言可能是正确的,但还等什么!T它不会改变事实,我还是提供一些工作机会,你可能会看到适合的.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_3">
+<text>那是谁散布这样的谣言?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_33">
+<text>这不用你关心.我相信来源,只是这样.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_333">
+<text>好吧, 但这并不意味着我们不能一起occassions工作</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_4">
+<text>也许你对, 也许.我们可以一起工作.但记住,这些都是严肃的事情,如果你参加的事情,不符合我们的任何协议,或损害我,你会发现自己吊在港口起重机,这将一直折腾到死.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_5">
+<text>我不打算挂着,你不必担心我的任何问题,那么你到底想让我做什么?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_6">
+<text>有一个优先对待的问题.最近我的一个人偷我的东西.这个愚蠢的混蛋被称为雅库特,他偷走了我的一些非常有价值的文件...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_7">
+<text>什么样的文件?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_8">
+<text>一些我的商业事务,但不要紧,不会找到任何会引起麻烦的东西.那有详细说明入区运送武器和其他物品.我的原则超过价值.对于雅库特,在这样的行动可以切断了他的喉咙,但首先你需要说服他告诉你隐藏的文件.然后当然 ,还给我.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_9">
+<text>好吧, 你觉得我在哪能找到雅库特?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_10">
+<text>我知道不需要为您提供,我有一个建议在何处开始搜索.你将需要到自由团去和我的线人谈话.我被告知,他最近看到了雅库特.我会送消息,他在亚诺夫站附近等待你,我确保.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_begin_11">
+<text>明白,我会去见他.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_0">
+<text>问候你! 你应该是苏丹的人?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_1">
+<text>那, 你一直在期待着我,你知道为什么我在这里,不如我们跳过问候,你告诉我,你知道什么.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_2">
+<text>对!.... 我知道很多事情,我听,我看,我记得.但不是一切都可以共享 ...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_3">
+<text>我不想玩游戏.你有任何信息给我吗?如果你有告诉我.你知道苏丹感兴趣的是什么?如果没有,不要浪费我的时间.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_33">
+<text>好吧..他从事走私活动.基本上,他提供的武器.他还安排特别是珍贵神器的搬运,使用免费的潜行者.他们中的许多人定期运送货物,通过封戒线.他总是似乎有某人在军方掩盖他的业务往来.特异区这里的人们总是试图分一份.雅库特是知道一切有关这些交易和安排的人,并参与,理想主义者和支持者.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_4">
+<text>那么你是苏丹需要时在木星的耳目?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_44">
+<text>是. 但仅此而已,这是生意,人们都知道,只要支付,我就会说出来.他知道我有良好的信息和我的信息是可靠的.我这是为了钱,如果有人不付钱给我,然后我会沉默.在特异区的每个人都有他们的才华和生命,这是我的...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_5">
+<text>关于你知道什么Yakut?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_6">
+<text>他不久前被人抓住并带走.他们是苏丹的竞争对手.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_7">
+<text>他们是谁?潜行者,佣兵也许?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_8">
+<text>潜行者不希望卷进麻烦的业务,佣兵不会这么做特别是走私.当他们这样做,他们有自己的渠道.事实上,是另一个强盗阵营.无论出于何种原因,他们决定扩大自己的地盘,直到苏丹那里.苏丹的人做事的时候被抓住,那些人和Chapaev's人有关联.更确切地说,是一个家伙和他的追随者.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_9">
+<text>那, 继续, 我怎么找到他,他们在哪?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_10">
+<text>他的名字是卢西安.他最近从利曼斯克抵达.有传言说,他是一个利曼斯克叛徒的大玩家,但我一直无法证实这一点,所以我不知道这是否正确的,他最近发现使用新的路线,通过红森林到这里.只是一件事,他认为苏丹不配在这里.苏丹的业务是他想要的东西,他打算清除他.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_11">
+<text>Okay. 那么,他们在哪里留住雅库特?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_12">
+<text>在恰帕耶夫控制的基地.坐标,我给你发送了.不要忘记让苏丹知道我提供这个信息帮助</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_13">
+<text>谢谢指点. 要小心.像你这样职业的人通常不能久活...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_14">
+<text>你也是. 祝你好运.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_bagir_dialog_15">
+<text>同祝...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_0">
+<text>你是谁? 你想要什么?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_1">
+<text>我在工作,关于那个跪着的人.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_2">
+<text>你怎么知道他? Well 说, 快! 对你他是什么人 ...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_3">
+<text>他是苏丹的人.他们正在寻找他,他试图运送属于苏丹的东西.苏丹不喜欢别人动他的东西...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_4">
+<text>Hmm, 苏丹有他的一天.我会很快取代苏丹和然后每个人都须顺应我,而不是那个傻瓜.不管怎么样,你需要是什么?你不说.我也许能帮助你.明智的是,你与我打交道而不是那条狗...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_5">
+<text>我认为,苏丹将生气,一旦他知道你的计划,他可能不是你的期望的那么轻松取胜.你一定会成功中,就是造成一场屠杀.这就是你想要的吗?你需要不仅仅是这欢快的乐队,是苏丹,如果你明白这一点,仍然觉得这是你的时代,告诉我怎么做?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_6">
+<text>提供什么?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_7">
+<text>这会击倒Gavrik.他已经失去了他的有用性.相信我,他的日子屈指可数.但首先我需要知道他在哪里藏偷来的文件.之后,我会把它们给你...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_8">
+<text>听着,你的话是有意义的.所以看起来不那么担心,现在告诉我你决定做什么,当你得到苏丹的文件?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_9">
+<text>我不知道它是如何有用.我需要考虑某事.如果我只是给你的文件,我会离开河湾.所以现在我决定如何进行.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_10">
+<text>来吧,不要忘记这里所有的计划最终将属于我的 - 考虑到这,你会不欢迎.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_11">
+<text>我们会看到.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_01">
+<text>那, 你带文件来了?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_02">
+<text>还没.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_03">
+<text>是, 拿着.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_031">
+<text>Oh, 干得好. 我没想到你做到了.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_032">
+<text>正如我所说,他不好对付.所以,现在你必须离开河湾一段时间.我需要做决定下一步要做什么.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_033">
+<text>是, 现在,我们将去利曼斯克.从这些信息中,我们将弄清我们的下一步行动.同时,你有别的事情处理.巴吉尔出卖我们,给你的.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_034">
+<text>他是亚诺夫自由团的一部分,也是与苏丹有交易,但出来混总要还.他是不可信的败类.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_035">
+<text>那, 我想最好除掉他.告诉洛基他打小报告.他应该立即紧张起来.至于苏丹,我会说,巴吉尔在我之前得到的文件.或他跌倒在异常点或其他, 也许 ...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_lucian_dialog_036">
+<text>老生常谈莫名其妙.但没有.主要的事情,要去相信.祝你好运.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_yakut_dialog_0">
+<text>你是谁 ..? ...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_yakut_dialog_1">
+<text>你唯一的机会.你偷了苏丹的文件？现在告诉我，我就会离开，否则那些家伙一会儿就让你永远沉默。</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_yakut_dialog_2">
+<text>Hmm .. .. 我会死 ... 他们没有可能找到苏丹的文件的...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_yakut_dialog_3">
+<text>文件在哪里？他们不会放过你的，你现在告诉我，你还有活命的机会。</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_yakut_dialog_4">
+<text>来吧,我会好好把握机会,有三个储物箱.在扎通,在废料回收站和木星雷达站下...另一个在亚诺夫,在采石场挖掘机附近...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_yakut_dialog_5">
+<text>你决定告诉我,这很好.但告别了.说实话,你不能离开,所以抱歉,但这地方将是你安息的地方...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_yakut_dialog_6">
+<text>你这该死的...笨......怪物...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_yakut_dialog_7">
+<text>安息吧...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_0">
+<text>自由团，你们好！</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_1">
+<text>我能帮什么, 你为什么来这里?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_2">
+<text>你有一个名为巴吉尔的战士?我有他的信息.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_3">
+<text>什么? 他发生了什么事?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_4">
+<text>那, 我的信息更普遍的,他已经销售信息.出售任何信息,他认为,包括你的秘密.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_5">
+<text>更具体的?给我一些具体的,让我相信你?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_6">
+<text>具体来说.我被苏丹派来对付他.他细语很多事情给他.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_7">
+<text>这实际上使一些最近发生的事件说得通.还有什么呢?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_8">
+<text>最近有人杀死苏丹手下雅库特.他是巴吉尔经常联系的人.我看见一堆歹徒从他那得到你手下的信息.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_9">
+<text>那, 我相信你. 这一切能解释了,现在我知道这一点,最近发生的事件怎么会变成这样.所以告诉我你想要什么?为了对付巴吉尔?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_10">
+<text>我对付他. 我只是不希望任何打扰,我需要你告诉我,他现在在哪里.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_11">
+<text>不远处的水泥厂.在你的PDA的坐标.我不喜欢老鼠.所以我会闭上眼睛.坏事情常发生.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_loki_dialog_12">
+<text>就这样.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_1_0">
+<text>苏丹,解决情况了,但有点曲折.总之,我们遇到麻烦了。</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_1_1">
+<text>你就像见了鬼了.所以我认为你不能相信这件事情.告诉我你遇到什么麻烦了？</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_1_2">
+<text>不是我,是巴吉尔.只是在变异点遇到麻烦.连同文件.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_1_3">
+<text>哼, 你认为我会相信?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_1_4">
+<text>我不能告诉你相信什么,无论你要相信或没有,巴吉尔背叛了你.也许他觉得你克扣他.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_1_5">
+<text>雅库特怎样?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_1_6">
+<text>死了.然而,所有的文件都被破坏.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_1_7">
+<text>那,这是你如何处理我给你的差事的？哼我会去检查你说的。你现在走吧，没有钱给你。</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_vibor_0">
+<text>在这里,取你的文件.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_vibor_1">
+<text>Oh, 这就是我想的.好样的.雅库特怎样?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_vibor_2">
+<text>您的业务的竞争对手杀了他.你听说过叫卢西恩一个小伙子吗?</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_vibor_3">
+<text>卢西恩.....卢西恩... AHH是,我记得.现在一切都清楚了.巴吉尔说过他的.小鱼苗,前利曼斯克叛徒.没有更多了.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_vibor_4">
+<text>他试图通过获取所有信息接管你的业务,所以我不会说,我会说他是一个很大的问题,或者正在成为一个.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_vibor_5">
+<text>那, 如果这么回事,那么我们将解决这个问题.巴吉尔告诉我,他很快将进入到木星.因此,正好可以杀死他.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_vibor_6">
+<text>已经不用再考虑他了...</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_2_0">
+<text>卢西恩和他的部下死了.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_2_1">
+<text>好. 很高兴跟你做生意.这里是你的份额. 祝你好运. 我们不会忘记你的帮助.</text>
+</string>
+<string id="zat_a6_sultan_quest_kontra_dialog_end_2_2">
+<text>再见.</text>
+</string>
 </string_table>

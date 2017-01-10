@@ -160,10 +160,10 @@
 <text>雅库特怎样?</text>
 </string>
 <string id="zat_a6_sultan_quest_kontra_dialog_end_1_6">
-<text>死了.然而,所有的文件被破坏.</text>
+<text>死了.然而,所有的文件都被破坏.</text>
 </string>
 <string id="zat_a6_sultan_quest_kontra_dialog_end_1_7">
-<text>那, 这是你如何处理给你的工作,然后呢? hmmph,我查一下你说的.现在离开.你没有得到任何金钱.</text>
+<text>那,这是你如何处理给你的工作,然后呢?恩,我查一下你说的.现在离开.你没有得到任何金钱.</text>
 </string>
 <string id="zat_a6_sultan_quest_kontra_dialog_vibor_0">
 <text>在这里,取你的文件.</text>
@@ -196,7 +196,7 @@
 <text>再见.</text>
 </string>
 <string id="zat_a6_sultan_quest_kontra_loki_dialog_0">
-<text>永远自由!T</text>
+<text>自由团，你们好！</text>
 </string>
 <string id="zat_a6_sultan_quest_kontra_loki_dialog_1">
 <text>我能帮什么, 你为什么来这里?</text>
@@ -297,30 +297,7 @@
 <string id="zat_a6_sultan_quest_kontra_lucian_dialog_036">
 <text>老生常谈莫名其妙.但没有.主要的事情,要去相信.祝你好运.</text>
 </string>
-<string id="zat_a6_sultan_quest_kontra_yakut_dialog_0">
-<text>你是谁 ..? ...</text>
-</string>
-<string id="zat_a6_sultan_quest_kontra_yakut_dialog_1">
-<text>你唯一的机会.你偷了苏丹的文件?你要告诉我.如果你,那么我会走开,没多久后,这些家伙会确保你保持沉默......永远,如果你想.</text>
-</string>
-<string id="zat_a6_sultan_quest_kontra_yakut_dialog_2">
-<text>Hmm .. .. 我会死 ... 他们没有,所以苏丹怪才prikonchat....</text>
-</string>
-<string id="zat_a6_sultan_quest_kontra_yakut_dialog_3">
-<text>文件在哪里.死了,他们告诉你完全无关.及你说的 - 有一个机会你可能生,只是我一句.</text>
-</string>
-<string id="zat_a6_sultan_quest_kontra_yakut_dialog_4">
-<text>来吧,我会好好把握机会,有三个储物箱.在扎通,在废料回收站和木星雷达站下...另一个在亚诺夫,在附近的采石场挖掘机...</text>
-</string>
-<string id="zat_a6_sultan_quest_kontra_yakut_dialog_5">
-<text>那, 你决定告诉我,这是很好的.但告别了.说实话,你不能离开,所以抱歉,但这一地方将是你安息的地方...</text>
-</string>
-<string id="zat_a6_sultan_quest_kontra_yakut_dialog_6">
-<text>你这该死的...笨......怪物...</text>
-</string>
-<string id="zat_a6_sultan_quest_kontra_yakut_dialog_7">
-<text>And 你和我已经找到 ...</text>
-</string>
+
 <string id="zat_b103_lost_merc_leader_spez_freedom_kom_2_dialog_0">
 <text>你是洛基派来的家伙?</text>
 </string>
