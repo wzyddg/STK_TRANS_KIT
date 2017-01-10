@@ -3412,4 +3412,97 @@
 <string id="zat_a6_sultan_quest_kontra_dialog_end_2_2">
 <text>再见.</text>
 </string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_0">
+<text>你为什么在这里?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_1">
+<text>你不必为此担心,这不是你的关心只是心存感激,你已经被允许进入这里.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_2">
+<text>谢谢.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_22">
+<text>Hah, 现在走开.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_222">
+<text>如你所愿 ...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_3">
+<text>Hmm, 看来在这里有些事情正在发生.这让我不知道我可以.....</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_33">
+<text>听着,你聪明的最好滚蛋,不要管不关你的事.另外你谋划什么?黑帮并没有透露计划给任何人.你那么积极究竟想干什么..</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_333">
+<text>就像喜欢的食物,我只是想帮忙,你们有没有别的事情我可以做?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_4">
+<text>我问一问,只是我想知道,你有什么工作给我?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_5">
+<text>嗯...有一件事,听好了......最近,我们收到的订单令人为难,会被知道我们运东西出去</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_6">
+<text>继续.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_7">
+<text>最近一组科学家抵达特异区北部,基地在扬塔.我不知道他们在那里为什么,而我听说此事毫无意义,但我知道的是,这些科学家们雇了向导,亚诺夫纪律团提供保护.他们保护这里的地方,从扎通到异常区,这是唯一使我的生意难以开展..</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_8">
+<text>纪律团?嗯,必须是一个重要的使命,才要雇用这样的保护.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_9">
+<text>这可能是重要的,但,你也许已经猜到,我们的目标是,消除该小队.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_10">
+<text>为什么你有这个问题?这不像你们与纪律团的盟友关系.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_11">
+<text>没有没有,但目前我们需要避免针对纪律团.至于原因,我不能与你讨论...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_12">
+<text>好吧,所以,如果你不会告诉我,让我们说说重点,你说,你要我为你做肮脏的工作?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_13">
+<text>简而言之是,完成工作,你会得到一个丰厚奖励.顺便说一句,雇人做事是合理的.例如自由团.但重要的是,对自由团和纪律团保持秘密.非常重要!记住这一点.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_14">
+<text>Okay 我同意. 只是让我去想一想如何决定.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_15">
+<text>好吧, 确信你要去做.不要太久,潜行者.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_0">
+<text>我有非常重要的信息给你.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_1">
+<text>真的?你想要告诉我什么? 说.</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_2">
+<text>一队科学家正带着个箱子。被佣兵盯上了，他们很有可能受命于自由团。</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_3">
+<text>你怎么知道?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_4">
+<text>我就是知道。这时候派遣你的人可能是不明智的。会引起大冲突...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_5">
+<text>可能是自由团派遣的。我相信你，但我也会自己核查。我们继续保持这样，你去告诉逻辑看过科学家去河湾了，其它的别多说。主动帮助他，他会信任你的，我了解他...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_6">
+<text>你认为他会出兵？</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_7">
+<text>我不是认为，而是确信。即使佣兵是自由团雇佣的，他们也不会放弃提前动手的机会。</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_8">
+<text>接下来我做什么?</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_9">
+<text>自由团杀掉佣兵，这是我不想看到的，尽管这非常有可能发生。如果洛基同意出兵，你再决定后面的路...</text>
+</string>
+<string id="zat_b103_lost_merc_leader_spez_shulga_1_dialog_10">
+<text>那我去找洛基...</text>
+</string>
 </string_table>
