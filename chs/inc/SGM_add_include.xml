@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <string_table>
-<!-- Загрузка "SGM" текстов  -->
+<!-- Г‡Г ГЈГ°ГіГ§ГЄГ  "SGM" ГІГҐГЄГ±ГІГ®Гў  -->
 #include "text\chs\SGM_autosave_titles.xml"
 #include "text\chs\SGM_character_names.xml"
 #include "text\chs\SGM_descr_addons.xml"
@@ -36,7 +36,5 @@
 #include "text\chs\SGM_tasks.xml"
 #include "text\chs\SGM_tutorials.xml"
 #include "text\chs\SGM_xml_dialogs.xml"
-#include "text\chs\SGM_xml_dialogs_zaton.xml"
-#include "text\chs\SGM_xml_dialogs_jupiter.xml"
 #include "text\chs\st_dialogs_darkvalley.xml"
 </string_table>
