@@ -328,7 +328,7 @@
 		<text>钢制盒子</text>
 	</string>
 	<string id="zat_b39_joker_pda_description">
-		<text>PDA上记录到:"我可以确定神器就在树上.现在很清楚,我可以从小丘爬到树上.我现在只希望土丘上周围变异怪物.唉,与卡丹和巴杰大吵了一顿真是太糟糕了,现在我必须自己一个人来到这里,只要我把神器带回去,他们就会知道就算我只有一个人也能做得很好."</text>
+		<text>PDA上记录到:"我可以确定神器就在树上.现在很清楚,我可以从小丘爬到树上.我现在只希望躲开土丘上周围变异怪物.唉,与卡丹和巴杰大吵了一顿真是太糟糕了,现在我必须自己一个人来到这里,只要我把神器带回去,他们就会知道就算我只有一个人也能做得很好."</text>
 	</string>
 	<string id="zat_b39_joker_pda_name">
 		<text>小丑的PDA</text>
@@ -365,5 +365,174 @@
 	</string>
 	<string id="st_zat_b40_pda_2_desc">
 		<text>收到的信息写道:\n"有关武器的事我已经安排好了,那个贪婪的混蛋会卖给我们他的派系的存货.这会很便宜,不过我们不得不跑到朱皮特那边去.\n秃鹰."</text>
+	</string>
+
+	<string id="zat_spec_anomaly_scanner_1_name">
+		<text>扫描仪1</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_1_descr">
+		<text>科学家使用的来研究异常点内发生过程的专用扫描仪。</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_2_name">
+		<text>扫描仪2</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_2_descr">
+		<text>科学家使用的来研究异常点内发生过程的专用扫描仪。</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_3_name">
+		<text>扫描仪3</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_3_descr">
+		<text>科学家使用的来研究异常点内发生过程的专用扫描仪。</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_4_name">
+		<text>扫描仪4</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_4_descr">
+		<text>科学家使用的来研究异常点内发生过程的专用扫描仪。</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_5_name">
+		<text>扫描仪5</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_5_descr">
+		<text>科学家使用的来研究异常点内发生过程的专用扫描仪。</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_6_name">
+		<text>扫描仪6</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_6_descr">
+		<text>科学家使用的来研究异常点内发生过程的专用扫描仪。</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_7_name">
+		<text>扫描仪7</text>
+	</string>
+	<string id="zat_spec_anomaly_scanner_7_descr">
+		<text>科学家使用的来研究异常点内发生过程的专用扫描仪。</text>
+	</string>
+	<string id="jup_b2_detector_info_1_name">
+		<text>示意图：1A38.1294</text>
+	</string>
+	<string id="jup_b2_detector_info_1_descr">
+		<text>提供使用公式计算频率和相位响应以构建扫描器系统所需的数据的原理图。</text>
+	</string>
+	<string id="jup_b2_detector_info_2_name">
+		<text>产品样本计划：22.17</text>
+	</string>
+	<string id="jup_b2_detector_info_2_descr">
+		<text>构建用于调整高级扫描仪结构系统的仪器所需要的图纸。</text>
+	</string>
+	<string id="st_zat_homsa_quests_special_info_name">
+		<text>霍姆斯的笔记</text>
+	</string>
+	<string id="st_zat_homsa_quests_special_info_descr">
+		<text>内容几乎不可读: '... 从船来的五人组 ..... 前进 ... 在新安边 ... 今天 ... 将少一人, 后面的事 ... 我的目的 .... 会持续记录 ... 如约 ... 鼹鼠.'</text>
+	</string>
+	<string id="st_af_quest_b206_dyavol_flowers_name">
+		<text>魔鬼花朵</text>
+	</string>
+	<string id="st_af_quest_b206_dyavol_flowers_descr">
+		<text>神奇的发热神器，它的结构非常特殊，是一朵花的形状。具有放射性。许多人认为这个神器只是一个美丽的传说，但是错了。因为不稳定性往往毁坏并转化为火球，并且属性反了过来。</text>
+	</string>
+	<string id="st_jup_rasvet_gudvin_pda_name">
+		<text>古德温的PDA</text>
+	</string>
+	<string id="st_jup_rasvet_gudvin_pda_descr">
+		<text>包含了一条绘制在地图上的巡逻路线，以及一些在巡逻路线上看到的生物营地的信息。其余信息被加密。</text>
+	</string>
+	<string id="st_jup_rasvet_gudvin_letter_name">
+		<text>古德温的笔记</text>
+	</string>
+	<string id="st_jup_rasvet_gudvin_letter_descr">
+		<text>急促写下的记录: '... 那条隧道真是太可怕了 .. 黑暗里的人 ... 还有野兽 ... 枪声乱响 ... 留在边上, 不要试着攻击, 好像被谁守护着 ... 需要赶快回到基地. '</text>
+	</string>
+	<string id="st_zat_ecolog_spez_case_name">
+		<text>研究箱</text>
+	</string>
+	<string id="st_zat_ecolog_spez_case_descr">
+		<text>它收集了psi静态异常点研究的数据结果。</text>
+	</string>
+	<string id="st_pri_alf_info_1_name">
+		<text>机械示意图</text>
+	</string>
+	<string id="st_pri_alf_info_1_descr">
+		<text>包含设备装配的数据缩减的主要文档和图表。</text>
+	</string>
+	<string id="st_pri_alf_info_2_name">
+		<text>图纸解析装置</text>
+	</string>
+	<string id="st_pri_alf_info_2_descr">
+		<text>收集了构建基本电路相控装置所需的图表和图纸。</text>
+	</string>
+	<string id="st_pri_alf_info_3_name">
+		<text>模块示意图</text>
+	</string>
+	<string id="st_pri_alf_info_3_descr">
+		<text>示意图中包含了用于创建和构建模块化单元的高度重要的信息。</text>
+	</string>
+	<string id="st_val_lucas_quests_info_1_name">
+		<text>契诃夫的文档</text>
+	</string>
+	<string id="st_val_lucas_quests_info_1_desc">
+		<text>自由团前领导人契诃夫的文档。 有一些条目: '在内陆地区的中心取得进一步进展是至关重要的。主力部队应着手于军方，卢卡斯率领他们。应固定在老军事基地附近的一个点。洛基与科学家派远征军到利曼斯克，并进一步在北站亚诺瓦附近。债务出了点问题，但砖瓦工不能被解雇.....'</text>
+	</string>
+	<string id="st_val_lucas_quests_info_2_name">
+		<text>刀疤的信息</text>
+	</string>
+	<string id="st_val_lucas_quests_info_2_desc">
+		<text>卢卡斯的文档，他是前自由团副手吗，后来做了军方势力领袖。包含了在黑暗山谷出没过的叫做刀疤的潜行者，还有自由团和佣兵冲突的后续事件。</text>
+	</string>
+	<string id="st_val_lucas_quests_info_3_name">
+		<text>X-Ray/: X18/最高机密</text>
+	</string>
+	<string id="st_val_lucas_quests_info_3_desc">
+		<text>有关一个秘密实验室X18的特殊文档。更多有关科学家团体“O-意识”的实验的信息。</text>
+	</string>
+	<string id="st_val_lucas_quests_scanner_name">
+		<text>低频扫描仪</text>
+	</string>
+	<string id="st_val_lucas_quests_scanner_descr">
+		<text>特殊的低频扫描仪，用于检测，固定和读取APC信号。</text>
+	</string>
+	<string id="st_jup_b12_plant_toolkit_name">
+		<text>特殊工具</text>
+	</string>
+	<string id="st_jup_b12_plant_toolkit_descr">
+		<text>一套为拆卸电子设备而设计的专用工具。</text>
+	</string>
+	<string id="st_jup_b12_plant_memory_1_name">
+		<text>变压器模块</text>
+	</string>
+	<string id="st_jup_b12_plant_memory_1_descr">
+		<text>带填充和电子电路的模块。它包含一些重要的技术指标和从旧工厂设备的拍摄设置。48-14型。</text>
+	</string>
+	<string id="st_jup_b12_plant_memory_2_name">
+		<text>发电机模块</text>
+	</string>
+	<string id="st_jup_b12_plant_memory_2_descr">
+		<text>带填充和电子电路的模块。它包含一些重要的技术指标和从旧工厂设备的拍摄设置。72-12型</text>
+	</string>
+	<string id="st_jup_b12_plant_memory_3_name">
+		<text>电子模块</text>
+	</string>
+	<string id="st_jup_b12_plant_memory_3_descr">
+		<text>带填充和电子电路的模块。它包含一些重要的技术指标和从旧工厂设备的拍摄设置。21-27型。</text>
+	</string>
+	<string id="zat_sultan_contra_info_1_name">
+		<text>苏丹的文件夹</text>
+	</string>
+	<string id="zat_sultan_contra_info_1_descr">
+		<text>一个装着强盗投资苏丹一部分文档的文件夹。包含关于向各个区域供应违禁品的信息。</text>
+	</string>
+	<string id="zat_sultan_contra_info_2_name">
+		<text>苏丹的账本</text>
+	</string>
+	<string id="zat_sultan_contra_info_2_descr">
+		<text>带有不同帐户的托运非法货物进口到特异区记录的文档。</text>
+	</string>
+	<string id="zat_sultan_contra_info_3_name">
+		<text>供应莲</text>
+	</string>
+	<string id="zat_sultan_contra_info_3_descr">
+		<text>供应链，区内经营的运输和假文件走私者名单。</text>
 	</string>
 </string_table>
