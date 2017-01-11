@@ -114,4 +114,11 @@
 	<string id="mp_scientific_outfit_name">
 		<text>SEVA防护服</text>
 	</string>
+
+	<string id="svoboda_outfit_name">
+		<text>自由团防护服</text>
+	</string>
+	<string id="svoboda_outfit_description">
+		<text>自由团工匠生产的标准潜行者服装。包含内置神器插槽。</text>
+	</string>
 </string_table>

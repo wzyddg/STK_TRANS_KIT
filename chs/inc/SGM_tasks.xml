@@ -52,36 +52,6 @@
 	<string id="jup_b220_trapper_snorks_quest_text_4">
 		<text>所有四个地点都搜寻过了,史诺克已经杀光了.现在回去报告情况.</text>
 	</string>
-	<string id="jup_b220_trapper_snorks_quest_title_0">
-		<text>猎杀史诺克:消灭第一批史诺克.</text>
-	</string>
-	<string id="jup_b220_trapper_snorks_quest_text_0">
-		<text>清除所有异变生物.怪物聚集地:旧车附近.</text>
-	</string>
-	<string id="jup_b220_trapper_snorks_quest_title_1">
-		<text>猎杀史诺克: 消灭第二批异变生物.</text>
-	</string>
-	<string id="jup_b220_trapper_snorks_quest_text_1">
-		<text>清除所有异变生物.怪物聚集地:采石场附近的丛林.</text>
-	</string>
-	<string id="jup_b220_trapper_snorks_quest_title_2">
-		<text>猎杀史诺克: 消灭第三批异变生物.</text>
-	</string>
-	<string id="jup_b220_trapper_snorks_quest_text_2">
-		<text>清除所有异变生物.怪物聚集地:木星工厂西边的丛林.</text>
-	</string>
-	<string id="jup_b220_trapper_snorks_quest_title_3">
-		<text>猎杀史诺克: 消灭最后一批异变生物.</text>
-	</string>
-	<string id="jup_b220_trapper_snorks_quest_text_3">
-		<text>清除所有异变生物.怪物聚集地:水泥厂旁边的断桥.</text>
-	</string>
-	<string id="jup_b220_trapper_snorks_quest_title_4">
-		<text>猎杀史诺克: 向夹兽者报告任务已经完成了.</text>
-	</string>
-	<string id="jup_b220_trapper_snorks_quest_text_4">
-		<text>所有四个地点都搜寻过了,史诺克已经杀光了.现在回去报告情况.</text>
-	</string>
 	<string id="employer_find_item_title0">
 		<text>工作:寻找</text>
 	</string>

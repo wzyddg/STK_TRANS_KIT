@@ -1,87 +1,81 @@
-﻿        <string id="no_community">
-		<text>无</text>
+﻿	<string id="bodyguard_a">
+		<text>保镖</text>
 	</string>
-	<string id="trader">
-		<text>商人</text>
+	<string id="bodyguard_b">
+		<text>保镖</text>
 	</string>
-	<string id="保镖_a">
-		<text>«保镖»</text>
-	</string>	
-        <string id="保镖_b">
-		<text>«保镖»</text>
-	</string>	
-        <string id="保镖_c">
-		<text>«保镖»</text>
-	</string>	
-        <string id="保镖_d">
-		<text>«保镖»</text>
-	</string>	
-        <string id="保镖_e">
-		<text>«保镖»</text>
+	<string id="bodyguard_c">
+		<text>保镖</text>
 	</string>
-        <string id="保镖_f">
-		<text>«保镖»</text>
+	<string id="bodyguard_d">
+		<text>保镖</text>
 	</string>
-        <string id="monolith_alies">
-		<text>«黑石»</text>
+	<string id="bodyguard_e">
+		<text>保镖</text>
 	</string>
-        <string id="actor_bandit">
-		<text>«强盗»</text>
+		<string id="bodyguard_f">
+		<text>保镖</text>
 	</string>
-        <string id="bandit_alies">
-		<text>«强盗»</text>
+		<string id="monolith_alies">
+		<text>黑石</text>
+	</string>
+		<string id="actor_bandit">
+		<text>强盗</text>
+	</string>
+		<string id="bandit_alies">
+		<text>强盗</text>
 	</string>
 	<string id="actor_monolit">
-		<text>«黑石»</text>
+		<text>黑石</text>
 	</string>
-        <string id="no_community">
+		<string id="no_community">
 		<text>自由人</text>
 	</string>
 	<string id="rasvet">
-		<text>«黎明»</text>
+		<text>黎明</text>
 	</string>
 	<string id="actor_rasvet">
-		<text>«黎明»</text>
+		<text>黎明</text>
 	</string>
 	<string id="agent">
-		<text>«SBU»</text>
+		<text>SBU</text>
 	</string>
 	<string id="trader">
 		<text>商人</text>
 	</string>
 	<string id="feuding">
-		<text>«罪犯»</text>
+		<text>罪犯</text>
 	</string>
 	<string id="defending">
-		<text>«无助»</text>
+		<text>无助</text>
 	</string>
 	<string id="killer_enemy">
-		<text>«雇佣兵»</text>
+		<text>雇佣兵</text>
 	</string>
 	<string id="killer_alies">
-		<text>«雇佣兵»</text>
+		<text>雇佣兵</text>
 	</string>
 	<string id="actor_killer">
-		<text>«雇佣兵»</text>
+		<text>雇佣兵</text>
 	</string>
 	<string id="stalker_alies">
-		<text>«自由潜行者»</text>
+		<text>自由潜行者</text>
 	</string>
 	<string id="killer_bunker">
-		<text>«雇佣兵»</text>
+		<text>雇佣兵</text>
 	</string>
 	<string id="army_alies">
-		<text>«军人»</text>
+		<text>军人</text>
 	</string>
 	<string id="alfa_force">
-		<text>«阿尔法» 小队</text>
+		<text>阿尔法小队</text>
 	</string>
 	<string id="renegade">
-		<text>«叛徒»</text>
+		<text>叛徒</text>
 	</string>
 	<string id="night_stalker">
-		<text>«夜行者»</text>
+		<text>夜行者</text>
 	</string>
 	<string id="mercenary">
-		<text>«雇佣兵»</text>
+		<text>雇佣兵</text>
 	</string>
