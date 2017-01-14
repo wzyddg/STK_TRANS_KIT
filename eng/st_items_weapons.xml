@@ -41,7 +41,7 @@
 </string>
  
 <string id="ammo-7.62x25-p_s">
-	<text>7,62x25</text>
+	<text>7.62x25</text>
 </string>
  
 <string id="ammo-7.62x25-p_descr">
@@ -53,7 +53,7 @@
 </string>
  
 <string id="ammo-7.62x25-ps_s">
-	<text>7,62x25 PS</text>
+	<text>7.62x25 PS</text>
 </string>
  
 <string id="ammo-7.62x25-ps_descr">
@@ -205,11 +205,11 @@
 </string>
  
 <string id="ammo-7.62x39-ap">
-	<text>Cartridges 7,62x39 mm (7N23)</text>
+	<text>Cartridges 7.62x39 mm (7N23)</text>
 </string>
  
 <string id="ammo-7.62x39-ap_s">
-	<text>7,62x39 (7N23)</text>
+	<text>7.62x39 (7N23)</text>
 </string>
  
 <string id="ammo-7.62x39-ap_descr">
@@ -289,11 +289,11 @@
 </string>
  
 <string id="ammo-7.62x54-7h14">
-	<text>Cartridges 7,62x54 mm 7H14</text>
+	<text>Cartridges 7.62x54 mm 7H14</text>
 </string>
  
 <string id="ammo-7.62x54-7h14_s">
-	<text>7,62x54 7H14</text>
+	<text>7.62x54 7H14</text>
 </string>
  
 <string id="ammo-7.62x54-7h14_descr">
@@ -301,11 +301,11 @@
 </string>
  
 <string id="ammo-7.62x54-ap">
-	<text>Cartridges 7,62x54 mm BP</text>
+	<text>Cartridges 7.62x54 mm BP</text>
 </string>
  
 <string id="ammo-7.62x54-ap_s">
-	<text>7,62x54 BP</text>
+	<text>7.62x54 BP</text>
 </string>
  
 <string id="ammo-7.62x54-ap_descr">
@@ -841,7 +841,7 @@
 </string>
  
 <string id="st_wpn_aek971_descr">
-	<text>Machine made according to the traditional assembly scheme (store front position) and structurally largely repeats the Kalashnikov.ikov assault rifle - used butterfly valve and automatic recharge on the basis of a gas engine. Machine is designed for cartridges of caliber 5,45x39 mm, there are also options for this machine chambered for 5.56mm NATO (AEK-972) and 7,62x39 mm (AEK-973).</text>
+	<text>Machine made according to the traditional assembly scheme (store front position) and structurally largely repeats the Kalashnikov.ikov assault rifle - used butterfly valve and automatic recharge on the basis of a gas engine. Machine is designed for cartridges of caliber 5,45x39 mm, there are also options for this machine chambered for 5.56mm NATO (AEK-972) and 7.62x39 mm (AEK-973).</text>
 </string>
  
 <string id="st_wpn_ak101">
@@ -857,7 +857,7 @@
 </string>
  
 <string id="st_wpn_ak103_descr">
-	<text>AK103 - export version of the AK-74M, characterized by the use of cartridges 5,56x45 mm (standard NATO SS109) and 7,62x39 mm (Soviet patron of the sample 1943), respectively. AK103 can use shops AK/AKM.</text>
+	<text>AK103 - export version of the AK-74M, characterized by the use of cartridges 5,56x45 mm (standard NATO SS109) and 7.62x39 mm (Soviet patron of the sample 1943), respectively. AK103 can use shops AK/AKM.</text>
 </string>
  
 <string id="st_wpn_ak105">
@@ -945,7 +945,7 @@
 </string>
  
 <string id="st_wpn_rpk74_descr">
-	<text>Hand gun, designed to replace the troops RPK chambered 7,62x39 mm within the small arms under maloimpulsnogo cartridge 5,45x39 mm. Adopted in 1974, along with an AK-74.</text>
+	<text>Hand gun, designed to replace the troops RPK chambered 7.62x39 mm within the small arms under maloimpulsnogo cartridge 5,45x39 mm. Adopted in 1974, along with an AK-74.</text>
 </string>
  
 <string id="st_wpn_beretta">

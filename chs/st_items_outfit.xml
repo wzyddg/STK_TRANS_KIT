@@ -121,4 +121,181 @@
 	<string id="svoboda_outfit_description">
 		<text>自由团工匠生产的标准潜行者服装。包含内置神器插槽。</text>
 	</string>
+
+	<string id="exo_freedom_outfit_name">
+		<text>自由团外骨骼护甲</text>
+	</string>
+	<string id="exo_freedom_outfit_description">
+		<text>自由团组织的特殊款外骨骼护甲。采用了更轻便的材料做成的护甲套装，此外耐久性也增加了。</text>
+	</string>
+
+	<string id="neutral_assault_outfit_name">
+		<text>“风暴”外骨骼护甲</text>
+	</string> 
+	<string id="neutral_assault_outfit_description">
+		<text>轻便版的外骨骼护甲。在其制造上运用了装甲元素。不具备液压系统。躯体护甲部分提供了良好的轻武器防护，同时装备有防毒面具和橡胶制成的防护服。针对异常影响可以提供良好的防护。装配有一个内置的神器插槽。</text>
+	</string>
+
+	<string id="monolith_scientific_outfit_name">
+		<text>黑石科学套装</text>
+	</string>
+	<string id="monolith_scientific_outfit_description">
+		<text>与大多数黑石制品一样—该技术是未知的。它由未知材料构成。它们比同类更轻便，同时可有效地防辐射。该制品拥有一个密闭的呼吸循环系统。</text>
+	</string>
+
+	<string id="monolith_outfit_name">
+		<text>黑石连体服</text>
+	</string>
+	<string id="monolith_outfit_description">
+		<text>护甲可防护手枪子弹。其外壳由两层组成。可以保护其佩戴者避免许多反常影响和辐射。包含一个神器插槽。 \n 技术已知 \n\n %c[255,1,255,255] 被应用于 %c[default] \n</text>
+	</string>
+
+	<string id="monolith_assault_outfit_name">
+		<text>黑石—W外骨骼护甲</text>
+	</string>
+	<string id="monolith_assault_outfit_description">
+		<text>黑石风暴骑兵装备。其制造运用了护甲元素。躯体护甲部分提供了良好的轻武器防护，同时装备有防毒面具和衬里由未知的织物组成，可有效地对抗反常影响。装备有内置的神器插槽。\n 技术已知</text>
+	</string>
+
+	<string id="exo_mono_outfit_name">
+		<text>黑石外骨骼装甲</text>
+	</string>
+	<string id="exo_mono_outfit_description">
+		<text>黑石组织外骨骼装甲。可有效对抗所有不良影响。磨损缓慢。\n 技术已知</text>
+	</string>
+
+	<string id="protection_outfit_name">
+		<text>SSP-99M战斗服</text>
+	</string>
+	<string id="protection_outfit_description">
+		<text>高品质改装连体服SSP-99'环保主义者'。增加躯干保护免受枪伤和弹片损伤。设计用于科学考察的设备保护。有效防止辐射和异常点。耐化学侵蚀和其他对身体有害的影响。虽然所有针对异常的工作材料仅用于实验室研究，但套装上有五个神器插槽。配备了第二代的夜视设备。</text>
+	</string>
+
+	<string id="ecolog_outfit_name">
+		<text>SSP-99 '环保主义者' 战斗服</text>
+	</string>
+	 
+	<string id="ecolog_outfit_description">
+		<text>设计用于在特异区提供化学保护的MOP-99'环保主义者'。使用保护探险科学家和与他们合作的潜行者。内置空气过滤和空调。不适用于作战行动。虽然所有针对异常的工作材料仅用于实验室研究，但套装上有五个神器插槽。配备了第二代的夜视设备。</text>
+	</string>
+
+	<string id="csky_standart_outfit_name">
+		<text>CHN-2外骨骼</text>
+	</string>
+	 
+	<string id="csky_standart_outfit_description">
+		<text>与早期型号相比，加强防弹衣和一个内置的防毒面具提供了对子弹和异常点的防护。然而，总体而言，其安全对于严重远征特异区中心是非常不足的。配备了一个神器插槽。</text>
+	</string>
+
+	<string id="specops_outfit_2_name">
+		<text>Beryl-5M1 外骨骼</text>
+	</string>
+	 
+	<string id="specops_outfit_2_description">
+		<text>用于特异区军队使用的PSZ-5配Beryl装甲。设计用于在背景辐射强的地区进行突击作战，但在高伤害异常点中无效。配备了一个神器插槽。\n (指挥官) \n\n %c[255,1,255,255] 与钢质头盔或'Sphere B12'配套 %c[default] \n</text>
+	</string>
+
+	<string id="bandit_outfit_name">
+		<text>皮夹克</text>
+	</string>
+	 
+	<string id="bandit_outfit_description">
+		<text>传统土匪服装 - 有缝入防弹单元的皮夹克。提供给穿戴者一些变异点保护 - 但是，在特异区的恶劣条件下是不够的。配备了内置的神器插槽。</text>
+	</string>
+
+	<string id="bandit_brownrain_outfit_name">
+		<text>强盗雨衣（棕色）</text>
+	</string>
+	 
+	<string id="bandit_brownrain_outfit_description">
+		<text>缝合了外套装甲元素的时髦的强盗皮夹克。提供比夹克更多的保护 - 但是，在特异区的恶劣条件下还是不够的。配备了内置的神器插槽。</text>
+	</string>
+	 
+	<string id="bandit_blackrain_outfit_name">
+		<text>强盗斗篷（黑色）</text>
+	</string>
+	 
+	<string id="bandit_blackrain_outfit_description">
+		<text>缝合了外套装甲元素的时髦的强盗皮夹克。提供比夹克更多的枪弹和环境保护 - 但是，在特异区的恶劣条件下还是不够的。配备了内置的神器插槽。</text>
+	</string>
+	 
+	<string id="bandit_light_outfit_name">
+		<text>'落日'护甲</text>
+	</string>
+	 
+	<string id="bandit_light_outfit_description">
+		<text>潜行者临时做出来的衣服。事实上，这种简易军队装甲具有针对变异点的额外的保护。包含内置的神器插槽。</text>
+	</string>
+
+	<string id="merc_outfit_name">
+		<text>佣兵护甲</text>
+	</string>
+	 
+	<string id="merc_outfit_description">
+		<text>一种潜行者服装。该套装包含一个轻量护甲，并能提供额外异常保护。包含内置的神器插槽。</text>
+	</string>
+	 
+	<string id="exo_merc_outfit_name">
+		<text>佣兵外骨骼</text>
+	</string>
+	 
+	<string id="exo_merc_outfit_description">
+		<text>外国制造的外骨骼型号。可以抵御突变体和爆炸的伤害，并提供标准的变异点防护。</text>
+	</string>
+	 
+	<string id="soldier_outfit_name">
+		<text>军队防弹衣</text>
+	</string>
+	 
+	<string id="soldier_outfit_description">
+		<text>标准士兵套装 - 简易的军队盔甲。有效抵御手枪子弹和弹片。对异常点和其他影响无效。 无法安装工件的容器。</text>
+	</string>
+	 
+	<string id="dolg_scientific_outfit_name">
+		<text>COR-9Md '万能护服'</text>
+	</string>
+	 
+	<string id="dolg_scientific_outfit_description">
+		<text>适合特异区的绝佳防护服。潜行者完美的把它的优秀质量和保护性结合起来了。它由COR-9d连体服，封闭式呼吸循环系统以及内置异常点防护装置组成。对子弹和弹片提供了良好的防护。</text>
+	</string>
+	 
+	<string id="exo_dolg_outfit_name">
+		<text>纪律团外骨骼</text>
+	</string>
+	 
+	<string id="exo_dolg_outfit_description">
+		<text>纪律团的外骨骼的特殊型号。使用更耐用的材料能增加对机械冲击的保护，并增加服装的耐用性。</text>
+	</string>
+
+	<string id="svoboda_scientific_outfit_name">
+		<text>自由团科学家服装</text>
+	</string>
+	 
+	<string id="svoboda_scientific_outfit_description">
+		<text>这套装甲是由熟练的自由团工匠创造的专门为特异区的科学研究的。封闭的呼吸系统和特殊浸渍材料提供极好的针对有害辐射和异常点的保护。然而，内置的身体护甲甚至会被手枪子弹打破，所以这套服装不适合参与战斗行动。</text>
+	</string>
+
+	<string id="st_helm_respirator_gp7">
+		<text>M40防毒面具</text>
+	</string>
+	 
+	<string id="st_helm_respirator_gp7_descr">
+		<text>M40防毒面具可防止有毒物质和许多危险化学物质，放射性粉尘和细菌。在潜行者中，主要由雇佣兵装备。</text>
+	</string>
+	 
+	<string id="st_helm_battle_dolg">
+		<text>'D-Sphere'头盔</text>
+	</string>
+	 
+	<string id="st_helm_battle_dolg_descr">
+		<text>由纪律团改造的'Scope B12'头盔以便满足需求。面罩提供增强的防护，防止辐射和化学威胁。有内置的夜视仪。</text>
+	</string>
+	 
+	<string id="stalker_medic_outfit_name">
+		<text>治疗连体服'黎明'</text>
+	</string>
+	 
+	<string id="stalker_medic_outfit_description">
+		<text>'黎明'防护服的改造型号。是两层橡胶织物与有机玻璃间隔和内置的机身装甲的组合。尽管事实上，装甲甚至手枪子弹都能打破，因为它便宜易于改造而十分普遍。配备了内置的神器插槽。有治愈的功能。</text>
+	</string>
 </string_table>
