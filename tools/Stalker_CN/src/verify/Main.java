@@ -45,8 +45,13 @@ public class Main {
 			}
 			
 		}
-//		System.out.println("Ну даже не знаю, можно ли назвать это работой. В общем, тут неподалёку от нас отряд псевдособак поселилс");
-		goThroughLine(new File("D:\\S.T.A.L.K.E.R. Wind of Time v1.0\\gamedata\\configs\\text\\rus\\st_dialogs_nii.xml"));
+//		System.out.println("Ну даже не знаю, можно ли назвать это работой. В общем, тут неподалёку от нас отряд псевдособак поселилс");st_ogsm_notepad_anomalies.xml
+//		goThroughLine(new File("D:\\S.T.A.L.K.E.R. Wind of Time v1.0\\gamedata\\configs\\text\\rus\\st_ogsm_notepad_anomalies.xml"));
+//		goThroughLine(new File("D:\\S.T.A.L.K.E.R. Wind of Time v1.0\\gamedata\\configs\\text\\rus\\st_dialogs_nii.xml"));
+//		goThroughLine(new File("D:\\S.T.A.L.K.E.R. Wind of Time v1.0\\gamedata\\configs\\text\\rus\\st_dialogs_nii.xml"));
+//		goThroughLine(new File("D:\\S.T.A.L.K.E.R. Wind of Time v1.0\\gamedata\\configs\\text\\rus\\st_dialogs_nii.xml"));
+//		goThroughLine(new File("D:\\S.T.A.L.K.E.R. Wind of Time v1.0\\gamedata\\configs\\text\\rus\\st_dialogs_nii.xml"));
+//		goThroughLine(new File("D:\\S.T.A.L.K.E.R. Wind of Time v1.0\\gamedata\\configs\\text\\rus\\st_dialogs_nii.xml"));
 		System.out.println("lackFileNum:"+lackFileNum);
 	}
 
@@ -119,14 +124,21 @@ public class Main {
         String rusString = "";
         String tmp = "";
         
-        while ((tmp = rusReader.readLine()) != null) {
-        	System.out.println(tmp);
+        for(int i =0;(tmp = rusReader.readLine()) != null;i++) {
+        	System.out.println(""+i+" : "+transToCN(tmp));
+//        	Thread.sleep(100);
             rusString = rusString + tmp;
         }
         
-		System.out.println(Dispatch.Instance("google").Trans("ru", "zh", "Работа? Ну даже не знаю, можно ли назвать это работой. В общем, тут неподалёку от нас отряд псевдособак поселился, они гуляли прямо возле нашей базы. Не мог бы ты избавиться от них?"));
-        
         rusReader.close();
+	}
+	
+	public static String transToEN(String ori) throws Exception {
+		return Dispatch.Instance("google").Trans("ru", "en", ori);
+	}
+	
+	public static String transToCN(String ori) throws Exception {
+		return Dispatch.Instance("google").Trans("ru", "zh", ori);
 	}
 
 //	public static boolean key2key(File chs,File rus) throws ParserConfigurationException, SAXException, IOException, InterruptedException {
