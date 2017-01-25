@@ -1,12 +1,16 @@
 package verify;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -24,6 +28,8 @@ import com.lsj.trans.Dispatch;;
 
 public class Main {
 	static int lackFileNum = 0;
+	static String localDirSeparater ="\\";
+//	static String localDirSeparater ="/";
 
 	public static void main(String[] args) throws Exception {
 		Class.forName("com.lsj.trans.BaiduDispatch");
@@ -32,19 +38,20 @@ public class Main {
 		for (int i = 0; i < args.length; i++) {
 			System.out.println(args[i]);
 		}
-		// File rusDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\rus");
-		// File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
-		File rusDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus");
-		File chsDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
+		File rusDir = new File("D:\\S.T.A.L.K.E.R. Wind of Time v1.0\\gamedata\\configs\\text\\rus");
+		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
+//		File rusDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus");
+//		File chsDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
 		File[] rusXMLs = rusDir.listFiles();
 		for (int i = 0; i < rusXMLs.length; i++) {
 			if (rusXMLs[i].isFile()) {
-				File chs = new File(chsDir.getPath() + "\\" + rusXMLs[i].getName());
+				File chs = new File(chsDir.getPath() + localDirSeparater + rusXMLs[i].getName());
 				// System.out.println(chs.getName()+" : ");
 				// if (keyToKey(chs, rusXMLs[i])) {
 				// return;
 				// }
 				// Thread.sleep(100);
+				translateFile(rusXMLs[i]);
 			}
 
 		}
@@ -53,9 +60,8 @@ public class Main {
 		// поселилс");st_ogsm_notepad_anomalies.xml
 		// goThroughLine(new File("D:\\S.T.A.L.K.E.R. Wind of Time
 		// v1.0\\gamedata\\configs\\text\\rus\\st_ogsm_notepad_anomalies.xml"));
-		goThroughLine(new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus/st_dialogs_zaton.xml"));
-		// goThroughLine(new File("D:\\S.T.A.L.K.E.R. Wind of Time
-		// v1.0\\gamedata\\configs\\text\\rus\\st_dialogs_nii.xml"));
+//		goThroughLine(new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus/st_dialogs_zaton.xml"));
+//		 goThroughLine(new File("D:\\S.T.A.L.K.E.R. Wind of Time v1.0\\gamedata\\configs\\text\\rus\\st_enc_bio.xml"));
 		// goThroughLine(new File("D:\\S.T.A.L.K.E.R. Wind of Time
 		// v1.0\\gamedata\\configs\\text\\rus\\st_dialogs_nii.xml"));
 		// goThroughLine(new File("D:\\S.T.A.L.K.E.R. Wind of Time
@@ -129,24 +135,58 @@ public class Main {
 		return flag;
 	}
 
-	public static void goThroughLine(File rus) throws Exception {
+	public static void translateFile(File rus) throws Exception {
+		System.out.println("file \""+rus.getName()+"\" started!");
+		int transNum = 0;
+		
 		BufferedReader rusReader = new BufferedReader(new InputStreamReader(new FileInputStream(rus), "windows-1251"));
 		String rusString = "";
 		String tmp = "";
 
 		for (int i = 0; (tmp = rusReader.readLine()) != null; i++) {
-			 System.out.println(""+i+" : "+transToCN(tmp));
-			 Thread.sleep(150);
-			rusString = rusString + tmp;
+			rusString = rusString + tmp+"\r\n";
+		}
+		rusReader.close();
+		
+		String chsString = rusString;
+		HashSet<String> sentences = new HashSet<>();
+		Pattern p = Pattern.compile("<text>(.*?)<");
+		Matcher m = p.matcher(rusString);
+		while (m.find()) {
+			String thisSentence = m.group(1);
+			sentences.add(thisSentence);
+		}
+		
+		for (Iterator<String> iterator = sentences.iterator(); iterator.hasNext();) {
+			String string = iterator.next();
+			chsString = chsString.replace(string, transToCN(string));
+			transNum++;
+//			Runtime.getRuntime().exec("cls");
+			System.out.println(""+transNum+" sentences:"+string+" translated!");
+			Thread.sleep(250);
+		}
+		
+		p = Pattern.compile("encoding=\"(.*?)\"");
+		m = p.matcher(rusString);
+		if (m.find()) {
+			chsString = chsString.replace(m.group(1), "UTF-8");
+		}
+		
+		File resultDir = new File(rus.getParent()+localDirSeparater+"translated");
+		if (!resultDir.exists()) {
+			resultDir.mkdir();
+		}
+		else {
+			System.out.println("directory \"translated\" occupied, please move or rename it.");
 		}
 
-//		Pattern p = Pattern.compile("id=\"(.*?)\"");
-//		Matcher m = p.matcher(rusString);
-//		while (m.find()) {
-//			// rusIDs.add(m.group(1));
-//		}
-
-		rusReader.close();
+		File resultFile = new File(resultDir.getPath()+localDirSeparater+rus.getName());
+		
+		BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(resultFile), "utf-8"));
+		writer.write(chsString);
+		writer.close();
+		
+		System.out.println("file \""+rus.getName()+"\" done!");
 	}
 
 	public static String transToEN(String ori) throws Exception {
@@ -154,7 +194,7 @@ public class Main {
 	}
 
 	public static String transToCN(String ori) throws Exception {
-		return Dispatch.Instance("google").Trans("ru", "zh", ori);
+		return Dispatch.Instance("baidu").Trans("ru", "zh", ori);
 	}
 
 	// public static boolean key2key(File chs,File rus) throws
