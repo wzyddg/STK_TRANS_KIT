@@ -24,12 +24,15 @@ import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
-import com.lsj.trans.Dispatch;;
+import com.lsj.trans.Dispatch;
 
 public class Main {
 	static int lackFileNum = 0;
 	static String localDirSeparater ="\\";
 //	static String localDirSeparater ="/";
+	
+	static String transAPI = "baidu";
+	static int sleepMilliSecond = 250;
 
 	public static void main(String[] args) throws Exception {
 		Class.forName("com.lsj.trans.BaiduDispatch");
@@ -42,10 +45,16 @@ public class Main {
 		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
 //		File rusDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus");
 //		File chsDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
+		File[] transed = new File(rusDir.getPath()+localDirSeparater+"translated_"+transAPI).listFiles();
+		ArrayList<String> finishedFiles = new ArrayList<String>();
+		for (int i = 0; i < transed.length; i++) {
+			finishedFiles.add(transed[i].getName());
+		}
+		
 		File[] rusXMLs = rusDir.listFiles();
 		for (int i = 0; i < rusXMLs.length; i++) {
-			if (rusXMLs[i].isFile()) {
-				File chs = new File(chsDir.getPath() + localDirSeparater + rusXMLs[i].getName());
+			if (rusXMLs[i].isFile()&&!finishedFiles.contains(rusXMLs[i].getName())) {
+//				File chs = new File(chsDir.getPath() + localDirSeparater + rusXMLs[i].getName());
 				// System.out.println(chs.getName()+" : ");
 				// if (keyToKey(chs, rusXMLs[i])) {
 				// return;
@@ -161,9 +170,8 @@ public class Main {
 			String string = iterator.next();
 			chsString = chsString.replace(string, transToCN(string));
 			transNum++;
-//			Runtime.getRuntime().exec("cls");
 			System.out.println(""+transNum+" sentences:"+string+" translated!");
-			Thread.sleep(250);
+			Thread.sleep(sleepMilliSecond);
 		}
 		
 		p = Pattern.compile("encoding=\"(.*?)\"");
@@ -172,12 +180,12 @@ public class Main {
 			chsString = chsString.replace(m.group(1), "UTF-8");
 		}
 		
-		File resultDir = new File(rus.getParent()+localDirSeparater+"translated");
+		File resultDir = new File(rus.getParent()+localDirSeparater+"translated_"+transAPI);
 		if (!resultDir.exists()) {
 			resultDir.mkdir();
 		}
 		else {
-			System.out.println("directory \"translated\" occupied, please move or rename it.");
+			System.out.println("directory \"translated_"+transAPI+"\" occupied, please move or rename it.");
 		}
 
 		File resultFile = new File(resultDir.getPath()+localDirSeparater+rus.getName());
@@ -190,11 +198,11 @@ public class Main {
 	}
 
 	public static String transToEN(String ori) throws Exception {
-		return Dispatch.Instance("google").Trans("ru", "en", ori);
+		return Dispatch.Instance(transAPI).Trans("ru", "en", ori);
 	}
 
 	public static String transToCN(String ori) throws Exception {
-		return Dispatch.Instance("baidu").Trans("ru", "zh", ori);
+		return Dispatch.Instance(transAPI).Trans("ru", "zh", ori);
 	}
 
 	// public static boolean key2key(File chs,File rus) throws
