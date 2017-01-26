@@ -32,25 +32,40 @@ public class Main {
 //	static String localDirSeparater ="/";
 	
 	static String transAPI = "baidu";
-	static int sleepMilliSecond = 250;
+	static int sleepMilliSecond = 300;
 
 	public static void main(String[] args) throws Exception {
+		if(args.length>0&&args[0].equals("-google")){
+			transAPI = "google";
+		}
+		if(args.length>1){
+			int sleep=0;
+			try {
+				sleep = Integer.parseInt(args[1].substring(1));
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				sleep = 300;
+			}
+			sleepMilliSecond = sleep;
+		}
+		System.out.println(transAPI);
+		System.out.println(sleepMilliSecond);
 		Class.forName("com.lsj.trans.BaiduDispatch");
 		Class.forName("com.lsj.trans.GoogleDispatch");
 		// TODO Auto-generated method stub
-		for (int i = 0; i < args.length; i++) {
-			System.out.println(args[i]);
-		}
 		File rusDir = new File("D:\\S.T.A.L.K.E.R. Wind of Time v1.0\\gamedata\\configs\\text\\rus");
 		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
 //		File rusDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus");
 //		File chsDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
-		File[] transed = new File(rusDir.getPath()+localDirSeparater+"translated_"+transAPI).listFiles();
 		ArrayList<String> finishedFiles = new ArrayList<String>();
-		for (int i = 0; i < transed.length; i++) {
-			finishedFiles.add(transed[i].getName());
+		File transedDir = new File(rusDir.getPath()+localDirSeparater+"translated_"+transAPI);
+		if(transedDir.exists()){
+			File[] transed = transedDir.listFiles();
+			for (int i = 0; i < transed.length; i++) {
+				finishedFiles.add(transed[i].getName());
+			}
 		}
-		
+
 		File[] rusXMLs = rusDir.listFiles();
 		for (int i = 0; i < rusXMLs.length; i++) {
 			if (rusXMLs[i].isFile()&&!finishedFiles.contains(rusXMLs[i].getName())) {
@@ -183,9 +198,6 @@ public class Main {
 		File resultDir = new File(rus.getParent()+localDirSeparater+"translated_"+transAPI);
 		if (!resultDir.exists()) {
 			resultDir.mkdir();
-		}
-		else {
-			System.out.println("directory \"translated_"+transAPI+"\" occupied, please move or rename it.");
 		}
 
 		File resultFile = new File(resultDir.getPath()+localDirSeparater+rus.getName());
