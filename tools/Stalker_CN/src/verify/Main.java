@@ -181,14 +181,29 @@ public class Main {
 			sentences.add(thisSentence);
 		}
 		
+		String string = "";
+		boolean failFlag = false;
 		for (Iterator<String> iterator = sentences.iterator(); iterator.hasNext();) {
-			String string = iterator.next();
-			chsString = chsString.replace(string, transToCN(string));
+			if(!failFlag){
+				string = iterator.next();
+			}
+			failFlag = false;
+			try {
+				chsString = chsString.replace(string, transToEN(string));
+				Thread.sleep(sleepMilliSecond);
+			} catch (Exception e) {
+				// TODO: handle exception
+				failFlag = true;
+				Thread.sleep(4000);
+				continue;
+			}
 			transNum++;
-			System.out.println(""+transNum+" sentences:"+string+" translated!");
-			Thread.sleep(sleepMilliSecond);
+			System.out.print(""+transNum+",");
+			if (transNum%30==0) {
+				System.out.println("");
+			}
 		}
-		
+		System.out.println("");
 		p = Pattern.compile("encoding=\"(.*?)\"");
 		m = p.matcher(rusString);
 		if (m.find()) {
