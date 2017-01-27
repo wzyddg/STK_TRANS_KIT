@@ -55,7 +55,7 @@ public class Main {
 		Class.forName("com.lsj.trans.BaiduDispatch");
 		Class.forName("com.lsj.trans.GoogleDispatch");
 		// TODO Auto-generated method stub
-		File rusDir = new File("D:\\TOW1.1TEXT\\prob");
+		File rusDir = new File("D:\\TOW1.1TEXT\\rus");
 		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
 //		File rusDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus");
 //		File chsDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
@@ -197,11 +197,14 @@ public class Main {
 			}
 			failFlag = false;
 			try {
-				chsString = chsString.replaceAll("<string id=\""+key+"\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>", "<string id=\""+key+"\">\n\t\t<text>"+transToEN(string)+"</text>\n\t</string>");
+				chsString = chsString.replaceAll("<string id=\""+key+"\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>", "<string id=\""+key+"\">\n\t\t<text>"+Matcher.quoteReplacement(transToCN(string))+"</text>\n\t</string>");
 				Thread.sleep(sleepMilliSecond);
 			} catch (Exception e) {
 				// TODO: handle exception
 				failFlag = true;
+				System.out.println("");
+				System.err.println(e);
+				System.out.println(string);
 				Thread.sleep(4000);
 				continue;
 			}
