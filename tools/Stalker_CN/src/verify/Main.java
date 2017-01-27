@@ -55,7 +55,7 @@ public class Main {
 		Class.forName("com.lsj.trans.BaiduDispatch");
 		Class.forName("com.lsj.trans.GoogleDispatch");
 		// TODO Auto-generated method stub
-		File rusDir = new File("D:\\TOW1.1TEXT\\rus");
+		File rusDir = new File("D:\\TOW1.1TEXT\\prob");
 		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
 //		File rusDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus");
 //		File chsDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
@@ -174,12 +174,10 @@ public class Main {
 				rusString = rusString + tmp+"\n";
 			}
 		}
-//		System.out.println(rusString);
 		rusReader.close();
 		
 		String chsString = rusString;
 		HashMap<String,String> sentences = new HashMap<>();
-//		Pattern p = Pattern.compile("<text>(.*?)</text>");
 		Pattern p = Pattern.compile("<string id=\"(.*?)\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>");
 		Matcher m = p.matcher(rusString);
 		int i=0;
@@ -187,17 +185,19 @@ public class Main {
 			sentences.put(m.group(1), m.group(2));
 			i++;
 		}
-		System.out.println("find "+i+" sent,set get "+sentences.size());
+		System.out.println("find "+i+" sentences,map get "+sentences.size());
 		
 		String string = "";
+		String key = "";
 		boolean failFlag = false;
 		for (Iterator<String> iterator = sentences.keySet().iterator(); iterator.hasNext();) {
 			if(!failFlag){
-				string = sentences.get(iterator.next());
+				key = iterator.next();
+				string = sentences.get(key);
 			}
 			failFlag = false;
 			try {
-				chsString = chsString.replace(string, transToEN(string));
+				chsString = chsString.replaceAll("<string id=\""+key+"\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>", "<string id=\""+key+"\">\n\t\t<text>"+transToEN(string)+"</text>\n\t</string>");
 				Thread.sleep(sleepMilliSecond);
 			} catch (Exception e) {
 				// TODO: handle exception
