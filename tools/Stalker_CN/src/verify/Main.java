@@ -10,6 +10,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.ArrayList;
+import java.util.Date;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.regex.Matcher;
@@ -30,7 +32,7 @@ public class Main {
 	static int lackFileNum = 0;
 	static String localDirSeparater ="\\";
 //	static String localDirSeparater ="/";
-	
+	static long currentTimeMillis = System.currentTimeMillis();
 	static String transAPI = "baidu";
 	static int sleepMilliSecond = 300;
 
@@ -53,7 +55,7 @@ public class Main {
 		Class.forName("com.lsj.trans.BaiduDispatch");
 		Class.forName("com.lsj.trans.GoogleDispatch");
 		// TODO Auto-generated method stub
-		File rusDir = new File("D:\\S.T.A.L.K.E.R. Wind of Time v1.0\\gamedata\\configs\\text\\rus");
+		File rusDir = new File("D:\\TOW1.1TEXT\\rus");
 		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
 //		File rusDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus");
 //		File chsDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
@@ -97,7 +99,7 @@ public class Main {
 
 	@SuppressWarnings("resource")
 	public static boolean keyToKey(File chs, File rus) throws Exception {
-		String checkKeyword = "尼特罗";
+//		String checkKeyword = "尼特罗";
 
 		BufferedReader chsReader = new BufferedReader(new FileReader(chs));
 		String chsString = "";
@@ -108,9 +110,9 @@ public class Main {
 			chsString = chsString + tmp;
 		}
 		chsReader.close();
-		if (chsString.contains(checkKeyword)) {
-			throw new Exception(checkKeyword + " exists in " + chs.getName());
-		}
+//		if (chsString.contains(checkKeyword)) {
+//			throw new Exception(checkKeyword + " exists in " + chs.getName());
+//		}
 		while ((tmp = rusReader.readLine()) != null) {
 			rusString = rusString + tmp;
 		}
@@ -168,24 +170,30 @@ public class Main {
 		String tmp = "";
 
 		for (int i = 0; (tmp = rusReader.readLine()) != null; i++) {
-			rusString = rusString + tmp+"\r\n";
+			if (!tmp.equals("")) {
+				rusString = rusString + tmp+"\n";
+			}
 		}
+//		System.out.println(rusString);
 		rusReader.close();
 		
 		String chsString = rusString;
-		HashSet<String> sentences = new HashSet<>();
-		Pattern p = Pattern.compile("<text>(.*?)<");
+		HashMap<String,String> sentences = new HashMap<>();
+//		Pattern p = Pattern.compile("<text>(.*?)</text>");
+		Pattern p = Pattern.compile("<string id=\"(.*?)\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>");
 		Matcher m = p.matcher(rusString);
+		int i=0;
 		while (m.find()) {
-			String thisSentence = m.group(1);
-			sentences.add(thisSentence);
+			sentences.put(m.group(1), m.group(2));
+			i++;
 		}
+		System.out.println("find "+i+" sent,set get "+sentences.size());
 		
 		String string = "";
 		boolean failFlag = false;
-		for (Iterator<String> iterator = sentences.iterator(); iterator.hasNext();) {
+		for (Iterator<String> iterator = sentences.keySet().iterator(); iterator.hasNext();) {
 			if(!failFlag){
-				string = iterator.next();
+				string = sentences.get(iterator.next());
 			}
 			failFlag = false;
 			try {
@@ -204,11 +212,9 @@ public class Main {
 			}
 		}
 		System.out.println("");
-		p = Pattern.compile("encoding=\"(.*?)\"");
-		m = p.matcher(rusString);
-		if (m.find()) {
-			chsString = chsString.replace(m.group(1), "UTF-8");
-		}
+		
+		chsString = chsString.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"");
+		chsString = chsString.replaceAll("？", "?");
 		
 		File resultDir = new File(rus.getParent()+localDirSeparater+"translated_"+transAPI);
 		if (!resultDir.exists()) {
