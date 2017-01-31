@@ -1,5 +1,5 @@
 for %%f in (..\*.db*) do (
-    converter.exe -unpack -2947ru %%f -dir .\OGSE0693_unpacked
+    converter.exe -unpack -xdb %%f -dir .\unpacked
 )
 
 pause
