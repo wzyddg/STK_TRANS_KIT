@@ -55,7 +55,7 @@ public class Main {
 		Class.forName("com.lsj.trans.BaiduDispatch");
 		Class.forName("com.lsj.trans.GoogleDispatch");
 		// TODO Auto-generated method stub
-		File rusDir = new File("D:\\COC1.4.22.text\\eng");
+		File rusDir = new File("D:\\TOW1.1TEXT\\rus");
 		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
 //		File rusDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus");
 //		File chsDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
@@ -238,7 +238,7 @@ public class Main {
 	}
 
 	public static String transToCN(String ori) throws Exception {
-		return Dispatch.Instance(transAPI).Trans("en", "zh", ori);
+		return Dispatch.Instance(transAPI).Trans("ru", "zh", ori);
 	}
 
 	// public static boolean key2key(File chs,File rus) throws
