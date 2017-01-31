@@ -10,7 +10,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -26,7 +28,7 @@ import org.xml.sax.SAXException;
 
 import com.lsj.trans.Dispatch;
 
-public class FileTranslator {
+public class Main {
 	static int lackFileNum = 0;
 	static String localDirSeparater ="\\";
 //	static String localDirSeparater ="/";
@@ -53,7 +55,7 @@ public class FileTranslator {
 		Class.forName("com.lsj.trans.BaiduDispatch");
 		Class.forName("com.lsj.trans.GoogleDispatch");
 		// TODO Auto-generated method stub
-		File rusDir = new File("D:\\COC1.4.22.text\\prob");
+		File rusDir = new File("D:\\COC1.4.22.text\\eng");
 		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
 //		File rusDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus");
 //		File chsDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
@@ -175,15 +177,9 @@ public class FileTranslator {
 		rusReader.close();
 		
 		String chsString = rusString;
-		
-		//clear BOM
-		chsString = chsString.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ");
-		//delete annotation
-		chsString = chsString.replaceAll("<!--[\\s\\S]*?-->", "");
-		
 		HashMap<String,String> sentences = new HashMap<>();
 		Pattern p = Pattern.compile("<string id=\"(.*?)\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>");
-		Matcher m = p.matcher(chsString);
+		Matcher m = p.matcher(rusString);
 		int i=0;
 		while (m.find()) {
 			sentences.put(m.group(1), m.group(2));
