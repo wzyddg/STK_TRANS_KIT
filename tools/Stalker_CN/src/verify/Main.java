@@ -16,6 +16,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import com.lsj.trans.*;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -26,19 +27,18 @@ import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
-import com.lsj.trans.Dispatch;
-
 public class Main {
 	static int lackFileNum = 0;
 	static String localDirSeparater ="\\";
 //	static String localDirSeparater ="/";
 	static long currentTimeMillis = System.currentTimeMillis();
 	static String transAPI = "baidu";
+	static String oriLang = "ru";
 	static int sleepMilliSecond = 300;
 
 	public static void main(String[] args) throws Exception {
-		if(args.length>0&&args[0].equals("-google")){
-			transAPI = "google";
+		if(args.length>0){
+			transAPI = args[0].substring(1);
 		}
 		if(args.length>1){
 			int sleep=0;
@@ -50,12 +50,15 @@ public class Main {
 			}
 			sleepMilliSecond = sleep;
 		}
-		System.out.println(transAPI);
-		System.out.println(sleepMilliSecond);
+//		System.out.println(transAPI);
+//		System.out.println(sleepMilliSecond);
 		Class.forName("com.lsj.trans.BaiduDispatch");
 		Class.forName("com.lsj.trans.GoogleDispatch");
+		Class.forName("com.lsj.trans.YandexDispatch");
+//		System.out.println(Dispatch.Instance("Yandex").Trans("ru", "zh", "Внатуре, спасибо тебе, братан. Короче, приходил сюда один такой сталкер, ну... мы с ним ничего не делали, честно. Он спустился к нам на базу к трубам вниз, так тут откуда-то кровосос взялся, да напал на наших людей, уволок двоих туда в логово двоих, включая его. Братана моего покоцало, я его сюда вытащил, кровь никак не остановить. Если ищешь его, спускайся вниз, только будь осторожен, опасайся той твари."));
+
 		// TODO Auto-generated method stub
-		File rusDir = new File("D:\\TOW1.1TEXT\\rus");
+		File rusDir = new File("D:\\AZMtext\\rus");
 		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
 //		File rusDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus");
 //		File chsDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
@@ -205,7 +208,6 @@ public class Main {
 			failFlag = false;
 			try {
 				chsString = chsString.replaceAll("<string id=\""+key+"\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>", "<string id=\""+key+"\">\n\t\t<text>"+Matcher.quoteReplacement(transToCN(string))+"</text>\n\t</string>");
-				Thread.sleep(sleepMilliSecond);
 			} catch (Exception e) {
 				// TODO: handle exception
 				failFlag = true;
@@ -241,11 +243,25 @@ public class Main {
 	}
 
 	public static String transToEN(String ori) throws Exception {
-		return Dispatch.Instance(transAPI).Trans("ru", "en", ori);
+		String a ="";
+		if ("google".equals(transAPI)) {
+			a=GoogleWebTranslator.translate(ori, "en");
+		}else{
+			a=Dispatch.Instance(transAPI).Trans(oriLang, "en", ori);
+			Thread.sleep(sleepMilliSecond);
+		}
+		return a;
 	}
 
 	public static String transToCN(String ori) throws Exception {
-		return Dispatch.Instance(transAPI).Trans("ru", "zh", ori);
+		String a ="";
+		if ("google".equals(transAPI)) {
+			a=GoogleWebTranslator.translate(ori, "zh-CN");
+		}else{
+			a=Dispatch.Instance(transAPI).Trans(oriLang, "zh", ori);
+			Thread.sleep(sleepMilliSecond);
+		}
+		return a;
 	}
 
 	// public static boolean key2key(File chs,File rus) throws
