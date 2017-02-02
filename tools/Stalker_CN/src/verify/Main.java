@@ -10,13 +10,14 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Iterator;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import com.lsj.trans.*;
+
+import util.BingWebTranslator;
+import util.GoogleWebTranslator;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -38,7 +39,7 @@ public class Main {
 
 	public static void main(String[] args) throws Exception {
 		if(args.length>0){
-			transAPI = args[0].substring(1);
+			transAPI = args[0].substring(1).toLowerCase();
 		}
 		if(args.length>1){
 			int sleep=0;
@@ -50,12 +51,9 @@ public class Main {
 			}
 			sleepMilliSecond = sleep;
 		}
-//		System.out.println(transAPI);
-//		System.out.println(sleepMilliSecond);
 		Class.forName("com.lsj.trans.BaiduDispatch");
 		Class.forName("com.lsj.trans.GoogleDispatch");
 		Class.forName("com.lsj.trans.YandexDispatch");
-//		System.out.println(Dispatch.Instance("Yandex").Trans("ru", "zh", "Внатуре, спасибо тебе, братан. Короче, приходил сюда один такой сталкер, ну... мы с ним ничего не делали, честно. Он спустился к нам на базу к трубам вниз, так тут откуда-то кровосос взялся, да напал на наших людей, уволок двоих туда в логово двоих, включая его. Братана моего покоцало, я его сюда вытащил, кровь никак не остановить. Если ищешь его, спускайся вниз, только будь осторожен, опасайся той твари."));
 
 		// TODO Auto-generated method stub
 		File rusDir = new File("D:\\AZMtext\\rus");
@@ -184,8 +182,6 @@ public class Main {
 		chsString = chsString.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ");
 		//delete annotation
 		chsString = chsString.replaceAll("<!--[\\s\\S]*?-->", "");
-
-
 		
 		HashMap<String,String> sentences = new HashMap<>();
 		Pattern p = Pattern.compile("<string id=\"(.*?)\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>");
@@ -200,6 +196,7 @@ public class Main {
 		String string = "";
 		String key = "";
 		boolean failFlag = false;
+		String progressString = "";
 		for (Iterator<String> iterator = sentences.keySet().iterator(); iterator.hasNext();) {
 			if(!failFlag){
 				key = iterator.next();
@@ -214,14 +211,17 @@ public class Main {
 				System.out.println("");
 				System.err.println(e);
 				System.out.println(string);
+				progressString = "";
 				Thread.sleep(4000);
 				continue;
 			}
 			transNum++;
-			System.out.print(""+transNum+",");
-			if (transNum%30==0) {
+			if((progressString+transNum+",").length()>80){
 				System.out.println("");
+				progressString = "";
 			}
+			System.out.print(""+transNum+",");
+			progressString = progressString+transNum+",";
 		}
 		System.out.println("");
 		
@@ -246,6 +246,8 @@ public class Main {
 		String a ="";
 		if ("google".equals(transAPI)) {
 			a=GoogleWebTranslator.translate(ori, "en");
+		}else if ("bing".equals(transAPI)) {
+			a=BingWebTranslator.translate(ori, "en");
 		}else{
 			a=Dispatch.Instance(transAPI).Trans(oriLang, "en", ori);
 			Thread.sleep(sleepMilliSecond);
@@ -256,7 +258,9 @@ public class Main {
 	public static String transToCN(String ori) throws Exception {
 		String a ="";
 		if ("google".equals(transAPI)) {
-			a=GoogleWebTranslator.translate(ori, "zh-CN");
+			a=GoogleWebTranslator.translate(ori, "zh");
+		}else if ("bing".equals(transAPI)) {
+			a=BingWebTranslator.translate(ori, "zh");
 		}else{
 			a=Dispatch.Instance(transAPI).Trans(oriLang, "zh", ori);
 			Thread.sleep(sleepMilliSecond);
