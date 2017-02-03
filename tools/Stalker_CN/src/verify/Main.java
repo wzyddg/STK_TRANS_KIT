@@ -36,8 +36,8 @@ public class Main {
 	static long currentTimeMillis = System.currentTimeMillis();
 	static String transAPI = "baidu";
 	static String oriLang = "en";
-	static int sleepMilliSecond = 300;
-	static String yandexKey = "trnsl.1.1.20170203T170914Z.3aa140986a456c8a.5a30bea15be7883744cf1a6e26867d5e80444960";
+	static int sleepMilliSecond = 0;
+	static public String yandexKey = "trnsl.1.1.20170203T170914Z.3aa140986a456c8a.5a30bea15be7883744cf1a6e26867d5e80444960";
 
 	public static void main(String[] args) throws Exception {
 		if(args.length>0){
@@ -57,6 +57,7 @@ public class Main {
 		Class.forName("com.lsj.trans.GoogleDispatch");
 		Class.forName("com.lsj.trans.YandexDispatch");
 
+		System.out.println(Dispatch.Instance("Yandex").Trans("ru", "zh", "Внатуре, спасибо тебе, братан. Короче, приходил сюда один такой сталкер, ну... мы с ним ничего не делали, честно. Он спустился к нам на базу к трубам вниз, так тут откуда-то кровосос взялся, да напал на наших людей, уволок двоих туда в логово двоих, включая его. Братана моего покоцало, я его сюда вытащил, кровь никак не остановить. Если ищешь его, спускайся вниз, только будь осторожен, опасайся той твари."));
 		// TODO Auto-generated method stub
 		File rusDir = new File("D:\\AZMtext\\gameplay\\prob");
 		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
@@ -386,57 +387,6 @@ public class Main {
 		}
 		return a;
 	}
-
-	// public static boolean key2key(File chs,File rus) throws
-	// ParserConfigurationException, SAXException, IOException,
-	// InterruptedException {
-	// DocumentBuilderFactory builderFactory =
-	// DocumentBuilderFactory.newInstance();
-	// DocumentBuilder builder;
-	// builder = builderFactory.newDocumentBuilder();
-	// Document chsDoc = builder.parse(chs);
-	// NodeList chsStrings = chsDoc.getElementsByTagName("string");
-	// Document rusDoc = builder.parse(rus);
-	// NodeList rusStrings = rusDoc.getElementsByTagName("string");
-	//
-	// ArrayList<String> chsIDs = new ArrayList<>();
-	// ArrayList<String> rusIDs = new ArrayList<>();
-	//
-	// boolean flag = false;
-	//
-	// for (int i = 0; i < rusStrings.getLength(); i++){
-	// Element rusE = (Element) rusStrings.item(i);
-	// rusIDs.add(rusE.getAttribute("id"));
-	// }
-	// for (int i = 0; i < chsStrings.getLength(); i++) {
-	// Element chsE = (Element) chsStrings.item(i);
-	//// if(!rusIDs.contains(chsE.getAttribute("id"))){
-	//// System.out.println(chsE.getAttribute("id"));
-	//// }
-	// rusIDs.remove(chsE.getAttribute("id"));
-	// }
-	// for (Iterator<String> iterator = rusIDs.iterator(); iterator.hasNext();)
-	// {
-	// if(!flag){
-	// System.out.println(chs.getName()+":");
-	// flag=true;
-	// lackFileNum++;
-	// }
-	// String string = iterator.next();
-	// System.err.println(string);
-	// }
-	// for (Iterator<String> iterator = chsIDs.iterator(); iterator.hasNext();)
-	// {
-	// if(!flag){
-	// System.out.println(rus.getName()+":");
-	// flag=true;
-	// }
-	// String string = iterator.next();
-	// System.out.println(string);
-	// }
-	// Thread.sleep(20);
-	// return flag;
-	// }
 
 	public static boolean goThroughIDs(File chs) throws ParserConfigurationException, SAXException, IOException {
 		DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance();
