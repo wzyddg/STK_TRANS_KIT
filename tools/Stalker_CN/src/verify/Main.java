@@ -11,6 +11,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -34,7 +35,7 @@ public class Main {
 //	static String localDirSeparater ="/";
 	static long currentTimeMillis = System.currentTimeMillis();
 	static String transAPI = "baidu";
-	static String oriLang = "ru";
+	static String oriLang = "en";
 	static int sleepMilliSecond = 300;
 
 	public static void main(String[] args) throws Exception {
@@ -56,7 +57,7 @@ public class Main {
 		Class.forName("com.lsj.trans.YandexDispatch");
 
 		// TODO Auto-generated method stub
-		File rusDir = new File("D:\\WoT\\test");
+		File rusDir = new File("D:\\AZMtext\\gameplay\\kk");
 		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
 //		File rusDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus");
 //		File chsDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
@@ -78,7 +79,7 @@ public class Main {
 				// return;
 				// }
 				// Thread.sleep(100);
-				translateFile(rusXMLs[i]);
+				translateGamePlayFile(rusXMLs[i]);
 			}
 
 		}
@@ -161,8 +162,103 @@ public class Main {
 
 		return flag;
 	}
+	
+	public static boolean isSentence(String str){
+		return (!str.matches("\\s*"))&&(!str.matches("[a-z0-9_]*"));
+	}
 
-	public static void translateFile(File rus) throws Exception {
+	public static void translateGamePlayFile(File rus) throws Exception {
+		System.out.println("file \""+rus.getName()+"\" started!");
+		int transNum = 0;
+		
+		BufferedReader rusReader = new BufferedReader(new InputStreamReader(new FileInputStream(rus), "windows-1251"));
+		String rusString = "";
+		String tmp = "";
+
+		for (int i = 0; (tmp = rusReader.readLine()) != null; i++) {
+			if (!tmp.equals("")) {
+				rusString = rusString + tmp+"\n";
+			}
+		}
+		rusReader.close();
+		
+		String chsString = rusString;
+		//clear BOM
+		chsString = chsString.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ");
+		//delete annotation
+		chsString = chsString.replaceAll("<!--[\\s\\S]*?-->", "");
+		
+		HashSet<String> sentences = new HashSet<>();
+		Pattern p = Pattern.compile("<text[\\s\\S]*?>([\\s\\S]*?)</text>");
+		Matcher m = p.matcher(chsString);
+		int i=0;
+		while (m.find()) {
+			sentences.add(m.group(1));
+			i++;
+		}
+		System.out.println("find "+i+" sentences,map get "+sentences.size());
+		
+		String string = "";
+		String key = "";
+		boolean failFlag = false;
+		String progressString = "";
+		for (Iterator<String> iterator = sentences.iterator(); iterator.hasNext();) {
+			if(!failFlag){
+				string = iterator.next();
+			}
+			failFlag = false;
+			if(!isSentence(string))
+				continue;
+			try {
+				String oriLine = string;
+				String actionSeq = "";
+				Pattern p1 = Pattern.compile(".\\$\\$ACT.*?\\$\\$.");
+				Matcher m1 = p1.matcher(oriLine);
+				if (m1.find()) {
+					actionSeq = m1.group(0);
+					oriLine = oriLine.replaceAll(".\\$\\$ACT.*?\\$\\$.", "");
+				}
+				String transtedLine = transToCN(oriLine)+actionSeq;
+				
+				chsString = chsString.replaceAll(string, Matcher.quoteReplacement(transtedLine));
+			} catch (Exception e) {
+				// TODO: handle exception
+				failFlag = true;
+				System.out.println("");
+				System.err.println(e);
+				System.out.println(string);
+				progressString = "";
+				Thread.sleep(4000);
+				continue;
+			}
+			transNum++;
+			if((progressString+transNum+",").length()>80){
+				System.out.println("");
+				progressString = "";
+			}
+			System.out.print(""+transNum+",");
+			progressString = progressString+transNum+",";
+		}
+		System.out.println("");
+		
+		chsString = chsString.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"");
+		chsString = chsString.replaceAll("？", "?");
+		
+		File resultDir = new File(rus.getParent()+localDirSeparater+"translated_"+transAPI);
+		if (!resultDir.exists()) {
+			resultDir.mkdir();
+		}
+
+		File resultFile = new File(resultDir.getPath()+localDirSeparater+rus.getName());
+		
+		BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(resultFile), "utf-8"));
+		writer.write(chsString);
+		writer.close();
+		
+		System.out.println("file \""+rus.getName()+"\" done!");
+	}
+	
+	public static void translateTextFile(File rus) throws Exception {
 		System.out.println("file \""+rus.getName()+"\" started!");
 		int transNum = 0;
 		
