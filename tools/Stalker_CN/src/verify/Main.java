@@ -56,7 +56,7 @@ public class Main {
 		Class.forName("com.lsj.trans.YandexDispatch");
 
 		// TODO Auto-generated method stub
-		File rusDir = new File("D:\\AZMtext\\rus");
+		File rusDir = new File("D:\\WoT\\test");
 		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
 //		File rusDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus");
 //		File chsDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
@@ -204,7 +204,17 @@ public class Main {
 			}
 			failFlag = false;
 			try {
-				chsString = chsString.replaceAll("<string id=\""+key+"\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>", "<string id=\""+key+"\">\n\t\t<text>"+Matcher.quoteReplacement(transToCN(string))+"</text>\n\t</string>");
+				String oriLine = string;
+				String actionSeq = "";
+				Pattern p1 = Pattern.compile(".\\$\\$ACT.*?\\$\\$.");
+				Matcher m1 = p1.matcher(oriLine);
+				if (m1.find()) {
+					actionSeq = m1.group(0);
+					oriLine = oriLine.replaceAll(".\\$\\$ACT.*?\\$\\$.", "");
+				}
+				String transtedLine = transToCN(oriLine)+actionSeq;
+				
+				chsString = chsString.replaceAll("<string id=\""+key+"\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>", "<string id=\""+key+"\">\n\t\t<text>"+Matcher.quoteReplacement(transtedLine)+"</text>\n\t</string>");
 			} catch (Exception e) {
 				// TODO: handle exception
 				failFlag = true;
