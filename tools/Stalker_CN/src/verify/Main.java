@@ -37,6 +37,7 @@ public class Main {
 	static String transAPI = "baidu";
 	static String oriLang = "en";
 	static int sleepMilliSecond = 300;
+	static String yandexKey = "trnsl.1.1.20170203T170914Z.3aa140986a456c8a.5a30bea15be7883744cf1a6e26867d5e80444960";
 
 	public static void main(String[] args) throws Exception {
 		if(args.length>0){
@@ -57,7 +58,7 @@ public class Main {
 		Class.forName("com.lsj.trans.YandexDispatch");
 
 		// TODO Auto-generated method stub
-		File rusDir = new File("D:\\AZMtext\\gameplay\\kk");
+		File rusDir = new File("D:\\AZMtext\\gameplay\\prob");
 		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
 //		File rusDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus");
 //		File chsDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
@@ -184,16 +185,27 @@ public class Main {
 		
 		String chsString = rusString;
 		//clear BOM
-		chsString = chsString.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ");
 		//delete annotation
-		chsString = chsString.replaceAll("<!--[\\s\\S]*?-->", "");
+		chsString = chsString
+				.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ")
+				.replaceAll("<!--[\\s\\S]*?-->", "")
+//				.replaceAll("<text\\s*?/>", "<text></text>")
+				.replaceAll("&apos;", "'")
+				.replaceAll("&quot;", "\"")
+				.replaceAll("&amp;", "&");
+		
+//		System.out.println(chsString);
 		
 		HashSet<String> sentences = new HashSet<>();
-		Pattern p = Pattern.compile("<text[\\s\\S]*?>([\\s\\S]*?)</text>");
+		Pattern p = Pattern.compile("<text[^/]*?>([\\s\\S]*?)</text>");
 		Matcher m = p.matcher(chsString);
 		int i=0;
 		while (m.find()) {
-			sentences.add(m.group(1));
+			System.out.println(m.group(1));
+			if (isSentence(m.group(1))) {
+				sentences.add(m.group(1));
+				System.err.println(m.group(1));
+			}
 			i++;
 		}
 		System.out.println("find "+i+" sentences,map get "+sentences.size());
@@ -207,20 +219,18 @@ public class Main {
 				string = iterator.next();
 			}
 			failFlag = false;
-			if(!isSentence(string))
-				continue;
 			try {
 				String oriLine = string;
 				String actionSeq = "";
-				Pattern p1 = Pattern.compile(".\\$\\$ACT.*?\\$\\$.");
-				Matcher m1 = p1.matcher(oriLine);
-				if (m1.find()) {
-					actionSeq = m1.group(0);
-					oriLine = oriLine.replaceAll(".\\$\\$ACT.*?\\$\\$.", "");
-				}
+//				Pattern p1 = Pattern.compile(".\\$\\$ACT.*?\\$\\$.");
+//				Matcher m1 = p1.matcher(oriLine);
+//				if (m1.find()) {
+//					actionSeq = m1.group(0);
+//					oriLine = oriLine.replaceAll(".\\$\\$ACT.*?\\$\\$.", "");
+//				}
 				String transtedLine = transToCN(oriLine)+actionSeq;
 				
-				chsString = chsString.replaceAll(string, Matcher.quoteReplacement(transtedLine));
+				chsString = chsString.replace(string, transtedLine);
 			} catch (Exception e) {
 				// TODO: handle exception
 				failFlag = true;
@@ -241,8 +251,11 @@ public class Main {
 		}
 		System.out.println("");
 		
-		chsString = chsString.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"");
-		chsString = chsString.replaceAll("？", "?");
+		chsString = chsString
+				.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"")
+				.replaceAll("？", "?");
+		
+//		System.out.println(chsString);
 		
 		File resultDir = new File(rus.getParent()+localDirSeparater+"translated_"+transAPI);
 		if (!resultDir.exists()) {
