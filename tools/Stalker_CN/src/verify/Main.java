@@ -57,9 +57,9 @@ public class Main {
 		Class.forName("com.lsj.trans.GoogleDispatch");
 		Class.forName("com.lsj.trans.YandexDispatch");
 
-		System.out.println(Dispatch.Instance("Yandex").Trans("ru", "zh", "Внатуре, спасибо тебе, братан. Короче, приходил сюда один такой сталкер, ну... мы с ним ничего не делали, честно. Он спустился к нам на базу к трубам вниз, так тут откуда-то кровосос взялся, да напал на наших людей, уволок двоих туда в логово двоих, включая его. Братана моего покоцало, я его сюда вытащил, кровь никак не остановить. Если ищешь его, спускайся вниз, только будь осторожен, опасайся той твари."));
+//		System.out.println(Dispatch.Instance("Yandex").Trans("ru", "zh", "Внатуре, спасибо тебе, братан. Короче, приходил сюда один такой сталкер, ну... мы с ним ничего не делали, честно. Он спустился к нам на базу к трубам вниз, так тут откуда-то кровосос взялся, да напал на наших людей, уволок двоих туда в логово двоих, включая его. Братана моего покоцало, я его сюда вытащил, кровь никак не остановить. Если ищешь его, спускайся вниз, только будь осторожен, опасайся той твари."));
 		// TODO Auto-generated method stub
-		File rusDir = new File("D:\\AZMtext\\gameplay\\prob");
+		File rusDir = new File("D:\\AZMtext\\gameplay");
 		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
 //		File rusDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus");
 //		File chsDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
@@ -198,7 +198,7 @@ public class Main {
 //		System.out.println(chsString);
 		
 		HashSet<String> sentences = new HashSet<>();
-		Pattern p = Pattern.compile("<text[^/]*?>([\\s\\S]*?)</text>");
+		Pattern p = Pattern.compile("<text[^u_/]*?>([\\s\\S]*?)</text>");
 		Matcher m = p.matcher(chsString);
 		int i=0;
 		while (m.find()) {

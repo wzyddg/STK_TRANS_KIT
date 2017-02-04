@@ -37,7 +37,7 @@ public class YandexDispatch extends Dispatch {
 	}
 
 	private String ParseString(String jsonString){
-		System.out.println(jsonString);
+//		System.out.println(jsonString);
 		JSONObject jsonObject = JSONObject.fromObject(jsonString);
 		JSONArray segments = jsonObject.getJSONArray("text");
 		String result = segments.getString(0);
