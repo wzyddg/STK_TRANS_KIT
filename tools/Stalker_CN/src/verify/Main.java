@@ -5,7 +5,6 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
@@ -35,11 +34,16 @@ public class Main {
 //	static String localDirSeparater ="/";
 	static long currentTimeMillis = System.currentTimeMillis();
 	static String transAPI = "baidu";
-	static String oriLang = "en";
+	static String oriLang = "ru";
 	static int sleepMilliSecond = 0;
-	static public String yandexKey = "trnsl.1.1.20170203T170914Z.3aa140986a456c8a.5a30bea15be7883744cf1a6e26867d5e80444960";
-
+	static ArrayList<String> keyList = new ArrayList<String>();
+	static public String yandexKey = "";
+	
 	public static void main(String[] args) throws Exception {
+		for (int i = 0; i < 6; i++) {
+			updateYandexKey();
+			System.out.println(yandexKey);
+		}
 		if(args.length>0){
 			transAPI = args[0].substring(1).toLowerCase();
 		}
@@ -85,19 +89,6 @@ public class Main {
 			}
 
 		}
-		// System.out.println("Ну даже не знаю, можно ли назвать это работой. В
-		// общем, тут неподалёку от нас отряд псевдособак
-		// поселилс");st_ogsm_notepad_anomalies.xml
-		// goThroughLine(new File("D:\\S.T.A.L.K.E.R. Wind of Time
-		// v1.0\\gamedata\\configs\\text\\rus\\st_ogsm_notepad_anomalies.xml"));
-//		goThroughLine(new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus/st_dialogs_zaton.xml"));
-//		 goThroughLine(new File("D:\\S.T.A.L.K.E.R. Wind of Time v1.0\\gamedata\\configs\\text\\rus\\st_enc_bio.xml"));
-		// goThroughLine(new File("D:\\S.T.A.L.K.E.R. Wind of Time
-		// v1.0\\gamedata\\configs\\text\\rus\\st_dialogs_nii.xml"));
-		// goThroughLine(new File("D:\\S.T.A.L.K.E.R. Wind of Time
-		// v1.0\\gamedata\\configs\\text\\rus\\st_dialogs_nii.xml"));
-		// goThroughLine(new File("D:\\S.T.A.L.K.E.R. Wind of Time
-		// v1.0\\gamedata\\configs\\text\\rus\\st_dialogs_nii.xml"));
 		System.out.println("lackFileNum:" + lackFileNum);
 	}
 
@@ -105,22 +96,13 @@ public class Main {
 	public static boolean keyToKey(File chs, File rus) throws Exception {
 //		String checkKeyword = "尼特罗";
 
-		BufferedReader chsReader = new BufferedReader(new FileReader(chs));
-		String chsString = "";
-		BufferedReader rusReader = new BufferedReader(new FileReader(rus));
-		String rusString = "";
-		String tmp = "";
-		while ((tmp = chsReader.readLine()) != null) {
-			chsString = chsString + tmp;
-		}
-		chsReader.close();
+		String chsString = getFileContentString(chs.getParent()+localDirSeparater+chs.getName(), "utf-8");
+		String rusString = getFileContentString(chs.getParent()+localDirSeparater+rus.getName());
+		String tmp = "";	
+		
 //		if (chsString.contains(checkKeyword)) {
-//			throw new Exception(checkKeyword + " exists in " + chs.getName());
-//		}
-		while ((tmp = rusReader.readLine()) != null) {
-			rusString = rusString + tmp;
-		}
-		rusReader.close();
+//		throw new Exception(checkKeyword + " exists in " + chs.getName());
+//	}
 		ArrayList<String> rusIDs = new ArrayList<>();
 		ArrayList<String> chsIDs = new ArrayList<>();
 
@@ -173,24 +155,13 @@ public class Main {
 		System.out.println("file \""+rus.getName()+"\" started!");
 		int transNum = 0;
 		
-		BufferedReader rusReader = new BufferedReader(new InputStreamReader(new FileInputStream(rus), "windows-1251"));
-		String rusString = "";
-		String tmp = "";
-
-		for (int i = 0; (tmp = rusReader.readLine()) != null; i++) {
-			if (!tmp.equals("")) {
-				rusString = rusString + tmp+"\n";
-			}
-		}
-		rusReader.close();
+		String rusString = getFileContentString(rus.getParent()+localDirSeparater+rus.getName());
 		
 		String chsString = rusString;
-		//clear BOM
-		//delete annotation
+		//clear BOM,delete annotation,anti-escape
 		chsString = chsString
 				.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ")
 				.replaceAll("<!--[\\s\\S]*?-->", "")
-//				.replaceAll("<text\\s*?/>", "<text></text>")
 				.replaceAll("&apos;", "'")
 				.replaceAll("&quot;", "\"")
 				.replaceAll("&amp;", "&");
@@ -209,10 +180,9 @@ public class Main {
 			}
 			i++;
 		}
-		System.out.println("find "+i+" sentences,map get "+sentences.size());
+		System.out.println("find "+i+" sentences,set get "+sentences.size());
 		
 		String string = "";
-		String key = "";
 		boolean failFlag = false;
 		String progressString = "";
 		for (Iterator<String> iterator = sentences.iterator(); iterator.hasNext();) {
@@ -222,18 +192,9 @@ public class Main {
 			failFlag = false;
 			try {
 				String oriLine = string;
-				String actionSeq = "";
-//				Pattern p1 = Pattern.compile(".\\$\\$ACT.*?\\$\\$.");
-//				Matcher m1 = p1.matcher(oriLine);
-//				if (m1.find()) {
-//					actionSeq = m1.group(0);
-//					oriLine = oriLine.replaceAll(".\\$\\$ACT.*?\\$\\$.", "");
-//				}
-				String transtedLine = transToCN(oriLine)+actionSeq;
-				
+				String transtedLine = transToCN(oriLine);
 				chsString = chsString.replace(string, transtedLine);
 			} catch (Exception e) {
-				// TODO: handle exception
 				failFlag = true;
 				System.out.println("");
 				System.err.println(e);
@@ -276,22 +237,16 @@ public class Main {
 		System.out.println("file \""+rus.getName()+"\" started!");
 		int transNum = 0;
 		
-		BufferedReader rusReader = new BufferedReader(new InputStreamReader(new FileInputStream(rus), "windows-1251"));
-		String rusString = "";
-		String tmp = "";
-
-		for (int i = 0; (tmp = rusReader.readLine()) != null; i++) {
-			if (!tmp.equals("")) {
-				rusString = rusString + tmp+"\n";
-			}
-		}
-		rusReader.close();
+		String rusString = getFileContentString(rus.getParent()+localDirSeparater+rus.getName());
 		
 		String chsString = rusString;
-		//clear BOM
-		chsString = chsString.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ");
-		//delete annotation
-		chsString = chsString.replaceAll("<!--[\\s\\S]*?-->", "");
+		//clear BOM,delete annotation,anti-escape
+		chsString = chsString
+				.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ")
+				.replaceAll("<!--[\\s\\S]*?-->", "")
+				.replaceAll("&apos;", "'")
+				.replaceAll("&quot;", "\"")
+				.replaceAll("&amp;", "&");
 		
 		HashMap<String,String> sentences = new HashMap<>();
 		Pattern p = Pattern.compile("<string id=\"(.*?)\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>");
@@ -326,7 +281,6 @@ public class Main {
 				
 				chsString = chsString.replaceAll("<string id=\""+key+"\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>", "<string id=\""+key+"\">\n\t\t<text>"+Matcher.quoteReplacement(transtedLine)+"</text>\n\t</string>");
 			} catch (Exception e) {
-				// TODO: handle exception
 				failFlag = true;
 				System.out.println("");
 				System.err.println(e);
@@ -361,31 +315,66 @@ public class Main {
 		
 		System.out.println("file \""+rus.getName()+"\" done!");
 	}
+	
+	public static String getFileContentString(String fileAddress) throws IOException {
+		return getFileContentString(fileAddress, "windows-1251");
+	}
+	
+	public static String getFileContentString(String fileAddress, String encodingName) throws IOException {
+		File file = new File(fileAddress);
+		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(file), encodingName));
+		String string = "";
+		String tmp = "";
+		for (;(tmp = reader.readLine()) != null;) {
+			if (!tmp.equals("")) {
+				string = string + tmp+"\n";
+			}
+		}
+		reader.close();
+		return string;
+	}
 
-	public static String transToEN(String ori) throws Exception {
+	public static String transToEN(String sentence) throws Exception {
+		return transToTarget(sentence, "en");
+	}
+
+	public static String transToCN(String sentence) throws Exception {
+		return transToTarget(sentence, "zh");
+	}
+	
+	public static String transToTarget(String sentence, String targ) throws Exception {
 		String a ="";
 		if ("google".equals(transAPI)) {
-			a=GoogleWebTranslator.translate(ori, "en");
+			a=GoogleWebTranslator.translate(sentence, targ);
 		}else if ("bing".equals(transAPI)) {
-			a=BingWebTranslator.translate(ori, "en");
+			a=BingWebTranslator.translate(sentence, targ);
 		}else{
-			a=Dispatch.Instance(transAPI).Trans(oriLang, "en", ori);
+			try {
+				a=Dispatch.Instance(transAPI).Trans(oriLang, targ, sentence);
+			} catch (Exception e) {
+				if ("yandex".equals(transAPI)&&e.getMessage().toLowerCase().contains("text")) {
+					updateYandexKey();
+					throw e;
+				}
+			}
 			Thread.sleep(sleepMilliSecond);
 		}
 		return a;
 	}
-
-	public static String transToCN(String ori) throws Exception {
-		String a ="";
-		if ("google".equals(transAPI)) {
-			a=GoogleWebTranslator.translate(ori, "zh");
-		}else if ("bing".equals(transAPI)) {
-			a=BingWebTranslator.translate(ori, "zh");
-		}else{
-			a=Dispatch.Instance(transAPI).Trans(oriLang, "zh", ori);
-			Thread.sleep(sleepMilliSecond);
+	
+	public static void updateYandexKey() throws IOException {
+		int currentIndex = keyList.indexOf(yandexKey);
+		if (currentIndex>=0&&currentIndex+1<keyList.size()) {
+			yandexKey = keyList.get(currentIndex+1);
+			return;
 		}
-		return a;
+		String keysString = getFileContentString("yandexKeys.xml");
+		Pattern p = Pattern.compile("<key>(.*?)</key>");
+		Matcher m = p.matcher(keysString);
+		while (m.find()) {
+			keyList.add(m.group(1));
+		}
+		yandexKey = keyList.get(0);
 	}
 
 	public static boolean goThroughIDs(File chs) throws ParserConfigurationException, SAXException, IOException {
