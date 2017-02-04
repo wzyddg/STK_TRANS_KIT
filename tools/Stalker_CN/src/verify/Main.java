@@ -352,7 +352,7 @@ public class Main {
 			try {
 				a=Dispatch.Instance(transAPI).Trans(oriLang, targ, sentence);
 			} catch (Exception e) {
-				if ("yandex".equals(transAPI)&&e.getMessage().toLowerCase().contains("text")) {
+				if ("yandex".equals(transAPI)&&e.getMessage().toLowerCase().contains("[\"text\"]")) {
 					updateYandexKey();
 					throw e;
 				}
