@@ -299,8 +299,10 @@ public class Main {
 		}
 		System.out.println("");
 		
-		chsString = chsString.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"");
-		chsString = chsString.replaceAll("？", "?");
+		chsString = chsString
+				.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"")
+				.replaceAll("<text></text>", "<text>返回空文本</text>")
+				.replaceAll("？", "?");
 		
 		File resultDir = new File(rus.getParent()+localDirSeparater+"translated_"+transAPI);
 		if (!resultDir.exists()) {
@@ -358,6 +360,9 @@ public class Main {
 				}
 			}
 			Thread.sleep(sleepMilliSecond);
+		}
+		if ("".equals(a)) {
+			throw new Exception("something went wrong.");
 		}
 		return a;
 	}
