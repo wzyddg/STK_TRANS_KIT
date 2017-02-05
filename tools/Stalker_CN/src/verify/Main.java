@@ -85,7 +85,7 @@ public class Main {
 				// return;
 				// }
 				// Thread.sleep(100);
-				translateGamePlayFile(rusXMLs[i]);
+				translateTextFile(rusXMLs[i]);
 			}
 
 		}
@@ -271,11 +271,11 @@ public class Main {
 			try {
 				String oriLine = string;
 				String actionSeq = "";
-				Pattern p1 = Pattern.compile(".\\$\\$ACT.*?\\$\\$.");
+				Pattern p1 = Pattern.compile(".?\\$\\$ACT.*?\\$\\$.?");
 				Matcher m1 = p1.matcher(oriLine);
 				if (m1.find()) {
 					actionSeq = m1.group(0);
-					oriLine = oriLine.replaceAll(".\\$\\$ACT.*?\\$\\$.", "");
+					oriLine = oriLine.replaceAll(".?\\$\\$ACT.*?\\$\\$.?", "");
 				}
 				String transtedLine = transToCN(oriLine)+actionSeq;
 				
