@@ -12,6 +12,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
+import java.util.LinkedList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import com.lsj.trans.*;
@@ -30,20 +31,17 @@ import org.xml.sax.SAXException;
 
 public class Main {
 	static int lackFileNum = 0;
-	static String localDirSeparater ="\\";
-//	static String localDirSeparater ="/";
+//	static String localDirSeparater ="\\";
+	static String localDirSeparater ="/";
 	static long currentTimeMillis = System.currentTimeMillis();
 	static String transAPI = "baidu";
 	static String oriLang = "ru";
 	static int sleepMilliSecond = 0;
 	static ArrayList<String> keyList = new ArrayList<String>();
 	static public String yandexKey = "";
+	static int errorSleepMilliSecond = 2000;
 	
 	public static void main(String[] args) throws Exception {
-		for (int i = 0; i < 6; i++) {
-			updateYandexKey();
-			System.out.println(yandexKey);
-		}
 		if(args.length>0){
 			transAPI = args[0].substring(1).toLowerCase();
 		}
@@ -200,7 +198,7 @@ public class Main {
 				System.err.println(e);
 				System.out.println(string);
 				progressString = "";
-				Thread.sleep(4000);
+				Thread.sleep(errorSleepMilliSecond);
 				continue;
 			}
 			transNum++;
@@ -270,29 +268,38 @@ public class Main {
 			failFlag = false;
 			
 			String oriLine = string;
-			String actionSeq = "";
 			
-			//save the ACTION**
-			Pattern p1 = Pattern.compile(".?\\$\\$ACT.*?\\$\\$.?");
+			//save the ACTION** and the COLOR
+//			total regex (?:[()"']?\$\$ACT[_A-Z0-9]*?\$\$[()"']?|%[a-z]\[[a-z0-9,]*?\]•?)
+//			Pattern p1 = Pattern.compile(".?\\$\\$ACT.*?\\$\\$.?");
+			Pattern p1 = Pattern.compile("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\]•?)");
 			Matcher m1 = p1.matcher(oriLine);
-			if (m1.find()) {
-				actionSeq = m1.group(0);
-				oriLine = oriLine.replaceAll(".?\\$\\$ACT.*?\\$\\$.?", "");
+			LinkedList<String> colorOrAction = new LinkedList<>();
+			while (m1.find()) {
+				colorOrAction.add(m1.group(0));
 			}
-			//TODO: save the COLOR
+			String[] pieces = string.split("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\]•?)");
+			//queue got
 			
 			String transtedLine = "";
 			try {
-				transtedLine = transToCN(oriLine)+actionSeq;
+				for (int j = 0; j < pieces.length; j++) {
+					transtedLine = transtedLine+transToCN(pieces[j]);
+					if (!colorOrAction.isEmpty()) {
+						transtedLine = transtedLine+colorOrAction.get(0);
+						colorOrAction.remove(0);
+					}
+				}
 			} catch (Exception e) {
 				failFlag = true;
 				System.out.println("");
 				System.err.println(e);
 //				System.out.println(string);
 				progressString = "";
-				Thread.sleep(4000);
+				Thread.sleep(errorSleepMilliSecond);
 				continue f1;
 			}
+
 			chsString = chsString.replaceAll("<string id=\""+key+"\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>", "<string id=\""+key+"\">\n\t\t<text>"+Matcher.quoteReplacement(transtedLine)+"</text>\n\t</string>");
 			transNum++;
 			if((progressString+transNum+",").length()>80){
@@ -367,7 +374,7 @@ public class Main {
 			}
 			Thread.sleep(sleepMilliSecond);
 		}
-		if ("".equals(a)) {
+		if (a.matches("\\s*?")&&!sentence.matches("\\s*?")) {
 			throw new Exception("something went wrong.");
 		}
 		return a;
