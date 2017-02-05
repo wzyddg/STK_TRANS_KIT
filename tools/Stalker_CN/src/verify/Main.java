@@ -262,33 +262,38 @@ public class Main {
 		String key = "";
 		boolean failFlag = false;
 		String progressString = "";
-		for (Iterator<String> iterator = sentences.keySet().iterator(); iterator.hasNext();) {
+		f1:for (Iterator<String> iterator = sentences.keySet().iterator(); iterator.hasNext()||!"".equals(string);) {
 			if(!failFlag){
 				key = iterator.next();
 				string = sentences.get(key);
 			}
 			failFlag = false;
+			
+			String oriLine = string;
+			String actionSeq = "";
+			
+			//save the ACTION**
+			Pattern p1 = Pattern.compile(".?\\$\\$ACT.*?\\$\\$.?");
+			Matcher m1 = p1.matcher(oriLine);
+			if (m1.find()) {
+				actionSeq = m1.group(0);
+				oriLine = oriLine.replaceAll(".?\\$\\$ACT.*?\\$\\$.?", "");
+			}
+			//TODO: save the COLOR
+			
+			String transtedLine = "";
 			try {
-				String oriLine = string;
-				String actionSeq = "";
-				Pattern p1 = Pattern.compile(".?\\$\\$ACT.*?\\$\\$.?");
-				Matcher m1 = p1.matcher(oriLine);
-				if (m1.find()) {
-					actionSeq = m1.group(0);
-					oriLine = oriLine.replaceAll(".?\\$\\$ACT.*?\\$\\$.?", "");
-				}
-				String transtedLine = transToCN(oriLine)+actionSeq;
-				
-				chsString = chsString.replaceAll("<string id=\""+key+"\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>", "<string id=\""+key+"\">\n\t\t<text>"+Matcher.quoteReplacement(transtedLine)+"</text>\n\t</string>");
+				transtedLine = transToCN(oriLine)+actionSeq;
 			} catch (Exception e) {
 				failFlag = true;
 				System.out.println("");
 				System.err.println(e);
-				System.out.println(string);
+//				System.out.println(string);
 				progressString = "";
 				Thread.sleep(4000);
-				continue;
+				continue f1;
 			}
+			chsString = chsString.replaceAll("<string id=\""+key+"\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>", "<string id=\""+key+"\">\n\t\t<text>"+Matcher.quoteReplacement(transtedLine)+"</text>\n\t</string>");
 			transNum++;
 			if((progressString+transNum+",").length()>80){
 				System.out.println("");
@@ -296,6 +301,7 @@ public class Main {
 			}
 			System.out.print(""+transNum+",");
 			progressString = progressString+transNum+",";
+			string = "";
 		}
 		System.out.println("");
 		

@@ -21,9 +21,8 @@ public class HttpPostParams extends AbstractHttpParams{
 			formparams.add(new BasicNameValuePair(key, value));
 		}
 		HttpPost request = new HttpPost(base);
+		request.setHeader("Content-Type", "application/x-www-form-urlencoded");
 		request.setEntity(new UrlEncodedFormEntity(formparams, "UTF-8"));
-		System.out.println(new UrlEncodedFormEntity(formparams, "UTF-8"));
-		request.setHeader("Content-Type", "application/x-www-form-urlencoded");		//内容为post
 		CloseableHttpResponse response = httpClient.execute(request);
 		return ReadInputStream(response.getEntity().getContent());
 	}

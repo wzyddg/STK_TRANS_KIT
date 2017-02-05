@@ -1,8 +1,7 @@
 package com.lsj.trans;
 
-import java.net.URLEncoder;
+import java.util.LinkedList;
 
-import com.lsj.http.HttpGetParams;
 import com.lsj.http.HttpParams;
 import com.lsj.http.HttpPostParams;
 
@@ -26,18 +25,46 @@ public class YandexDispatch extends Dispatch {
 	
 	@Override
 	public String Trans(String from, String targ, String query) throws Exception {
-		// TODO Auto-generated method stub
-		HttpParams params = new HttpGetParams();
-//				.put("key", key)
-//				.put("lang", from+"-"+targ)
-//				.put("text", URLEncoder.encode(query, "utf-8"));
+		String[] paragraphs = query.split("\n");
+		String tmp = "";
+		LinkedList<String> posts = new LinkedList<>();
+		for (int i = 0; i < paragraphs.length; i++) {
+			if (tmp.length()+paragraphs[i].length()>8000) {
+				posts.add(tmp);
+				tmp = "";
+			}
+			tmp = tmp+"\n"+paragraphs[i];
+			if (i==paragraphs.length-1) {
+				tmp = tmp.substring(1);
+				posts.add(tmp);
+			}
+		}
+//		System.out.println(posts.size());
+		//send queue got
+		String all = "";
+		for (;!posts.isEmpty();) {
+			String string = posts.get(0);
+			HttpParams params = new HttpPostParams()
+//					.put("key", key)
+//					.put("lang", from+"-"+targ)
+					.put("text", string);
+			String jsonString = params.Send("https://translate.yandex.net/api/v1.5/tr.json/translate?key="+Main.yandexKey+"&lang="+from+"-"+targ);
+			tmp = ParseString(jsonString);
+			all = all+"\n"+tmp;
+			posts.remove(0);
+		}
+		all = all.substring(1);
 		
-		String jsonString = params.Send("https://translate.yandex.net/api/v1.5/tr.json/translate?key="+Main.yandexKey+"&lang="+from+"-"+targ+"&text="+URLEncoder.encode(query, "utf-8"));
-		return ParseString(jsonString);
+//		HttpParams params = new HttpPostParams()
+////				.put("key", key)
+////				.put("lang", from+"-"+targ)
+//				.put("text", query);
+//		String jsonString = params.Send("https://translate.yandex.net/api/v1.5/tr.json/translate?key="+Main.yandexKey+"&lang="+from+"-"+targ);
+//		tmp = ParseString(jsonString);
+		return all;
 	}
 
 	private String ParseString(String jsonString){
-//		System.out.println(jsonString);
 		JSONObject jsonObject = JSONObject.fromObject(jsonString);
 		JSONArray segments = jsonObject.getJSONArray("text");
 		String result = segments.getString(0);
