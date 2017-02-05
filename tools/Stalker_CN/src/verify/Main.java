@@ -85,7 +85,7 @@ public class Main {
 				// return;
 				// }
 				// Thread.sleep(100);
-				translateGamePlayFile(rusXMLs[i]);
+				translateTextFile(rusXMLs[i]);
 			}
 
 		}
@@ -271,11 +271,11 @@ public class Main {
 			try {
 				String oriLine = string;
 				String actionSeq = "";
-				Pattern p1 = Pattern.compile(".\\$\\$ACT.*?\\$\\$.");
+				Pattern p1 = Pattern.compile(".?\\$\\$ACT.*?\\$\\$.?");
 				Matcher m1 = p1.matcher(oriLine);
 				if (m1.find()) {
 					actionSeq = m1.group(0);
-					oriLine = oriLine.replaceAll(".\\$\\$ACT.*?\\$\\$.", "");
+					oriLine = oriLine.replaceAll(".?\\$\\$ACT.*?\\$\\$.?", "");
 				}
 				String transtedLine = transToCN(oriLine)+actionSeq;
 				
@@ -299,8 +299,10 @@ public class Main {
 		}
 		System.out.println("");
 		
-		chsString = chsString.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"");
-		chsString = chsString.replaceAll("？", "?");
+		chsString = chsString
+				.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"")
+				.replaceAll("<text></text>", "<text>返回空文本</text>")
+				.replaceAll("？", "?");
 		
 		File resultDir = new File(rus.getParent()+localDirSeparater+"translated_"+transAPI);
 		if (!resultDir.exists()) {
@@ -358,6 +360,9 @@ public class Main {
 				}
 			}
 			Thread.sleep(sleepMilliSecond);
+		}
+		if ("".equals(a)) {
+			throw new Exception("something went wrong.");
 		}
 		return a;
 	}
