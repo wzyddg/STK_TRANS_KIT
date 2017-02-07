@@ -247,7 +247,7 @@ public class Main {
 				.replaceAll("&amp;", "&");
 		
 		HashMap<String,String> sentences = new HashMap<>();
-		Pattern p = Pattern.compile("<string id=\"(.*?)\">\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>");
+		Pattern p = Pattern.compile("<string id=\"([a-z0-9_]*?)\">\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>");
 		Matcher m = p.matcher(chsString);
 		int i=0;
 		while (m.find()) {
@@ -259,7 +259,6 @@ public class Main {
 		String string = "";
 		String key = "";
 		boolean failFlag = false;
-		String progressString = "";
 		f1:for (Iterator<String> iterator = sentences.keySet().iterator(); iterator.hasNext()||!"".equals(string);) {
 			if(!failFlag){
 				key = iterator.next();
@@ -272,13 +271,13 @@ public class Main {
 			//save the ACTION** and the COLOR
 //			total regex (?:[()"']?\$\$ACT[_A-Z0-9]*?\$\$[()"']?|%[a-z]\[[a-z0-9,]*?\]•?)
 //			Pattern p1 = Pattern.compile(".?\\$\\$ACT.*?\\$\\$.?");
-			Pattern p1 = Pattern.compile("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\]•?)");
+			Pattern p1 = Pattern.compile("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?•?)");
 			Matcher m1 = p1.matcher(oriLine);
 			LinkedList<String> colorOrAction = new LinkedList<>();
 			while (m1.find()) {
 				colorOrAction.add(m1.group(0));
 			}
-			String[] pieces = string.split("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\]•?)");
+			String[] pieces = string.split("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?•?)");
 			//queue got
 			
 			String transtedLine = "";
@@ -289,25 +288,20 @@ public class Main {
 						transtedLine = transtedLine+colorOrAction.get(0);
 						colorOrAction.remove(0);
 					}
+					System.err.print("(."+(j+1)+")");
 				}
 			} catch (Exception e) {
 				failFlag = true;
 				System.out.println("");
 				System.err.println(e);
-//				System.out.println(string);
-				progressString = "";
+				System.err.println(key);
 				Thread.sleep(errorSleepMilliSecond);
 				continue f1;
 			}
 
 			chsString = chsString.replaceAll("<string id=\""+key+"\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>", "<string id=\""+key+"\">\n\t\t<text>"+Matcher.quoteReplacement(transtedLine)+"</text>\n\t</string>");
 			transNum++;
-			if((progressString+transNum+",").length()>80){
-				System.out.println("");
-				progressString = "";
-			}
 			System.out.print(""+transNum+",");
-			progressString = progressString+transNum+",";
 			string = "";
 		}
 		System.out.println("");
@@ -375,7 +369,7 @@ public class Main {
 			Thread.sleep(sleepMilliSecond);
 		}
 		if (a.matches("\\s*?")&&!sentence.matches("\\s*?")) {
-			throw new Exception("something went wrong.");
+			throw new Exception("return a empty string from: "+sentence);
 		}
 		return a;
 	}
