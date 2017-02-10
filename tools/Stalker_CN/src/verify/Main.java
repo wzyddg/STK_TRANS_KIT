@@ -182,8 +182,7 @@ public class Main {
 		
 		String string = "";
 		boolean failFlag = false;
-		String progressString = "";
-		for (Iterator<String> iterator = sentences.iterator(); iterator.hasNext();) {
+		for (Iterator<String> iterator = sentences.iterator(); iterator.hasNext()||!"".equals(string);) {
 			if(!failFlag){
 				string = iterator.next();
 			}
@@ -197,17 +196,12 @@ public class Main {
 				System.out.println("");
 				System.err.println(e);
 				System.out.println(string);
-				progressString = "";
 				Thread.sleep(errorSleepMilliSecond);
 				continue;
 			}
 			transNum++;
-			if((progressString+transNum+",").length()>80){
-				System.out.println("");
-				progressString = "";
-			}
+			string = "";
 			System.out.print(""+transNum+",");
-			progressString = progressString+transNum+",";
 		}
 		System.out.println("");
 		
