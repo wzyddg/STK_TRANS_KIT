@@ -31,22 +31,22 @@ import org.xml.sax.SAXException;
 
 public class Main {
 	static int lackFileNum = 0;
-//	static String localDirSeparater ="\\";
-	static String localDirSeparater ="/";
+	// static String localDirSeparater ="\\";
+	static String localDirSeparater = "/";
 	static long currentTimeMillis = System.currentTimeMillis();
 	static String transAPI = "baidu";
-	static String oriLang = "ru";
+	static String oriLang = "";
 	static int sleepMilliSecond = 0;
 	static ArrayList<String> keyList = new ArrayList<String>();
 	static public String yandexKey = "";
 	static int errorSleepMilliSecond = 2000;
-	
+
 	public static void main(String[] args) throws Exception {
-		if(args.length>0){
+		if (args.length > 0) {
 			transAPI = args[0].substring(1).toLowerCase();
 		}
-		if(args.length>1){
-			int sleep=0;
+		if (args.length > 1) {
+			int sleep = 0;
 			try {
 				sleep = Integer.parseInt(args[1].substring(1));
 			} catch (Exception e) {
@@ -58,16 +58,25 @@ public class Main {
 		Class.forName("com.lsj.trans.BaiduDispatch");
 		Class.forName("com.lsj.trans.GoogleDispatch");
 		Class.forName("com.lsj.trans.YandexDispatch");
+		Class.forName("com.lsj.trans.BingNeuralDispatch");
 
-//		System.out.println(Dispatch.Instance("Yandex").Trans("ru", "zh", "Внатуре, спасибо тебе, братан. Короче, приходил сюда один такой сталкер, ну... мы с ним ничего не делали, честно. Он спустился к нам на базу к трубам вниз, так тут откуда-то кровосос взялся, да напал на наших людей, уволок двоих туда в логово двоих, включая его. Братана моего покоцало, я его сюда вытащил, кровь никак не остановить. Если ищешь его, спускайся вниз, только будь осторожен, опасайся той твари."));
+		// System.out.println(Dispatch.Instance("Yandex").Trans("ru", "zh",
+		// "Внатуре, спасибо тебе, братан. Короче, приходил сюда один такой
+		// сталкер, ну... мы с ним ничего не делали, честно. Он спустился к нам
+		// на базу к трубам вниз, так тут откуда-то кровосос взялся, да напал на
+		// наших людей, уволок двоих туда в логово двоих, включая его. Братана
+		// моего покоцало, я его сюда вытащил, кровь никак не остановить. Если
+		// ищешь его, спускайся вниз, только будь осторожен, опасайся той
+		// твари."));
 		// TODO Auto-generated method stub
-		File rusDir = new File("D:\\AZMtext\\gameplay");
+		// File rusDir = new File("D:\\AZMtext\\gameplay");
 		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
-//		File rusDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/rus");
-//		File chsDir = new File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
+		File rusDir = new File("/Users/wzy/Desktop/HoMtext/rus");
+		// File chsDir = new
+		// File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
 		ArrayList<String> finishedFiles = new ArrayList<String>();
-		File transedDir = new File(rusDir.getPath()+localDirSeparater+"translated_"+transAPI);
-		if(transedDir.exists()){
+		File transedDir = new File(rusDir.getPath() + localDirSeparater + "translated_" + transAPI);
+		if (transedDir.exists()) {
 			File[] transed = transedDir.listFiles();
 			for (int i = 0; i < transed.length; i++) {
 				finishedFiles.add(transed[i].getName());
@@ -76,8 +85,9 @@ public class Main {
 
 		File[] rusXMLs = rusDir.listFiles();
 		for (int i = 0; i < rusXMLs.length; i++) {
-			if (rusXMLs[i].isFile()&&!finishedFiles.contains(rusXMLs[i].getName())) {
-//				File chs = new File(chsDir.getPath() + localDirSeparater + rusXMLs[i].getName());
+			if (rusXMLs[i].isFile() && !finishedFiles.contains(rusXMLs[i].getName())) {
+				// File chs = new File(chsDir.getPath() + localDirSeparater +
+				// rusXMLs[i].getName());
 				// System.out.println(chs.getName()+" : ");
 				// if (keyToKey(chs, rusXMLs[i])) {
 				// return;
@@ -92,15 +102,15 @@ public class Main {
 
 	@SuppressWarnings("resource")
 	public static boolean keyToKey(File chs, File rus) throws Exception {
-//		String checkKeyword = "尼特罗";
+		// String checkKeyword = "尼特罗";
 
-		String chsString = getFileContentString(chs.getParent()+localDirSeparater+chs.getName(), "utf-8");
-		String rusString = getFileContentString(chs.getParent()+localDirSeparater+rus.getName());
-		String tmp = "";	
-		
-//		if (chsString.contains(checkKeyword)) {
-//		throw new Exception(checkKeyword + " exists in " + chs.getName());
-//	}
+		String chsString = getFileContentString(chs.getParent() + localDirSeparater + chs.getName(), "utf-8");
+		String rusString = getFileContentString(chs.getParent() + localDirSeparater + rus.getName());
+		String tmp = "";
+
+		// if (chsString.contains(checkKeyword)) {
+		// throw new Exception(checkKeyword + " exists in " + chs.getName());
+		// }
 		ArrayList<String> rusIDs = new ArrayList<>();
 		ArrayList<String> chsIDs = new ArrayList<>();
 
@@ -144,32 +154,28 @@ public class Main {
 
 		return flag;
 	}
-	
-	public static boolean isSentence(String str){
-		return (!str.matches("\\s*"))&&(!str.matches("[a-z0-9_]*"));
+
+	public static boolean isSentence(String str) {
+		return (!str.matches("\\s*")) && (!str.matches("[a-z0-9_]*"));
 	}
 
 	public static void translateGamePlayFile(File rus) throws Exception {
-		System.out.println("file \""+rus.getName()+"\" started!");
+		System.out.println("file \"" + rus.getName() + "\" started!");
 		int transNum = 0;
-		
-		String rusString = getFileContentString(rus.getParent()+localDirSeparater+rus.getName());
-		
+
+		String rusString = getFileContentString(rus.getParent() + localDirSeparater + rus.getName());
+
 		String chsString = rusString;
-		//clear BOM,delete annotation,anti-escape
-		chsString = chsString
-				.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ")
-				.replaceAll("<!--[\\s\\S]*?-->", "")
-				.replaceAll("&apos;", "'")
-				.replaceAll("&quot;", "\"")
-				.replaceAll("&amp;", "&");
-		
-//		System.out.println(chsString);
-		
+		// clear BOM,delete annotation,anti-escape
+		chsString = chsString.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ").replaceAll("<!--[\\s\\S]*?-->", "")
+				.replaceAll("&apos;", "'").replaceAll("&quot;", "\"").replaceAll("&amp;", "&");
+
+		// System.out.println(chsString);
+
 		HashSet<String> sentences = new HashSet<>();
 		Pattern p = Pattern.compile("<text[^u_/]*?>([\\s\\S]*?)</text>");
 		Matcher m = p.matcher(chsString);
-		int i=0;
+		int i = 0;
 		while (m.find()) {
 			System.out.println(m.group(1));
 			if (isSentence(m.group(1))) {
@@ -178,12 +184,12 @@ public class Main {
 			}
 			i++;
 		}
-		System.out.println("find "+i+" sentences,set get "+sentences.size());
-		
+		System.out.println("find " + i + " sentences,set get " + sentences.size());
+
 		String string = "";
 		boolean failFlag = false;
-		for (Iterator<String> iterator = sentences.iterator(); iterator.hasNext()||!"".equals(string);) {
-			if(!failFlag){
+		for (Iterator<String> iterator = sentences.iterator(); iterator.hasNext() || !"".equals(string);) {
+			if (!failFlag) {
 				string = iterator.next();
 			}
 			failFlag = false;
@@ -201,88 +207,85 @@ public class Main {
 			}
 			transNum++;
 			string = "";
-			System.out.print(""+transNum+",");
+			System.out.print("" + transNum + ",");
 		}
 		System.out.println("");
-		
-		chsString = chsString
-				.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"")
-				.replaceAll("？", "?");
-		
-//		System.out.println(chsString);
-		
-		File resultDir = new File(rus.getParent()+localDirSeparater+"translated_"+transAPI);
+
+		chsString = chsString.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"").replaceAll("？", "?");
+
+		// System.out.println(chsString);
+
+		File resultDir = new File(rus.getParent() + localDirSeparater + "translated_" + transAPI);
 		if (!resultDir.exists()) {
 			resultDir.mkdir();
 		}
 
-		File resultFile = new File(resultDir.getPath()+localDirSeparater+rus.getName());
-		
+		File resultFile = new File(resultDir.getPath() + localDirSeparater + rus.getName());
+
 		BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(resultFile), "utf-8"));
 		writer.write(chsString);
 		writer.close();
-		
-		System.out.println("file \""+rus.getName()+"\" done!");
+
+		System.out.println("file \"" + rus.getName() + "\" done!");
 	}
-	
+
 	public static void translateTextFile(File rus) throws Exception {
-		System.out.println("file \""+rus.getName()+"\" started!");
+		System.out.println("file \"" + rus.getName() + "\" started!");
 		int transNum = 0;
-		
-		String rusString = getFileContentString(rus.getParent()+localDirSeparater+rus.getName());
-		
+
+		String rusString = getFileContentString(rus.getParent() + localDirSeparater + rus.getName());
+
 		String chsString = rusString;
-		//clear BOM,delete annotation,anti-escape
-		chsString = chsString
-				.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ")
-				.replaceAll("<!--[\\s\\S]*?-->", "")
-				.replaceAll("&apos;", "'")
-				.replaceAll("&quot;", "\"")
-				.replaceAll("&amp;", "&");
-		
-		HashMap<String,String> sentences = new HashMap<>();
+		// clear BOM,delete annotation,anti-escape
+		chsString = chsString.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ").replaceAll("<!--[\\s\\S]*?-->", "")
+				.replaceAll("&apos;", "'").replaceAll("&quot;", "\"").replaceAll("&amp;", "&");
+
+		HashMap<String, String> sentences = new HashMap<>();
 		Pattern p = Pattern.compile("<string id=\"([a-z0-9_]*?)\">\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>");
 		Matcher m = p.matcher(chsString);
-		int i=0;
+		int i = 0;
 		while (m.find()) {
 			sentences.put(m.group(1), m.group(2));
 			i++;
 		}
-		System.out.println("find "+i+" sentences,map get "+sentences.size());
-		
+		System.out.println("find " + i + " sentences,map get " + sentences.size());
+
 		String string = "";
 		String key = "";
 		boolean failFlag = false;
-		f1:for (Iterator<String> iterator = sentences.keySet().iterator(); iterator.hasNext()||!"".equals(string);) {
-			if(!failFlag){
+		f1: for (Iterator<String> iterator = sentences.keySet().iterator(); iterator.hasNext() || !"".equals(string);) {
+			if (!failFlag) {
 				key = iterator.next();
 				string = sentences.get(key);
 			}
 			failFlag = false;
-			
+
 			String oriLine = string;
-			
-			//save the ACTION** and the COLOR
-//			total regex (?:[()"']?\$\$ACT[_A-Z0-9]*?\$\$[()"']?|%[a-z]\[[a-z0-9,]*?\]•?)
-//			Pattern p1 = Pattern.compile(".?\\$\\$ACT.*?\\$\\$.?");
-			Pattern p1 = Pattern.compile("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?•?)");
+
+			// save the ACTION** and the COLOR
+			// total regex
+			// (?:[()"']?\$\$ACT[_A-Z0-9]*?\$\$[()"']?|%[a-z]\[[a-z0-9,]*?\]•?)
+			// Pattern p1 = Pattern.compile(".?\\$\\$ACT.*?\\$\\$.?");
+			Pattern p1 = Pattern
+					.compile("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?•?)");
 			Matcher m1 = p1.matcher(oriLine);
 			LinkedList<String> colorOrAction = new LinkedList<>();
 			while (m1.find()) {
 				colorOrAction.add(m1.group(0));
 			}
-			String[] pieces = string.split("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?•?)");
-			//queue got
-			
+			String[] pieces = string
+					.split("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?•?)");
+			// queue got
+
 			String transtedLine = "";
 			try {
 				for (int j = 0; j < pieces.length; j++) {
-					transtedLine = transtedLine+transToCN(pieces[j]);
+					transtedLine = transtedLine + transToCN(pieces[j]);
 					if (!colorOrAction.isEmpty()) {
-						transtedLine = transtedLine+colorOrAction.get(0);
+						transtedLine = transtedLine + colorOrAction.get(0);
 						colorOrAction.remove(0);
 					}
-					System.err.print("(."+(j+1)+")");
+					System.err.print("(." + (j + 1) + ")");
 				}
 			} catch (Exception e) {
 				failFlag = true;
@@ -293,44 +296,45 @@ public class Main {
 				continue f1;
 			}
 
-			chsString = chsString.replaceAll("<string id=\""+key+"\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>", "<string id=\""+key+"\">\n\t\t<text>"+Matcher.quoteReplacement(transtedLine)+"</text>\n\t</string>");
+			chsString = chsString.replaceAll(
+					"<string id=\"" + key + "\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>",
+					"<string id=\"" + key + "\">\n\t\t<text>" + Matcher.quoteReplacement(transtedLine)
+							+ "</text>\n\t</string>");
 			transNum++;
-			System.out.print(""+transNum+",");
+			System.out.print("" + transNum + ",");
 			string = "";
 		}
 		System.out.println("");
-		
-		chsString = chsString
-				.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"")
-				.replaceAll("<text></text>", "<text>返回空文本</text>")
-				.replaceAll("？", "?");
-		
-		File resultDir = new File(rus.getParent()+localDirSeparater+"translated_"+transAPI);
+
+		chsString = chsString.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"")
+				.replaceAll("<text></text>", "<text>返回空文本</text>").replaceAll("？", "?");
+
+		File resultDir = new File(rus.getParent() + localDirSeparater + "translated_" + transAPI);
 		if (!resultDir.exists()) {
 			resultDir.mkdir();
 		}
 
-		File resultFile = new File(resultDir.getPath()+localDirSeparater+rus.getName());
-		
+		File resultFile = new File(resultDir.getPath() + localDirSeparater + rus.getName());
+
 		BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(resultFile), "utf-8"));
 		writer.write(chsString);
 		writer.close();
-		
-		System.out.println("file \""+rus.getName()+"\" done!");
+
+		System.out.println("file \"" + rus.getName() + "\" done!");
 	}
-	
+
 	public static String getFileContentString(String fileAddress) throws IOException {
 		return getFileContentString(fileAddress, "windows-1251");
 	}
-	
+
 	public static String getFileContentString(String fileAddress, String encodingName) throws IOException {
 		File file = new File(fileAddress);
 		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(file), encodingName));
 		String string = "";
 		String tmp = "";
-		for (;(tmp = reader.readLine()) != null;) {
+		for (; (tmp = reader.readLine()) != null;) {
 			if (!tmp.equals("")) {
-				string = string + tmp+"\n";
+				string = string + tmp + "\n";
 			}
 		}
 		reader.close();
@@ -344,34 +348,44 @@ public class Main {
 	public static String transToCN(String sentence) throws Exception {
 		return transToTarget(sentence, "zh");
 	}
-	
+
 	public static String transToTarget(String sentence, String targ) throws Exception {
-		String a ="";
+		String translated = "";
+
+		// when return the origin string
+		if (sentence.matches("[\\s0-9,.!?]*?")) { // only numbers and punc
+			return sentence;
+		}
 		if ("google".equals(transAPI)) {
-			a=GoogleWebTranslator.translate(sentence, targ);
-		}else if ("bing".equals(transAPI)) {
-			a=BingWebTranslator.translate(sentence, targ);
-		}else{
+			translated = GoogleWebTranslator.translate(sentence, targ);
+		} else if ("bing".equals(transAPI)) {
+			translated = BingWebTranslator.translate(sentence, targ);
+		} else {
 			try {
-				a=Dispatch.Instance(transAPI).Trans(oriLang, targ, sentence);
+				translated = Dispatch.Instance(transAPI).Trans(oriLang, targ, sentence);
 			} catch (Exception e) {
-				if ("yandex".equals(transAPI)&&e.getMessage().toLowerCase().contains("[\"text\"]")) {
+				System.err.println(e);
+				if ("yandex".equals(transAPI) && e.getMessage().toLowerCase().contains("[\"text\"]")) {
 					updateYandexKey();
+					throw e;
+				}
+				if ("bingn".equals(transAPI) && e.getMessage().toLowerCase().contains("[\"resultNMT\"]")) {
+					System.err.println("bing nmt failed");
 					throw e;
 				}
 			}
 			Thread.sleep(sleepMilliSecond);
 		}
-		if (a.matches("\\s*?")&&!sentence.matches("\\s*?")) {
-			throw new Exception("return a empty string from: "+sentence);
+		if (translated.matches("\\s*?") && !sentence.matches("\\s*?")) {
+			throw new Exception("return a empty string from: " + sentence);
 		}
-		return a;
+		return translated;
 	}
-	
+
 	public static void updateYandexKey() throws IOException {
 		int currentIndex = keyList.indexOf(yandexKey);
-		if (currentIndex>=0&&currentIndex+1<keyList.size()) {
-			yandexKey = keyList.get(currentIndex+1);
+		if (currentIndex >= 0 && currentIndex + 1 < keyList.size()) {
+			yandexKey = keyList.get(currentIndex + 1);
 			return;
 		}
 		String keysString = getFileContentString("yandexKeys.xml");

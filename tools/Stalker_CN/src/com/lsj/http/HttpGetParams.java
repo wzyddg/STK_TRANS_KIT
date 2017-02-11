@@ -7,7 +7,7 @@ import org.apache.http.client.utils.URIBuilder;
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
 
-public class HttpGetParams extends AbstractHttpParams{
+public class HttpGetParams extends AbstractHttpParams {
 
 	@Override
 	public String Send(String baseUrl) throws Exception {
