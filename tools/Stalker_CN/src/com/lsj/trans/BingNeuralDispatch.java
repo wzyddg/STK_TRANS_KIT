@@ -59,8 +59,15 @@ public class BingNeuralDispatch extends Dispatch {
 	}
 
 	private String ParseString(String jsonString) throws UnsupportedEncodingException {
-		JSONObject jsonObject = JSONObject.fromObject(jsonString);
-		String result = jsonObject.getString("resultNMT");
+		String result = "";
+		try {
+			JSONObject jsonObject = JSONObject.fromObject(jsonString);
+			result = jsonObject.getString("resultNMT");
+		} catch (Exception e) {
+			Main.verbose("jsonString : "+jsonString);
+			throw e;
+			// TODO: handle exception
+		}
 		return new String(result);
 	}
 }

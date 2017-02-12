@@ -35,11 +35,12 @@ public class Main {
 	static String localDirSeparater = "/";
 	static long currentTimeMillis = System.currentTimeMillis();
 	static String transAPI = "baidu";
-	static String oriLang = "";
+	static String oriLang = "ru";
 	static int sleepMilliSecond = 0;
 	static ArrayList<String> keyList = new ArrayList<String>();
 	static public String yandexKey = "";
 	static int errorSleepMilliSecond = 2000;
+	static boolean verbose = true;
 
 	public static void main(String[] args) throws Exception {
 		if (args.length > 0) {
@@ -156,7 +157,7 @@ public class Main {
 	}
 
 	public static boolean isSentence(String str) {
-		return (!str.matches("\\s*")) && (!str.matches("[a-z0-9_]*"));
+		return (!str.matches("\\s*?")) && (!str.matches("[a-zA-Z0-9_-]*?"));
 	}
 
 	public static void translateGamePlayFile(File rus) throws Exception {
@@ -241,7 +242,7 @@ public class Main {
 				.replaceAll("&apos;", "'").replaceAll("&quot;", "\"").replaceAll("&amp;", "&");
 
 		HashMap<String, String> sentences = new HashMap<>();
-		Pattern p = Pattern.compile("<string id=\"([a-z0-9_]*?)\">\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>");
+		Pattern p = Pattern.compile("<string id=\"([a-zA-Z0-9_-]*?)\">\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>");
 		Matcher m = p.matcher(chsString);
 		int i = 0;
 		while (m.find()) {
@@ -297,11 +298,12 @@ public class Main {
 			}
 
 			chsString = chsString.replaceAll(
-					"<string id=\"" + key + "\">\\s*<text>\\s*([\\s\\S]*?)\\s*</text>\\s*</string>",
+					"<string id=\"" + key + "\">\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>",
 					"<string id=\"" + key + "\">\n\t\t<text>" + Matcher.quoteReplacement(transtedLine)
 							+ "</text>\n\t</string>");
 			transNum++;
 			System.out.print("" + transNum + ",");
+			verbose(key+" : "+string+" → "+transtedLine);
 			string = "";
 		}
 		System.out.println("");
@@ -333,7 +335,7 @@ public class Main {
 		String string = "";
 		String tmp = "";
 		for (; (tmp = reader.readLine()) != null;) {
-			if (!tmp.equals("")) {
+			if (!tmp.matches("[\r\n]*?")) {
 				string = string + tmp + "\n";
 			}
 		}
@@ -411,5 +413,11 @@ public class Main {
 		}
 
 		return true;
+	}
+	
+	public static void verbose(String content) {
+		if (verbose) {
+			System.out.println(content);
+		}
 	}
 }
