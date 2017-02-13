@@ -34,7 +34,7 @@ public class BingNeuralDispatch extends Dispatch {
 				posts.add(tmp);
 				tmp = "";
 			}
-			tmp = tmp + "\n" + paragraphs[i];
+			tmp = tmp + "." + paragraphs[i];
 			if (i == paragraphs.length - 1) {
 				tmp = tmp.substring(1);
 				posts.add(tmp);

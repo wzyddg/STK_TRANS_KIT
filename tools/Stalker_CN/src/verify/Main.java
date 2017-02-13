@@ -242,7 +242,7 @@ public class Main {
 				.replaceAll("&apos;", "'").replaceAll("&quot;", "\"").replaceAll("&amp;", "&");
 
 		HashMap<String, String> sentences = new HashMap<>();
-		Pattern p = Pattern.compile("<string id=\"([a-zA-Z0-9_-]*?)\">\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>");
+		Pattern p = Pattern.compile("<string id[ ]?=[ ]?\"([a-zA-Z0-9_.'/, -]*?)\"[ ]?>\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>");
 		Matcher m = p.matcher(chsString);
 		int i = 0;
 		while (m.find()) {

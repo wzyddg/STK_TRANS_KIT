@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.http.NameValuePair;
+import org.apache.http.client.config.RequestConfig;
 import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpPost;
@@ -34,6 +35,8 @@ public class HttpPostParams extends AbstractHttpParams {
 	public String Send(String base, ContentType contentType) throws Exception {
 		CloseableHttpClient httpClient = HttpClients.createDefault();
 		HttpPost request = new HttpPost(base);
+		RequestConfig requestConfig = RequestConfig.custom().setSocketTimeout(30000).setConnectTimeout(30000).build();
+		request.setConfig(requestConfig);
 		if (ContentType.APPLICATION_JSON.equals(contentType)) {
 			JsonObject jObject = new JsonObject();
 			for (String key : params.keySet()) {
