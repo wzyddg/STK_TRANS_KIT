@@ -41,6 +41,8 @@ public class Main {
 	static public String yandexKey = "";
 	static int errorSleepMilliSecond = 2000;
 	static boolean verbose = true;
+	static String existingFolderAddress = "D:\\Misery2.0_CN\\gamedata\\configs\\text\\chs";
+	static HashMap<String, String> existingSentence = new HashMap<>();
 
 	public static void main(String[] args) throws Exception {
 		if (args.length > 0) {
@@ -73,6 +75,16 @@ public class Main {
 		// File rusDir = new File("D:\\AZMtext\\gameplay");
 		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
 		File rusDir = new File("/Users/wzy/Desktop/HoMtext/rus");
+		if (!existingFolderAddress.equals("")) {
+			File existingChsDir = new File(existingFolderAddress);
+			File[] eFiles = existingChsDir.listFiles();
+			for (int i = 0; i < eFiles.length; i++) {
+				if (eFiles[i].isFile()) {
+					existingSentence.putAll(getTextFileMap(existingFolderAddress + localDirSeparater + eFiles[i].getName()));
+				}
+
+			}
+		}
 		// File chsDir = new
 		// File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
 		ArrayList<String> finishedFiles = new ArrayList<String>();
@@ -262,39 +274,38 @@ public class Main {
 			failFlag = false;
 
 			String oriLine = string;
+			String transtedLine = existingSentence.get(key);
 
-			// save the ACTION** and the COLOR
-			// total regex
-			// (?:[()"']?\$\$ACT[_A-Z0-9]*?\$\$[()"']?|%[a-z]\[[a-z0-9,]*?\]•?)
-			// Pattern p1 = Pattern.compile(".?\\$\\$ACT.*?\\$\\$.?");
-			Pattern p1 = Pattern
-					.compile("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?•?)");
-			Matcher m1 = p1.matcher(oriLine);
-			LinkedList<String> colorOrAction = new LinkedList<>();
-			while (m1.find()) {
-				colorOrAction.add(m1.group(0));
-			}
-			String[] pieces = string
-					.split("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?•?)");
-			// queue got
-
-			String transtedLine = "";
-			try {
-				for (int j = 0; j < pieces.length; j++) {
-					transtedLine = transtedLine + transToCN(pieces[j]);
-					if (!colorOrAction.isEmpty()) {
-						transtedLine = transtedLine + colorOrAction.get(0);
-						colorOrAction.remove(0);
-					}
-					System.err.print("(." + (j + 1) + ")");
+			if (transtedLine!=null&&!"".equals(transtedLine)) {
+				
+			}else {
+				Pattern p1 = Pattern
+						.compile("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?•?)");
+				Matcher m1 = p1.matcher(oriLine);
+				LinkedList<String> colorOrAction = new LinkedList<>();
+				while (m1.find()) {
+					colorOrAction.add(m1.group(0));
 				}
-			} catch (Exception e) {
-				failFlag = true;
-				System.out.println("");
-				System.err.println(e);
-				System.err.println(key);
-				Thread.sleep(errorSleepMilliSecond);
-				continue f1;
+				String[] pieces = string
+						.split("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?•?)");
+				
+				try {
+					for (int j = 0; j < pieces.length; j++) {
+						transtedLine = transtedLine + transToCN(pieces[j]);
+						if (!colorOrAction.isEmpty()) {
+							transtedLine = transtedLine + colorOrAction.get(0);
+							colorOrAction.remove(0);
+						}
+						System.err.print("(." + (j + 1) + ")");
+					}
+				} catch (Exception e) {
+					failFlag = true;
+					System.out.println("");
+					System.err.println(e);
+					System.err.println(key);
+					Thread.sleep(errorSleepMilliSecond);
+					continue f1;
+				}
 			}
 
 			chsString = chsString.replaceAll(
@@ -341,6 +352,23 @@ public class Main {
 		}
 		reader.close();
 		return string;
+	}
+	
+	public static HashMap<String, String> getTextFileMap(String fileAddress, String encodingName) throws IOException {
+		HashMap<String, String> map = new HashMap<>();
+		String string = getFileContentString(fileAddress, encodingName);
+		string = string.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ").replaceAll("<!--[\\s\\S]*?-->", "")
+				.replaceAll("&apos;", "'").replaceAll("&quot;", "\"").replaceAll("&amp;", "&");
+		Pattern p = Pattern.compile("<string id[ ]?=[ ]?\"([a-zA-Z0-9_.'/, -]*?)\"[ ]?>\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>");
+		Matcher m = p.matcher(string);
+		while (m.find()) {
+			map.put(m.group(1), m.group(2));
+		}
+		return map;
+	}
+	
+	public static HashMap<String, String> getTextFileMap(String fileAddress) throws IOException {
+		return getTextFileMap(fileAddress, "UTF-8");
 	}
 
 	public static String transToEN(String sentence) throws Exception {
