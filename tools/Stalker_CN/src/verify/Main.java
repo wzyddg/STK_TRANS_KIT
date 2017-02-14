@@ -41,7 +41,7 @@ public class Main {
 	static public String yandexKey = "";
 	static int errorSleepMilliSecond = 2000;
 	static boolean verbose = true;
-	static String existingFolderAddress = "D:\\Misery2.0_CN\\gamedata\\configs\\text\\chs";
+	static String existingFolderAddress = "D:\\fototext\\chs";
 	static HashMap<String, String> existingSentence = new HashMap<>();
 
 	public static void main(String[] args) throws Exception {
@@ -74,13 +74,14 @@ public class Main {
 		// TODO Auto-generated method stub
 		// File rusDir = new File("D:\\AZMtext\\gameplay");
 		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
-		File rusDir = new File("/Users/wzy/Desktop/HoMtext/rus");
+		File rusDir = new File("D:\\fototext\\rus");
 		if (!existingFolderAddress.equals("")) {
 			File existingChsDir = new File(existingFolderAddress);
 			File[] eFiles = existingChsDir.listFiles();
 			for (int i = 0; i < eFiles.length; i++) {
 				if (eFiles[i].isFile()) {
 					existingSentence.putAll(getTextFileMap(existingFolderAddress + localDirSeparater + eFiles[i].getName()));
+					System.out.println("existing file "+eFiles[i].getName()+" done!");
 				}
 
 			}
@@ -96,6 +97,8 @@ public class Main {
 			}
 		}
 
+		String filesString = "";
+		
 		File[] rusXMLs = rusDir.listFiles();
 		for (int i = 0; i < rusXMLs.length; i++) {
 			if (rusXMLs[i].isFile() && !finishedFiles.contains(rusXMLs[i].getName())) {
@@ -108,8 +111,9 @@ public class Main {
 				// Thread.sleep(100);
 				translateTextFile(rusXMLs[i]);
 			}
-
+//			filesString = filesString+rusXMLs[i].getName().split("[. ]")[0]+", ";
 		}
+//		System.out.println(filesString);
 		System.out.println("lackFileNum:" + lackFileNum);
 	}
 
