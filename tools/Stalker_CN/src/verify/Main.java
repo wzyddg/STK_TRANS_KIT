@@ -113,12 +113,13 @@ public class Main {
 				// return;
 				// }
 				// Thread.sleep(100);
-//				translateTextFile(rusXMLs[i]);
+				translateTextFile(oriXMLs[i]);
 			}
 //			filesString = filesString+rusXMLs[i].getName().split("[. ]")[0]+", ";
 		}
 //		System.out.println(filesString);
-		generateLackSentenceFile(oriAddress);
+//		generateLackSentenceFile(oriAddress);
+//		generateLackSentenceFile("D:\\HoMtext\\rus");
 		System.out.println("lackFileNum:" + lackFileNum);
 	}
 
@@ -292,7 +293,7 @@ public class Main {
 			String transtedLine = existingSentence.get(key);
 
 			if (transtedLine!=null&&!"".equals(transtedLine)) {
-				
+				verbose("this one get quick.");
 			}else {
 				transtedLine = "";
 				Pattern p1 = Pattern
@@ -304,7 +305,7 @@ public class Main {
 				}
 				String[] pieces = string
 						.split("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?•?)");
-				
+				verbose("this sentence get "+pieces.length+" pieces.");
 				try {
 					for (int j = 0; j < pieces.length; j++) {
 						transtedLine = transtedLine + transToCN(pieces[j]);
@@ -313,6 +314,10 @@ public class Main {
 							colorOrAction.remove(0);
 						}
 						System.err.print("(." + (j + 1) + ")");
+					}
+					if(pieces.length==0){
+						transtedLine = string;
+						System.err.print("(.1)");
 					}
 				} catch (Exception e) {
 					failFlag = true;
