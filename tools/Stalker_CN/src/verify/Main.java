@@ -42,8 +42,7 @@ public class Main {
 	static ArrayList<String> keyList = new ArrayList<String>();
 	static public String yandexKey = "";
 	static int errorSleepMilliSecond = 2000;
-	static boolean verbose = true;
-	static String existingFolderAddress = "D:\\fototext\\chs";
+	static boolean verbose = true; 
 	static HashMap<String, String> existingSentence = new HashMap<>();
 
 	public static void main(String[] args) throws Exception {
@@ -75,8 +74,11 @@ public class Main {
 		// твари."));
 		// TODO Auto-generated method stub
 		// File rusDir = new File("D:\\AZMtext\\gameplay");
-		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
-		File rusDir = new File("/Users/wzy/Desktop/SAText/kk");
+		String existingFolderAddress = "D:\\fototext\\chs";
+		String rusAddress = "D:\\fototext\\rus";
+		String chsAddress = "D:\\SGM2.2_LostSoul_CNPack_Complete\\chs";
+		File chsDir = new File(chsAddress);
+		File rusDir = new File(rusAddress);
 		if (!existingFolderAddress.equals("")) {
 			File existingChsDir = new File(existingFolderAddress);
 			File[] eFiles = existingChsDir.listFiles();
@@ -111,7 +113,7 @@ public class Main {
 				// return;
 				// }
 				// Thread.sleep(100);
-				translateTextFile(rusXMLs[i]);
+//				translateTextFile(rusXMLs[i]);
 			}
 //			filesString = filesString+rusXMLs[i].getName().split("[. ]")[0]+", ";
 		}
@@ -172,6 +174,30 @@ public class Main {
 		return flag;
 	}
 
+	public static void generateLackSentenceFile(String oriAddr) throws ClassNotFoundException, IOException {
+		HashMap<String, String> oriSentence = new HashMap<>();
+		
+		if (!oriAddr.equals("")) {
+			File oriDir = new File(oriAddr);
+			File[] Files = oriDir.listFiles();
+			for (int i = 0; Files!=null && i < Files.length; i++) {
+				if (Files[i].isFile()) {
+					oriSentence.putAll(getTextFileMap(oriAddr + localDirSeparater + Files[i].getName()));
+					System.out.println("ori file "+Files[i].getName()+" done!");
+				}
+			}
+		}
+		
+		for (String string : existingSentence.keySet()) {
+			oriSentence.remove(string);
+		}
+		String resString = "";
+		for (String key : oriSentence.keySet()) {
+			resString = resString + "<string id=\""+key+"\">" + "\r\n" +"\t<text>"+oriSentence.get(key)+"</text>"+ "\r\n</string>";
+		}
+		writeToFile(resString, oriAddr+localDirSeparater+"lackSentences.txt", "utf-8");
+	}
+	
 	public static boolean isSentence(String str) {
 		return (!str.matches("\\s*?")) && (!str.matches("[a-zA-Z0-9_-]*?"));
 	}
@@ -339,7 +365,9 @@ public class Main {
 	
 	public static HashMap<String, String> getTextFileMap(String fileAddress, String encodingName) throws IOException, ClassNotFoundException {
 		HashMap<String, String> map = null;
-		File serializedMap = new File(fileAddress+".wzymap");
+		File textFile = new File(fileAddress);
+		File serializedMap = new File(textFile.getParent()+localDirSeparater+"map_cache"+localDirSeparater+textFile.getName()+".wzymap");
+		serializedMap.getParentFile().mkdirs();
 		if (serializedMap.exists()) {
 			ObjectInputStream objectInputStream = null;
 			try {
