@@ -548,7 +548,7 @@ public class SmallTest {
 		// String kk = "款爷上课喝可乐";
 		// System.out.println(StringEscapeUtils.escapeXml(kk));
 		// String kk = "I have a pen. I have an apple.";
-		System.out.println(Dispatch.Instance("bing").Trans("ru", "zh", kk));
+		System.out.println(Dispatch.Instance("bingn").Trans("ru", "zh", kk));
 		// String aString = "sadadwag\nQWQQWEEEQWE";
 		//// System.out.println(aString);
 		// System.out.println(aString.split("\n")[0]);

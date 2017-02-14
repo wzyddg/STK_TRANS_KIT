@@ -7,6 +7,8 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
 import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -74,11 +76,11 @@ public class Main {
 		// TODO Auto-generated method stub
 		// File rusDir = new File("D:\\AZMtext\\gameplay");
 		File chsDir = new File("D:\\SGM2.2_LostSoul_CNPack_Complete\\chs");
-		File rusDir = new File("D:\\fototext\\rus");
+		File rusDir = new File("/Users/wzy/Desktop/SAText/kk");
 		if (!existingFolderAddress.equals("")) {
 			File existingChsDir = new File(existingFolderAddress);
 			File[] eFiles = existingChsDir.listFiles();
-			for (int i = 0; i < eFiles.length; i++) {
+			for (int i = 0; eFiles!=null && i < eFiles.length; i++) {
 				if (eFiles[i].isFile()) {
 					existingSentence.putAll(getTextFileMap(existingFolderAddress + localDirSeparater + eFiles[i].getName()));
 					System.out.println("existing file "+eFiles[i].getName()+" done!");
@@ -117,13 +119,11 @@ public class Main {
 		System.out.println("lackFileNum:" + lackFileNum);
 	}
 
-	@SuppressWarnings("resource")
 	public static boolean keyToKey(File chs, File rus) throws Exception {
 		// String checkKeyword = "尼特罗";
 
 		String chsString = getFileContentString(chs.getParent() + localDirSeparater + chs.getName(), "utf-8");
 		String rusString = getFileContentString(chs.getParent() + localDirSeparater + rus.getName());
-		String tmp = "";
 
 		// if (chsString.contains(checkKeyword)) {
 		// throw new Exception(checkKeyword + " exists in " + chs.getName());
@@ -184,8 +184,7 @@ public class Main {
 
 		String chsString = rusString;
 		// clear BOM,delete annotation,anti-escape
-		chsString = chsString.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ").replaceAll("<!--[\\s\\S]*?-->", "")
-				.replaceAll("&apos;", "'").replaceAll("&quot;", "\"").replaceAll("&amp;", "&");
+		chsString = clearXMLString(chsString);
 
 		// System.out.println(chsString);
 
@@ -231,17 +230,8 @@ public class Main {
 		chsString = chsString.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"").replaceAll("？", "?");
 
 		// System.out.println(chsString);
-
-		File resultDir = new File(rus.getParent() + localDirSeparater + "translated_" + transAPI);
-		if (!resultDir.exists()) {
-			resultDir.mkdir();
-		}
-
-		File resultFile = new File(resultDir.getPath() + localDirSeparater + rus.getName());
-
-		BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(resultFile), "utf-8"));
-		writer.write(chsString);
-		writer.close();
+		
+		writeToFile(chsString, rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
 
 		System.out.println("file \"" + rus.getName() + "\" done!");
 	}
@@ -254,18 +244,10 @@ public class Main {
 
 		String chsString = rusString;
 		// clear BOM,delete annotation,anti-escape
-		chsString = chsString.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ").replaceAll("<!--[\\s\\S]*?-->", "")
-				.replaceAll("&apos;", "'").replaceAll("&quot;", "\"").replaceAll("&amp;", "&");
+		chsString = clearXMLString(chsString);
 
-		HashMap<String, String> sentences = new HashMap<>();
-		Pattern p = Pattern.compile("<string id[ ]?=[ ]?\"([a-zA-Z0-9_.'/, -]*?)\"[ ]?>\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>");
-		Matcher m = p.matcher(chsString);
-		int i = 0;
-		while (m.find()) {
-			sentences.put(m.group(1), m.group(2));
-			i++;
-		}
-		System.out.println("find " + i + " sentences,map get " + sentences.size());
+		HashMap<String, String> sentences = getTextFileMap(rus.getParent() + localDirSeparater + rus.getName(), "windows-1251");
+		System.out.println("find " + sentences.size() + " sentences.");
 
 		String string = "";
 		String key = "";
@@ -283,6 +265,7 @@ public class Main {
 			if (transtedLine!=null&&!"".equals(transtedLine)) {
 				
 			}else {
+				transtedLine = "";
 				Pattern p1 = Pattern
 						.compile("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?•?)");
 				Matcher m1 = p1.matcher(oriLine);
@@ -326,16 +309,7 @@ public class Main {
 		chsString = chsString.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"")
 				.replaceAll("<text></text>", "<text>返回空文本</text>").replaceAll("？", "?");
 
-		File resultDir = new File(rus.getParent() + localDirSeparater + "translated_" + transAPI);
-		if (!resultDir.exists()) {
-			resultDir.mkdir();
-		}
-
-		File resultFile = new File(resultDir.getPath() + localDirSeparater + rus.getName());
-
-		BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(resultFile), "utf-8"));
-		writer.write(chsString);
-		writer.close();
+		writeToFile(chsString, rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
 
 		System.out.println("file \"" + rus.getName() + "\" done!");
 	}
@@ -358,20 +332,60 @@ public class Main {
 		return string;
 	}
 	
-	public static HashMap<String, String> getTextFileMap(String fileAddress, String encodingName) throws IOException {
-		HashMap<String, String> map = new HashMap<>();
-		String string = getFileContentString(fileAddress, encodingName);
-		string = string.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ").replaceAll("<!--[\\s\\S]*?-->", "")
-				.replaceAll("&apos;", "'").replaceAll("&quot;", "\"").replaceAll("&amp;", "&");
-		Pattern p = Pattern.compile("<string id[ ]?=[ ]?\"([a-zA-Z0-9_.'/, -]*?)\"[ ]?>\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>");
-		Matcher m = p.matcher(string);
-		while (m.find()) {
-			map.put(m.group(1), m.group(2));
+	public static String clearXMLString(String str) {
+		return str.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ").replaceAll("<!--[\\s\\S]*?-->", "")
+				.replaceAll("&apos;", "'").replaceAll("&quot;", "\"").replaceAll("&amp;", "&"); 
+	}
+	
+	public static HashMap<String, String> getTextFileMap(String fileAddress, String encodingName) throws IOException, ClassNotFoundException {
+		HashMap<String, String> map = null;
+		File serializedMap = new File(fileAddress+".wzymap");
+		if (serializedMap.exists()) {
+			ObjectInputStream objectInputStream = null;
+			try {
+				objectInputStream = new ObjectInputStream(new FileInputStream(serializedMap));
+				Object o = objectInputStream.readObject();
+				map = (HashMap<String, String>) o;
+			} catch (Exception e) {
+				e.printStackTrace();
+				objectInputStream.close();
+				serializedMap.delete();
+				return getTextFileMap(fileAddress, encodingName);
+			}
+			objectInputStream.close();
+		}else {
+			map = new HashMap<>();
+			String string = getFileContentString(fileAddress, encodingName);
+			string = clearXMLString(string);
+			Pattern p = Pattern.compile("<string id[ ]?=[ ]?\"([a-zA-Z0-9_.'/, -]*?)\"[ ]?>\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>");
+			Matcher m = p.matcher(string);
+			while (m.find()) {
+				map.put(m.group(1), m.group(2));
+			}
+			ObjectOutputStream objectOutputStream = null;
+			try {
+				objectOutputStream = new ObjectOutputStream( new FileOutputStream(serializedMap));
+				objectOutputStream.writeObject(map);
+	        } catch (Exception e) {
+	            e.printStackTrace();
+	        }
+			objectOutputStream.flush();
+			objectOutputStream.close();
 		}
 		return map;
 	}
 	
-	public static HashMap<String, String> getTextFileMap(String fileAddress) throws IOException {
+	public static void writeToFile(String content, String fileAddress, String encodeingName) throws IOException {
+		File resultFile = new File(fileAddress);
+		resultFile.getParentFile().mkdirs();
+
+		BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(resultFile), encodeingName));
+		writer.write(content);
+		writer.flush();
+		writer.close();
+	}
+	
+	public static HashMap<String, String> getTextFileMap(String fileAddress) throws IOException, ClassNotFoundException {
 		return getTextFileMap(fileAddress, "UTF-8");
 	}
 
