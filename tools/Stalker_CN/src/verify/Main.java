@@ -75,17 +75,17 @@ public class Main {
 		// TODO Auto-generated method stub
 		// File rusDir = new File("D:\\AZMtext\\gameplay");
 		String existingFolderAddress = "D:\\fototext\\chs";
-		String rusAddress = "D:\\fototext\\rus";
+		String oriAddress = "D:\\fototext\\eng";
 		String chsAddress = "D:\\SGM2.2_LostSoul_CNPack_Complete\\chs";
 		File chsDir = new File(chsAddress);
-		File rusDir = new File(rusAddress);
+		File oriDir = new File(oriAddress);
 		if (!existingFolderAddress.equals("")) {
 			File existingChsDir = new File(existingFolderAddress);
 			File[] eFiles = existingChsDir.listFiles();
 			for (int i = 0; eFiles!=null && i < eFiles.length; i++) {
 				if (eFiles[i].isFile()) {
 					existingSentence.putAll(getTextFileMap(existingFolderAddress + localDirSeparater + eFiles[i].getName()));
-					System.out.println("existing file "+eFiles[i].getName()+" done!");
+					verbose("existing file "+eFiles[i].getName()+" done!");
 				}
 
 			}
@@ -93,7 +93,7 @@ public class Main {
 		// File chsDir = new
 		// File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
 		ArrayList<String> finishedFiles = new ArrayList<String>();
-		File transedDir = new File(rusDir.getPath() + localDirSeparater + "translated_" + transAPI);
+		File transedDir = new File(oriDir.getPath() + localDirSeparater + "translated_" + transAPI);
 		if (transedDir.exists()) {
 			File[] transed = transedDir.listFiles();
 			for (int i = 0; i < transed.length; i++) {
@@ -103,9 +103,9 @@ public class Main {
 
 		String filesString = "";
 		
-		File[] rusXMLs = rusDir.listFiles();
-		for (int i = 0; i < rusXMLs.length; i++) {
-			if (rusXMLs[i].isFile() && !finishedFiles.contains(rusXMLs[i].getName())) {
+		File[] oriXMLs = oriDir.listFiles();
+		for (int i = 0; i < oriXMLs.length; i++) {
+			if (oriXMLs[i].isFile() && !finishedFiles.contains(oriXMLs[i].getName())) {
 				// File chs = new File(chsDir.getPath() + localDirSeparater +
 				// rusXMLs[i].getName());
 				// System.out.println(chs.getName()+" : ");
@@ -118,6 +118,7 @@ public class Main {
 //			filesString = filesString+rusXMLs[i].getName().split("[. ]")[0]+", ";
 		}
 //		System.out.println(filesString);
+		generateLackSentenceFile(oriAddress);
 		System.out.println("lackFileNum:" + lackFileNum);
 	}
 
@@ -183,17 +184,19 @@ public class Main {
 			for (int i = 0; Files!=null && i < Files.length; i++) {
 				if (Files[i].isFile()) {
 					oriSentence.putAll(getTextFileMap(oriAddr + localDirSeparater + Files[i].getName()));
-					System.out.println("ori file "+Files[i].getName()+" done!");
+					verbose("ori file "+Files[i].getName()+" done!");
 				}
 			}
 		}
-		
+		verbose("ori:"+oriSentence.size());
+		verbose("exi:"+existingSentence.size());
 		for (String string : existingSentence.keySet()) {
 			oriSentence.remove(string);
 		}
+		verbose(""+oriSentence.size());
 		String resString = "";
 		for (String key : oriSentence.keySet()) {
-			resString = resString + "<string id=\""+key+"\">" + "\r\n" +"\t<text>"+oriSentence.get(key)+"</text>"+ "\r\n</string>";
+			resString = resString + "<string id=\""+key+"\">" + "\r\n" +"\t<text>"+oriSentence.get(key)+"</text>"+ "\r\n</string>\r\n";
 		}
 		writeToFile(resString, oriAddr+localDirSeparater+"lackSentences.txt", "utf-8");
 	}
