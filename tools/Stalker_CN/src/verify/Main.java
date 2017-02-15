@@ -184,7 +184,7 @@ public class Main {
 			File[] Files = oriDir.listFiles();
 			for (int i = 0; Files!=null && i < Files.length; i++) {
 				if (Files[i].isFile()) {
-					oriSentence.putAll(getTextFileMap(oriAddr + localDirSeparater + Files[i].getName()));
+					oriSentence.putAll(getTextFileMap(oriAddr + localDirSeparater + Files[i].getName(), "windows-1251"));
 					verbose("ori file "+Files[i].getName()+" done!");
 				}
 			}
@@ -389,6 +389,7 @@ public class Main {
 				return getTextFileMap(fileAddress, encodingName);
 			}
 			objectInputStream.close();
+			verbose(fileAddress+" mapped from cache.");
 		}else {
 			map = new HashMap<>();
 			String string = getFileContentString(fileAddress, encodingName);
