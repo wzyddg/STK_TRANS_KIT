@@ -42,7 +42,7 @@ public class Main {
 	static ArrayList<String> keyList = new ArrayList<String>();
 	static public String yandexKey = "";
 	static int errorSleepMilliSecond = 2000;
-	static boolean verbose = true; 
+	static boolean verbose = false; 
 	static HashMap<String, String> existingSentence = new HashMap<>();
 
 	public static void main(String[] args) throws Exception {
@@ -115,7 +115,7 @@ public class Main {
 				// Thread.sleep(100);
 				translateTextFile(oriXMLs[i]);
 			}
-//			filesString = filesString+rusXMLs[i].getName().split("[. ]")[0]+", ";
+//			filesString = filesString+oriXMLs[i].getName().split("[. ]")[0]+", ";
 		}
 //		System.out.println(filesString);
 //		generateLackSentenceFile(oriAddress);
@@ -377,6 +377,7 @@ public class Main {
 		File serializedMap = new File(textFile.getParent()+localDirSeparater+"map_cache"+localDirSeparater+textFile.getName()+".wzymap");
 		serializedMap.getParentFile().mkdirs();
 		if (serializedMap.exists()) {
+			verbose("map chache exist");
 			ObjectInputStream objectInputStream = null;
 			try {
 				objectInputStream = new ObjectInputStream(new FileInputStream(serializedMap));
@@ -389,8 +390,9 @@ public class Main {
 				return getTextFileMap(fileAddress, encodingName);
 			}
 			objectInputStream.close();
-			verbose(fileAddress+" mapped from cache.");
+			System.out.println(fileAddress+" mapped from cache.");
 		}else {
+			verbose("map chache not exist");
 			map = new HashMap<>();
 			String string = getFileContentString(fileAddress, encodingName);
 			string = clearXMLString(string);
