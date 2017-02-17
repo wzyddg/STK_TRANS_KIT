@@ -43,14 +43,21 @@ public class BingNeuralDispatch extends Dispatch {
 		// System.out.println(posts.size());
 		// send queue got
 		String all = "";
+		Main.verbose("seperated to "+posts.size()+"pieces for too long.");
 		for (; !posts.isEmpty();) {
 			String string = posts.get(0);
 			HttpPostParams params = new HttpPostParams();
 			params.put("SourceLanguage", langMap.get(from)).put("TargetLanguage", langMap.get(targ)).put("Text",
 					string);
-			String jsonString = params.Send("https://translator.microsoft.com/neural/api/translator/translate",
-					ContentType.APPLICATION_JSON);
-			tmp = ParseString(jsonString);
+			try {
+				String jsonString = params.Send("https://translator.microsoft.com/neural/api/translator/translate",
+						ContentType.APPLICATION_JSON);
+				tmp = ParseString(jsonString);
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				System.err.println(e);
+				continue;
+			}
 			all = all + "." + tmp;
 			posts.remove(0);
 		}
