@@ -115,7 +115,8 @@ public class Main {
 				// Thread.sleep(100);
 				translateTextFile(oriXMLs[i]);
 			}
-//			filesString = filesString+oriXMLs[i].getName().split("[. ]")[0]+", ";
+			if (oriXMLs[i].isFile())
+				filesString = filesString+oriXMLs[i].getName().split("[. ]")[0]+", ";
 		}
 //		System.out.println(filesString);
 //		generateLackSentenceFile(oriAddress);
@@ -333,20 +334,17 @@ public class Main {
 					"<string id=\"" + key + "\">\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>",
 					"<string id=\"" + key + "\">\n\t\t<text>" + Matcher.quoteReplacement(transtedLine)
 							+ "</text>\n\t</string>");
-			chsString = chsString.replaceAll("\\\\[\\s]+?n", "\\\\n");
-			
 			transNum++;
 			System.out.print("" + transNum + ",");
 			verbose(key+" : "+string+" → "+transtedLine);
 			string = "";
 		}
 		System.out.println("");
-
-		chsString = clearXMLString(chsString);
 		
+		chsString = chsString.replaceAll("\\\\[\\s]+?n", "\\\\n");
+		chsString = clearXMLString(chsString);
 
 		writeToFile(chsString, rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
-
 		System.out.println("file \"" + rus.getName() + "\" done!");
 	}
 
