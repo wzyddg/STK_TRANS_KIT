@@ -257,7 +257,7 @@ public class Main {
 		}
 		System.out.println("");
 
-		chsString = chsString.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"").replaceAll("？", "?");
+		chsString = clearXMLString(chsString);
 
 		// System.out.println(chsString);
 		
@@ -333,6 +333,8 @@ public class Main {
 					"<string id=\"" + key + "\">\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>",
 					"<string id=\"" + key + "\">\n\t\t<text>" + Matcher.quoteReplacement(transtedLine)
 							+ "</text>\n\t</string>");
+			chsString = chsString.replaceAll("\\\\[\\s]+?n", "\\\\n");
+			
 			transNum++;
 			System.out.print("" + transNum + ",");
 			verbose(key+" : "+string+" → "+transtedLine);
@@ -340,8 +342,8 @@ public class Main {
 		}
 		System.out.println("");
 
-		chsString = chsString.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"")
-				.replaceAll("<text></text>", "<text>返回空文本</text>").replaceAll("？", "?");
+		chsString = clearXMLString(chsString);
+		
 
 		writeToFile(chsString, rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
 
@@ -368,7 +370,8 @@ public class Main {
 	
 	public static String clearXMLString(String str) {
 		return str.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ").replaceAll("<!--[\\s\\S]*?-->", "")
-				.replaceAll("&apos;", "'").replaceAll("&quot;", "\"").replaceAll("&amp;", "&"); 
+				.replaceAll("&apos;", "'").replaceAll("&quot;", "\"").replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"")
+				.replaceAll("<text></text>", "<text>返回空文本</text>").replaceAll("？", "?").replaceAll("&lt;", "<").replaceAll("&gt;", ">").replaceAll("&quot;", "\""); 
 	}
 	
 	public static HashMap<String, String> getTextFileMap(String fileAddress, String encodingName) throws IOException, ClassNotFoundException {
