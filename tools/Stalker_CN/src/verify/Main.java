@@ -37,7 +37,7 @@ public class Main {
 	static String localDirSeparater = "/";
 	static long currentTimeMillis = System.currentTimeMillis();
 	static String transAPI = "baidu";
-	static String oriLang = "ru";
+	static String oriLang = "auto";
 	static int sleepMilliSecond = 0;
 	static ArrayList<String> keyList = new ArrayList<String>();
 	static public String yandexKey = "";
@@ -204,7 +204,7 @@ public class Main {
 	}
 	
 	public static boolean isSentence(String str) {
-		return (!str.matches("\\s*?")) && (!str.matches("[a-zA-Z0-9_-]*?"));
+		return (!str.matches("\\s*?")) && (!str.matches("[-.a-zA-Z0-9_,']*?"));
 	}
 
 	public static void translateGamePlayFile(File rus) throws Exception {
@@ -220,7 +220,7 @@ public class Main {
 		// System.out.println(chsString);
 
 		HashSet<String> sentences = new HashSet<>();
-		Pattern p = Pattern.compile("<text[^u_/]*?>([\\s\\S]*?)</text>");
+		Pattern p = Pattern.compile("<text(?:| [ \\S]*?[^/]) *?>([\\s\\S]*?)</text>");
 		Matcher m = p.matcher(chsString);
 		int i = 0;
 		while (m.find()) {
@@ -242,7 +242,7 @@ public class Main {
 				String oriLine = string;
 				String transtedLine = transToCN(oriLine);
 				transtedLine = clearString(transtedLine);
-				chsString = chsString.replace(string, transtedLine);
+				chsString = chsString.replaceAll(Pattern.quote(string), transtedLine);
 			} catch (Exception e) {
 				failFlag = true;
 				System.out.println("");
@@ -371,8 +371,7 @@ public class Main {
 	
 	public static String clearXMLString(String str) {
 		return str.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ").replaceAll("<!--[\\s\\S]*?-->", "")
-				.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"")
-				.replaceAll("<text></text>", "<text>返回空文本</text>").replaceAll("？", "?"); 
+				.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"").replaceAll("？", "?"); 
 	}
 	
 	public static String clearString(String str) {

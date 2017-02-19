@@ -21,7 +21,7 @@ public class BingNeuralDispatch extends Dispatch {
 		langMap.put("en", "en");
 		langMap.put("zh", "zh-Hans");
 		langMap.put("ru", "ru");
-		langMap.put("", "");
+		langMap.put("auto", "");
 	}
 
 	@Override
