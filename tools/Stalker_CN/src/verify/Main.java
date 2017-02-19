@@ -224,10 +224,8 @@ public class Main {
 		Matcher m = p.matcher(chsString);
 		int i = 0;
 		while (m.find()) {
-			System.out.println(m.group(1));
 			if (isSentence(m.group(1))) {
 				sentences.add(m.group(1));
-				System.err.println(m.group(1));
 			}
 			i++;
 		}
@@ -243,6 +241,7 @@ public class Main {
 			try {
 				String oriLine = string;
 				String transtedLine = transToCN(oriLine);
+				transtedLine = clearString(transtedLine);
 				chsString = chsString.replace(string, transtedLine);
 			} catch (Exception e) {
 				failFlag = true;
@@ -261,8 +260,10 @@ public class Main {
 		chsString = clearXMLString(chsString);
 
 		// System.out.println(chsString);
-		
-		writeToFile(chsString, rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
+		if(sentences.size()==0)
+			writeToFile("", rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
+		else
+			writeToFile(chsString, rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
 
 		System.out.println("file \"" + rus.getName() + "\" done!");
 	}
@@ -294,6 +295,7 @@ public class Main {
 			String transtedLine = existingSentence.get(key);
 
 			if (transtedLine!=null&&!"".equals(transtedLine)) {
+				transtedLine = clearString(transtedLine);
 				verbose("this one get quick.");
 			}else {
 				transtedLine = "";
@@ -316,6 +318,7 @@ public class Main {
 						}
 						System.err.print("(." + (j + 1) + ")");
 					}
+					transtedLine = clearString(transtedLine);
 					if(pieces.length==0){
 						transtedLine = string;
 						System.err.print("(.1)");
@@ -368,8 +371,15 @@ public class Main {
 	
 	public static String clearXMLString(String str) {
 		return str.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ").replaceAll("<!--[\\s\\S]*?-->", "")
-				.replaceAll("&apos;", "'").replaceAll("&quot;", "\"").replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"")
-				.replaceAll("<text></text>", "<text>返回空文本</text>").replaceAll("？", "?").replaceAll("&lt;", "<").replaceAll("&gt;", ">").replaceAll("&quot;", "\""); 
+				.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"")
+				.replaceAll("<text></text>", "<text>返回空文本</text>").replaceAll("？", "?"); 
+	}
+	
+	public static String clearString(String str) {
+		str = str.replaceAll("<!--[\\s\\S]*?-->", "").replaceAll("&apos;", "'").replaceAll("&quot;", "\"")
+				.replaceAll("&lt;", "<").replaceAll("&gt;", ">")
+				.replaceAll("</", "").replaceAll("/>", "").replaceAll("<", "").replaceAll(">", "");
+		return str;
 	}
 	
 	public static HashMap<String, String> getTextFileMap(String fileAddress, String encodingName) throws IOException, ClassNotFoundException {
