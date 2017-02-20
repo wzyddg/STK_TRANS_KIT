@@ -300,7 +300,7 @@ public class Main {
 			}else {
 				transtedLine = "";
 				Pattern p1 = Pattern
-						.compile("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?•?)");
+						.compile("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?)");
 				Matcher m1 = p1.matcher(oriLine);
 				LinkedList<String> colorOrAction = new LinkedList<>();
 				while (m1.find()) {
@@ -344,7 +344,6 @@ public class Main {
 		}
 		System.out.println("");
 		
-		chsString = chsString.replaceAll("\\\\[\\s]+?n", "\\\\n");
 		chsString = clearXMLString(chsString);
 
 		writeToFile(chsString, rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
@@ -377,7 +376,9 @@ public class Main {
 	public static String clearString(String str) {
 		str = str.replaceAll("<!--[\\s\\S]*?-->", "").replaceAll("&apos;", "'").replaceAll("&quot;", "\"")
 				.replaceAll("&lt;", "<").replaceAll("&gt;", ">")
-				.replaceAll("</", "").replaceAll("/>", "").replaceAll("<", "").replaceAll(">", "");
+				.replaceAll("</", "").replaceAll("/>", "").replaceAll("<", "").replaceAll(">", "")
+				.replaceAll("\\\\[\\s]+?n", "\\\\n").replaceAll("(?:\\\\n|\\s)+", Matcher.quoteReplacement("\\n"));
+		
 		return str;
 	}
 	
