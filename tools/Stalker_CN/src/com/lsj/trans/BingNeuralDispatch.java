@@ -8,7 +8,7 @@ import org.apache.http.entity.ContentType;
 import com.lsj.http.HttpPostParams;
 
 import net.sf.json.JSONObject;
-import verify.Main;
+import verify.MainTrans;
 
 public class BingNeuralDispatch extends Dispatch {
 	static {
@@ -43,7 +43,7 @@ public class BingNeuralDispatch extends Dispatch {
 		// System.out.println(posts.size());
 		// send queue got
 		String all = "";
-		Main.verbose("seperated to "+posts.size()+"pieces for too long.");
+		MainTrans.verbose("seperated to "+posts.size()+"pieces for too long.");
 		for (; !posts.isEmpty();) {
 			String string = posts.get(0);
 			HttpPostParams params = new HttpPostParams();
@@ -71,7 +71,7 @@ public class BingNeuralDispatch extends Dispatch {
 			JSONObject jsonObject = JSONObject.fromObject(jsonString);
 			result = jsonObject.getString("resultNMT");
 		} catch (Exception e) {
-			Main.verbose("jsonString : "+jsonString);
+			MainTrans.verbose("jsonString : "+jsonString);
 			throw e;
 			// TODO: handle exception
 		}

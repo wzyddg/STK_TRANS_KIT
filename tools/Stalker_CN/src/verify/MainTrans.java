@@ -31,7 +31,7 @@ import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
-public class Main {
+public class MainTrans {
 	static int lackFileNum = 0;
 	// static String localDirSeparater ="\\";
 	static String localDirSeparater = "/";
@@ -307,7 +307,7 @@ public class Main {
 					colorOrAction.add(m1.group(0));
 				}
 				String[] pieces = string
-						.split("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?•?)");
+						.split("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?)");
 				verbose("this sentence get "+pieces.length+" pieces.");
 				try {
 					for (int j = 0; j < pieces.length; j++) {
@@ -360,7 +360,7 @@ public class Main {
 		String string = "";
 		String tmp = "";
 		for (; (tmp = reader.readLine()) != null;) {
-			if (!tmp.matches("[\r\n]*?")) {
+			if (!tmp.matches("[\\s]*?")) {
 				string = string + tmp + "\n";
 			}
 		}
@@ -377,7 +377,7 @@ public class Main {
 		str = str.replaceAll("<!--[\\s\\S]*?-->", "").replaceAll("&apos;", "'").replaceAll("&quot;", "\"")
 				.replaceAll("&lt;", "<").replaceAll("&gt;", ">")
 				.replaceAll("</", "").replaceAll("/>", "").replaceAll("<", "").replaceAll(">", "")
-				.replaceAll("\\\\[\\s]+?n", "\\\\n").replaceAll("(?:\\\\n|\\s)+", Matcher.quoteReplacement("\\n"));
+				.replaceAll("\\\\[\\s]+?n", "\\\\n").replaceAll("\\\\n(?:\\\\n|\\s)*\\\\n", Matcher.quoteReplacement("\\n"));
 		
 		return str;
 	}
@@ -407,7 +407,7 @@ public class Main {
 			map = new HashMap<>();
 			String string = getFileContentString(fileAddress, encodingName);
 			string = clearXMLString(string);
-			Pattern p = Pattern.compile("<string id[ ]?=[ ]?\"([a-zA-Z0-9_.'/, -]*?)\"[ ]?>\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>");
+			Pattern p = Pattern.compile("<string[\\s]+?id[ ]?=[ ]?\"([a-zA-Z0-9_.'/, -]*?)\"[ ]?>\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>");
 			Matcher m = p.matcher(string);
 			while (m.find()) {
 				map.put(m.group(1), m.group(2));

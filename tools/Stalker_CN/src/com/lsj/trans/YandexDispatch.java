@@ -7,7 +7,7 @@ import com.lsj.http.HttpPostParams;
 
 import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
-import verify.Main;
+import verify.MainTrans;
 
 public class YandexDispatch extends Dispatch {
 
@@ -49,7 +49,7 @@ public class YandexDispatch extends Dispatch {
 					// .put("lang", from+"-"+targ)
 					.put("text", string);
 			String jsonString = params.Send("https://translate.yandex.net/api/v1.5/tr.json/translate?key="
-					+ Main.yandexKey + "&lang=" + from + "-" + targ);
+					+ MainTrans.yandexKey + "&lang=" + from + "-" + targ);
 			tmp = ParseString(jsonString);
 			all = all + "." + tmp;
 			posts.remove(0);
