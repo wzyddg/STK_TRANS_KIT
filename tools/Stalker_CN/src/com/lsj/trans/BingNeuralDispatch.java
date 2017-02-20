@@ -65,10 +65,9 @@ public class BingNeuralDispatch extends Dispatch {
 				System.err.println(e);
 				continue;
 			}
-			all = all + "." + tmp;
+			all = all + tmp + ".";
 			posts.remove(0);
 		}
-		all = all.substring(1);
 		return all;
 	}
 

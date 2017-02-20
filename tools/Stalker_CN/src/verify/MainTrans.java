@@ -214,10 +214,6 @@ public class MainTrans {
 		String rusString = getFileContentString(rus.getParent() + localDirSeparater + rus.getName());
 
 		String chsString = rusString;
-		// clear BOM,delete annotation,anti-escape
-		chsString = clearXMLString(chsString);
-
-		// System.out.println(chsString);
 
 		HashSet<String> sentences = new HashSet<>();
 		Pattern p = Pattern.compile("<text(?:| [ \\S]*?[^/]) *?>([\\s\\S]*?)</text>");
@@ -257,7 +253,7 @@ public class MainTrans {
 		}
 		System.out.println("");
 
-		chsString = clearXMLString(chsString);
+		chsString = chsString.replaceAll("？", "?");
 
 		// System.out.println(chsString);
 		if(sentences.size()==0)
@@ -271,12 +267,9 @@ public class MainTrans {
 	public static void translateTextFile(File rus) throws Exception {
 		System.out.println("file \"" + rus.getName() + "\" started!");
 		int transNum = 0;
-
+		
 		String rusString = getFileContentString(rus.getParent() + localDirSeparater + rus.getName());
-
 		String chsString = rusString;
-		// clear BOM,delete annotation,anti-escape
-		chsString = clearXMLString(chsString);
 
 		HashMap<String, String> sentences = getTextFileMap(rus.getParent() + localDirSeparater + rus.getName(), "windows-1251");
 		System.out.println("find " + sentences.size() + " sentences.");
@@ -344,7 +337,7 @@ public class MainTrans {
 		}
 		System.out.println("");
 		
-		chsString = clearXMLString(chsString);
+		chsString = chsString.replaceAll("？", "?");
 
 		writeToFile(chsString, rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
 		System.out.println("file \"" + rus.getName() + "\" done!");
@@ -354,7 +347,7 @@ public class MainTrans {
 		return getFileContentString(fileAddress, "windows-1251");
 	}
 
-	public static String getFileContentString(String fileAddress, String encodingName) throws IOException {
+	private static String readStringFromFile(String fileAddress, String encodingName) throws IOException {
 		File file = new File(fileAddress);
 		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(file), encodingName));
 		String string = "";
@@ -366,6 +359,31 @@ public class MainTrans {
 		}
 		reader.close();
 		return string;
+	}
+	
+	public static String getFileContentString(String fileAddress, String encodingName) throws IOException {
+		HashMap<String, String> map = null;
+		File textFile = new File(fileAddress);
+		File cachedFile = new File(textFile.getParent()+localDirSeparater+"string_cache"+localDirSeparater+textFile.getName()+".wzystr");
+		cachedFile.getParentFile().mkdirs();
+		String thisString = "";
+		if (cachedFile.exists()) {
+			verbose("string chache exist");
+			try {
+				thisString = readStringFromFile(cachedFile.getParent()+localDirSeparater+cachedFile.getName(), "utf-8");
+			} catch (Exception e) {
+				cachedFile.delete();
+				return getFileContentString(fileAddress, encodingName);
+			}
+			System.out.println(fileAddress+" got from cache.");
+		}else {
+			verbose("string chache not exist");
+			String string = readStringFromFile(fileAddress, encodingName);
+			string = clearXMLString(string);
+			thisString = string;
+			writeToFile(thisString, cachedFile.getParent()+localDirSeparater+cachedFile.getName(), "utf-8");
+		}
+		return thisString;
 	}
 	
 	public static String clearXMLString(String str) {
@@ -406,7 +424,6 @@ public class MainTrans {
 			verbose("map chache not exist");
 			map = new HashMap<>();
 			String string = getFileContentString(fileAddress, encodingName);
-			string = clearXMLString(string);
 			Pattern p = Pattern.compile("<string[\\s]+?id[ ]?=[ ]?\"([a-zA-Z0-9_.'/, -]*?)\"[ ]?>\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>");
 			Matcher m = p.matcher(string);
 			while (m.find()) {
