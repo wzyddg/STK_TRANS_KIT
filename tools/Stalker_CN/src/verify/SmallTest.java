@@ -1,5 +1,8 @@
 package verify;
 
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 import com.lsj.trans.Dispatch;
 
 public class SmallTest {
@@ -7,7 +10,7 @@ public class SmallTest {
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 		// sss();
-		Main.yandexKey = "trnsl.1.1.20170203T170914Z.3aa140986a456c8a.5a30bea15be7883744cf1a6e26867d5e80444960";
+		MainTrans.yandexKey = "trnsl.1.1.20170203T170914Z.3aa140986a456c8a.5a30bea15be7883744cf1a6e26867d5e80444960";
 		Class.forName("com.lsj.trans.YandexDispatch");
 		Class.forName("com.lsj.trans.BingNeuralDispatch");
 		// String kk="Календарная зима разменяла вторую декаду, но вела себя как
@@ -548,7 +551,15 @@ public class SmallTest {
 		// String kk = "款爷上课喝可乐";
 		// System.out.println(StringEscapeUtils.escapeXml(kk));
 		// String kk = "I have a pen. I have an apple.";
-		System.out.println(Dispatch.Instance("bingn").Trans("ru", "zh", kk));
+
+		String chsString = "我真不 是 俺们0.0那\n噶都 Q. Q是东北人.跟 \\n你吹";
+		System.out.println(Dispatch.Instance("bingn").Trans("zh", "en", chsString));
+//		System.out.println(chsString.split("[.]").length);
+//		chsString = "日记页, 段落读: \\ n \"什么总是运行 \\ nbut 从不行走, \\ noften 杂音, \\ nnever 会谈, \\ nhas 一张床, 但从不睡觉, \\ nhas 嘴, 但从不吃?";
+//		System.out.println(MainTrans.isSentence("dwadwa_dad4352., "));
+//		chsString = chsString.replaceAll("(?:\\\\n|\\s)+", Matcher.quoteReplacement("\n"));
+//		System.err.println(chsString);
+//		System.out.println(MainTrans.clearString(chsString));
 		// String aString = "sadadwag\nQWQQWEEEQWE";
 		//// System.out.println(aString);
 		// System.out.println(aString.split("\n")[0]);

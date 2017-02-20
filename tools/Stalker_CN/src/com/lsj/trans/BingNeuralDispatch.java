@@ -23,6 +23,9 @@ public class BingNeuralDispatch extends Dispatch {
 
 	@Override
 	public String Trans(String from, String targ, String query) throws Exception {
+		if (query.matches("[\\s]*?")) {
+			return "";
+		}
 		if (query.contains("\n")||query.contains("\r")||query.contains("\\n")) {
 			String[] paragraphs = query.split("[\\n\\r]|\\\\n");
 			String tmp = "";
@@ -77,7 +80,7 @@ public class BingNeuralDispatch extends Dispatch {
 			JSONObject jsonObject = JSONObject.fromObject(jsonString);
 			result = jsonObject.getString("resultNMT");
 		} catch (Exception e) {
-			MainTrans.verbose("jsonString : "+jsonString);
+			MainTrans.verbose("jsonString : "+jsonString+" over");
 			throw e;
 			// TODO: handle exception
 		}
