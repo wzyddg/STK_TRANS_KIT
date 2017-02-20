@@ -2,11 +2,8 @@ package com.lsj.trans;
 
 import java.io.UnsupportedEncodingException;
 import java.util.LinkedList;
-
 import org.apache.http.entity.ContentType;
-
 import com.lsj.http.HttpPostParams;
-
 import net.sf.json.JSONObject;
 import verify.MainTrans;
 
@@ -26,7 +23,18 @@ public class BingNeuralDispatch extends Dispatch {
 
 	@Override
 	public String Trans(String from, String targ, String query) throws Exception {
-		String[] paragraphs = query.split("[\n.\r]|\\n");
+		if (query.contains("\n")||query.contains("\r")||query.contains("\\n")) {
+			String[] paragraphs = query.split("[\\n\\r]|\\\\n");
+			String tmp = "";
+			for (int i = 0; i < paragraphs.length; i++) {
+				tmp = tmp + Trans(from, targ, paragraphs[i]);
+				if (i<paragraphs.length-1) {
+					tmp = tmp + "\\n";
+				}
+			}
+			return tmp;
+		}
+		String[] paragraphs = query.split("[.]");
 		String tmp = "";
 		LinkedList<String> posts = new LinkedList<>();
 		for (int i = 0; i < paragraphs.length; i++) {
@@ -40,10 +48,9 @@ public class BingNeuralDispatch extends Dispatch {
 				posts.add(tmp);
 			}
 		}
-		// System.out.println(posts.size());
 		// send queue got
 		String all = "";
-		MainTrans.verbose("seperated to "+posts.size()+"pieces for too long.");
+		MainTrans.verbose("seperated to "+posts.size()+"pieces.");
 		for (; !posts.isEmpty();) {
 			String string = posts.get(0);
 			HttpPostParams params = new HttpPostParams();
