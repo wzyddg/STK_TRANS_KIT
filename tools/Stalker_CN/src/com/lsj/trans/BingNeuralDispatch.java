@@ -35,18 +35,24 @@ public class BingNeuralDispatch extends Dispatch {
 					tmp = tmp + "\\n";
 				}
 			}
+			if (query.endsWith("\n")||query.endsWith("\r")||query.endsWith("\\n")) {
+				tmp = tmp + "\\n";
+			}
 			return tmp;
 		}
-		String[] paragraphs = query.split("[.]");
+		String[] sentences = query.split("[.]");
+		if (sentences.length==0) {
+			return query;
+		}
 		String tmp = "";
 		LinkedList<String> posts = new LinkedList<>();
-		for (int i = 0; i < paragraphs.length; i++) {
-			if (tmp.length() + paragraphs[i].length() > 1000) {
+		for (int i = 0; i < sentences.length; i++) {
+			if (tmp.length() + sentences[i].length() > 1000) {
 				posts.add(tmp.substring(1));
 				tmp = "";
 			}
-			tmp = tmp + "." + paragraphs[i];
-			if (i == paragraphs.length - 1) {
+			tmp = tmp + "." + sentences[i];
+			if (i == sentences.length - 1) {
 				tmp = tmp.substring(1);
 				posts.add(tmp);
 			}
