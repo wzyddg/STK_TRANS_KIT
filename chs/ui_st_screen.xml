@@ -22,7 +22,7 @@
 		<text>搜查尸体($$ACTION_USE$$)</text>
 	</string>
 	<string id="dead_character_use_or_drag">
-		<text>搜查尸体($$ACTION_USE$$)\全部拿走(SHIFT+$$ACTION_USE$$)</text>
+		<text>搜查尸体($$ACTION_USE$$)\拖拽尸体(SHIFT+$$ACTION_USE$$)</text>
 	</string>
 	<string id="general_complete_task">
 		<text>任务完成:</text>

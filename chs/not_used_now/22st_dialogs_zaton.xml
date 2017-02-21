@@ -392,7 +392,7 @@
 <text>目前有亚诺夫相互停火,我不能公开打破,但我可能会考虑一个隐蔽的行动.</text>
 </string>
 <string id="zat_b103_lost_merc_leader_spez_loki_2_dialog_4">
-<text>在这种情况下我建议你送一个小团队帮我扰乱纪律团提供保护扬塔科学家的任务,他们在远征.我们需要干掉一些,和在扎通的理论家.</text>
+<text>在这种情况下我建议你送一个小团队帮我扰乱纪律团提供保护扬塔科学家的任务,他们在远征.我们需要干掉一些,和在河湾的理论家.</text>
 </string>
 <string id="zat_b103_lost_merc_leader_spez_loki_2_dialog_5">
 <text>原则上是可能的. 你要什么?</text>
@@ -425,7 +425,7 @@
 <text>Well我称赞你,我们开始与他们合作的一个很好的通道,告诉我你知道什么?</text>
 </string>
 <string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_4">
-<text>你知道,我们不能透露我们收到我们的信息,我们只是觉得这是非常重要的,我们从你这得到了什么.你需要准备针对一组科学家的突袭,当他们在扎通的研究你提供保护...</text>
+<text>你知道,我们不能透露我们收到我们的信息,我们只是觉得这是非常重要的,我们从你这得到了什么.你需要准备针对一组科学家的突袭,当他们在河湾的研究你提供保护...</text>
 </string>
 <string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_5">
 <text>在哪里,谁攻击?我会多派两个小队到河湾 ...</text>
@@ -437,7 +437,7 @@
 <text>你是什么意思 - 这没有帮助.然后你有什么建议吗?</text>
 </string>
 <string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_8">
-<text>我可以处理好客户 - 你需要安排科学家小组从另一条路线到达扎通.</text>
+<text>我可以处理好客户 - 你需要安排科学家小组从另一条路线到达河湾.</text>
 </string>
 <string id="zat_b103_lost_merc_leader_spez_shulga_2_dialog_9">
 <text>那, 我不得不转移士兵从普列奥布拉任斯基桥到目标点.我希望你不会失败...我真的不喜欢这个计划.</text>
@@ -479,7 +479,7 @@
 <text>继续.</text>
 </string>
 <string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_7">
-<text>最近一组科学家抵达特异区北部,基地在扬塔.我不知道他们在那里为什么,而我听说此事毫无意义,但我知道的是,这些科学家们雇了向导,亚诺夫纪律团提供保护.他们保护这里的地方,从扎通到异常区,这是唯一使我的生意难以开展..</text>
+<text>最近一组科学家抵达特异区北部,基地在扬塔.我不知道他们在那里为什么,而我听说此事毫无意义,但我知道的是,这些科学家们雇了向导,亚诺夫纪律团提供保护.他们保护这里的地方,从河湾到异常区,这是唯一使我的生意难以开展..</text>
 </string>
 <string id="zat_b103_lost_merc_leader_spez_operation_begin_dialog_8">
 <text>纪律团?嗯,必须是一个重要的使命,才要雇用这样的保护.</text>
@@ -659,7 +659,7 @@
 <text>我找工作,有什么最近发生的,您需要帮助吗?</text>
 </string>
 <string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_1">
-<text>附近怎么了?在这个区域?少校,你是在开玩笑,总是有事情发生.虽然严重...似乎什么在扎通北面绕来绕去.最近,潜行者正在消失,如果这还不够坏,我们已经开始失去北上的潜行者,在那里消失得无影无踪.我们甚至没有找到任何躺在附近的幸存者或者尸体,所以我们不能认为是突变体的袭击.这是我们以前没有见过的情况,我们不能解释它,这让人们担心.</text>
+<text>附近怎么了?在这个区域?少校,你是在开玩笑,总是有事情发生.虽然严重...似乎什么在河湾北面绕来绕去.最近,潜行者正在消失,如果这还不够坏,我们已经开始失去北上的潜行者,在那里消失得无影无踪.我们甚至没有找到任何躺在附近的幸存者或者尸体,所以我们不能认为是突变体的袭击.这是我们以前没有见过的情况,我们不能解释它,这让人们担心.</text>
 </string>
 <string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_2">
 <text>有趣.关于这个情况,是否有任何你能告诉我的?</text>
@@ -677,7 +677,7 @@
 <text>我们最好把注意力集中在最近到来的黎明潜行者小队的失踪情况上. 他们有我们破船的一个向导跟随他们. 一个叫号角的家伙. 他在领航员不去的路线上带路. 他们一起离开,但是有一段时间没有消息了...</text>
 </string>
 <string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_42">
-<text>黎明在扎通干什么?</text>
+<text>黎明在河湾干什么?</text>
 </string>
 <string id="zat_b106_stalker_gonta_b52_about_hunters_first_dialog_43">
 <text>我们不知道他们要干什么,但我们尽全力理解. 他们是一伙奇怪的家伙, 在某些方面和纪律团很相似. 目标明确的空想家... 但我们好像并不很了解他们. 对于他们来做什么,我也没什么想法. 我只知道他们来到这,雇佣了号角,然后就消失了.</text>
@@ -860,7 +860,7 @@
 <text>是, 我走访了三个可能的地点.号角从烧毁的农庄附近的一个洞穴中离开.在一个地方我没有发现任何东西.但在钢铁森林附近的停车场营地我发现了尸体,从他的装束来看,他是号角的同伴.</text>
 </string>
 <string id="zat_b106_stalker_gonta_b52_about_hunters_second_dialog_12">
-<text>有趣,我也了解到了更多信息.黎明猎人们似乎发现了一些吸血鬼. 当然, 关于号角他们多聊了一点点 ...</text>
+<text>有趣,我也了解到了更多信息.黎明猎人们似乎发现了一些吸血怪. 当然, 关于号角他们多聊了一点点 ...</text>
 </string>
 <string id="zat_b106_stalker_gonta_b52_about_hunters_second_dialog_13">
 <text>他们说了些什么,这些黎明潜行者现在在哪?</text>
@@ -950,7 +950,7 @@
 <text>那么, 你怎么知道这个? 你找到黎明成员了吗?</text>
 </string>
 <string id="zat_b106_stalker_gonta_b52_about_hunters_third_dialog_6">
-<text>是的. 他们的一些幸存者,不幸的是,我与他们会见后被吸血鬼攻击,他们全部遇难.</text>
+<text>是的. 他们的一些幸存者,不幸的是,我与他们会见后被吸血怪攻击,他们全部遇难.</text>
 </string>
 <string id="zat_b106_stalker_gonta_b52_about_hunters_third_dialog_7">
 <text>好吧, 少校. 我们感谢你. 这是你应得的报酬.在这种情况下,出现了很多混乱的事情.一旦我们理清头绪我们不得不处理这些.</text>

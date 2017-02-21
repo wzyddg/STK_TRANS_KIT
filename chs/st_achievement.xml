@@ -187,7 +187,7 @@
 		<text>先驱者</text>
 	</string>
 	<string id="st_sp_achievement_2_hint">
-		<text>潜行者们对你心怀感激.\n为了肯定你所付出的努力,潜行者们现在在你的个人物品箱中留下弹药补给(亚诺瓦站)</text>
+		<text>潜行者们对你心怀感激.\n为了肯定你所付出的努力,潜行者们现在在你的个人物品箱中留下弹药补给(亚诺夫站)</text>
 	</string>
 	<string id="st_sp_achievement_2_descr">
 		<text>你从来不会躲避危险的变异怪物,你总能成功地杀死它们,一个好的猎手在潜行者中享有很高的敬意</text>
@@ -217,13 +217,13 @@
 		<text>你赢得了强盗的尊重.\n如今猫头鹰不得不给你打折,不然他很可能成为你枪下的下一个受害者.\n大胡子不得不定期给你保护费</text>
 	</string>
 	<string id="st_sp_achievement_5_descr">
-		<text>你帮助苏丹智胜了潜行者们并且控制了大胡子的生意.如今在扎通谁提起你的名字都得胆战心惊</text>
+		<text>你帮助苏丹智胜了潜行者们并且控制了大胡子的生意.如今在河湾谁提起你的名字都得胆战心惊</text>
 	</string>
 	<string id="st_sp_achievement_5_name">
 		<text>黑道老大</text>
 	</string>
 	<string id="st_sp_achievement_6_hint">
-		<text>潜行者们决定把喜鹊通过谎言与欺诈骗取的所有物品送给你,他们认为比起他,你更适合拥有这些东西,他们把这些物品放到了你在亚诺瓦的个人物品箱中</text>
+		<text>潜行者们决定把喜鹊通过谎言与欺诈骗取的所有物品送给你,他们认为比起他,你更适合拥有这些东西,他们把这些物品放到了你在亚诺夫的个人物品箱中</text>
 	</string>
 	<string id="st_sp_achievement_6_descr">
 		<text>你惩罚了这个叫喜鹊的潜行者败类,他欺诈蒙蔽了许多人.现在他得到了应有的惩罚.</text>
@@ -310,7 +310,7 @@
 		<text>自由团之友</text>
 	</string>
 	<string id="st_sp_achievement_16_hint">
-		<text>亚诺瓦的潜行者们在纪律团与自由团间的势力争斗中保持中立态度,这就是为什么技师和交易商都会为你打折.</text>
+		<text>亚诺夫的潜行者们在纪律团与自由团间的势力争斗中保持中立态度,这就是为什么技师和交易商都会为你打折.</text>
 	</string>
 	<string id="st_sp_achievement_16_descr">
 		<text>你没有站在任何势力的一方,你是一名独行者,你没有任何敌人,但同时你也没有任何朋友.</text>

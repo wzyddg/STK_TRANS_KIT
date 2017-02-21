@@ -13,7 +13,7 @@
 		<text>区域地图:把地图提供给领航员</text>
 	</string>
 	<string id="zat_b100_guide_maps_02_text">
-		<text>领航员可能会对扎通和朱皮特之间的区域地图感兴趣.</text>
+		<text>领航员可能会对河湾和木星之间的区域地图感兴趣.</text>
 	</string>
 	<string id="zat_b100_heli_2_crash_name">
 		<text>刺鳐2号:调查飞机坠毁的地点</text>
@@ -766,7 +766,7 @@
 		<text>你得拿走箱子并把它带回给它的主人.</text>
 	</string>
 	<string id="zat_b100_guide_maps_01_text">
-		<text>刺鳐2号的机载电脑上有扎通和朱皮特之间的区域地图.你应该找到对此有兴趣的人.</text>
+		<text>刺鳐2号的机载电脑上有河湾和木星之间的区域地图.你应该找到对此有兴趣的人.</text>
 	</string>
 	<string id="zat_b20_ask_a_stalkers_name">
 		<text>前往高地:和潜行者们谈谈</text>

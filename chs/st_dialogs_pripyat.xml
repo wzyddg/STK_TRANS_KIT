@@ -85,7 +85,7 @@
 		<text>等一下,你不需要它了吗?</text>
 	</string>
 	<string id="jup_b15_zulus_b301_reward_dialog_11">
-		<text>我总会有办法对付那些怪物的.而且我已经和加里商量好了,我很快就会回朱皮特.和我相比,你更需要它.好好使用吧.</text>
+		<text>我总会有办法对付那些怪物的.而且我已经和加里商量好了,我很快就会回木星.和我相比,你更需要它.好好使用吧.</text>
 	</string>
 	<string id="jup_b15_zulus_b301_reward_dialog_111">
 		<text>祝你好运.</text>
@@ -106,7 +106,7 @@
 		<text>你知道祖鲁去哪里了吗?</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_b301_about_zulus_1">
-		<text>他走掉了...他要我把他带回朱皮特,我们在离工厂不远的地方就分手了.他没有告诉我他要去哪里.</text>
+		<text>他走掉了...他要我把他带回木星,我们在离工厂不远的地方就分手了.他没有告诉我他要去哪里.</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_b35_about_merc_0">
 		<text>等等...我要告诉你一个坏消息...不久前有一群佣兵要我带他们去普里皮亚特.他们提供的报酬很高,于是我就答应了他们.但是我不久后就意识到我陷入危险了...他们一直不让我离开他们的视线,并且用枪口威胁我.在离普里皮亚特不远时我设法逃跑了,但是我敢肯定他们已经到达了皮城,你要小心一点.</text>
@@ -145,7 +145,7 @@
 		<text>好的...在哪里见面?</text>
 	</string>
 	<string id="pri_a15_sokolov_arranged_outfit_11">
-		<text>在亚诺瓦车站附近,祖鲁的房子里.</text>
+		<text>在亚诺夫车站附近,祖鲁的房子里.</text>
 	</string>
 	<string id="pri_a15_sokolov_arranged_outfit_111">
 		<text>那里全是潜行者!你带我去怎么样?因为我一个人去可能有麻烦.而他们认识你,如果我和你在一起,他们就不会向我开枪.</text>
@@ -172,7 +172,7 @@
 		<text>你是怎么到了这里的?</text>
 	</string>
 	<string id="pri_a15_sokolov_jupiter_1">
-		<text>我的直升机坠毁了,掉进朱皮特工厂的车间.我是这次坠机中唯一的幸存者.然后我设法离开了朱皮特工厂,到达了最近的撤离点,但是那里一个人也没有.后来我遇到了加里,他带我来到了这个碉堡.</text>
+		<text>我的直升机坠毁了,掉进木星工厂的车间.我是这次坠机中唯一的幸存者.然后我设法离开了木星工厂,到达了最近的撤离点,但是那里一个人也没有.后来我遇到了加里,他带我来到了这个碉堡.</text>
 	</string>
 	<string id="pri_a15_sokolov_need_outfit_0">
 		<text>要去普里皮亚特的话,你需要一件带封闭式循环呼吸系统的防护服.</text>
@@ -271,7 +271,7 @@
 		<text>普里皮亚特的一个秘密的实验室?但是你是从哪里得到的消息?</text>
 	</string>
 	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_11">
-		<text>从扎通的一本佣兵的笔记本中.一个叫雅大叔的潜行者告诉我的故事也证实了这一点.</text>
+		<text>从河湾的一本佣兵的笔记本中.一个叫雅大叔的潜行者告诉我的故事也证实了这一点.</text>
 	</string>
 	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_111">
 		<text>嗯...你知道另外的事吗?</text>
@@ -307,10 +307,10 @@
 		<text>我没有时间去做这件事.</text>
 	</string>
 	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_12">
-		<text>从扎通的一本佣兵的笔记本中.</text>
+		<text>从河湾的一本佣兵的笔记本中.</text>
 	</string>
 	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_13">
-		<text>亚诺瓦车站的潜行者,他叫雅大叔.这是他告诉我的.</text>
+		<text>亚诺夫车站的潜行者,他叫雅大叔.这是他告诉我的.</text>
 	</string>
 	<string id="pri_a17_military_colonel_kovalski_b35_reward_0">
 		<text>关于那些佣兵...</text>
@@ -727,7 +727,7 @@
 		<text>好的.</text>
 	</string>
 	<string id="pri_a17_got_gauss_4111">
-		<text>好...哦,顺带一提.另一个潜行者从朱皮特来到了这里,如果你想的话,可以先和他谈一谈,.</text>
+		<text>好...哦,顺带一提.另一个潜行者从木星来到了这里,如果你想的话,可以先和他谈一谈,.</text>
 	</string>
 	<string id="pri_a17_got_gauss_5">
 		<text>我还在努力.</text>
@@ -916,7 +916,7 @@
 		<text>刺鳐4号发生了什么事?</text>
 	</string>
 	<string id="pri_a15_sokolov_helicopter_1">
-		<text>鬼才知道?对于这整次行动我一直有不好的预感...那时候我们正处于自动驾驶状态,一切都很顺利.突然一大片金属碎片飞了过来,一下子所有的电子系统都失灵了.我和飞行员尽力平稳着陆,但是我们失败了.我们的飞机砸向了朱皮特工厂的屋顶里...我是这次坠机中唯一活下来的人.</text>
+		<text>鬼才知道?对于这整次行动我一直有不好的预感...那时候我们正处于自动驾驶状态,一切都很顺利.突然一大片金属碎片飞了过来,一下子所有的电子系统都失灵了.我和飞行员尽力平稳着陆,但是我们失败了.我们的飞机砸向了木星工厂的屋顶里...我是这次坠机中唯一活下来的人.</text>
 	</string>
 	<string id="pri_a22_army_signaller_supply_outfit_0">
 		<text>我需要防弹衣.</text>
@@ -961,6 +961,6 @@
 		<text>[继续...]</text>
 	</string>
 	<string id="pri_a17_military_base_commander_actor_questions_dialog_1112111">
-		<text>我负责这件事.与刺鳐4号联络完毕后,我告诉了其他人我们在普里皮亚特的撤离点.我认为我们可以走着去核电站.直升机遭到攻击后我马上闻到了什么东西烧焦的味道——那是引擎着火了.飞行员成功使我们降落在了朱皮特工厂附近,但他们却在着陆时因为冲击过大死掉了.而后来在降落点附近的雷区我们又失去了史利亚琴中士...最近在从黑石手中保卫这栋建筑物时,我们又失去了一位资深的中士.</text>
+		<text>我负责这件事.与刺鳐4号联络完毕后,我告诉了其他人我们在普里皮亚特的撤离点.我认为我们可以走着去核电站.直升机遭到攻击后我马上闻到了什么东西烧焦的味道——那是引擎着火了.飞行员成功使我们降落在了木星工厂附近,但他们却在着陆时因为冲击过大死掉了.而后来在降落点附近的雷区我们又失去了史利亚琴中士...最近在从黑石手中保卫这栋建筑物时,我们又失去了一位资深的中士.</text>
 	</string>
 </string_table>

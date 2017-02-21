@@ -1578,7 +1578,7 @@
 		<text>你现在所在的地方不太适合闲逛!不过,欢迎你.我的名字是库利科夫.皮特</text>
 	</string>
 	<string id="val_b11_outpost_commander_dialog_2">
-		<text>我来自亚诺瓦车站.有人告诉我在这里我需要找到并帮助一个叫阿库诺瓦的潜行者.你知道他吗?</text>
+		<text>我来自亚诺夫车站.有人告诉我在这里我需要找到并帮助一个叫阿库诺瓦的潜行者.你知道他吗?</text>
 	</string>
 	<string id="val_b11_outpost_commander_dialog_3">
 		<text>每一个在黑暗山谷的人都知道他,他是我们的领袖.那么又是因为什么让你不得不千里迢迢地从木星地区赶到这里呢?</text>
@@ -2617,7 +2617,7 @@
 		<text>地狱犬的尾巴</text>
 	</string>
 	<string id="trapper_booty_trade_dialog_12">
-		<text>吸血鬼的触须</text>
+		<text>吸血怪的触须</text>
 	</string>
 	<string id="trapper_booty_trade_dialog_13">
 		<text>野猪蹄</text>
@@ -2710,7 +2710,7 @@
 		<text>"熊式"  探测器 </text>
 	</string>
 	<string id="novikov_detectors_modify_dialog_24">
-		<text>"维利"  探测器 </text>
+		<text>"维尔斯"  探测器 </text>
 	</string>
 	<string id="novikov_detectors_modify_dialog_25">
 		<text>"火龙"  探测器 </text>

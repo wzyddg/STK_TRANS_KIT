@@ -567,7 +567,7 @@
 <text>Hi,新来的家伙在斯卡多夫斯克说,他需要给您带这个.</text>
 </string>
 <string id="jup_medic_has_got_antidote_dialog_2">
-<text>Ahh 好.我一直在想什么时候送来.我很感谢你带来,但不幸的是这里补给短缺,你需要返回扎通问他要报酬.我稍后联系他,他会理解的 .</text>
+<text>Ahh 好.我一直在想什么时候送来.我很感谢你带来,但不幸的是这里补给短缺,你需要返回河湾问他要报酬.我稍后联系他,他会理解的 .</text>
 </string>
 <string id="jup_medic_has_got_antidote_dialog_3">
 <text>别客气. Yet.</text>
@@ -678,7 +678,7 @@
 <text>没错. 给你.</text>
 </string>
 <string id="mar_authorities_agent_dialog_3">
-<text>干得好, 少校. 现在你需要去扎通,做你最初来到这里的工作,你需要采取的路线现在在您的PDA.</text>
+<text>干得好, 少校. 现在你需要去河湾,做你最初来到这里的工作,你需要采取的路线现在在您的PDA.</text>
 </string>
 <string id="mar_authorities_agent_dialog_4">
 <text>了解. 再见.</text>

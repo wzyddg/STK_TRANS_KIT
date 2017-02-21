@@ -408,7 +408,7 @@
 <text>军队货物: 交给探员</text>
 </string>
 <string id="mar_army_cargo_title8">
-<text>军队货物: 去扎通</text>
+<text>军队货物: 去河湾</text>
 </string>
 <string id="mar_capture_church_text0">
 <text>潜行者要求支援他们,从土匪手里夺回老教堂</text>
@@ -557,7 +557,7 @@
 <text>从基获取扫描仪和支付他的工作.</text>
 </string>
 <string id="zat_alfa_sabotage_text12">
-<text>探索木星和扎通人口密集地区,发现所有的爆炸装置.</text>
+<text>探索木星和河湾人口密集地区,发现所有的爆炸装置.</text>
 </string>
 <string id="zat_alfa_sabotage_text13">
 <text>已发现和解除所有的炸弹,得救的人想给你一个奖励.</text>
@@ -603,7 +603,7 @@
 <text>对付阿尔法: 支付您的订单</text>
 </string>
 <string id="zat_alfa_sabotage_title12">
-<text>对付阿尔法: 探索木星和扎通的所有人群密集的地区</text>
+<text>对付阿尔法: 探索木星和河湾的所有人群密集的地区</text>
 </string>
 
 <string id="zat_alfa_sabotage_title12_2">

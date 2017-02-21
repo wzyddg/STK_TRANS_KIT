@@ -337,7 +337,7 @@ public class MainTrans {
 		}
 		System.out.println("");
 		
-		chsString = chsString.replaceAll("？", "?");
+		chsString = chsString.replaceAll("？", "?").replaceAll("。", Matcher.quoteReplacement("."));
 
 		writeToFile(chsString, rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
 		System.out.println("file \"" + rus.getName() + "\" done!");
@@ -393,8 +393,7 @@ public class MainTrans {
 	
 	public static String clearString(String str) {
 		str = str.replaceAll("<!--[\\s\\S]*?-->", "").replaceAll("&apos;", "'").replaceAll("&quot;", "\"")
-				.replaceAll("&lt;", "<").replaceAll("&gt;", ">")
-				.replaceAll("</", "").replaceAll("/>", "").replaceAll("<", "").replaceAll(">", "")
+				.replaceAll("(?:&lt;|&gt;)", "<").replaceAll("(?:</|/>)", "").replaceAll("(?:<|>)", "")
 				.replaceAll("\\\\[\\s]+?n", "\\\\n").replaceAll("\\\\n(?:\\\\n|\\s)*\\\\n", Matcher.quoteReplacement("\\n"));
 		
 		return str;
