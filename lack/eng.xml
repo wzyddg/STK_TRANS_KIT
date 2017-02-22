@@ -1,3 +1,9 @@
+<string id="st_addon_remove_scope_wzy_descr">
+	<text>使用以拆除当前武器上的瞄准镜。</text>
+</string>
+<string id="st_addon_remove_scope_wzy">
+	<text>拆除瞄准镜</text>
+</string>
 <string id="ammo-357">
 	<text>.357马格南枪弹</text>
 </string>

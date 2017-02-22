@@ -358,7 +358,7 @@ public class MainTrans {
 		return getFileContentString(fileAddress, "windows-1251");
 	}
 
-	private static String readStringFromFile(String fileAddress, String encodingName) throws IOException {
+	public static String readStringFromFile(String fileAddress, String encodingName) throws IOException {
 		File file = new File(fileAddress);
 		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(file), encodingName));
 		String string = "";

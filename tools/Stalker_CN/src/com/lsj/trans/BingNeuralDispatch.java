@@ -28,6 +28,7 @@ public class BingNeuralDispatch extends Dispatch {
 		}
 		if (query.contains("\n")||query.contains("\r")||query.contains("\\n")) {
 			String[] paragraphs = query.split("[\\n\\r]|\\\\n");
+			MainTrans.verbose("seperated to "+ paragraphs.length +" paragraphs.");
 			String tmp = "";
 			for (int i = 0; i < paragraphs.length; i++) {
 				tmp = tmp + Trans(from, targ, paragraphs[i]);
@@ -59,7 +60,7 @@ public class BingNeuralDispatch extends Dispatch {
 		}
 		// send queue got
 		String all = "";
-		MainTrans.verbose("seperated to "+posts.size()+"pieces.");
+		MainTrans.verbose("seperated to "+posts.size()+" pieces.");
 		for (; !posts.isEmpty();) {
 			String string = posts.get(0);
 			HttpPostParams params = new HttpPostParams();
