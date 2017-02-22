@@ -322,7 +322,7 @@
 <text>不.</text>
 </string>
 <string id="esc_stalker_trader_job_dialog_2">
-<text>是. 我有个好任务给你潜行者,我听说一种稀有神器只在这地区的变异点里,名叫'Opera hat'.我想知道是怎样的神器.我不能离开岗位去寻找,但我真的想见这传说的神器.因此,出外找到它...那么...你会帮助一个老商人吗?</text>
+<text>是. 我有个好任务给你潜行者,我听说一种稀有神器只在这地区的变异点里,名叫'歌剧帽子'.我想知道是怎样的神器.我不能离开岗位去寻找,但我真的想见这传说的神器.因此,出外找到它...那么...你会帮助一个老商人吗?</text>
 </string>
 <string id="esc_stalker_trader_job_dialog_3">
 <text>不.</text>
@@ -368,7 +368,7 @@
 	    <text>就这样, 无线电设备.</text>
 	</string>
 	<string id="jup_alfa_sabotage_talk_azot_bring_raciya_dialog_2">
-	    <text>好,我期望 5,000.</text>
+	    <text>好,我期望 5000.</text>
 	</string>
 	<string id="jup_alfa_sabotage_talk_azot_bring_raciya_dialog_3">
 	    <text>了解,同意.</text>
@@ -414,7 +414,7 @@
 	</string>
 
 <string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_1">
-<text>我救了Miller. 他曾被囚禁.</text>
+<text>我救了米勒. 他曾被囚禁.</text>
 </string>
 <string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_10">
 <text>我真不知道.</text>
@@ -426,7 +426,7 @@
 <text>不知道.我为另一工作而来.</text>
 </string>
 <string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_2">
-<text>谢谢搭救,为工作,友谊...我免费带你木星.顺便问问,Miller呢?</text>
+<text>谢谢搭救,为工作,友谊...我免费带你木星.顺便问问,米勒呢?</text>
 </string>
 <string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_3">
 <text>他决定到附近的洗衣店看他的汽车.好吧, 保重.</text>
@@ -435,7 +435,7 @@
 <text>嘿!听着,你能帮助我吗?</text>
 </string>
 <string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_5">
-<text>Yeah, 你要什么?</text>
+<text>好, 你要什么?</text>
 </string>
 <string id="jup_b43_stalker_assistant_rescue_underground_guide_dialog_6">
 <text>我最好的朋友米勒消失了.他在做我相同的工作,向导.我记得三天前,当我仍在亚诺夫,米勒带领不明潜行者从木星到普里皮亚季,但由于某些原因,他们推迟到第二天出发.到那个时候,我已经在这里.从没听说过这样,但留下一条线索-PDA信号,来自地下道'普里皮亚-1'.抱歉我不能和你一起去,我有一个重要客户要见.所以我决定请求你去那里检查.你能帮助我吗?</text>
@@ -490,7 +490,7 @@
 <text>现在没工作.</text>
 </string>
 <string id="jup_killer_base_leader_jobs_dialog_3">
-<text>是, 我刚收到消息,一支护送队在通风设施遭到巨型地狱犬攻击,去那里帮助他们回基地.Okay!</text>
+<text>是, 我刚收到消息,一支护送队在通风设施遭到巨型地狱犬攻击,去那里帮助他们回基地.好的!</text>
 </string>
 <string id="jup_killer_base_leader_jobs_dialog_4">
 <text>Okay,我去那里 .</text>
@@ -580,10 +580,6 @@
 <text>是. 明白.</text>
 </string>
 
-<string id="jup_rasvet_base_leader_jobs_dialog_90">
-<text>Preskorbno听到它.不幸的是.我不能支付你的出色工作.但你可以在其他方面帮助我们.</text>
-</string>
-
 <string id="jup_rasvet_trader_dialog_1_2">
 <text>欢迎到来. 你可以购买订货.</text>
 </string>
@@ -645,12 +641,6 @@
 </string>
 <string id="jup_svoboda_leader_entering_to_freedom_dialog_4">
 <text>听上去不错,我加入.</text>
-</string>
-<string id="jup_svoboda_leader_entering_to_freedom_dialog_5">
-<text>Here and sushi bar. Prepare then Cubans will move us to Cuba, until Fidel cane.</text>
-</string>
-<string id="jup_svoboda_leader_entering_to_freedom_dialog_6">
-<text>Prospectus to you and uvazhuha. Do not smoke a lot, minzonzdrav has warned. 就这样.</text>
 </string>
 
 <string id="mar_army_wounded_dialog_1">
@@ -953,7 +943,7 @@
 <text>天.有趣的东西,它是烟花吗?所以,好吧,我马上就可以想到的...没有别的.嗯,这不是我能应付的.去问基.</text>
 </string>
 <string id="zat_alfa_sabotage_talk_kardan_dialog_5">
-<text>了解. Yet.</text>
+<text>了解.</text>
 </string>
 <string id="zat_alfa_sabotage_talk_sich_dialog_1">
 <text>你好, 老伙计.有一个特殊的问题问你.</text>
@@ -1018,7 +1008,7 @@
 <text>让我们玩游戏.</text>
 </string>
 <string id="zat_bandit_informer_game_call_dialog_2">
-<text>接下来?.</text>
+<text>接下来?</text>
 </string>
 <string id="zat_bandit_informer_intro_call_dialog_1">
 <text>我要一些有价值的信息,你有什么?</text>
@@ -1133,14 +1123,6 @@
 
 <string id="zat_stalker_trader_dialog_1_2">
 <text>你好,潜行者, 你要什么? 选择你想要的,支付定金..</text>
-</string>
-
-<string id="zat_stalker_trader_dialog_38">
-<text>OC-33</text>
-</string>
-
-<string id="zat_wounded_monolith_dialog_18">
-<text>Okay.</text>
 </string>
 
 </string_table>

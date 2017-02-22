@@ -612,9 +612,6 @@
 <string id="zat_killer_shakal_dialog_19">
 	<text>20000.</text>
 </string>
-<string id="zat_killer_shakal_dialog_20">
-	<text>...</text>
-</string>
 <string id="zat_killer_shakal_dialog_21">
 	<text>走远点....杀了这个狗日的！！！</text>
 </string>
@@ -1601,12 +1598,6 @@
 </string>
 <string id="zat_bandit_trader_dialog_26">
 	<text>"UMP 45"</text>
-</string>
-<string id="zat_wounded_monolith_dialog_1">
-	<text>...</text>
-</string>
-<string id="zat_wounded_monolith_dialog_2">
-	<text>...</text>
 </string>
 <string id="zat_wounded_monolith_dialog_3">
 	<text>你捡到箱子没有? 你能帮帮我吗?</text>

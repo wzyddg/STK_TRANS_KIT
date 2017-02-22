@@ -66,18 +66,9 @@
 <string id="mar_b2_stalker_mechanic_name">
 <text>马卡连柯</text>
 </string>
-<string id="mar_b3_commander_name">
-<text>Crucian</text>
-</string>
-<string id="mar_b4_commander_name">
-<text>Kashchei</text>
-</string>
-<string id="mar_stalker_trader_name">
-<text>Marmelyuk</text>
-</string>
 
 <string id="red_psyho_ecolog_corpse_1_name">
-<text>教授demidov</text>
+<text>德米德夫教授</text>
 </string>
 <string id="red_psyho_ecolog_corpse_2_name">
 <text>教授Sharapov</text>
@@ -85,25 +76,12 @@
 <string id="red_psyho_ecolog_corpse_name">
 <text>教授卢科亚诺夫</text>
 </string>
-<string id="red_psyho_security_corpse_name">
-<text>韩国</text>
-</string>
-<string id="st_black_angel_unindification_name">
-<text>Neidintifitsirovan</text>
-</string>
-
-<string id="val_b2_trader_name">
-<text>Kapitoshkin</text>
-</string>
 
 <string id="val_dolg_spez_quad_1_name">
 <text>古德</text>
 </string>
 <string id="val_dolg_spez_quad_2_name">
 <text>布朗</text>
-</string>
-<string id="val_dolg_spez_quad_3_name">
-<text>Savchuk</text>
 </string>
 <string id="val_dolg_spez_quad_4_name">
 <text>袋熊</text>
@@ -125,17 +103,14 @@
 <text>教授 Gusatsky</text>
 </string>
 <string id="zat_quest_the_spez_killer_razvodayshi_name">
-<text>Seme</text>
-</string>
-<string id="zat_rasvet_quest_homsa_leader_name">
-<text>Shipachev</text>
+<text>塞米</text>
 </string>
 
 <string id="zat_sultan_quest_bagir_name">
 <text>巴吉尔</text>
 </string>
 <string id="zat_sultan_quest_lucian_name">
-<text>Red snapper</text>
+<text>红鱼</text>
 </string>
 <string id="zat_sultan_quest_yakut_name">
 <text>雅库特</text>

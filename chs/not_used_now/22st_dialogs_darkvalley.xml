@@ -24,9 +24,6 @@
 <string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_76">
 <text>地板.</text>
 </string>
-<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_44">
-<text>不, well, 随他们, these svobodovtsev - even in his own shit last Kolupaev.</text>
-</string>
 <string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_55">
 <text>对不起, 第二次机会,如果你改变主意,你不会的.任何请求我可以甚至不处理.</text>
 </string>
@@ -150,26 +147,22 @@
 <string id="val_freedom_lucas_quest_second_dialog_6">
 <text>我的份额怎样?</text>
 </string>
-<string id="val_freedom_lucas_quest_second_dialog_7">
-<text>Then你和我支付柯尔莫哥洛夫. 你只是把我活着送到他们的检查站.</text>
-</string>
+
 <string id="val_freedom_lucas_quest_second_dialog_8">
 <text>提出.</text>
 </string>
-<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_00">
-<text>Wow, 少校.我看你已经完成了协议.这是值得称赞的.前svobodovskoy基地发现文件中?</text>
-</string>
+
 <string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_0">
 <text>是, 我帮助卢卡斯.现在来谈谈我的份额?</text>
 </string>
 <string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_1">
-<text>Well, 你是对的.我们不会推脱.这里是你的老老实实赢得的.顺便说一下,我可以提供别的东西.你将不得不选择奖励.</text>
+<text>好吧, 你是对的.我们不会推脱.这里是你的老老实实赢得的.顺便说一下,我可以提供别的东西.你将不得不选择奖励.</text>
 </string>
 <string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_2">
 <text>你是什么意思?误解了.</text>
 </string>
 <string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_3">
-<text>Well, 一般在你的地方的方式继续下去吗?这里有选择,取决于什么样的额外奖励,但有提示得到它.好了,你决定.几乎没有任何风险.仅在一个地方可能没有什么值得的.</text>
+<text>好吧, 一般在你的地方的方式继续下去吗?这里有选择,取决于什么样的额外奖励,但有提示得到它.好了,你决定.几乎没有任何风险.仅在一个地方可能没有什么值得的.</text>
 </string>
 <string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_4">
 <text>往北.</text>

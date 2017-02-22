@@ -4,7 +4,7 @@
 	    <text>兄弟,我找工作.</text>
 	</string>
 	<string id="pri_a28_alf_quest_info_dialog_begin_1">
-	    <text>Hmmm, 好的. 没有什么可以给你,但...停,等等.最近我们的一个侦察队发现第二次大爆炸前的一些科学家们所做的破坏记录.它提供了一些实验信息,以及一些图纸,图表,设备的技术文件可能的地点的信息.这些设备和信息,我很感兴趣.</text>
+	    <text>嗯, 好的. 没有什么可以给你,但...停,等等.最近我们的一个侦察队发现第二次大爆炸前的一些科学家们所做的破坏记录.它提供了一些实验信息,以及一些图纸,图表,设备的技术文件可能的地点的信息.这些设备和信息,我很感兴趣.</text>
 	</string>
 	<string id="pri_a28_alf_quest_info_dialog_begin_11">
 	    <text>我理解,但为什么你认为图纸和规格细节不被他们回来拿呢?已经过去很久了.</text>
@@ -16,7 +16,7 @@
 	    <text>我们只能做对我们的要求的,这不是我们怀疑黑石的意志.我们是它的主题,并被告知文件在服务中心,我知道这是正确的,所以你必须找到它们.</text>
 	</string>
 	<string id="pri_a28_alf_quest_info_dialog_begin_122">
-	    <text>Okay, 我会尽力.</text>
+	    <text>好的, 我会尽力.</text>
 	</string>
 	<string id="pri_a28_alf_quest_info_dialog_begin_2">
 	    <text>那, 你找到文件了?</text>
@@ -40,7 +40,7 @@
 	    <text>那,我不得不努力找,拿着.</text>
 	</string>
 	<string id="pri_a28_alf_quest_info_dialog_begin_33">
-	    <text>Well的兄弟,你帮了我很多,这是奖励, 再见.</text>
+	    <text>好的我的兄弟,你帮了我很多,这是奖励, 再见.</text>
 	</string>
 	<string id="pri_a28_alf_quest_info_dialog_begin_34">
 	    <text>祝你好运.</text>
@@ -52,19 +52,19 @@
 	    <text>没有离开,只有黑石看到一切,我们必须服从.</text>
 	</string>
 	<string id="pri_monolit_base_leader_community_exit_dialog_3">
-	    <text>And 我会继续服务.</text>
+	    <text>我会继续服务.</text>
 	</string>
 	<string id="pri_monolit_base_leader_community_exit_dialog_4">
 	    <text>理所应当的,当我们的宗旨将为人所知,我们将准备为黑石意志服务.</text>
 	</string>
 	<string id="pri_monolit_base_leader_community_exit_dialog_5">
-	    <text>Mmmm,我知道我必须做的......我已经证明我的道路,要忠心我必须遵循.</text>
+	    <text>嗯,我知道我必须做的......我已经证明我的道路,要忠心我必须遵循.</text>
 	</string>
 	<string id="pri_monolit_base_leader_community_exit_dialog_6">
 	    <text>当然, 只有黑石知道什么来临和我们都必须往哪,你确定这是你已被告知去做的?</text>
 	</string>
 	<string id="pri_monolit_base_leader_community_exit_dialog_7">
-	    <text>Well...是,当然. 我被告知给你这笔钱,我要帮助到来的审判.</text>
+	    <text>好吧...是,当然. 我被告知给你这笔钱,我要帮助到来的审判.</text>
 	</string>
 	<string id="pri_monolit_base_leader_community_exit_dialog_8">
 	    <text>我们的主是明智的.</text>

@@ -3,39 +3,31 @@
 	<string id="val_lucas_mistery_quest_title0">
 <text>过去之谜: 会见探员.</text>
 </string>
+
 <string id="val_lucas_mistery_quest_text0">
 <text>柯尔莫哥洛夫夜行者副领导人请你来帮助自由成员.去与他们的探员会面.</text>
 </string>
+
 <string id="val_lucas_mistery_quest_title1">
 <text>过去之谜: 接收信号,检查天线.</text>
 </string>
-<string id="val_lucas_mistery_quest_text1">
-<text>The agent has been instructed to collect evidence for subsequent decoding of the strange signal, which for some strange reason still continues to broadcast from three of the old antenna's that were established during the faction wars... Remove the details of the frequency of the signal from the antenna使用特殊扫描仪.</text>
-</string>
+
 <string id="val_lucas_mistery_quest_title2">
 <text>过去之谜: 将数据传递到卢卡斯.</text>
 </string>
-<string id="val_lucas_mistery_quest_text2">
-<text>Information on the signals frequencies and it's other parameters were successfully detected using the scanner at all three points. Give Lucas the scanner that you collected the information on.</text>
-</string>
+
 <string id="val_lucas_mistery_quest_title0_1">
 <text>过去之谜: 到第一天线.</text>
 </string>
-<string id="val_lucas_mistery_quest_text0_1">
-<text>The info clearly indicates that the signal is being transmitted from the antenna near 放射湖.</text>
-</string>
+
 <string id="val_lucas_mistery_quest_title0_2">
 <text>过去之谜: 到第二天线.</text>
 </string>
-<string id="val_lucas_mistery_quest_text0_2">
-<text>The info shows that the next signal is coming from the antenna located on 老农场.</text>
-</string>
+
 <string id="val_lucas_mistery_quest_title0_3">
 <text>过去之谜: 到第三天线.</text>
 </string>
-<string id="val_lucas_mistery_quest_text0_3">
-<text>There are clear indicators that the signal is coming from the antenna on the 前自由团基地.</text>
-</string>
+
 <string id="val_lucas_mistery_quest_title3">
 <text>过去之谜: 消灭纪律团破坏者.</text>
 </string>
@@ -63,9 +55,7 @@
 <string id="val_lucas_mistery_quest_title7">
 <text>过去之谜: 跟着自由团探员</text>
 </string>
-<string id="val_lucas_mistery_quest_text7">
-<text>The mutants were dealt with. Lucas decided not to intervene and expected completion of the rut on the sidelines. Find it.</text>
-</string>
+
 <string id="val_lucas_mistery_quest_title8">
 <text>过去之谜: 护送卢卡斯到南部检查站</text>
 </string>

@@ -3,9 +3,6 @@
 <string id="st_about_agroprom_underground_danger_text">
 	<text>'警告:危险区'</text>
 	</string>
-<string id="st_shron_check_descr">
-<text>Staffed with a stash</text>
-</string>
 <string id="st_shron_installed_descr">
 <text>储物箱放下</text>
 </string>
@@ -13,9 +10,7 @@
 <text>解锁电子模块</text>
 </string>
 
-<string id="st_about_critical_pstor_text">
-<text>Attention! A fatal error occurred. The save attempt just made by you just failed. Continuation of the game is impossible. Try to boot from an earlier save and get another order now.</text>
-</string>
+
 <string id="st_about_critical_toxicity_text">
 <text>发现血液中毒素的临界含量.需要服用药物Psi复合剂或访问医生.</text>
 </string>

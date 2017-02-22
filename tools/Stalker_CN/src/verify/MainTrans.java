@@ -11,6 +11,7 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.OutputStreamWriter;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -79,17 +80,7 @@ public class MainTrans {
 		String chsAddress = "D:\\SGM2.2_LostSoul_CNPack_Complete\\chs";
 		File chsDir = new File(chsAddress);
 		File oriDir = new File(oriAddress);
-		if (!existingFolderAddress.equals("")) {
-			File existingChsDir = new File(existingFolderAddress);
-			File[] eFiles = existingChsDir.listFiles();
-			for (int i = 0; eFiles!=null && i < eFiles.length; i++) {
-				if (eFiles[i].isFile()) {
-					existingSentence.putAll(getTextFileMap(existingFolderAddress + localDirSeparater + eFiles[i].getName()));
-					verbose("existing file "+eFiles[i].getName()+" done!");
-				}
-
-			}
-		}
+		mapExistingFile(existingFolderAddress);
 		// File chsDir = new
 		// File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
 		ArrayList<String> finishedFiles = new ArrayList<String>();
@@ -122,6 +113,20 @@ public class MainTrans {
 //		generateLackSentenceFile(oriAddress);
 //		generateLackSentenceFile("D:\\HoMtext\\rus");
 		System.out.println("lackFileNum:" + lackFileNum);
+	}
+	
+	public static void mapExistingFile(String existingFolderAddress) throws ClassNotFoundException, IOException {
+		if (!existingFolderAddress.equals("")) {
+			File existingChsDir = new File(existingFolderAddress);
+			File[] eFiles = existingChsDir.listFiles();
+			for (int i = 0; eFiles!=null && i < eFiles.length; i++) {
+				if (eFiles[i].isFile()) {
+					existingSentence.putAll(getTextFileMap(existingFolderAddress + localDirSeparater + eFiles[i].getName()));
+					verbose("existing file "+eFiles[i].getName()+" done!");
+				}
+
+			}
+		}
 	}
 
 	public static boolean keyToKey(File chs, File rus) throws Exception {
@@ -197,7 +202,13 @@ public class MainTrans {
 		}
 		verbose(""+oriSentence.size());
 		String resString = "";
+		LinkedList<String> keys = new LinkedList<>();
 		for (String key : oriSentence.keySet()) {
+			keys.add(key);
+		}
+		Collections.sort(keys);
+		for (int i=0;i<keys.size();i++) {
+			String key = keys.get(i);
 			resString = resString + "<string id=\""+key+"\">" + "\r\n" +"\t<text>"+oriSentence.get(key)+"</text>"+ "\r\n</string>\r\n";
 		}
 		writeToFile(resString, oriAddr+localDirSeparater+"lackSentences.txt", "utf-8");

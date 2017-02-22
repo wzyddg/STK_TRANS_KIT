@@ -1,7 +1,4 @@
-﻿<!------------------------========--------------------->
-<!------------------------'Юпитер'--------------------->
-<!------------------------========--------------------->
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <string_table>
 <string id="jup_barmen_expiation_sin_3_info_dialog_1">
 	<text>我正在找转播发射机,你知道哪里能找到吗?</text>
@@ -397,7 +394,7 @@
 	<text>"LR-300 Limit"</text>
 </string>
 <string id="jup_freedom_trader_dialog_23">
-	<text>"Commander Armored Suit"</text>
+	<text>"指挥官装甲套装"</text>
 </string>
 <string id="jup_freedom_trader_dialog_24">
 	<text>"Colt M4A1"</text>
@@ -814,7 +811,7 @@
 	<text>对.</text>
 </string>
 <string id="jup_stalker_breeder_work_dialog_10">
-	<text>利用原子的化学反应,导致神器的原子结构发生变化,升级十分快速,在十秒钟之内就能完成,我们对神器有三种升级方式:\n1) Radiation.\n2) Weight.\n3) Restorative.\n 分别花费 26000,24500,30000.任何神器都能够升级,不过只能选择一样,不然的话,会崩溃掉.</text>
+	<text>利用原子的化学反应,导致神器的原子结构发生变化,升级十分快速,在十秒钟之内就能完成,我们对神器有三种升级方式:\n1) 辐射.\n2) 负重.\n3) 精力恢复.\n 分别花费 26000,24500,30000.任何神器都能够升级,不过只能选择一样,不然的话,会崩溃掉.</text>
 </string>
 <string id="jup_stalker_breeder_work_dialog_11">
 	<text>明白了,很有用的消息.</text>
@@ -976,7 +973,7 @@
 	<text>对.</text>
 </string>
 <string id="jup_ecolog_breeder_work_dialog_10">
-	<text>利用原子的化学反应,导致神器的原子结构发生变化,升级十分快速,在十秒钟之内就能完成,我们对神器有三种升级方式:\n1) Radiation.\n2) Weight.\n3) Restorative.\n 分别花费 26000,24500,30000.任何神器都能够升级,不过只能选择一样,不然的话,会崩溃掉.</text>
+	<text>利用原子的化学反应,导致神器的原子结构发生变化,升级十分快速,在十秒钟之内就能完成,我们对神器有三种升级方式:\n1) 辐射.\n2) 负重.\n3) 精力恢复.\n 分别花费 26000,24500,30000.任何神器都能够升级,不过只能选择一样,不然的话,会崩溃掉.</text>
 </string>
 <string id="jup_ecolog_breeder_work_dialog_11">
 	<text>明白了,很有用的消息.</text>

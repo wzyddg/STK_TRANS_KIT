@@ -71,13 +71,13 @@
         <text> 标记 潜行者:\n 名称: 枪手\n 分类: 黑石\n 等级: 1200\n 声望: 900 </text>
       </string> 
       <string id="st_silver_coin_title"> 
-        <text> 银卢布</text>
+        <text>银卢布</text>
       </string> 
       <string id="st_gold_ten_coin_title"> 
-        <text> 金卢布</text>
+        <text>金卢布</text>
       </string> 
       <string id="st_medallion_strelka_title"> 
-        <text> 奖章</text>
+        <text>奖章</text>
       </string> 
       <string id="st_zheton_stalker_title"> 
         <text> S.T.A.L.K.E.R 令牌 </text>

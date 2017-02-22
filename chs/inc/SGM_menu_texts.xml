@@ -40,12 +40,7 @@
         <string id="st_21_point_exit_game">
 		<text>退出</text>
 	</string>
-        <string id="st_21_point_take_else">
-		<text>Hit</text>
-	</string>
-        <string id="st_21_point_send_move">
-		<text>Stand</text>
-	</string>
+
         <string id="st_21_point_increasing_hint">
 		<text>赌注增加 - 200</text>
 	</string>
@@ -94,9 +89,7 @@
         <string id="st_game_time_hint">
 		<text>游戏时间。</text>
 	</string>
-        <string id="st_off_pda_hint">
-		<text>Hide PDA clues</text>
-	</string>
+
         <string id="st_next_page_pda_hint">
 		<text>下一个</text>
 	</string>
