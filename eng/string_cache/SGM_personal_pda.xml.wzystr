@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string id="st_advices_text">
+	<text>%c[default] Councils for the passage: \n %c[255,238,153,26] � %c[default] When you select a favorite barrel,should consider the many characteristics It should be remembered that one of the main parameters is the maximum damage,that can cause this type of weapon. Also should take into account the range of aimed fire. \n %c[255,238,153,26] � %c[default],As you go you will meet new characters,have different specializations or skills For example they can be used to improve weapons,exoskeletony or even artifacts. Among these characters meet and traders,which can be a good 'fit in' in the prices of goods and ordered some unique item. \n %c[255,238,153,26] � %c[default] With some key characters can be defeated to remove the stick. They store information about individual caches In order to find out the whereabouts of the cache,flash to 'use'. With respect to conventional caches,, should consider that their owners,stalkers - people savvy and grated;,developing the laying o
+f its kind in the bins,wonders ingenuity. It is easier to find a black cat in a dark room,cache than the veteran. \n %c[255,238,153,26] � %c[default] In some caches (or as a reward for completing the quest), you'll find technical documentation and theoretical data on the use of various weapons in the form of a folder 'Management of fight. ' Found 'tactics' immediately useful to study - this will allow you to do more damage to the enemy of the Earned weapons. List of Learning 'tactics' is stored in the personal PDA - library. \n %c[255,238,153,26] � %c[default] In fashion there is a new parameter of the protagonist - rank. Points are awarded for rank quests,for victory over enemies (and of mutants including) and other exploits. At a low rank,some quest characters will treat you condescendingly and hardly entrust the execution of serious problems. Do not worry - Improve your skills,studying Zone. Increasing rank will be celebrated winning,when the key values. Fight -
+ and eventually,you can actually show their fighting qualities shortsighted commanders. \n %c[255,238,153,26] � %c[default] Throwing a grenade,make sure that it does not strike the object being close to you,and not fly off back. \n %c[255,238,153,26] � %c[default],Do not forget that the enemies have their own tactics,Create and modify your own. \n %c[255,238,153,26] � %c[default] Alpha heavily armed,if you go to the destruction of such ulouse - well prepared. PDA Alpha commanders can profitably sell to merchants. \n %c[255,238,153,26] � %c[default] Hand over the mechanics unnecessary weapons and equipment,they are examining it get details and make you a discount. \n %c[255,238,153,26] � %c[default],Darn weapons in time otherwise the weapon will often stick,and more often you fail. \n %c[255,238,153,26] � %c[default],If possible, buy a minesweeper. This often save your life. \n %c[255,238,153,26] � %c[default] is preserved as much as possible,that will save your life.</text>
+</string>
+<string id="st_enciclopedia_text">
+	<text>Encyclopedia:</text>
+</string>
+<string id="st_mod_pda_tab_statistic">
+	<text>Stats</text>
+</string>
+<string id="st_mod_pda_tab_advices">
+	<text>Tips</text>
+</string>
+<string id="st_mod_pda_tab_tutorial">
+	<text>Encyclopedia</text>
+</string>
+<string id="st_mod_pda_tab_achievements">
+	<text>Achievements</text>
+</string>
+<string id="st_mod_pda_tab_diplomatia">
+	<text>Diplomacy</text>
+</string>
+<string id="st_mod_pda_tab_library">
+	<text>Library</text>
+</string>
+<string id="st_mod_pda_tab_equipments">
+	<text>Equipment</text>
+</string>
+<string id="st_statistic_no_slot_item">
+	<text>no subject in the slot.</text>
+</string>
+<string id="st_statistic_actor_health">
+	<text>Health status HS</text>
+</string>
+<string id="st_statistic_actor_psi">
+	<text>State of mind SG</text>
+</string>
+<string id="st_statistic_actor_toxicity">
+	<text>The percentage of toxins in the blood</text>
+</string>
+<string id="st_statistic_actor_outfit">
+	<text>State suit's</text>
+</string>
+<string id="st_statistic_actor_helm">
+	<text>The state of the helmet</text>
+</string>
+<string id="st_statistic_actor_slot1_cond">
+	<text>Condition of the weapon from the 1st slot</text>
+</string>
+<string id="st_statistic_actor_slot2_cond">
+	<text>Condition of the weapon from the 2nd slot</text>
+</string>
+<string id="st_statistic_actor_rank">
+	<text>Rank GG</text>
+</string>
+<string id="st_statistic_weapon_shots">
+	<text>Shots of weapons</text>
+</string>
+<string id="st_statistic_head_shots">
+	<text>Headshots (headshots)</text>
+</string>
+<string id="st_statistic_peregito_zatmeniy">
+	<text>Experienced eclipses</text>
+</string>
+<string id="st_statistic_naydeno_taynikov">
+	<text>SGM found caches</text>
+</string>
+<string id="st_statistic_vipolneno_kvestov">
+	<text>SGM completed quests</text>
+</string>
+<string id="st_statistic_polucheno_dostigeniy">
+	<text>SGM advances received</text>
+</string>
+<string id="st_statistic_polucheno_medaley">
+	<text>SGM received medals</text>
+</string>
+<string id="st_statistic_gruppirovka">
+	<text>Grouping SG</text>
+</string>
+<string id="st_statistic_knig_viucheno">
+	<text>Studied tactics</text>
+</string>
+<string id="st_statistic_habara_naydeno">
+	<text>Found personal caches</text>
+</string>
+<string id="st_statistic_sobral_s_trupov">
+	<text>Pick up money from corpses</text>
+</string>
+<string id="st_statistic_ubito_bossov">
+	<text>Killed-in-chief</text>
+</string>
+<string id="st_statistic_ispolzoval_gps_provodnikov">
+	<text>Used GPS-Guides</text>
+</string>
+<string id="st_statistic_dengi_na_deposite">
+	<text>Money on deposit from savers</text>
+</string>
+<string id="st_statistic_okazano_pomosch_ranenim">
+	<text>Cured wounded</text>
+</string>
+<string id="st_statistic_zarabotano_web_money">
+	<text>Electronic money</text>
+</string>
+<string id="st_statistic_oformleno_zakazov">
+	<text>When ordering from shopkeepers</text>
+</string>
+<string id="st_statistic_naydeno_pda_alfa">
+	<text>Found PDAs commanders Alpha</text>
+</string>
+<string id="st_statistic_killed_s_title">
+	<text>%c[110,0,128,64] The murder of stalkers:</text>
+</string>
+<string id="st_statistic_killed_m_title">
+	<text>%c[110,0,128,64] The murder mutants:</text>
+</string>
+<string id="st_statistic_killed_s_count">
+	<text>pers.</text>
+</string>
+<string id="st_statistic_killed_m_count">
+	<text>pcs.</text>
+</string>
+<string id="st_statistic_killed_s_1_name">
+	<text>Alpha</text>
+</string>
+<string id="st_statistic_killed_s_2_name">
+	<text>Military</text>
+</string>
+<string id="st_statistic_killed_s_3_name">
+	<text>Mob</text>
+</string>
+<string id="st_statistic_killed_s_4_name">
+	<text>Debt</text>
+</string>
+<string id="st_statistic_killed_s_5_name">
+	<text>Scientists</text>
+</string>
+<string id="st_statistic_killed_s_6_name">
+	<text>Freedom</text>
+</string>
+<string id="st_statistic_killed_s_7_name">
+	<text>Mercenaries</text>
+</string>
+<string id="st_statistic_killed_s_8_name">
+	<text>Monolith</text>
+</string>
+<string id="st_statistic_killed_s_9_name">
+	<text>Stalkers</text>
+</string>
+<string id="st_statistic_killed_s_10_name">
+	<text>Breaking Dawn</text>
+</string>
+<string id="st_statistic_killed_s_11_name">
+	<text>Renegades</text>
+</string>
+<string id="st_statistic_killed_s_12_name">
+	<text>Zombie</text>
+</string>
+<string id="st_statistic_killed_s_13_name">
+	<text>The Night Stalker</text>
+</string>
+<string id="st_statistic_killed_m_1_name">
+	<text>Bloodsucker</text>
+</string>
+<string id="st_statistic_killed_m_2_name">
+	<text>Boar</text>
+</string>
+<string id="st_statistic_killed_m_3_name">
+	<text>Burer</text>
+</string>
+<string id="st_statistic_killed_m_4_name">
+	<text>Chimera</text>
+</string>
+<string id="st_statistic_killed_m_5_name">
+	<text>Controller</text>
+</string>
+<string id="st_statistic_killed_m_6_name">
+	<text>Blind dog</text>
+</string>
+<string id="st_statistic_killed_m_7_name">
+	<text>Flesh</text>
+</string>
+<string id="st_statistic_killed_m_8_name">
+	<text>Psevdogigant</text>
+</string>
+<string id="st_statistic_killed_m_9_name">
+	<text>Poltergeist</text>
+</string>
+<string id="st_statistic_killed_m_10_name">
+	<text>Pseudodogs</text>
+</string>
+<string id="st_statistic_killed_m_11_name">
+	<text>Snork</text>
+</string>
+<string id="st_statistic_killed_m_12_name">
+	<text>Tushkan</text>
+</string>
+<string id="st_statistic_killed_m_13_name">
+	<text>Fracture</text>
+</string>
+<string id="st_statistic_killed_m_14_name">
+	<text>Cat Baiyun</text>
+</string>
+<string id="st_statistic_killed_m_15_name">
+	<text>Zombie</text>
+</string>
+<string id="st_library_yes_studies">
+	<text>%c[110,0,128,64] studied Tactics</text>
+</string>
+<string id="st_library_no_studies">
+	<text>%c[110,128,32,22] Tact. has not been studied</text>
+</string>
+<string id="st_achievements_dalee">
+	<text>Further</text>
+</string>
+<string id="st_achievements_nazad">
+	<text>Back</text>
+</string>
+<string id="st_achievements_status_a">
+	<text>Status Achievements</text>
+</string>
+<string id="st_achievements_status_b_true">
+	<text>%c[110,0,128,64] obtained</text>
+</string>
+<string id="st_achievements_status_b_false">
+	<text>%c[110,200,32,22] is missing</text>
+</string>
+<string id="st_achievements_need_title">
+	<text>Is Required:</text>
+</string>
+<string id="st_achievements_bonus_title">
+	<text>Bonus:</text>
+</string>
+<string id="st_achievements_name_sniper">
+	<text>'Voroshilov Sharpshooter '</text>
+</string>
+<string id="st_achievements_need_sniper">
+	<text>The number of murders in the head - 300. \n Deaths commanders - 1.</text>
+</string>
+<string id="st_achievements_bonus_sniper">
+	<text>Increased damage of any kind to the arms by 20%.</text>
+</string>
+<string id="st_achievements_name_client">
+	<text>'Regular customer'</text>
+</string>
+<string id="st_achievements_need_client">
+	<text>Ordering the hucksters - 10. \n Rank GG - 50.</text>
+</string>
+<string id="st_achievements_bonus_client">
+	<text>Change the value of goods for all traders. At night, will act even more favorable prices.</text>
+</string>
+<string id="st_achievements_name_pathfinder">
+	<text>'Nimble pathfinder'</text>
+</string>
+<string id="st_achievements_need_pathfinder">
+	<text>SGM caches found - 60.</text>
+</string>
+<string id="st_achievements_bonus_pathfinder">
+	<text>Give the coordinates of the other PDAs on the caches. Caches will be visible within a radius of 150m, about SG.</text>
+</string>
+<string id="st_achievements_name_guidebook">
+	<text>'Abnormal vehicle'</text>
+</string>
+<string id="st_achievements_need_guidebook">
+	<text>Using GPS-Guides - 12.</text>
+</string>
+<string id="st_achievements_bonus_guidebook">
+	<text>Getting Alternal GPS-Guide.</text>
+</string>
+<string id="st_achievements_name_marauder">
+	<text>'Great marauder'</text>
+</string>
+<string id="st_achievements_need_marauder">
+	<text>Matched electronic money with corpses - 18000.</text>
+</string>
+<string id="st_achievements_bonus_marauder">
+	<text>Lets you capture more of electronic money from the PDA dead stalkers, by 40%.</text>
+</string>
+<string id="st_achievements_name_magnate">
+	<text>'Electronic tycoon'</text>
+</string>
+<string id="st_achievements_need_magnate">
+	<text>Electronic money - 20000</text>
+</string>
+<string id="st_achievements_bonus_magnate">
+	<text>A new and more favorable exchange rate of electronic money savers. The maximum bet in the game '21 points' - 2000.</text>
+</string>
+<string id="st_achievements_name_assistant">
+	<text>'Assistant equipment'</text>
+</string>
+<string id="st_achievements_need_assistant">
+	<text>Get one of the technicians more than 80 boxes of items.</text>
+</string>
+<string id="st_achievements_bonus_assistant">
+	<text>Increased discount on repairs and upgrades in technology.</text>
+</string>
+<string id="st_achievements_name_lifeguard">
+	<text>'Noble rescuer'</text>
+</string>
+<string id="st_achievements_need_lifeguard">
+	<text>Cured wounded - 8.</text>
+</string>
+<string id="st_achievements_bonus_lifeguard">
+	<text>Stalkers which you will save will pay you well.</text>
+</string>
+<string id="st_diplomatia_need_title">
+	<text>Requirements:</text>
+</string>
+<string id="st_diplomatia_community_stalkers">
+	<text>'Free stalkers'</text>
+</string>
+<string id="st_diplomatia_need_stalkers">
+	<text>Payment terms - 25000 RU.</text>
+</string>
+<string id="st_diplomatia_community_bandits">
+	<text>'Bandits'</text>
+</string>
+<string id="st_diplomatia_need_bandits">
+	<text>Payment terms - 28000 RU.</text>
+</string>
+<string id="st_diplomatia_community_dolgs">
+	<text>Duty</text>
+</string>
+<string id="st_diplomatia_need_dolgs">
+	<text>Payment terms - 30000 RU.</text>
+</string>
+<string id="st_diplomatia_community_freedoms">
+	<text>Freedom</text>
+</string>
+<string id="st_diplomatia_need_freedoms">
+	<text>Payment terms - 30000 RU.</text>
+</string>
+<string id="st_diplomatia_community_killers">
+	<text>'Mercenaries'</text>
+</string>
+<string id="st_diplomatia_need_killers">
+	<text>Payment terms - 35000 RU.</text>
+</string>
+<string id="st_diplomatia_community_rasvets">
+	<text>'Breaking Dawn'</text>
+</string>
+<string id="st_diplomatia_need_rasvets">
+	<text>Payment terms - 10000 RU.</text>
+</string>
+<string id="st_agreement_check_friend_hint">
+	<text>To conclude a peace treaty.</text>
+</string>
+<string id="st_agreement_check_enemy_hint">
+	<text>Enter into a contract on the war.</text>
+</string>

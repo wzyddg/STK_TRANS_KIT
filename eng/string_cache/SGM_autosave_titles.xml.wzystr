@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string id="st_save_travel_militaty_to_red_forest">
+	<text>the transition from military depots in the Red Forest</text>
+</string>
+<string id="st_save_travel_red_forest_to_militaty">
+	<text>transition from red forest at military depots</text>
+</string>
+<string id="st_save_travel_jupiter_to_red_forest">
+	<text>transition from Jupiter in the Red Forest</text>
+</string>
+<string id="st_save_travel_red_forest_to_jupiter">
+	<text>the transition from the Red Forest to Jupiter</text>
+</string>
+<string id="st_save_travel_escape_to_marsh">
+	<text>the transition from the cordon to the Swamps</text>
+</string>
+<string id="st_save_travel_marsh_to_escape">
+	<text>the transition from the swamp to the Cordon</text>
+</string>
+<string id="st_save_travel_marsh_to_zaton">
+	<text>the transition to a swamp on the Creek</text>
+</string>
+<string id="st_save_travel_zaton_to_marsh">
+	<text>transition from Swamp Creek on</text>
+</string>
+<string id="st_save_travel_agroprom_underground_to_agroprom">
+	<text>transition from the dungeons in the Agricultural industry Agriculture</text>
+</string>
+<string id="st_save_travel_agroprom_to_agroprom_underground">
+	<text>transition from the agricultural industry in the dungeon Agroproma</text>
+</string>
+<string id="st_save_travel_zaton_to_agroprom">
+	<text>transition from the Creek on Agriculture</text>
+</string>
+<string id="st_save_travel_agroprom_to_zaton">
+	<text>transition from the agricultural industry in the Creek</text>
+</string>
+<string id="st_save_travel_darkvalley_to_x18">
+	<text>transition from dark valley to the lab X18</text>
+</string>
+<string id="st_save_travel_x18_to_darkvalley">
+	<text>transition from lab X18 in the dark valley</text>
+</string>
+<string id="st_save_travel_darkvalley_to_jupiter">
+	<text>transition from dark valley to Jupiter</text>
+</string>
+<string id="st_save_travel_darkvalley_to_military">
+	<text>transition from dark valley at military depots</text>
+</string>
+<string id="st_save_travel_military_to_darkvalley">
+	<text>the transition from military depots in the dark valley</text>
+</string>
+<string id="st_save_travel_jupiter_to_darkvalley">
+	<text>transition from Jupiter in the dark valley</text>
+</string>
+<string id="st_save_travel_darkvalley_to_zaton">
+	<text>the transition from the dark valley on the Creek</text>
+</string>
+<string id="st_save_travel_zaton_to_darkvalley">
+	<text>the transition from the Dark Valley Creek</text>
+</string>
+<string id="st_save_travel_zaton_to_jupiter">
+	<text>transition from Jupiter Creek</text>
+</string>
+<string id="st_save_travel_zaton_to_pripyat">
+	<text>Creek on the transition from Pripyat</text>
+</string>
+<string id="st_save_travel_jupiter_to_zaton">
+	<text>transition from Jupiter Creek</text>
+</string>
+<string id="st_save_travel_jupiter_to_pripyat">
+	<text>transition from Jupiter Pripyat</text>
+</string>
+<string id="st_save_travel_jupiter_to_underground">
+	<text>transition from Jupiter Overpass</text>
+</string>
+<string id="st_save_travel_underground_to_jupiter">
+	<text>transition from an overpass on Jupiter</text>
+</string>
+<string id="st_save_travel_underground_to_pripyat">
+	<text>transition from an overpass on the Pripyat</text>
+</string>
+<string id="st_save_travel_pripyat_to_zaton">
+	<text>moving from Pripyat to Zaton</text>
+</string>
+<string id="st_save_travel_pripyat_to_jupiter">
+	<text>transition from Pripyat to Jupiter</text>
+</string>
+<string id="st_save_travel_pripyat_to_underground">
+	<text>transition from Pripyat Overpass</text>
+</string>
+<string id="st_save_shustriy_find_got_1">
+	<text>found trophy 'Ingram M10'</text>
+</string>
+<string id="st_save_shustriy_find_got_2">
+	<text>found trophy 'AK-47'</text>
+</string>
+<string id="st_save_shustriy_find_got_3">
+	<text>found trophy 'Mossberg 590Mk.L'</text>
+</string>
+<string id="st_save_shustriy_find_got_4">
+	<text>found trophy 'Steyr AUG SS190'</text>
+</string>
+<string id="st_save_esc_village_annex_b2_captured">
+	<text>The village is captured</text>
+</string>
+<string id="st_save_esc_atp_annex_b3_assault">
+	<text>Start ATP assault</text>
+</string>
+<string id="st_save_esc_atp_annex_b3_captured">
+	<text>ATP captured</text>
+</string>
+<string id="st_save_esc_spy_meeting">
+	<text>Meeting with Belousov</text>
+</string>
+<string id="st_save_mar_mine_detector_received">
+	<text>Received mine detector</text>
+</string>
+<string id="st_save_mar_army_cargo_georadar_received">
+	<text>Obtained by GPR</text>
+</string>
+<string id="st_save_zat_breeder_job_executed">
+	<text>found artifact 'Acid ciliates'</text>
+</string>
+<string id="st_save_zat_bring_flash_light_got">
+	<text>found a lantern with optics 'Messler'</text>
+</string>
+<string id="st_save_zat_bring_drink_beylis_got">
+	<text>found the beverage 'Baileys'</text>
+</string>
+<string id="st_save_zat_bring_sharpshooter_bino_got">
+	<text>found the binoculars 'Ranger'</text>
+</string>
+<string id="st_save_zat_monsters_1st_wave_end">
+	<text>the first wave of mutants destroyed</text>
+</string>
+<string id="st_save_zat_monsters_2nd_wave_end">
+	<text>the second wave of mutants destroyed</text>
+</string>
+<string id="st_save_zat_monsters_3rd_wave_end">
+	<text>third wave of mutants destroyed</text>
+</string>
+<string id="st_save_zat_deliver_monolith_case_lifted">
+	<text>case raised Monolith</text>
+</string>
+<string id="st_save_zat_bandit_kill_shakal_fw_got">
+	<text>get exactly 'Beretta92FS'</text>
+</string>
+<string id="st_save_zat_meet_authorities_agent_letter">
+	<text>received a note from a connected SBU</text>
+</string>
+<string id="st_save_zat_danger_parcel_referred">
+	<text>premise given Kanevskomu</text>
+</string>
+<string id="st_save_zat_deliver_monolith_case_bring">
+	<text>Monolith given case</text>
+</string>
+<string id="st_save_zat_assault_bandit_base_wait_signal">
+	<text>Group 'Elbrus' waiting for the signal</text>
+</string>
+<string id="st_save_zat_assault_bandit_base_destroyed">
+	<text>Chief of the base of bandits defeated</text>
+</string>
+<string id="st_save_zat_bandit_kill_shakal_search">
+	<text>Search mercenary 'Jackal'</text>
+</string>
+<string id="st_save_jup_bring_detector_kit_got">
+	<text>found tools for working with detectors</text>
+</string>
+<string id="st_save_jup_find_gromoboy_vintar_voron">
+	<text>found PDA 'Raven'</text>
+</string>
+<string id="st_save_jup_find_gromoboy_vintar_got">
+	<text>found 'Named Vintar'</text>
+</string>
+<string id="st_save_jup_bring_heavy_medkits_got">
+	<text>found Medkomplekt 'CCA72'</text>
+</string>
+<string id="st_save_jup_bring_photo_device_got">
+	<text>found the camera 'Suzanna'</text>
+</string>
+<string id="st_save_jup_bring_arms_case_got">
+	<text>found case with 'Ruger GP100'</text>
+</string>
+<string id="st_save_jup_mercenary_check_plant_psy_kit_otdani">
+	<text>distributed among four drugs 'Psihodelin'</text>
+</string>
+<string id="st_save_jup_avoid_witnesses_rescued">
+	<text>released captive agent SBU</text>
+</string>
+<string id="st_save_jup_arrive_on_bunker_meeting">
+	<text>meeting with surviving pilot</text>
+</string>
+<string id="st_save_jup_beat_from_monsters_need_help">
+	<text>protection of the tunnel</text>
+</string>
+<string id="st_save_jup_return_zaton_travel">
+	<text>return to Zaton</text>
+</string>
+<string id="st_save_jup_destroy_night_killers_sprint">
+	<text>the pursuit of the bandit</text>
+</string>
+<string id="st_save_jup_destroy_night_killers_overtaken">
+	<text>bandit runaway defeated</text>
+</string>
+<string id="st_save_jup_follow_scientists_init">
+	<text>support of scientists</text>
+</string>
+<string id="st_save_jup_night_agent_meeting_talked">
+	<text>meeting was held with connected SBU</text>
+</string>
+<string id="st_save_jup_rasvet_destroy_snorks_destroyed">
+	<text>poltergeists destroyed</text>
+</string>
+<string id="st_save_jup_rasvet_monsters_hole_1_destroyed">
+	<text>The first hole is destroyed</text>
+</string>
+<string id="st_save_jup_rasvet_monsters_hole_2_destroyed">
+	<text>The second hole is destroyed</text>
+</string>
+<string id="st_save_jup_rasvet_monsters_hole_3_destroyed">
+	<text>third hole destroyed</text>
+</string>
+<string id="st_save_jup_rasvet_monsters_hole_4_destroyed">
+	<text>fourth hole destroyed</text>
+</string>
+<string id="st_save_jup_rasvet_monsters_hole_5_destroyed">
+	<text>fifth hole destroyed</text>
+</string>
+<string id="st_save_jup_mercenary_check_plant_sector_clear">
+	<text>perimeter stripped</text>
+</string>
+<string id="st_save_jup_mercenary_check_plant_need_exit">
+	<text>Search Output</text>
+</string>
+<string id="st_save_pri_bloodsucker_vaccine_got">
+	<text>purchased vaccine NG-7</text>
+</string>
+<string id="st_save_pri_find_science_briefing_got">
+	<text>received 'Scientific briefing �1264'</text>
+</string>
+<string id="st_save_pri_necessary_kill_kasilov_got">
+	<text>obtained PDA 'Kasilova'</text>
+</string>
+<string id="st_save_pri_zone_cleaning_end">
+	<text>area cleared of zombie</text>
+</string>
+<string id="st_save_pri_expiation_sin_3_retranslator_got">
+	<text>found subspace relay</text>
+</string>
+<string id="st_save_pri_expiation_sin_1_water_got">
+	<text>found living water</text>
+</string>
+<string id="st_save_pri_assault_monolith_base_began">
+	<text>beginning of the operation 'Volcano'</text>
+</string>
+<string id="st_save_pri_assault_monolith_base_on_position">
+	<text>firing position on the 'CCD' busy</text>
+</string>
+<string id="st_save_pri_assault_monolith_base_destroyed">
+	<text>clusters 'Monolith' destroyed</text>
+</string>
+<string id="st_save_pri_expiation_sin_2_places_installed">
+	<text>All caches 'Monolith' filled</text>
+</string>
+<string id="st_save_pri_expiation_sin_3_retranslator_gather_info">
+	<text>received information about the repeater</text>
+</string>
+<string id="st_save_pri_expiation_sin_3_follow_to_squad">
+	<text>accompanied by a detachment Monolith</text>
+</string>
+<string id="st_save_pri_expiation_sin_3_began_attack">
+	<text>the beginning of the attack on the store 'Books'</text>
+</string>
+<string id="st_save_pri_expiation_sin_3_market_destroyed">
+	<text>stripped shop 'Books'</text>
+</string>
+<string id="st_save_pri_expiation_sin_3_repair_finished">
+	<text>finished repairing the antenna</text>
+</string>
+<string id="st_save_pri_rescue_guide_approached_to_miller">
+	<text>Miller found</text>
+</string>
+<string id="st_save_pri_rescue_guide_terrain_is_secured">
+	<text>Melnik safe</text>
+</string>
+<string id="st_save_zat_wisdom_books_is_founded">
+	<text>Book of Wisdom found</text>
+</string>
+<string id="st_save_zat_mad_dog_is_destroyed">
+	<text>Alpha liquidated</text>
+</string>
+<string id="st_save_jup_darkvalley_travel_bubble">
+	<text>New task SBU</text>
+</string>
+<string id="st_save_pri_fenix_vendetta_is_killed">
+	<text>Inquisitor neutralize</text>
+</string>
+<string id="st_save_val_first_coming_on_valley_on_base">
+	<text>Base 'The Night Stalker'</text>
+</string>
+<string id="st_save_val_kill_night_predator_is_searched">
+	<text>Grey chimera on the hook</text>
+</string>
+<string id="st_save_val_kill_night_predator_is_killed">
+	<text>Grey Chimera defeated</text>
+</string>
+<string id="st_save_val_assault_factory_snorks_is_cleared">
+	<text>Snork destroyed</text>
+</string>
+<string id="st_save_val_assault_factory_bridge_is_passed">
+	<text>Beginning of the siege</text>
+</string>
+<string id="st_save_val_assault_factory_is_captured">
+	<text>The plant is captured</text>
+</string>
+<string id="st_save_val_shade_of_time_need_key">
+	<text>Search key</text>
+</string>
+<string id="st_save_val_issue_secret_data">
+	<text>Secret documents submitted</text>
+</string>
+<string id="st_save_x18_abyss_docks_is_founded">
+	<text>Found secret documents</text>
+</string>
+<string id="st_save_mil_dislodge_invaders_b1_captured">
+	<text>Captured Farm</text>
+</string>
+<string id="st_save_mil_dislodge_invaders_b2_captured">
+	<text>Captured Village</text>
+</string>
+<string id="st_save_mil_dislodge_invaders_b3_captured">
+	<text>Invaded Western outpost</text>
+</string>
+<string id="st_save_mil_dislodge_invaders_b4_captured">
+	<text>Captured village</text>
+</string>
+<string id="st_save_mil_dislodge_invaders_b5_captured">
+	<text>Captured Parking</text>
+</string>
+<string id="st_save_mil_dislodge_invaders_b6_captured">
+	<text>Captured East outpost</text>
+</string>
+<string id="st_save_mil_defence_b1_done">
+	<text>The attack on the farm reflected</text>
+</string>
+<string id="st_save_mil_defence_b2_done">
+	<text>Attacks on villages recorded</text>
+</string>
+<string id="st_save_mil_defence_b3_done">
+	<text>The attack on the western outpost reflected</text>
+</string>
+<string id="st_save_mil_defence_b4_done">
+	<text>The attack on the village reflected</text>
+</string>
+<string id="st_save_mil_defence_b5_done">
+	<text>The attack in the parking lot reflected</text>
+</string>
+<string id="st_save_mil_defence_b6_fail">
+	<text>Eastern outpost swept away</text>
+</string>
+<string id="st_save_mil_defence_b7_fail">
+	<text>Base categories Dawn broken</text>
+</string>
+<string id="st_save_mil_smash_monster_hole_done">
+	<text>Nora near the village destroyed</text>
+</string>
+<string id="st_save_mil_conduct_night_stalkers_done">
+	<text>Akulova squad finished base</text>
+</string>
+<string id="st_save_mil_bolted_influence_b1_captured">
+	<text>Occupied Farm</text>
+</string>
+<string id="st_save_mil_bolted_influence_b2_captured">
+	<text>Occupied villages</text>
+</string>
+<string id="st_save_mil_bolted_influence_b3_captured">
+	<text>Occupied West Zastava</text>
+</string>
+<string id="st_save_mil_bolted_influence_b4_captured">
+	<text>Occupied village</text>
+</string>
+<string id="st_save_mil_bolted_influence_b5_captured">
+	<text>Occupied parking</text>
+</string>
+<string id="st_save_mil_bolted_influence_b6_captured">
+	<text>Occupied eastern outpost</text>
+</string>

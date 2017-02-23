@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string_table>
+<string id="st_antirad">
+	<text>Anti-radiation drugs</text>
+</string>
+<string id="st_antirad_descr">
+	<text>%c[default] Useful properties: \n %c[255,238,153,26] � %c[default] detoxifies %c[255,238,15,26] ( %c[255,1,128,54] -3% %c[255,238,15,26]) \n %c[default] The drug radioprotective effect 'Mexamine',widespread on the Zone. In use causes constriction of peripheral blood vessels and anoxia,which in this case is a means of prevention and treatment of radiation sickness. Well tolerated by the majority of people; in some cases, possible light nausea dizziness,,,less pain and vomiting.</text>
+</string>
+<string id="st_bandage">
+	<text>Bandage</text>
+</string>
+<string id="st_bandage_descr">
+	<text>Antiseptic bandage to stop bleeding and prevent infection in the wound. In normal bleeding allows bandage the wound, with blood - win artery.</text>
+</string>
+<string id="st_binocular_descr">
+	<text>Military binoculars with adjustable (up to 7.5 diopters) multiplicity. Allows a detailed discussion of the terrain and buildings from a distance.</text>
+</string>
+<string id="st_binocular_name">
+	<text>Binoculars</text>
+</string>
+<string id="st_bread">
+	<text>Bread 'City'</text>
+</string>
+<string id="st_bread_descr">
+	<text>No one knows who manages oven loaves in the Zone, or how they pulled through the border. However, this bread is not infected, not radioactive enough fresh and quite edible. In any case, none of the stalkers until complained.</text>
+</string>
+<string id="st_conserva">
+	<text>"Tourist's Breakfast" can</text>
+</string>
+<string id="st_conserva_descr">
+	<text>Presumably, tinned rastaschennogo stalkers Army food warehouse; accurately set is not possible due to lack of any labels. The main thing is that the shelf life does not seem to have expired.</text>
+</string>
+<string id="st_detector1">
+	<text>Echo detector</text>
+</string>
+<string id="st_detector1_descr">
+	<text>Obsolete model of abnormal activity detector. Responds to hit snooze abnormal particles in a special cell, the approach to anomalies; moreover, can detect the presence of artifacts and to measure the distance to the nearest one. Distance to the artifact is defined periodicity supplied sound. The search mode is activated artifacts lifting the lid antenna on the front panel. In view of the simplicity of the design is able to find only the most common artifacts.</text>
+</string>
+<string id="st_detector2">
+	<text>Detector "Bear"</text>
+</string>
+<string id="st_detector3">
+	<text>Veles detector</text>
+</string>
+<string id="st_detector3_descr">
+	<text>Detector scanner a new generation of scientists used. Thanks to the three advanced detection chamber of the detector relative to the location of the artifact is displayed on a special screen. Can detect radiation and the presence of anomalies. Search mode artifacts include elevated indicator-board on the front side of the device; in this mode is able to detect all known science artifacts.</text>
+</string>
+<string id="st_detector4">
+	<text>Detector 'Svarog'</text>
+</string>
+<string id="st_detector4_descr">
+	<text>A prototype of an expanded functionality anomalous frequency scanner. This device comes with a program used to identify static areas of anomalous activity stored in its database, while retaining the ability to locate artifacts. The position of anomalous areas and artifacts is displayed on a special screen. The artifact search mode, which can be activated by opening the front LED display, has been modified to detect anomalous formations currently unknown to science.</text>
+</string>
+<string id="st_device_torch_descr">
+	<text>A standard head-mounted flashlight. Useful for stalkers who find themselves out and about after dark, but may attract trouble if used unwisely.</text>
+</string>
+<string id="st_device_torch_name">
+	<text>Flashlight 'Peasants'</text>
+</string>
+<string id="st_drug_anabiotic">
+	<text>Anabiotics</text>
+</string>
+<string id="st_drug_antidot">
+	<text>Antidote</text>
+</string>
+<string id="st_drug_antidot_descr">
+	<text>%c[default] Hazardous properties: \n %c[255,238,153,26] � %c[default] Infection toxins %c[255,238,15,26] ( %c[255,1,128,54] 5% %c[255,238,15,26]) \n %c[default] The drug 'Antitoksikant IP2' is a set of antidotes: MCP,, pyridoxine thiamine,riboksii and others. Enters into the blood substances capable of degrading protein,, poisons and absorbent synthetic poisons. Especially popular not use,as most stalkers are counting on a gas mask and jumpsuit. Has a long duration of action.</text>
+</string>
+<string id="st_drug_booster">
+	<text>Hercules</text>
+</string>
+<string id="st_drug_coagulant">
+	<text>Vinca</text>
+</string>
+<string id="st_drug_coagulant_descr">
+	<text>%c[default] Hazardous properties: \n %c[255,238,153,26] � %c[default] Infection toxins %c[255,238,15,26] ( %c[255,1,128,54] 5% %c[255,238,15,26]) \n %c[default] 'Vikasol' - a synthetic analogue of vitamin K. The main effect is to increase blood clotting. Demand among stalkers,because it allows the body to quickly scar lacerations. Has a long duration of action.</text>
+</string>
+<string id="st_drug_psy_blockade">
+	<text>Psy-block</text>
+</string>
+<string id="st_drug_psy_blockade_descr">
+	<text>%c[default] Hazardous properties: \n %c[255,238,153,26] � %c[default] Infection toxins %c[255,238,15,26] ( %c[255,1,128,54] 5% %c[255,238,15,26]) \n %c[default] narcotics,snowballing blocking nerve impulses. An interesting side effect of the drug is observed after short-term blocking of any emotion. In the Zone is used to combat anomalous fields increased Psi activity; outside the area of application not found. Has a long duration of action.</text>
+</string>
+<string id="st_drug_radioprotector">
+	<text>Radioprotectant</text>
+</string>
+<string id="st_energy_drink">
+	<text>Stalker energy drink</text>
+</string>
+<string id="st_energy_drink_descr">
+	<text>Often used by stalkers on long trips when no breaks can be afforded. The drink contains easily digestible carbohydrates, as well as drugs that stimulate the release of adrenaline into the bloodstream.</text>
+</string>
+<string id="st_guitar_descr">
+	<text>A trusty guitar.</text>
+</string>
+<string id="st_guitar_name">
+	<text>Guitar</text>
+</string>
+<string id="st_kolbasa">
+	<text>Sausage 'Amateur'</text>
+</string>
+<string id="st_kolbasa_descr">
+	<text>Often, for lack of better, this sausage - a mixture of chicken and soy substitute - becomes breakfast, lunch and dinner stalker. Due to the large amount of preservatives is not spoiled for a long time.</text>
+</string>
+<string id="st_medkit">
+	<text>First-aid kit</text>
+</string>
+<string id="st_medkit_army">
+	<text>Army medkit</text>
+</string>
+<string id="st_medkit_army_descr">
+	<text>%c[default] Hazardous properties: \n %c[255,238,153,26] � %c[default] Infection toxins %c[255,238,15,26] ( %c[255,1,128,54] 5% %c[255,238,15,26]) \n %c[default] Specialized medical kit for first aid treatment of wounds on the battlefield. The set includes a means to accelerate clotting based on 'menadione',, antibiotics and painkillers immune stimulant; besides,here has a simple surgical kit to extract fragments and bullets. Standard Army kit; less common in gear 'dolgovtsev'.</text>
+</string>
+<string id="st_medkit_descr">
+	<text>%c[default] Hazardous properties: \n %c[255,238,153,26] � %c[default] Infection toxins %c[255,238,15,26] ( %c[255,1,128,54] 5% %c[255,238,15,26]) \n %c[default] Universal medical kit single application. Allows you to cope with injuries of various types and degrees of difficulty:,wounds of soft tissue injuries,thermal and chemical burns,all sorts of poisons. Enjoys continued popularity among stalkers.</text>
+</string>
+<string id="st_medkit_science">
+	<text>Scientific medkit</text>
+</string>
+<string id="st_medkit_science_descr">
+	<text>%c[default] Hazardous properties: \n %c[255,238,153,26] � %c[default] Infection toxins %c[255,238,15,26] ( %c[255,1,128,54] 5% %c[255,238,15,26]) \n %c[default],Medical set designed specifically for scientists,who work in the Zone. Comprises means for mechanical injury,healing and to prevent the development of radiation sickness. Unlike other sets,can be found in the 'Vikasol','Batilol' and C-Naphthyzinum.</text>
+</string>
+<string id="st_pda_descr">
+	<text>No data stored.</text>
+</string>
+<string id="st_pda_name">
+	<text>PDA</text>
+</string>
+<string id="st_vodka">
+	<text>Vodka Stolichnaya</text>
+</string>
+<string id="st_vodka_descr">
+	<text>%c[default] Useful properties: \n %c[255,238,153,26] � %c[default] detoxifies %c[255,238,15,26] ( %c[255,1,128,54] -4% %c[255,238,15,26]) \n %c[default] Vodka 'sovdepovskogo' production. Good is drunk,significantly reduces the effects of radiation on the body,though it should not be abused.</text>
+</string>
+<string id="st_detector2_descr">
+	<text>Detection of abnormal activity of the previous generation. Equipped with a locator anomalous formations and LED display to show the direction of the artifact, with not only able to detect artifacts, but also to determine the distance to them. The search mode is activated artifacts lifting the lid antenna on the front side of the device. Unfortunately, the somewhat outdated list obnaruzhaemyh artifacts sewn into the device at the hardware level.</text>
+</string>
+<string id="st_drug_anabiotic_descr">
+	<text>%c[default] Hazardous properties: \n %c[255,238,153,26] � %c[default] Infection toxins %c[255,238,15,26] ( %c[255,1,128,54] 10% %c[255,238,15,26]) \n %c[default],An experimental drug developed for research teams,in the zone. The underlying drug tetradotoksin,known as 'zombie powder',is a complete paralysis of the central nervous system,that,supposed,can help you through the emission outside the shelter. The drug has not been tested in the field and has not passed clinical tests,which casts doubt on its effectiveness and raises the question of possible side effects.</text>
+</string>
+<string id="st_bolt">
+	<text>Bolt</text>
+</string>
+<string id="st_drug_booster_descr">
+	<text>%c[default] Hazardous properties: \n %c[255,238,153,26] � %c[default] Infection toxins %c[255,238,15,26] ( %c[255,1,128,54] 10% %c[255,238,15,26]) \n %c[default] The main component - an artificially created steroid,chemical composition similar to testosterone. It is used in many stalkers transitions to raise the threshold of fatigue muscles. Helps to significantly increase the carrying weight. Long-acting drug.</text>
+</string>
+<string id="st_drug_radioprotector_descr">
+	<text>%c[default] Hazardous properties: \n %c[255,238,153,26] � %c[default] Infection toxins %c[255,238,15,26] ( %c[255,1,128,54] 5% %c[255,238,15,26]) \n %c[default] Radioprotectors 'Indralin-B190',was part of the personal kits NPP workers. Appeared as a substitute in the Zone too toxic cystamine hydrochloride PC1. Reduces the effects of gamma radiation on the living body tissue. It is advisable to apply preventively,, before irradiation because the action of the drug is not instantaneous. Long-acting drug.</text>
+</string>
+<string id="st_harmonica_name">
+	<text>Harmonica</text>
+</string>
+<string id="st_harmonica_descr">
+	<text>For blues and prison romance lovers.</text>
+</string>
+</string_table>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_00">
+	<text>Major, there is one thing - do not want to assist our group?</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_0">
+	<text>Who are you all this? And what are you doing?</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_1">
+	<text>The second question is more like me - it gives hope for a positive response. But I'll start in a row. I Kolmogorov, deputy leader of the Night Stalkers. Our group now controls the southern part of the Dark Valley. Somewhere two years ago, all these places were under the control of the clan of Liberty. Now, one of their leaders was sent here in the valley, a man trusted to investigate the case of one of the past years. And he asked us to assist in the Freedom solution to their problem ...</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_2">
+	<text>And you decided not to pulverize his people, and to bring this matter to an outsider, I mean me? And what will need to be taken?</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_3">
+	<text>It will be necessary to follow the instructions that you get from svobodovskogo agent. I do not think that this case will be solved so easily, but you have more than the necessary training, as opposed to my people. All instructions received from you svobodovtsev will be limited to the collection of any information about their former base in the Dark Valley, and it's about some sort of antenna say ... Well, you are such a job?</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_4">
+	<text>Well, I agree. Perhaps it is really valuable information.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_5">
+	<text>Well, here's his position. Our people at the checkpoint told me that he had arrived from Landfills and waiting for the arrival of my person, therefore potaraplivaysya. And then it will eat mutants and break off our whole raspberries.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_76">
+	<text>Speak.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_44">
+	<text>No, yah them, these svobodovtsev - let them shit in his last Kolupaev.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_55">
+	<text>It is a pity, a second chance, if you change your mind you will not. Me with any requests you can not even handle it.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_56">
+	<text>Oh, scared.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_6">
+	<text>What do you personally know about this svobodovkuyu riddle of the past? And what guarantees that this is not podstvava?</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_7">
+	<text>Guarantees - well, like we have peace with them, I do not think they want to spoil relations with us. Yes, and this case is important first of all to freedom, not us. By the way, your share - half of the total amount. And I personally think that the most likely Svoboda want to get some of the documents stored on their old base, that's just why they do not do it yourself - I know.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_00">
+	<text>You're from the night?</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_0">
+	<text>Yes, I was hired Kolmogorov - to assist you in finding some information and collecting evidence of a signal ...</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_1">
+	<text>All right, I need information to the commander Egghead. This applies to our past Liberty, when we controlled for these places here. There was a time when we still headed by Chekhov - then something with more freedom were considered, rather than now. But we will find a way to bring the authority of the clan, after the failure of the assault undermined Chernobyl. And you'll help us in this.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_2">
+	<text>What is my main problem?</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_22">
+	<text>We will have to carry out several tasks set my command. But I'll start in a row: recently, our technicians have fixed a powerful signal radiation of unknown origin. It comes just from here - from the valley. They failed to intercept and decipher. So here I am. The only powerful emitters in the valley are our old relay antenna. But why are they all of a sudden for no reason, no reason started to work again and bring zakodirovannny signal - is unclear. I have been instructed to find out. You'll help to make the necessary measurements, and then, if all goes well move on to another problem ...</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_222">
+	<text>With the help of what I take readings of the signal?</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_2222">
+	<text>Here, take this. This is my personal scanner. He captures the performance of outgoing pulse frequency. With them, our technicians will be able to decipher its nature and see who could make it work again, these transmitters ... Coordinates antenna of the location I'm loaded.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_22222">
+	<text>I figured go.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_202">
+	<text>Well that took indicators?</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_2021">
+	<text>Yet, working on it.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_2022">
+	<text>Yes, all the indicators from all three antennas fixed your scanner.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_20222">
+	<text>Ok, let it here.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_202222">
+	<text>Take. What's next?</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_3">
+	<text>Thus, the second objective of my mission - is to find caches and the remaining information about the group, located on the territory of the former base. According to eyewitnesses of those days before our clan ukripilsya at military depots, Chekhov, and then his deputy, and later the clan leader - Lukashhid here Clan Information and data relating to ongoing experimentation in the Zone and close to the existing closed secret lab. All three of these caches and you need to find them all, but first you have to eliminate potential rivals.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_4">
+	<text>Which competitors do you mean?</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_5">
+	<text>Mayor, our group now is still very weak, almost no reliable people. Leaked information about our operations. Now on its performance and to know for a long time. Voronin has sent a squad of saboteurs in the valley to curb my activities. I was able to calculate them, they will be waiting when you or I sunemsya to the base, and after Locate documents lure us into a trap. Therefore, you must first remove them, and then break to the main task. I will coordinate your actions.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_6">
+	<text>Well, where these dolgovtsev?</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_7">
+	<text>The detachment is located near the base, destroy them, and then get additional guidance.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_8">
+	<text>OK.</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_00">
+	<text>You survived. That'S Perfect. These mutants, only where they sack ..</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_0">
+	<text>This I have less concerned. What the hell are you doing? Waited until I devour, and then with lukewarm carcass pick up documents and prespokoynenko utyulepat without paying ...</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_1">
+	<text>You're wrong about what you do? I could not intervene. And the wild beasts would not leave anything from you or from the documents, if they could kill you ...</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_2">
+	<text>This is his associates then you will tell, without payment you will not receive their documents.</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_3">
+	<text>So I tell you, and believed. And what prevented me to come to the rescue?</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_4">
+	<text>Well, as I'm alive Videsh. Nothing terrible happened. What's next?</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_22">
+	<text>You have that to blackmail me even think? Although in some ways you're right. The risk must be justified. But not in such a tone you require from Liberty concessions.</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_222">
+	<text>Look, if you do not pay, I do no longer say a word and just shoot the head off you, your corpse solution in the nearest soda, give documents Kolmagoru and say that the pier area, brother. No luck friend Lucas, when we were attacked by mutants. How do you like that tone?</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_2222">
+	<text>Okay, okay. Here's your money, for unforeseen difficulties. Happy now? Further still need help.</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_22222">
+	<text>Completely. What else do you need? Documents their zaberesh?</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_33">
+	<text>I chickened out. Trite chickened out. I can not stand when you carried a pack of monsters. One, two - still did not go. But no more ...</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_333">
+	<text>During both. And how do you then become an agent Fremen. With its some deficiencies?</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_3333">
+	<text>Yes I became. People in our group, after the storming of Chernobyl remains a handful. No one is better anyway not found. Well, since you help me more?</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_33333">
+	<text>Well, what else? Their documents, by the way, take.</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_44">
+	<text>What further. Kolmogorov get in touch. He warned about the strange creatures of activity in the area of the valley. In short should be selected.</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_444">
+	<text>Take your documents. Where do we get out of here better?</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_5">
+	<text>Need to go to a distant checkpoint near the farm. Kolmogorov will be waiting for us there. With him will be a few more people from Liberty. From there I can go to the Cordon.</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_6">
+	<text>What about my share?</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_7">
+	<text>Next to you is targeted Kolmogorov. You just Shall I live to their checkpoint.</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_8">
+	<text>When. Let's move out.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_00">
+	<text>Wow, Major. See you executed agreement. Commendable. documents from the former base svobodovskoy found?</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_0">
+	<text>Yes, Lucas assisted with my hand. Now what about my share?</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_1">
+	<text>Well, you're right on the money. Okay, let's not Tian rubber. Here are your honestly earned. By the way I can suggest something else besides. Only you yourself will have to choose a reward.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_2">
+	<text>What do you mean? Misunderstood.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_3">
+	<text>Well, actually, you are now far way to keep going? Here on your choices and depends what additional reward, but rather a tip on it will receive. Well, the decision is yours. Almost risk nothing. Only in one place may not be anything worthwhile.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_4">
+	<text>Go north.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_5">
+	<text>Will move to the west.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_6">
+	<text>Oh, to the east leads my way.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_44">
+	<text>If you go to the north, the bridge will be. Radiation pohlesche there than in Pripyat is off scale. Only not everywhere. So you look down, do not forget, and you will have happiness. Well, go.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_444">
+	<text>Yeah, good advice. Take a look and down too.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_55">
+	<text>To the west the whole of Russia moved, and you there too. Well, well. As farm evaded from the fence in front of the booth, a little chat. Do not miss your artifact. Go.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_555">
+	<text>Better to the west rather than the east. See what you're there for the artifact hid ..</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_66">
+	<text>Oh, East is a delicate matter and cunning, Major. There, behind a high hill, with great stones, very little of which is growing. That's why you will not pass by. Good luck, stalker.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_666">
+	<text>Let's see how everything is tricky. It happens.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_7">
+	<text>Oh you, an anomaly, with such a choice. The money you paid me, and look nepoymi what and where I'm going.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_77">
+	<text>Well, as you wish. My offer, your refuse. Good luck, stalker.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_777">
+	<text>And you do not get ill.</text>
+</string>

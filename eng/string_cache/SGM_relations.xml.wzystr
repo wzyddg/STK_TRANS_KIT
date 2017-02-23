@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string id="no_community">
+	<text>None</text>
+</string>
+<string id="trader">
+	<text>Trader</text>
+</string>
+<string id="bodyguard_a">
+	<text>'Bodyguard'</text>
+</string>
+<string id="bodyguard_b">
+	<text>'Bodyguard'</text>
+</string>
+<string id="bodyguard_c">
+	<text>'Bodyguard'</text>
+</string>
+<string id="bodyguard_d">
+	<text>'Bodyguard'</text>
+</string>
+<string id="bodyguard_e">
+	<text>'Bodyguard'</text>
+</string>
+<string id="bodyguard_f">
+	<text>'Bodyguard'</text>
+</string>
+<string id="actor_bandit">
+	<text>'Bandits'</text>
+</string>
+<string id="actor_monolit">
+	<text>Monolith</text>
+</string>
+<string id="actor_killer">
+	<text>'Mercenaries'</text>
+</string>
+<string id="actor_rasvet">
+	<text>'Breaking Dawn'</text>
+</string>
+<string id="actor_freedom">
+	<text>Freedom</text>
+</string>
+<string id="actor_dolg">
+	<text>Duty</text>
+</string>
+<string id="monolith_alies">
+	<text>Monolith</text>
+</string>
+<string id="bandit_alies">
+	<text>'Bandits'</text>
+</string>
+<string id="rasvet">
+	<text>'Breaking Dawn'</text>
+</string>
+<string id="agent">
+	<text>'SBU'</text>
+</string>
+<string id="feuding">
+	<text>'Criminals'</text>
+</string>
+<string id="defending">
+	<text>'Vulnerable'</text>
+</string>
+<string id="killer_enemy">
+	<text>'Mercenaries'</text>
+</string>
+<string id="killer_alies">
+	<text>'Mercenaries'</text>
+</string>
+<string id="stalker_alies">
+	<text>'Free stalkers'</text>
+</string>
+<string id="killer_bunker">
+	<text>'Mercenaries'</text>
+</string>
+<string id="army_alies">
+	<text>'Military'</text>
+</string>
+<string id="alfa_force">
+	<text>Detachment 'Alpha'</text>
+</string>
+<string id="renegade">
+	<text>'Renegades'</text>
+</string>
+<string id="night_stalker">
+	<text>'The Night Stalker'</text>
+</string>
+<string id="mercenary">
+	<text>'Wage commandos'</text>
+</string>
+<string id="bandit_enemy">
+	<text>'Bandits'</text>
+</string>

@@ -403,9 +403,10 @@ public class MainTrans {
 	}
 	
 	public static String clearString(String str) {
-		str = str.replaceAll("<!--[\\s\\S]*?-->", "").replaceAll("&apos;", "'").replaceAll("&quot;", "\"")
+		str = str.replaceAll("<!--[\\s\\S]*?-->", "").replaceAll("(?:&apos;|&quot;)", Matcher.quoteReplacement("'"))
+				.replaceAll(Pattern.quote("\""), Matcher.quoteReplacement("'")).replaceAll("，", ",").replaceAll("：", ":")
 				.replaceAll("(?:&lt;|&gt;)", "<").replaceAll("(?:</|/>)", "").replaceAll("(?:<|>)", "")
-				.replaceAll("\\\\[\\s]+?n", "\\\\n").replaceAll("\\\\n(?:\\\\n|\\s)*\\\\n", Matcher.quoteReplacement("\\n"));
+				.replaceAll("\\\\[\\s]+?n", Matcher.quoteReplacement("\\n")).replaceAll("\\\\n(?:\\\\n|\\s)*\\\\n", Matcher.quoteReplacement("\\n"));
 		
 		return str;
 	}

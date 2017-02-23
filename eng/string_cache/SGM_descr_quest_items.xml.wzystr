@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string id="st_signaller_toolkit_1_descr">
+	<text>Designed for high-quality marching troop repair equipment.</text>
+</string>
+<string id="st_signaller_toolkit_1">
+	<text>Orc army Tools 42</text>
+</string>
+<string id="st_signaller_toolkit_2_descr">
+	<text>Designed for setup and calibration of army equipment.</text>
+</string>
+<string id="st_signaller_toolkit_2">
+	<text>Army tools RCH-86u</text>
+</string>
+<string id="st_special_helicopter_key">
+	<text>Universal key pilot</text>
+</string>
+<string id="st_special_helicopter_key_descr">
+	<text>Designed for emergency access helicopters.</text>
+</string>
+<string id="st_detector_modify_toolkit_descr">
+	<text>Professional set of tools for fine repair and modernization detectors. What is included in the kit is sufficient for any work on setting up and modernization of all types of detectors.</text>
+</string>
+<string id="st_detector_modify_toolkit">
+	<text>Tools for use with the detectors</text>
+</string>
+<string id="st_important_science_docks">
+	<text>Scientific report �1264</text>
+</string>
+<string id="st_important_science_docks_descr">
+	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Merge anomalous rock' \n S/N 1264</text>
+</string>
+<string id="st_flash_avoid_witnesses_name">
+	<text>Data location SBU �15764</text>
+</string>
+<string id="st_flash_avoid_witnesses_descr">
+	<text>Sticky Information: A group of mercenaries detained by our agent in the vicinity of Jupiter. There is reason to believe that our agent is still alive. Your goal - the liberation of the agent and the neutralization of mercenaries who resisted. For safe passage into the camp - use 'Coverall mercenary '. \n To download the data in the PDA - should be used.</text>
+</string>
+<string id="st_letter_from_agent">
+	<text>Letter from a connected</text>
+</string>
+<string id="st_letter_from_agent_descr">
+	<text>In the letter it says: Major Degtyarev. You need to urgently meet with connected power in the territory. Callsign - 'How is your fillet?'.</text>
+</string>
+<string id="st_quest_flash_light">
+	<text>Lantern with optics 'Messler'</text>
+</string>
+<string id="st_quest_flash_light_descr">
+	<text>Halogen lamp and optical sight mounted in a common housing.</text>
+</string>
+<string id="st_quest_arms_case">
+	<text>Case with 'Ruger GP100'</text>
+</string>
+<string id="st_quest_arms_case_descr">
+	<text>Inside the case is parsed 'Ruger GP100', as well as repair kit to it.</text>
+</string>
+<string id="st_quest_heavy_medkits">
+	<text>Medkomplekt 'CCA72'</text>
+</string>
+<string id="st_quest_heavy_medkits_descr">
+	<text>Used by the MOE, universal medical kit with defibrillator.</text>
+</string>
+<string id="st_quest_photo_device">
+	<text>Camera 'Suzanna'</text>
+</string>
+<string id="st_quest_photo_device_descr">
+	<text>Medium-format analog camera with a tripod hard Attachments.</text>
+</string>
+<string id="st_quest_drink_beylis">
+	<text>'Baileys'</text>
+</string>
+<string id="st_quest_drink_beylis_descr">
+	<text>Rare drink, at least within the zone.</text>
+</string>
+<string id="st_quest_frequency_radio">
+	<text>High-frequency radio 'Grundig'</text>
+</string>
+<string id="st_quest_frequency_radio_descr">
+	<text>Is used for communication over vast distances. Manufactured in Germany.</text>
+</string>
+<string id="st_quest_sharpshooter_binocular">
+	<text>Binoculars 'Ranger'</text>
+</string>
+<string id="st_quest_sharpshooter_binocular_descr">
+	<text>Specialized army binoculars. Included in the equipment of military snipers.</text>
+</string>
+<string id="st_quest_live_water">
+	<text>Living Water</text>
+</string>
+<string id="st_quest_live_water_descr">
+	<text>Another miracle is born within the zone.</text>
+</string>
+<string id="st_quest_medic_medkit">
+	<text>First Aid Kit V98</text>
+</string>
+<string id="st_quest_medic_medkit_descr">
+	<text>A large medical kit. Copes with any injury or bleeding.</text>
+</string>
+<string id="st_quest_bloodsucker_letter_1">
+	<text>Strange note 1</text>
+</string>
+<string id="st_quest_bloodsucker_letter_1_descr">
+	<text>The letter listed the following: '... you're the first one who saw me ... I'm saved a life ... in exchange for silence and ... and help. Help me ... I can not appear among the people, but I know that scientists certainly have what I need ... NG-7. Bring me this drug. It will help me. And I thank you enough. ' \n To download the data in the PDA - should be used.</text>
+</string>
+<string id="st_quest_bloodsucker_letter_2">
+	<text>Strange note 2</text>
+</string>
+<string id="st_quest_bloodsucker_letter_2_descr">
+	<text>The letter listed the following: 'Thank you. Look into my box, it is at the end of the corridor. There's your reward.'</text>
+</string>
+<string id="st_quest_bloodsucker_vaccine">
+	<text>Vaccine NG-7</text>
+</string>
+<string id="st_quest_bloodsucker_vaccine_descr">
+	<text>Ozersky did not say anything about this drug, but I believe that this drug stops the mutation.</text>
+</string>
+<string id="st_device_pda_alfa_commander_novice">
+	<text>PDA commander of Alpha</text>
+</string>
+<string id="st_device_pda_alfa_commander_novice_descr">
+	<text>%c[255,238,153,26] The team leader auxiliary facilities. %c[default] Order - all support groups! Provide support to groups of special forces or possibly himself - to capture dead or alive Degtyarev Alexander G  born in 1978,a native of the town of Pripyat Ukraine. Features:,thin build-looking 25-30 years,height - 179 cm,, hair wavy light brown. Wanted,Major SBU All items found during it,immediately deliver to the center. Pay special attention to the safety of the flash-drive,paper and electronic media. 5 times the reward for the successful execution of the task!</text>
+</string>
+<string id="st_device_pda_alfa_commander_regular">
+	<text>PDA commander of Alpha</text>
+</string>
+<string id="st_device_pda_alfa_commander_regular_descr">
+	<text>%c[255,238,153,26] The commander of the Special Operations Group. %c[default] Order - all groups of special purpose! Capture dead or alive Degtyarev Alexander G  born in 1978,native town of Pripyat Ukraine. Features:,thin build-looking 25-30 years,height - 179 cm,, hair wavy light brown. Wanted,Major SBU All items found during it,immediately deliver to the center. Pay special attention to the safety of the flash-drive,paper and electronic media. 10 fold reward for the successful execution of the task!</text>
+</string>
+<string id="st_device_pda_alfa_commander_experienced">
+	<text>PDA commander of Alpha</text>
+</string>
+<string id="st_device_pda_alfa_commander_experienced_descr">
+	<text>%c[255,238,153,26] The commander of the Special Operations Group. %c[default] Order - all support teams and groups of special purpose! Capture dead or alive Degtyarev Alexander G  born in 1978,native town of Pripyat Ukraine. Features:,thin build-looking 25-30 years,height - 179 cm,, hair wavy light brown. Wanted,Major SBU All items found during it,immediately deliver to the center. Pay special attention to the safety of the flash-drive,paper and electronic media. 15 fold reward for the successful execution of the task!</text>
+</string>
+<string id="st_device_pda_alfa_commander_veteran">
+	<text>PDA commander of Alpha</text>
+</string>
+<string id="st_device_pda_alfa_commander_veteran_descr">
+	<text>%c[255,238,153,26] The commander of a special elite unit. %c[default] Order - all groups of special elite unit! Capture dead or alive Degtyarev Alexander G  born in 1978,native town of Pripyat Ukraine. Features:,thin build-looking 25-30 years,height - 179 cm,, hair wavy light brown. Wanted,Major SBU All items found during it,immediately deliver to the center. Pay special attention to the safety of the flash-drive,paper and electronic media. 20 fold reward for the successful execution of the task!</text>
+</string>
+<string id="st_device_pda_alfa_commander_master">
+	<text>PDA commander of Alpha</text>
+</string>
+<string id="st_device_pda_alfa_commander_master_descr">
+	<text>%c[255,238,153,26] The commander of a special super elite unit. %c[default] Order - all groups over a special elite unit! Capture dead or alive Degtyarev Alexander G  born in 1978,native town of Pripyat Ukraine. Features:,thin build-looking 25-30 years,height - 179 cm,, hair wavy light brown. Wanted,Major SBU All items found during it,immediately deliver to the center. Pay special attention to the safety of the flash-drive,paper and electronic media. 30 fold reward for the successful execution of the task!</text>
+</string>
+<string id="st_device_pda_b1_commander">
+	<text>PDA 'Bulldog'</text>
+</string>
+<string id="st_device_pda_b1_commander_descr">
+	<text>PDA with valuable information for stalkers.</text>
+</string>
+<string id="st_device_pda_b1_renegade_1">
+	<text>PDA renegatovtsa</text>
+</string>
+<string id="st_device_pda_b1_renegade_1_descr">
+	<text>PDA with valuable information for stalkers.</text>
+</string>
+<string id="st_device_pda_b1_renegade_2">
+	<text>PDA renegatovtsa</text>
+</string>
+<string id="st_device_pda_b1_renegade_2_descr">
+	<text>PDA with valuable information for stalkers.</text>
+</string>
+<string id="st_device_pda_b1_renegade_3">
+	<text>PDA renegatovtsa</text>
+</string>
+<string id="st_device_pda_b1_renegade_3_descr">
+	<text>PDA with valuable information for stalkers.</text>
+</string>
+<string id="st_device_pda_kasilov">
+	<text>PDA 'Kasilova'</text>
+</string>
+<string id="st_device_pda_kasilov_descr">
+	<text>PDA with unknown information.</text>
+</string>
+<string id="st_device_pda_cherniy">
+	<text>PDA 'Black'</text>
+</string>
+<string id="st_device_pda_cherniy_descr">
+	<text>flash-drive leader of mercenaries. Information from the flash-drive: Our password - 'raskukozhenaya cuckoo.'</text>
+</string>
+<string id="st_monolith_intercepted_case">
+	<text>Case 'Leon'</text>
+</string>
+<string id="st_monolith_intercepted_case_descr">
+	<text>Case intercepted agent at Monolith mercenaries. Leon asked to bring a case in Pripyat, without opening it.</text>
+</string>
+<string id="st_jup_thief_voron_pda">
+	<text>PDA 'Raven'</text>
+</string>
+<string id="st_jup_thief_voron_pda_descr">
+	<text>PDA contains the zipped file archive is password protected. My PDA does not support this version of the archiver. You need to pass the PDA Stormbreaker - perhaps he can extract information.</text>
+</string>
+<string id="st_zat_shakal_weapon">
+	<text>Named 'Ruger GP100'</text>
+</string>
+<string id="st_zat_shakal_weapon_descr">
+	<text>Personal arms. Achieved under the order, the handle flaunts the inscription 'Chapa'.</text>
+</string>
+<string id="st_af_acid_star_name">
+	<text>'Acid ciliates'</text>
+</string>
+<string id="st_af_acid_star_descr">
+	<text>Unique artifact with excellent barrier properties. You must take his breeder ... sorry.</text>
+</string>
+<string id="st_af_shapoklak_name">
+	<text>'Shapoklyak'</text>
+</string>
+<string id="st_af_shapoklak_descr">
+	<text>Unique artifact with good protective and restorative properties. However emits radiation. You need to pass an artifact Krivouhovu.</text>
+</string>
+<string id="st_zat_postman_parcel">
+	<text>Sending for savers</text>
+</string>
+<string id="st_zat_postman_parcel_descr">
+	<text>According stalker Petka Pechkin, inside is a license fee. Recipient - Markovic saver on Skadovsk.</text>
+</string>
+<string id="st_zat_danger_parcel">
+	<text>Sending for Kanev</text>
+</string>
+<string id="st_zat_danger_parcel_descr">
+	<text>What Avenger disparagingly called the 'fireworks' really looks like a well-packed charge of C-4 with the detonator. Beneficiary - 'dolgovets' Kanev.</text>
+</string>
+<string id="st_shustriy_ingram_m10">
+	<text>Trophy 'Ingram Mac-10'</text>
+</string>
+<string id="st_shustriy_ingram_m10_descr">
+	<text>On the handle of submachine gun engraved. You can make out only 'for the excellent sl..bu ... ..' and someone's initials' AS P.shk.n '.</text>
+</string>
+<string id="st_shustriy_ak47">
+	<text>Trophy 'AK-47'</text>
+</string>
+<string id="st_shustriy_ak47_descr">
+	<text>Old shabby automatic, with traces of someone's claws on the butt. Weapons, about which legends. In particular - said that he tagged killed out of him last in the Zone 'break.'</text>
+</string>
+<string id="st_shustriy_mossberg_590mk">
+	<text>Trophy 'Mossberg 590Mk.L'</text>
+</string>
+<string id="st_shustriy_mossberg_590mk_descr">
+	<text>Judging from the appearance, this weapon long trampled into the ground; And, most likely, in the vicinity of 'agricultural industry.' Factory inscription on the butt says that it is a shotgun from a limited batch differs by more qualitative burnished.</text>
+</string>
+<string id="st_shustriy_steyr_aug_ss190">
+	<text>Trophy 'Steyr AUG SS190'</text>
+</string>
+<string id="st_shustriy_steyr_aug_ss190_descr">
+	<text>Weapons for these commandos. Above this weapon worked technician who knows his business, significantly improve the combat characteristics. According to rumors, it was a screw - the legendary craftsman with 'military warehouse.'</text>
+</string>
+<string id="st_detector_serafim">
+	<text>Detector 'Seraphim'</text>
+</string>
+<string id="st_detector_serafim_descr">
+	<text>Special development scientists. Equipped with a locator anomalous formations and LED display to show the direction of the unknown sample, with not only able to detect patterns, but also to determine the distance to them. The search mode is activated samples lifting the lid antenna on the front side of the device.</text>
+</string>
+<string id="st_af_prodigy_danger_name">
+	<text>'An unknown artifact'</text>
+</string>
+<string id="st_af_prodigy_danger_descr">
+	<text>Radioactive. The properties of the artifact virtually nothing is known.</text>
+</string>
+<string id="st_af_prodigy_1_processed_name">
+	<text>'Breed �768'</text>
+</string>
+<string id="st_af_prodigy_1_processed_descr">
+	<text>Artifact of organic nature. Consists of a deformed animal tissues. When injected into the area of chemical pollution begins 'pull' chemicals from the air and convert it into a thick viscous mass.</text>
+</string>
+<string id="st_af_prodigy_2_processed_name">
+	<text>'Breed �815'</text>
+</string>
+<string id="st_af_prodigy_2_processed_descr">
+	<text>It is well established that the radiation produced by ripple thickening of this breed, causes blood in open wounds very quickly phased out.</text>
+</string>
+<string id="st_af_prodigy_3_processed_name">
+	<text>'Breed �862'</text>
+</string>
+<string id="st_af_prodigy_3_processed_descr">
+	<text>The organic artifact with unique properties. Yet unknown way increases the overall speed of regeneration after injury of any nature, without accelerating the accumulation of toxins.</text>
+</string>
+<string id="st_af_prodigy_4_processed_name">
+	<text>'Breed �874'</text>
+</string>
+<string id="st_af_prodigy_4_processed_descr">
+	<text>Artifact electrostatic nature. Can dramatically increase the muscle tone of the carrier.</text>
+</string>
+<string id="st_af_prodigy_5_processed_name">
+	<text>'Breed �895'</text>
+</string>
+<string id="st_af_prodigy_5_processed_descr">
+	<text>Generates around itself the sphere of directions of the gravitational field. Very effective in reducing the weight of the contents of the rucksack carrier.</text>
+</string>
+<string id="st_af_prodigy_6_processed_name">
+	<text>'Breed �934'</text>
+</string>
+<string id="st_af_prodigy_6_processed_descr">
+	<text>The organic artifact. Generates around itself invisible sphere, which boosts immunity carrier.</text>
+</string>
+<string id="st_x18_secret_docks_1">
+	<text>Case �45</text>
+</string>
+<string id="st_x18_secret_docks_1_descr">
+	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Top Secret' \n S/N 773645</text>
+</string>
+<string id="st_x18_secret_docks_2">
+	<text>Case �112</text>
+</string>
+<string id="st_x18_secret_docks_2_descr">
+	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Top Secret' \n S/N 7736112</text>
+</string>
+<string id="st_x18_secret_docks_3">
+	<text>Case �18</text>
+</string>
+<string id="st_x18_secret_docks_3_descr">
+	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Top Secret' \n S/N 773618</text>
+</string>
+<string id="st_val_key_from_safe">
+	<text>Key to the safe</text>
+</string>
+<string id="st_val_key_from_safe_descr">
+	<text>Key to the safe, which must lie card access to the underground laboratory.</text>
+</string>
+<string id="st_zat_medic_antidote">
+	<text>Antidote paramedics</text>
+</string>
+<string id="st_zat_medic_antidote_descr">
+	<text>Making a chiropractor.</text>
+</string>
+<string id="st_zat_wisdom_book_1">
+	<text>The book 'Wisdom'</text>
+</string>
+<string id="st_zat_wisdom_book_1_descr">
+	<text>Rare in the area book.</text>
+</string>
+<string id="st_zat_wisdom_book_2">
+	<text>The book 'Wisdom'</text>
+</string>
+<string id="st_zat_wisdom_book_2_descr">
+	<text>Rare in the area book.</text>
+</string>
+<string id="st_zat_wisdom_book_3">
+	<text>The book 'Wisdom'</text>
+</string>
+<string id="st_zat_wisdom_book_3_descr">
+	<text>Rare in the area book.</text>
+</string>
+<string id="st_zat_mad_dog_pda">
+	<text>PDA captain Rogozhina</text>
+</string>
+<string id="st_zat_mad_dog_pda_descr">
+	<text>PDA with precious information for the leader of free stalkers - Sword.</text>
+</string>
+<string id="st_pri_inquisitor_pda_1">
+	<text>PDA Monolith</text>
+</string>
+<string id="st_pri_inquisitor_pda_1_descr">
+	<text>PDA data.</text>
+</string>
+<string id="st_pri_inquisitor_pda_2">
+	<text>PDA Monolith</text>
+</string>
+<string id="st_pri_inquisitor_pda_2_descr">
+	<text>PDA data.</text>
+</string>
+<string id="st_pri_fenix_brother_medallion">
+	<text>Medallion of Germanicus</text>
+</string>
+<string id="st_pri_fenix_brother_medallion_descr">
+	<text>Personal medallion brother Phoenix - Germanicus.</text>
+</string>
+<string id="st_val_access_card_x18">
+	<text>Access Map</text>
+</string>
+<string id="st_val_access_card_x18_descr">
+	<text>Map access to the lab X18.</text>
+</string>
+<string id="st_val_b4_baltazar_pda">
+	<text>PDA Balthazar</text>
+</string>
+<string id="st_val_b4_baltazar_pda_descr">
+	<text>PDA with valuable information.</text>
+</string>
+<string id="st_x18_secret_gs67">
+	<text>Secret Weapon</text>
+</string>
+<string id="st_mil_hole_bomb">
+	<text>C4 explosives</text>
+</string>
+<string id="st_mil_hole_bomb_descr">
+	<text>Explosive charge. Comes complete with a remote control.</text>
+</string>
+<string id="st_mil_hole_bomb_control">
+	<text>Remote Control C4 charge</text>
+</string>
+<string id="st_mil_hole_bomb_control_descr">
+	<text>For remote detonation charge C4 - to use.</text>
+</string>
+<string id="st_val_renegade_money_case">
+	<text>Box with money</text>
+</string>
+<string id="st_val_renegade_money_case_descr">
+	<text>Steel box with a fortune inside.</text>
+</string>
+<string id="st_jup_killer_caravan_case">
+	<text>Cargo caravan</text>
+</string>
+<string id="st_jup_killer_caravan_case_descr">
+	<text>Steel box with something inside.</text>
+</string>
+<string id="st_agru_key_from_door">
+	<text>Key to the door</text>
+</string>
+<string id="st_agru_key_from_door_descr">
+	<text>The key is found in the dead scientist.</text>
+</string>
+<string id="st_agru_secret_docks_1">
+	<text>Case �708</text>
+</string>
+<string id="st_agru_secret_docks_1_descr">
+	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Top Secret' \n S/N 7736708</text>
+</string>
+<string id="st_agru_secret_docks_2">
+	<text>Case �711</text>
+</string>
+<string id="st_agru_secret_docks_2_descr">
+	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Top Secret' \n S/N 7736711</text>
+</string>
+<string id="st_esc_key_from_gate">
+	<text>Key to the gate</text>
+</string>
+<string id="st_esc_key_from_gate_descr">
+	<text>Key bandits. Used to open the gate leading to the Swamps</text>
+</string>
+<string id="st_esc_b2_bomb">
+	<text>C4 explosives</text>
+</string>
+<string id="st_esc_b2_bomb_descr">
+	<text>Explosive charge. Comes complete with a remote control.</text>
+</string>
+<string id="st_esc_b2_bomb_control">
+	<text>Remote Control C4 charge</text>
+</string>
+<string id="st_esc_b2_bomb_control_descr">
+	<text>For remote detonation charge C4 - to use.</text>
+</string>
+<string id="st_esc_b2_tamerlan_flash">
+	<text>Flash card Tamerlane</text>
+</string>
+<string id="st_esc_b2_tamerlan_flash_descr">
+	<text>Flash card taken from the body of Tamerlane.</text>
+</string>
+<string id="st_esc_b3_safe_flash">
+	<text>Flash card bandits</text>
+</string>
+<string id="st_esc_b3_safe_flash_descr">
+	<text>USB flash drive with useful information for stalkers.</text>
+</string>
+<string id="st_esc_b3_safe_key">
+	<text>Key to the safe</text>
+</string>
+<string id="st_esc_b3_safe_key_descr">
+	<text>Key bandits. Is used to open the safe.</text>
+</string>
+<string id="st_mar_army_cargo">
+	<text>Military luggage</text>
+</string>
+<string id="st_mar_army_cargo_descr">
+	<text>Army cargo. Inside contains a chemical unknown to me. Need to pass it to the SBU.</text>
+</string>
+<string id="st_mar_mine_sensor">
+	<text>Sensor for a detector</text>
+</string>
+<string id="st_mar_mine_sensor_descr">
+	<text>The most important part of any mine detector.</text>
+</string>
+<string id="st_mar_mine_detector">
+	<text>Mine detector</text>
+</string>
+<string id="st_mar_mine_detector_descr">
+	<text>It can help you to find and defuse mines hidden under the ground.</text>
+</string>
+<string id="st_mar_georadar">
+	<text>GPR</text>
+</string>
+<string id="st_mar_georadar_descr">
+	<text>With the help of GPR can find any piece of iron, no matter how deep underground it may be. Detection radius - 30 meters.</text>
+</string>
+<string id="st_zat_alfa_performer_bandit_pda">
+	<text>PDA unknown gunman</text>
+</string>
+<string id="st_zat_alfa_performer_bandit_pda_descr">
+	<text>Information from the flash-drive: 'Thank you for the work done, the money will take the forest near our Iron Man'.</text>
+</string>
+<string id="st_zat_alfa_customer_pda">
+	<text>PDA alfovtsa</text>
+</string>
+<string id="st_zat_alfa_customer_pda_descr">
+	<text>Information from the flash-drive: 'Five of the charges laid in the five points of possible occurrence of an agent of the SBU, the money ready for transfer.'</text>
+</string>
+<string id="st_jup_azot_simply_raciya">
+	<text>Radio</text>
+</string>
+<string id="st_jup_azot_simply_raciya_descr">
+	<text>Ordinary radio with FM receiver.</text>
+</string>
+<string id="st_jup_azot_charge_instruments">
+	<text>Tools for working with explosives</text>
+</string>
+<string id="st_jup_azot_charge_instruments_descr">
+	<text>Special kit for neutralization of charges.</text>
+</string>
+<string id="st_jup_azot_charge_scanner">
+	<text>Low-frequency scanner</text>
+</string>
+<string id="st_jup_azot_charge_scanner_descr">
+	<text>Special scanner for DF charges. Search radius - 50 meters.</text>
+</string>
+<string id="st_red_psyho_development_1">
+	<text>An experimental drug psycho-1</text>
+</string>
+<string id="st_red_psyho_development_1_descr">
+	<text>The drug developed by scientists to combat psy-radiation.</text>
+</string>
+<string id="st_red_psyho_development_2">
+	<text>An experimental drug psycho-2</text>
+</string>
+<string id="st_red_psyho_development_2_descr">
+	<text>The drug developed by scientists to combat psy-radiation.</text>
+</string>
+<string id="st_red_psyho_killer_pda_1">
+	<text>PDA guard expedition scientists</text>
+</string>
+<string id="st_red_psyho_killer_pda_1_descr">
+	<text>Information from the flash-drive: 'People for the protection of almost gone. Mutants attack everything with renewed vigor. Tomorrow will come back.'</text>
+</string>
+<string id="st_red_psyho_killer_pda_2">
+	<text>PDA member of the expedition</text>
+</string>
+<string id="st_red_psyho_killer_pda_2_descr">
+	<text>Information from the flash-drive: 'The drug is almost done, it remains to test it. The group received the drug went to the center location for his trial.'</text>
+</string>
+<string id="st_red_psyho_ecolog_pda">
+	<text>PDAs research group</text>
+</string>
+<string id="st_red_psyho_ecolog_pda_descr">
+	<text>Information from the flash-drive: 'preparty was applied to a group of protection, performance surprised us. Everything went very well. The second we invented a drug to reduce the activity of the psy-supervisor has been applied to the entrapment us Controllers, but unfortunately his psychic activity has not decreased, and vice versa increased several times. '</text>
+</string>

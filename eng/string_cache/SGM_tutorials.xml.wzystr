@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string id="st_about_agroprom_underground_danger_text">
+	<text>Attention, tip! If now in the game options set is not 'static' light, it can happen crash to the desktop. Recommend to the time of the 'dungeon agricultural industry' to move to the 'static lighting'.</text>
+</string>
+<string id="st_about_unique_treasure_offline_text">
+	<text>Access card can not be activated in this area.</text>
+</string>
+<string id="st_about_critical_toxicity_text">
+	<text>Found critical content in the blood of toxins. Requires taking the drug 'Psihodelin' or a visit to a physician.</text>
+</string>
+<string id="st_about_critical_pstor_text">
+	<text>Warning! A fatal error occurred. Save, you just made - flew upside down. Continuation of the game impossible. Try to boot from an earlier save and go now another order.</text>
+</string>
+<string id="st_about_remote_limit_text">
+	<text>More than three charges can not be set, because the controller does not support simultaneous detonation of four or more charges.</text>
+</string>
+<string id="st_about_actor_is_sleep_text">
+	<text>Unfortunately it is impossible to go to sleep now. SG was already asleep.</text>
+</string>
+<string id="st_about_actor_no_sleep_text">
+	<text>Unfortunately now sleep impossible, YY still not tired. Normal sleep SG: from 21:00 to 6:00</text>
+</string>
+<string id="st_about_dont_sleep_place_text">
+	<text>SG can not spend the night here, too dangerous a place. Need to find a special place to stay.</text>
+</string>
+<string id="st_about_utilizator_box_text">
+	<text>You just used the personal heat exchanger. Now that you have laid your objects in the recovery, some stalkers will look into this box. If stalkers will have to like the contents of the box, they take him away, and you keep the money.</text>
+</string>
+<string id="st_about_mechanic_stripping_text">
+	<text>For the replenishment of parts, put it in a safe weapon, armor, or artifact. And then, to talk to the mechanic. Position status is not critical, but if you put the subject to the state of the strength of more than 90%, the mechanic will get more parts.</text>
+</string>
+<string id="st_about_guidebook_no_use_text">
+	<text>GPS-Guide does not work on this area.</text>
+</string>
+<string id="st_about_capture_meal_used_text">
+	<text>X8P25 drug already in use.</text>
+</string>
+<string id="st_storyline_no_heli_key_text">
+	<text>Malfunction of doors - got burned all the electronics. Need a special key.</text>
+</string>
+<string id="st_jup_night_runner_armor_text">
+	<text>This bandit strong defense of gunshot wounds, try to get closer.</text>
+</string>
+<string id="st_pri_monolith_use_temple_text">
+	<text>Speak with the monolith ($$ACTION_USE$$)</text>
+</string>
+<string id="st_inventory_box_is_locked">
+	<text>The box is locked.</text>
+</string>
+<string id="st_taynik_check_descr">
+	<text>Check cache ($$ACTION_USE$$)</text>
+</string>
+<string id="st_taynik_check2_descr">
+	<text>Search ($$ACTION_USE$$)</text>
+</string>
+<string id="st_taynik_installed_descr">
+	<text>Stash installed</text>
+</string>
+<string id="st_take_retranslator">
+	<text>Raise repeater ($$ACTION_USE$$)</text>
+</string>
+<string id="st_retranslator_is_heavy">
+	<text>The repeater is too heavy</text>
+</string>
+<string id="st_safe_check_descr">
+	<text>Check room safe ($$ACTION_USE$$)</text>
+</string>
+<string id="st_safe_is_locked_need_key">
+	<text>Safe is secure. Need a key.</text>
+</string>
+<string id="st_setup_bomb_descr">
+	<text>Plant explosives ($$ACTION_USE$$)</text>
+</string>
+<string id="st_kran_press_descr">
+	<text>Turn valve ($$ACTION_USE$$)</text>
+</string>
+<string id="st_utilizator_box_check_descr">
+	<text>Check recovery ($$ACTION_USE$$)</text>
+</string>
+<string id="st_mechanic_box_check_descr">
+	<text>Check safe mechanics ($$ACTION_USE$$)</text>
+</string>
+<string id="st_shron_check_descr">
+	<text>Complement caches ($$ACTION_USE$$)</text>
+</string>
+<string id="st_shron_installed_descr">
+	<text>Caches laid</text>
+</string>
+<string id="st_hiding_check_descr">
+	<text>Check caches ($$ACTION_USE$$)</text>
+</string>
+<string id="st_use_chicken_rabua">
+	<text>Use chicken ($$ACTION_USE$$)</text>
+</string>
+<string id="val_lucas_quest_antenner_tips">
+	<text>Lock signal ($$ACTION_USE$$)</text>
+</string>
+<string id="jup_a6_azot_quest_cheked">
+	<text>Unlock the electronic module ($$ACTION_USE$$)</text>
+</string>
+<string id="st_ph_universal_default">
+	<text>Use ($$ACTION_USE$$)</text>
+</string>
+<string id="st_set_radio_on">
+	<text>Turn on the radio ($$ACTION_USE$$)</text>
+</string>
+<string id="st_set_radio_off">
+	<text>Turn off the radio ($$ACTION_USE$$)</text>
+</string>
+<string id="st_esc_trader_door_tip">
+	<text>Try to open the door ($$ACTION_USE$$)</text>
+</string>
+<string id="st_examine_object_tip">
+	<text>Inspect ($$ACTION_USE$$)</text>
+</string>
+<string id="st_render_innocuous_tip">
+	<text>Neutralize ($$ACTION_USE$$)</text>
+</string>
+<string id="st_explosive_object_activate_tip">
+	<text>Activate charge ($$ACTION_USE$$)</text>
+</string>
+<string id="st_script_object_code_tip">
+	<text>Enter the access code ($$ACTION_USE$$)</text>
+</string>
+<string id="st_treasure_object_use_tip">
+	<text>Check cache ($$ACTION_USE$$)</text>
+</string>
+<string id="st_treasure_object_code_tip">
+	<text>Enter the access code ($$ACTION_USE$$)</text>
+</string>

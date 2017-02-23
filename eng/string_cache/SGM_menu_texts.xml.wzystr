@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string id="ui_mm_mod_option">
+	<text>Options 'Fashion'</text>
+</string>
+<string id="ui_mm_show_actor_position">
+	<text>Coordinate</text>
+</string>
+<string id="kb_zoom_inc">
+	<text>Sight: bring</text>
+</string>
+<string id="kb_zoom_dec">
+	<text>Sight: postpone</text>
+</string>
+<string id="kb_cam_1">
+	<text>Type of camera: 1st person</text>
+</string>
+<string id="kb_cam_2">
+	<text>Type of camera: 2nd person</text>
+</string>
+<string id="kb_cam_3">
+	<text>Type of camera: third person</text>
+</string>
+<string id="st_sigerous_top_register">
+	<text>Sign Up</text>
+</string>
+<string id="st_waypoint_editor_mark_point">
+	<text>Insert point</text>
+</string>
+<string id="st_waypoint_editor_print_waypoint">
+	<text>Complete path</text>
+</string>
+<string id="st_waypoint_editor_check_way_closed_hint">
+	<text>If a lot of points, the path will be closed</text>
+</string>
+<string id="st_waypoint_editor_empty_flags_hint">
+	<text>Create points without flags - flags = 0x1</text>
+</string>
+<string id="st_waypoint_editor_autochange_hint">
+	<text>Automatic additional notes walk and look</text>
+</string>
+<string id="st_remote_charge_place">
+	<text>Set Up</text>
+</string>
+<string id="st_remote_charge_cancel">
+	<text>Cancel</text>
+</string>
+<string id="st_allspawn_editor_title">
+	<text>Editor 'all.spawn'</text>
+</string>
+<string id="st_allspawn_editor_switch_panel_1">
+	<text>Main</text>
+</string>
+<string id="st_allspawn_editor_switch_panel_2">
+	<text>Anomalies</text>
+</string>
+<string id="st_allspawn_editor_switch_panel_3">
+	<text>Artifacts</text>
+</string>
+<string id="st_allspawn_editor_switch_panel_4">
+	<text>Armor</text>
+</string>
+<string id="st_allspawn_editor_switch_panel_5">
+	<text>Weapon</text>
+</string>
+<string id="st_allspawn_editor_switch_panel_6">
+	<text>Ammunition</text>
+</string>
+<string id="st_allspawn_editor_switch_panel_7">
+	<text>Miscellanea</text>
+</string>
+<string id="st_allspawn_editor_create">
+	<text>Create code</text>
+</string>
+<string id="st_allspawn_editor_read_example">
+	<text>Show code</text>
+</string>
+<string id="st_allspawn_editor_radius_minus_hint">
+	<text>Reduce the radius of the object</text>
+</string>
+<string id="st_allspawn_editor_radius_plus_hint">
+	<text>Increase the radius of the object</text>
+</string>
+<string id="st_allspawn_editor_counter_minus_hint">
+	<text>Reduce the value of the header section</text>
+</string>
+<string id="st_allspawn_editor_counter_plus_hint">
+	<text>Increase the value of the header section</text>
+</string>
+<string id="st_allspawn_editor_magazine_minus_hint">
+	<text>Reduce the number of cartridges in the box</text>
+</string>
+<string id="st_allspawn_editor_magazine_plus_hint">
+	<text>Increase the number of cartridges in the box</text>
+</string>
+<string id="st_allspawn_auto_print_signal">
+	<text>Object is created:</text>
+</string>
+<string id="st_allspawn_auto_print_error">
+	<text>Error: selected object type</text>
+</string>
+<string id="st_allspawn_auto_print_activate">
+	<text>Enable auto-debug</text>
+</string>
+<string id="st_allspawn_auto_print_deactivate">
+	<text>Turn off auto-debug</text>
+</string>
+<string id="st_allspawn_auto_print_on">
+	<text>AO On.</text>
+</string>
+<string id="st_allspawn_auto_print_off">
+	<text>AO Off.</text>
+</string>
+<string id="st_allspawn_editor_display_radius_hint">
+	<text>Radius of the object</text>
+</string>
+<string id="st_allspawn_editor_display_counter_hint">
+	<text>The value of the header section</text>
+</string>
+<string id="st_allspawn_editor_display_magazine_hint">
+	<text>The number of rounds in a box</text>
+</string>
+<string id="st_allspawn_editor_prefix_field_hint">
+	<text>Element object name �1</text>
+</string>
+<string id="st_allspawn_editor_suffix_field_hint">
+	<text>Element object name �2</text>
+</string>
+<string id="st_allspawn_editor_logic_path_field_hint">
+	<text>The file path of logic</text>
+</string>
+<string id="st_allspawn_editor_hiding_place_field_hint">
+	<text>Name cache to which the object</text>
+</string>
+<string id="st_allspawn_editor_check_button_spawner_hint">
+	<text>Use the TAB key to spawn</text>
+</string>
+<string id="st_allspawn_editor_check_with_logic_hint">
+	<text>Object logic</text>
+</string>
+<string id="st_allspawn_editor_check_another_mode_hint">
+	<text>Activate another method of debugging. Template: create ('object', x, y, z, lv, gv)</text>
+</string>
+<string id="st_allspawn_editor_check_another_mode_spawn_hint">
+	<text>In another method of debugging - Spawn parallel object.</text>
+</string>
+<string id="st_question_game_title">
+	<text>Game: What? Where? When?</text>
+</string>
+<string id="st_question_game_exit">
+	<text>Back</text>
+</string>
+<string id="st_question_game_continue">
+	<text>Resume</text>
+</string>
+<string id="st_question_game_start">
+	<text>New game</text>
+</string>
+<string id="st_question_game_answer_a">
+	<text>Option A</text>
+</string>
+<string id="st_question_game_answer_b">
+	<text>Option B</text>
+</string>
+<string id="st_question_game_answer_c">
+	<text>Option C</text>
+</string>
+<string id="st_question_game_answer_d">
+	<text>Option D</text>
+</string>
+<string id="st_question_game_exit_hint">
+	<text>Exit from the mini-games</text>
+</string>
+<string id="st_question_game_continue_hint">
+	<text>Go to the next question</text>
+</string>
+<string id="st_question_game_start_hint">
+	<text>Running a mini-game</text>
+</string>
+<string id="st_question_game_manual_hint">
+	<text>Hint</text>
+</string>
+<string id="st_question_game_answer_a_hint">
+	<text>Selecting A</text>
+</string>
+<string id="st_question_game_answer_b_hint">
+	<text>Selecting B</text>
+</string>
+<string id="st_question_game_answer_c_hint">
+	<text>Selecting C</text>
+</string>
+<string id="st_question_game_answer_d_hint">
+	<text>Selecting D</text>
+</string>
+<string id="st_question_game_question_field_hint">
+	<text>Current issue</text>
+</string>
+<string id="st_question_game_correct_series_hint">
+	<text>A series of correct answers</text>
+</string>
+<string id="st_question_game_question_number_hint">
+	<text>Question number</text>
+</string>
+<string id="st_question_game_answer_a_field_hint">
+	<text>Answer: A</text>
+</string>
+<string id="st_question_game_answer_b_field_hint">
+	<text>Answer: B</text>
+</string>
+<string id="st_question_game_answer_c_field_hint">
+	<text>Answer: C</text>
+</string>
+<string id="st_question_game_answer_d_field_hint">
+	<text>Answer: D</text>
+</string>
+<string id="st_21_point_title">
+	<text>Game: 21 points</text>
+</string>
+<string id="st_21_point_continue_game">
+	<text>Resume</text>
+</string>
+<string id="st_21_point_take_rate">
+	<text>Take rates</text>
+</string>
+<string id="st_21_point_play_game">
+	<text>Start the game</text>
+</string>
+<string id="st_21_point_exit_game">
+	<text>Back</text>
+</string>
+<string id="st_21_point_take_else">
+	<text>Take another</text>
+</string>
+<string id="st_21_point_send_move">
+	<text>Pass the course</text>
+</string>
+<string id="st_21_point_save_rate_hint">
+	<text>Memorize rate</text>
+</string>
+<string id="st_21_point_increasing_hint">
+	<text>Step hike - 200</text>
+</string>
+<string id="st_position_printer_create">
+	<text>Print</text>
+</string>
+<string id="st_personal_marker_setup">
+	<text>Set Up</text>
+</string>
+<string id="st_personal_marker_radius_hide">
+	<text>Cleaning A</text>
+</string>
+<string id="st_personal_marker_all_hide">
+	<text>Cleaning B</text>
+</string>
+<string id="st_personal_marker_radius_hide_hint">
+	<text>Clear labels lighthouses within a radius of 100 meters.</text>
+</string>
+<string id="st_personal_marker_all_hide_hint">
+	<text>Clear labels lighthouses within a radius of the location.</text>
+</string>
+<string id="st_personal_marker_cancel">
+	<text>Cancel</text>
+</string>
+<string id="st_personal_rukzak_leave">
+	<text>Set Up</text>
+</string>
+<string id="st_personal_rukzak_radius_hide">
+	<text>Shoe labels A</text>
+</string>
+<string id="st_personal_rukzak_all_hide">
+	<text>Shoe labels B</text>
+</string>
+<string id="st_personal_rukzak_radius_hide_hint">
+	<text>Clear labels rucksacks in a radius of 100 meters.</text>
+</string>
+<string id="st_personal_rukzak_all_hide_hint">
+	<text>Clear labels rucksacks in a radius of the location.</text>
+</string>
+<string id="st_personal_rukzak_cancel">
+	<text>Cancel</text>
+</string>
+<string id="st_personal_rukzak_with_spot">
+	<text>Put in a rucksack radioStalker?</text>
+</string>
+<string id="st_personal_rukzak_with_take">
+	<text>With the possibility of selection</text>
+</string>
+<string id="st_game_time_hint">
+	<text>Playing Time</text>
+</string>
+<string id="st_off_pda_hint">
+	<text>Deactivate PDA</text>
+</string>
+<string id="st_next_page_pda_hint">
+	<text>Further</text>
+</string>
+<string id="st_back_page_pda_hint">
+	<text>Back</text>
+</string>
+<string id="st_help_pda_hint">
+	<text>Reference</text>
+</string>
+<string id="st_guidebook_close_hint">
+	<text>Exit from the GPS-Guide</text>
+</string>
+<string id="st_minus_volume_hint">
+	<text>Decrease the volume</text>
+</string>
+<string id="st_plus_volume_hint">
+	<text>Increase the volume</text>
+</string>
+<string id="st_repeat_track_hint">
+	<text>Repeat one track</text>
+</string>
+<string id="st_queue_track_hint">
+	<text>Play each track in turn</text>
+</string>
+<string id="st_repair_items">
+	<text>Repair</text>
+</string>
+<string id="st_menu_close">
+	<text>Close</text>
+</string>
+<string id="st_army_timer_start">
+	<text>Start</text>
+</string>
+<string id="st_army_timer_reset">
+	<text>Reset</text>
+</string>
+<string id="st_mp3_player_merry">
+	<text>Cheerful</text>
+</string>
+<string id="st_mp3_player_dance">
+	<text>Dance</text>
+</string>
+<string id="st_mp3_player_set_play">
+	<text>Repeat</text>
+</string>
+<string id="st_mp3_player_set_stop">
+	<text>Stop</text>
+</string>
+<string id="st_mp3_player_themes">
+	<text>Soundtracks</text>
+</string>
+<string id="st_mp3_player_other">
+	<text>Other</text>
+</string>
+<string id="st_mp3_player_bonuses">
+	<text>Power Ups</text>
+</string>
+<string id="st_conventer_grenade_title">
+	<text>'Converter grenade'</text>
+</string>
+<string id="st_conventer_grenade_attach_rgd5">
+	<text>Connect (RGD-5)</text>
+</string>
+<string id="st_conventer_grenade_attach_f1">
+	<text>Connect (F-1)</text>
+</string>
+<string id="st_conventer_grenade_attach_gd05">
+	<text>Connect (HD-05)</text>
+</string>
+<string id="st_mod_menu_back">
+	<text>Return</text>
+</string>
+<string id="st_mod_menu_apply">
+	<text>Apply</text>
+</string>
+<string id="st_mod_menu_default">
+	<text>Default</text>
+</string>
+<string id="st_mod_menu_cancel">
+	<text>Cancel</text>
+</string>
+<string id="st_mod_menu_optimization">
+	<text>Optimization</text>
+</string>
+<string id="st_mod_menu_options_hud">
+	<text>Installation HUDa</text>
+</string>
+<string id="st_mod_main_options_title">
+	<text>Additional options</text>
+</string>
+<string id="st_mod_hud_options_title">
+	<text>Parameters blessing</text>
+</string>
+<string id="st_mod_menu_modes_immortal">
+	<text>Immortality</text>
+</string>
+<string id="st_mod_menu_modes_powerfull">
+	<text>Besco. energy</text>
+</string>
+<string id="st_mod_menu_modes_bleeding">
+	<text>Without bleeding</text>
+</string>
+<string id="st_mod_menu_modes_autorepair">
+	<text>Car repair</text>
+</string>
+<string id="st_mod_menu_modes_ammo">
+	<text>Besco. ammunition</text>
+</string>
+<string id="st_opt_clean_anomaly">
+	<text>Remove SGM anomalies</text>
+</string>
+<string id="st_opt_clean_mines">
+	<text>Remove SGM mines</text>
+</string>
+<string id="st_opt_clean_monsters">
+	<text>Remove the body of monsters</text>
+</string>
+<string id="st_mod_option_automatic_use">
+	<text>Automatic system Reception</text>
+</string>
+<string id="st_mod_option_automatic_use_descr">
+	<text>Automatic reception necessary for the survival of GH preparations, if any.</text>
+</string>
+<string id="st_mod_option_auto_energy">
+	<text>Automatic Energy</text>
+</string>
+<string id="st_mod_option_auto_energy_descr">
+	<text>Automatic reception of energy drinks, if any, at low stamina HS.</text>
+</string>
+<string id="st_mod_option_no_hide_weapon">
+	<text>Do not hide weapons at bases</text>
+</string>
+<string id="st_mod_option_no_hide_weapon_descr">
+	<text>This option will not hide the weapon where it had to be hiding.</text>
+</string>
+<string id="st_mod_option_deactivate_vibros">
+	<text>Disable emission</text>
+</string>
+<string id="st_mod_option_deactivate_vibros_descr">
+	<text>Complete shutdown output.</text>
+</string>
+<string id="st_mod_option_deactivate_blackday">
+	<text>Disable eclipse</text>
+</string>
+<string id="st_mod_option_deactivate_blackday_descr">
+	<text>Full day trip eclipses.</text>
+</string>
+<string id="st_mod_option_deactivate_minetrap">
+	<text>Disconnect booby traps</text>
+</string>
+<string id="st_mod_option_deactivate_minetrap_descr">
+	<text>After enabling this option, all mine-stretching will be de-energized, and as a result they will not detonate upon detection purposes. This option only works on the Creek, Jupiter and Pripyat.</text>
+</string>
+<string id="st_mod_option_create_more_monsters">
+	<text>Spawn more monsters</text>
+</string>
+<string id="st_mod_option_create_more_monsters_descr">
+	<text>At night, will give rise to additional packs mutants, which greatly complicates the gameplay. Also, will be active mutants ambush - their unexpected appearance from behind the bushes or even from somewhere. This option only works on the Creek, Jupiter and Pripyat.</text>
+</string>
+<string id="st_mod_option_gather_outfits">
+	<text>Remove armor with corpses</text>
+</string>
+<string id="st_mod_option_gather_outfits_descr">
+	<text>Enabling this option will remove the armor with some corpses.</text>
+</string>
+<string id="st_mod_option_ai_granade">
+	<text>Deny NPCs throw grenades</text>
+</string>
+<string id="st_mod_option_ai_granade_descr">
+	<text>NPCs no longer use grenades to the destination.</text>
+</string>
+<string id="st_mod_option_abandoned">
+	<text>Disable colonization of empty seats</text>
+</string>
+<string id="st_mod_option_abandoned_descr">
+	<text>Option disables too big spawn NPCs. An example of the effect: after the defeat of the mercenaries from processing plant - the plant will be empty, I mean NPCs will no longer come to the plant.</text>
+</string>
+<string id="st_mod_option_alfa_force">
+	<text>Allow Alpha</text>
+</string>
+<string id="st_mod_option_alfa_force_descr">
+	<text>Harassment SG special ulouse 'Alpha'. Only on the Creek, Jupiter and Pripyat.</text>
+</string>
+<string id="st_mod_option_hide_weapon_part1">
+	<text>Hide Inf.</text>
+</string>
+<string id="st_mod_option_hide_weapon_part2">
+	<text>Features of the framework of weapons</text>
+</string>
+<string id="st_mod_option_hide_weapon_info_descr">
+	<text>Hide block the current weapon, which is located in the upper right corner of the screen.</text>
+</string>
+<string id="st_mod_option_shock_hits">
+	<text>Disable 'roaming' when hit</text>
+</string>
+<string id="st_mod_option_shock_hits_descr">
+	<text>Disabling deliquescent screen, which was observed after GH received serious gunshot wound or shock.</text>
+</string>
+<string id="st_mod_option_actor_vertigo">
+	<text>Disable dizziness</text>
+</string>
+<string id="st_mod_option_actor_vertigo_descr">
+	<text>Disabling deliquescent screen, which was observed at the critical state of health of the HS.</text>
+</string>
+<string id="st_mod_option_shock_motion">
+	<text>Activate the effect of 'deviations'</text>
+</string>
+<string id="st_mod_option_shock_motion_descr">
+	<text>When you hit a bullet or serious impact on SG - will trigger the effect of shaking the camera.</text>
+</string>
+<string id="st_mod_option_rank_counter">
+	<text>Bring to HUD inf. the rank</text>
+</string>
+<string id="st_mod_option_rank_counter_descr">
+	<text>The conclusion of a special HUD element on screen. It shows the current number of points of rank YY.</text>
+</string>
+<string id="st_mod_option_hit_marks">
+	<text>Disable splash of blood on the screen</text>
+</string>
+<string id="st_mod_option_hit_marks_descr">
+	<text>After enabling this option, the screen will not be displayed splashes of blood, which usually appear as a result of injuries HS.</text>
+</string>
+<string id="st_mod_option_carrying_hud">
+	<text>Dynamic HUD current armor</text>
+</string>
+<string id="st_mod_option_carrying_hud_descr">
+	<text>When wearing helmets and some armor - will display the dynamic HUD.</text>
+</string>
+<string id="st_mod_option_carrying_breathing">
+	<text>Use a respirator</text>
+</string>
+<string id="st_mod_option_carrying_breathing_descr">
+	<text>The sound of breathing at SG dressed mask.</text>
+</string>
+<string id="st_mod_option_statistic_event">
+	<text>Disable Event statistics</text>
+</string>
+<string id="st_mod_option_statistic_event_descr">
+	<text>With increasing rank, found SGM cache, found hiding personal - no information will be displayed in the upper left corner of the screen.</text>
+</string>
+<string id="st_guidebook_escape_point1">
+	<text>Bridge</text>
+</string>
+<string id="st_guidebook_escape_point2">
+	<text>Vehicle station</text>
+</string>
+<string id="st_guidebook_escape_point3">
+	<text>Village</text>
+</string>
+<string id="st_guidebook_escape_point4">
+	<text>Blockhouse</text>
+</string>
+<string id="st_guidebook_escape_point5">
+	<text>Base</text>
+</string>
+<string id="st_guidebook_escape_point6">
+	<text>Blockhouse</text>
+</string>
+<string id="st_guidebook_marsh_point1">
+	<text>Settlement</text>
+</string>
+<string id="st_guidebook_marsh_point2">
+	<text>Machine operators yard</text>
+</string>
+<string id="st_guidebook_marsh_point3">
+	<text>Settlement</text>
+</string>
+<string id="st_guidebook_marsh_point4">
+	<text>Pumping station</text>
+</string>
+<string id="st_guidebook_marsh_point5">
+	<text>Fisherman's Farm</text>
+</string>
+<string id="st_guidebook_marsh_point6">
+	<text>The Old Church</text>
+</string>
+<string id="st_guidebook_marsh_point7">
+	<text>Settlement</text>
+</string>
+<string id="st_guidebook_marsh_point8">
+	<text>Burnt farmstead</text>
+</string>

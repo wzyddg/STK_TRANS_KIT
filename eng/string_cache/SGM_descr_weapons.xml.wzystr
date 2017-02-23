@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string id="st_wpn_abakan_m1">
+	<text>AN-94 'Abakan' M1</text>
+</string>
+<string id="st_wpn_ak74_m1">
+	<text>AKM-74 'M1'</text>
+</string>
+<string id="st_wpn_ak74u_m1">
+	<text>AKS-74U 'M1'</text>
+</string>
+<string id="st_wpn_beretta_m1">
+	<text>Beretta 92FS 'M1'</text>
+</string>
+<string id="st_wpn_bm16_m1">
+	<text>Cutting the 'M1'</text>
+</string>
+<string id="st_wpn_toz34_m1">
+	<text>CBT-34 'M1'</text>
+</string>
+<string id="st_wpn_vintorez_m1">
+	<text>BCC 'Vintorez' M1</text>
+</string>
+<string id="st_wpn_wincheaster1300_m1">
+	<text>'Chaser-13 'M1</text>
+</string>
+<string id="st_wpn_fort_m1">
+	<text>FORT-12 'M1'</text>
+</string>
+<string id="st_wpn_groza_m1">
+	<text>OZ-14 'Thunderstorm' M1</text>
+</string>
+<string id="st_wpn_pm_m1">
+	<text>PMM 'M1'</text>
+</string>
+<string id="st_wpn_lr300_m1">
+	<text>LR-300 'M1'</text>
+</string>
+<string id="st_wpn_mp5_m1">
+	<text>MP-5 'M1'</text>
+</string>
+<string id="st_wpn_spas12_m1">
+	<text>SPAS 12 'M1'</text>
+</string>
+<string id="st_wpn_sig220_m1">
+	<text>SIG 220 'M1'</text>
+</string>
+<string id="st_wpn_sig550_m1">
+	<text>SG-550 'M1'</text>
+</string>
+<string id="st_wpn_abakan_m2">
+	<text>AN-94 'Abakan' M2</text>
+</string>
+<string id="st_wpn_ak74_m2">
+	<text>AKM-74 'M2'</text>
+</string>
+<string id="st_wpn_ak74u_m2">
+	<text>AKS-74U 'M2'</text>
+</string>
+<string id="st_wpn_beretta_m2">
+	<text>Beretta 92FS 'M2'</text>
+</string>
+<string id="st_wpn_bm16_m2">
+	<text>Cutting the 'M2'</text>
+</string>
+<string id="st_wpn_toz34_m2">
+	<text>CBT-34 'M2'</text>
+</string>
+<string id="st_wpn_vintorez_m2">
+	<text>BCC 'Vintorez' M2</text>
+</string>
+<string id="st_wpn_wincheaster1300_m2">
+	<text>'Chaser-13 'M2</text>
+</string>
+<string id="st_wpn_fort_m2">
+	<text>FORT-12 'M2'</text>
+</string>
+<string id="st_wpn_groza_m2">
+	<text>OZ-14 'Thunderstorm' M2</text>
+</string>
+<string id="st_wpn_pm_m2">
+	<text>PMM 'M2'</text>
+</string>
+<string id="st_wpn_lr300_m2">
+	<text>LR-300 'M2'</text>
+</string>
+<string id="st_wpn_mp5_m2">
+	<text>MP-5 'M2'</text>
+</string>
+<string id="st_wpn_spas12_m2">
+	<text>SPAS 12 'M2'</text>
+</string>
+<string id="st_wpn_sig220_m2">
+	<text>SIG 220 'M2'</text>
+</string>
+<string id="st_wpn_sig550_m2">
+	<text>SG-550 'M2'</text>
+</string>
+<string id="st_wpn_abakan_m3">
+	<text>AN-94 'Abakan' M3</text>
+</string>
+<string id="st_wpn_ak74_m3">
+	<text>AKM-74 'M3'</text>
+</string>
+<string id="st_wpn_ak74u_m3">
+	<text>AKS-74U 'M3'</text>
+</string>
+<string id="st_wpn_beretta_m3">
+	<text>Beretta 92FS 'M3'</text>
+</string>
+<string id="st_wpn_bm16_m3">
+	<text>Cutting the 'M3'</text>
+</string>
+<string id="st_wpn_toz34_m3">
+	<text>CBT-34 'M3'</text>
+</string>
+<string id="st_wpn_vintorez_m3">
+	<text>BCC 'Vintorez' M3</text>
+</string>
+<string id="st_wpn_wincheaster1300_m3">
+	<text>'Chaser-13 'M3</text>
+</string>
+<string id="st_wpn_fort_m3">
+	<text>FORT-12 'M3'</text>
+</string>
+<string id="st_wpn_groza_m3">
+	<text>OZ-14 'Thunderstorm' M3</text>
+</string>
+<string id="st_wpn_pm_m3">
+	<text>PMM 'M3'</text>
+</string>
+<string id="st_wpn_lr300_m3">
+	<text>LR-300 'M3'</text>
+</string>
+<string id="st_wpn_mp5_m3">
+	<text>MP-5 'M3'</text>
+</string>
+<string id="st_wpn_spas12_m3">
+	<text>SPAS 12 'M3'</text>
+</string>
+<string id="st_wpn_sig220_m3">
+	<text>SIG 220 'M3'</text>
+</string>
+<string id="st_wpn_sig550_m3">
+	<text>SG-550 'M3'</text>
+</string>
+<string id="st_wpn_fort_actor">
+	<text>Premium FORT-12</text>
+</string>
+<string id="st_wpn_ak74u_snag">
+	<text>Named AKS-74U</text>
+</string>
+<string id="st_wpn_fort_snag">
+	<text>Named FORT-12</text>
+</string>
+<string id="st_wpn_protecta_nimble">
+	<text>'Devastator'</text>
+</string>
+<string id="st_wpn_g36_nimble">
+	<text>HK-G36E 'Raiser'</text>
+</string>
+<string id="st_wpn_fn2000_nimble">
+	<text>FN-F2000 'Ganster'</text>
+</string>
+<string id="st_grenade_lighting">
+	<text>Light garnet</text>
+</string>
+<string id="st_grenade_lighting_descr">
+	<text>%c[default] Features: \n %c[255,238,153,26] � %c[default] Lighting time = 120 s \n %c[default] Hand grenade lighting. Designed to illuminate dark spaces.</text>
+</string>
+<string id="st_grenade_f1_double">
+	<text>Spike grenades F-1</text>
+</string>
+<string id="st_grenade_f1_double_descr">
+	<text>%c[default] Features: \n %c[255,238,153,26] � %c[default] explosion radius = 24 m \n %c[255,238,153,26] � %c[default] separation of fragments = 40 m \n %c[default] Two defensive grenades,joined together. Its fragments can pierce body armor average degree of protection. In the hands of stalkers usually falls in the exchange relationship with the military.</text>
+</string>
+<string id="st_grenade_rgd5_double">
+	<text>Spike grenades RGD-5</text>
+</string>
+<string id="st_grenade_rgd5_double_descr">
+	<text>%c[default] Features: \n %c[255,238,153,26] � %c[default] explosion radius = 12 m \n %c[255,238,153,26] � %c[default] separation of fragments = 30 m \n %c[default] Two offensive hand grenades,joined together. Often used by stalkers to smoking mutants of holes.</text>
+</string>
+<string id="st_grenade_smoke_double">
+	<text>Spike smoke grenades</text>
+</string>
+<string id="st_grenade_smoke_double_descr">
+	<text>%c[default] Features: \n %c[255,238,153,26] � %c[default] The time of formation of the veil = 60 seconds \n %c[default] Two hand smoke grenades,joined together. Designed for installation smokescreen.</text>
+</string>
+<string id="st_wpn_vintorez_bomber">
+	<text>'Nominal Vintar'</text>
+</string>
+<string id="st_wpn_vintorez_bomber_descr">
+	<text>%c[default] The characteristics of the original: \n %c[255,238,153,26] � %c[default] Damage = 130 \n %c[255,238,153,26] � %c[default] Rate = 400 V/m \n %c[255,238,153,26] � %c[default] = Effective range of 400 meters \n %c[255,238,153,26] � %c[default] Speed Flight bullet = 1000 m/s \n %c[default],Nominal weapon having abnormal power,and,high strength as it turned out. Supports only 9mm ammunition M72-DD 'DumDum'.</text>
+</string>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string id="st_cev_plastin_1_name">
+	<text>'Kevlar plate level 1'</text>
+</string>
+<string id="st_cev_plastin_1_descr">
+	<text>%c[default] bonus element: \n %c[255,238,153,26] � %c[default] Increase bulletproof %c[255,238,15,26] ( %c[255,1,128,54] 5 %c[255,238,15,26]) \n %c[default],Specialized protective element with which you can increase protection from bullet wounds. This element allows Kevlar puleprobivaemost lower by 5%.</text>
+</string>
+<string id="st_cev_plastin_2_name">
+	<text>'Kevlar plate level 2'</text>
+</string>
+<string id="st_cev_plastin_2_descr">
+	<text>%c[default] bonus element: \n %c[255,238,153,26] � %c[default] Increase bulletproof %c[255,238,15,26] ( %c[255,1,128,54] 9 %c[255,238,15,26]) \n %c[default],Specialized protective element with which you can increase protection from bullet wounds. This item allows you to lower the Kevlar puleprobivaemost 9%.</text>
+</string>
+<string id="st_cev_plastin_3_name">
+	<text>'Kevlar plate level 3'</text>
+</string>
+<string id="st_cev_plastin_3_descr">
+	<text>%c[default] bonus element: \n %c[255,238,153,26] � %c[default] Increase bulletproof %c[255,238,15,26] ( %c[255,1,128,54] 13 %c[255,238,15,26]) \n %c[default],Specialized protective element with which you can increase protection from bullet wounds. This item allows you to lower the Kevlar puleprobivaemost 13%.</text>
+</string>
+<string id="st_cev_plastin_4_name">
+	<text>'Kevlar plate level 4'</text>
+</string>
+<string id="st_cev_plastin_4_descr">
+	<text>%c[default] bonus element: \n %c[255,238,153,26] � %c[default] Increase bulletproof %c[255,238,15,26] ( %c[255,1,128,54] 17 %c[255,238,15,26]) \n %c[default],Specialized protective element with which you can increase protection from bullet wounds. This item allows you to lower the Kevlar puleprobivaemost 17%.</text>
+</string>
+<string id="st_cev_plastin_5_name">
+	<text>'Kevlar plate level 5'</text>
+</string>
+<string id="st_cev_plastin_5_descr">
+	<text>%c[default] bonus element: \n %c[255,238,153,26] � %c[default] Increase bulletproof %c[255,238,15,26] ( %c[255,1,128,54] 25 %c[255,238,15,26]) \n %c[default],Specialized protective element with which you can increase protection from bullet wounds. This element allows Kevlar puleprobivaemost lower by 25%.</text>
+</string>
+<string id="st_af_geliy_name">
+	<text>'Helium'</text>
+</string>
+<string id="st_af_geliy_descr">
+	<text>%c[default] for the breeder: \n %c[255,238,153,26] � %c[default] third type of anomaly \n %c[default] Bright (literally) a representative of the family of electrostatic artifacts  Allocates gaseous capable of causing the release of adrenaline in the blood. Significantly reduces the weight of the rucksack. Due to the high efficiency is in great demand.</text>
+</string>
+<string id="st_af_monolit_name">
+	<text>Monolith</text>
+</string>
+<string id="st_af_monolit_descr">
+	<text>%c[default] for the breeder: \n %c[255,238,153,26] � %c[default] third type of anomaly \n %c[default] artifact Bonus: \n %c[255,238,153,26] � %c[default] Increase bulletproof %c[255,238,15,26] ( %c[255,1,128,54] 25 %c[255,238,15,26]) \n %c[255,238,153,26] � %c[default] Anti-shock %c[255,238,15,26] ( %c[255,1,128,54] 10 %c[255,238,15,26]) \n %c[default] The strongest member of the family artifacts. The main feature of the artifact is its magnetic field,is capable reject bullets.</text>
+</string>
+<string id="st_af_vaselisk_name">
+	<text>'Basilisk'</text>
+</string>
+<string id="st_af_vaselisk_descr">
+	<text>%c[default] for the breeder: \n %c[255,238,153,26] � %c[default] 2nd type of anomaly \n %c[default] The only artifact in the area,which copes with all kinds of damage its owner.</text>
+</string>
+<string id="st_af_dragon_eye_name">
+	<text>'Eye of the Dragon'</text>
+</string>
+<string id="st_af_dragon_eye_descr">
+	<text>%c[default] for the breeder: \n %c[255,238,153,26] � %c[default] third type of anomaly \n %c[default] Very significantly reduces the weight of the rucksack,and has minimal rehabilitation characteristics. Due to the high efficiency is in great demand.</text>
+</string>

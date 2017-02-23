@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string id="st_demolution_barrel_name">
+	<text>Barrel c fuel</text>
+</string>
+<string id="st_demolution_kanistra_name">
+	<text>Canister with fuel</text>
+</string>
+<string id="st_demolution_ballon_name">
+	<text>Gas Cylinder</text>
+</string>
+<string id="st_demolution_barrel_descr">
+	<text>A barrel of fuel, by type - aviation kerosene.</text>
+</string>
+<string id="st_demolution_kanistra_descr">
+	<text>Twenty-liter canister with fuel of unknown type. By smell, like a diesel.</text>
+</string>
+<string id="st_demolution_ballon_descr">
+	<text>Balloon with an unknown gas. It is not yet open, so the properties is not known.</text>
+</string>

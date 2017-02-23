@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string id="ammo_box_10_vog">
+	<text>Box with charges</text>
+</string>
+<string id="ammo_box_10_vog_descr">
+	<text>Content: \n %c[255,238,153,26] � %c[default] grenades VOG-25 \n Wooden box with grenade charges.</text>
+</string>
+<string id="ammo_box_10_m209">
+	<text>Box with charges</text>
+</string>
+<string id="ammo_box_10_m209_descr">
+	<text>Content: \n %c[255,238,153,26] � %c[default] Grenade M203 \n Wooden box with grenade charges.</text>
+</string>
+<string id="ammo-dumdum">
+	<text>Charges 9mm M72-DD 'DumDum'</text>
+</string>
+<string id="ammo-dumdum_s">
+	<text>9 M72-DD</text>
+</string>
+<string id="ammo-dumdum_descr">
+	<text>Cassette with discontinuous 9mm charges. Originally intended for weapons caliber 9x39, but local craftsmen adapted them also under its 'shotguns'. \n The source of the explosion energy is encapsulated fragment artifact 'Carousel' - knowing it appeared out of nowhere, 'Mercenaries', made by a local craftsman to make a batch of charges under the caliber 7.62h51mm for Swedish rifles Arctic Warfare L96A1.</text>
+</string>

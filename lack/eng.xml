@@ -1,5 +1,5 @@
 <string id="st_addon_remove_scope_wzy_descr">
-	<text>使用以拆除当前武器上的瞄准镜。</text>
+	<text>使用以拆除当前武器上的瞄准镜.</text>
 </string>
 <string id="st_addon_remove_scope_wzy">
 	<text>拆除瞄准镜</text>
@@ -8,7 +8,7 @@
 	<text>.357马格南枪弹</text>
 </string>
 <string id="ammo-357_descr">
-	<text>马格南（从“大号”一词而来）比同口径其他枪弹威力更大。使用这种子弹的雾气也是专门设计的。</text>
+	<text>马格南（从“大号”一词而来）比同口径其他枪弹威力更大.使用这种子弹的雾气也是专门设计的.</text>
 </string>
 <string id="ammo-357_s">
 	<text>.357马格南</text>
@@ -17,7 +17,7 @@
 	<text>.50 AE弹药</text>
 </string>
 <string id="ammo-50-ae_descr">
-	<text>沙漠之鹰手枪使用的口径的弹药。</text>
+	<text>沙漠之鹰手枪使用的口径的弹药.</text>
 </string>
 <string id="ammo-50-ae_s">
 	<text>.50 Action Express</text>
@@ -26,7 +26,7 @@
 	<text>7.62x25mm弹药P</text>
 </string>
 <string id="ammo-7.62x25-p_descr">
-	<text>苏联7.62mm手枪子弹。简易金属子弹.</text>
+	<text>苏联7.62mm手枪子弹.简易金属子弹.</text>
 </string>
 <string id="ammo-7.62x25-p_s">
 	<text>7.62x25</text>
@@ -35,7 +35,7 @@
 	<text>7.62x25 mm SS枪弹</text>
 </string>
 <string id="ammo-7.62x25-ps_descr">
-	<text>苏联7.62mm手枪弹.手枪子弹.钢制弹芯，强化穿甲.</text>
+	<text>苏联7.62mm手枪弹.手枪子弹.钢制弹芯,强化穿甲.</text>
 </string>
 <string id="ammo-7.62x25-ps_s">
 	<text>7.62x25 PS</text>
@@ -44,7 +44,7 @@
 	<text>7.62x39 mm (7N23)枪弹</text>
 </string>
 <string id="ammo-7.62x39-ap_descr">
-	<text>苏联7.62mm冲锋枪弹.手枪子弹.钢制弹芯，强化穿甲.</text>
+	<text>苏联7.62mm冲锋枪弹.手枪子弹.钢制弹芯,强化穿甲.</text>
 </string>
 <string id="ammo-7.62x39-ap_s">
 	<text>7.62x39 (7N23)</text>
@@ -62,7 +62,7 @@
 	<text>7.62x51 mm NATO BP枪弹</text>
 </string>
 <string id="ammo-7.62x51-ap_descr">
-	<text>北约标准的7.62 mm步枪弹药.钢制弹芯，强化穿甲.</text>
+	<text>北约标准的7.62 mm步枪弹药.钢制弹芯,强化穿甲.</text>
 </string>
 <string id="ammo-7.62x51-ap_s">
 	<text>7.62x51 BP</text>
@@ -80,7 +80,7 @@
 	<text>7.62x54 mm 7H1 弹药</text>
 </string>
 <string id="ammo-7.62x54-7h1_descr">
-	<text>普通军用狙击弹药。带有钝头钢芯。是一种便宜的狙击枪弹药。</text>
+	<text>普通军用狙击弹药.带有钝头钢芯.是一种便宜的狙击枪弹药.</text>
 </string>
 <string id="ammo-7.62x54-7h1_s">
 	<text>7.62x54 7H1</text>
@@ -89,7 +89,7 @@
 	<text>7.62x54 7N26弹药</text>
 </string>
 <string id="ammo-7.62x54-pkm_descr">
-	<text>高击穿性弹药。子弹内部具有具有硬化工具钢制成的弹芯。是用来在500米内杀伤轻型护甲保护之下的敌人。</text>
+	<text>高击穿性弹药.子弹内部具有具有硬化工具钢制成的弹芯.是用来在500米内杀伤轻型护甲保护之下的敌人.</text>
 </string>
 <string id="ammo-7.62x54-pkm_s">
 	<text>7.62x54 7N26</text>
@@ -98,7 +98,7 @@
 	<text>.338 拉普马格南弹药</text>
 </string>
 <string id="ammo-8,6x70-fmj_descr">
-	<text>最初用来作为远距离射击的特殊狙击弹，但现在也广泛被猎人和射击运动员采用。</text>
+	<text>最初用来作为远距离射击的特殊狙击弹,但现在也广泛被猎人和射击运动员采用.</text>
 </string>
 <string id="ammo-8,6x70-fmj_s">
 	<text>.338 拉普马格南</text>
@@ -113,48 +113,48 @@
 	<text>VOG-25P</text>
 </string>
 <string id="ammo-vog-25p_descr">
-	<text>40mm VOG-25P 或 'Foundling' (7P24) - 榴弹发射器所使用的分裂榴弹，与普通榴弹的主要区别是保险丝，榴弹集中地面并弹跳至空中爆炸，这增加了它的破坏力。</text>
+	<text>40mm VOG-25P 或 'Foundling' (7P24) - 榴弹发射器所使用的分裂榴弹,与普通榴弹的主要区别是保险丝,榴弹集中地面并弹跳至空中爆炸,这增加了它的破坏力.</text>
 </string>
 <string id="ammo-vog-25p_s">
 	<text>VOG-25P</text>
 </string>
 <string id="dm_about_story_end">
-	<text>这很有趣。</text>
+	<text>这很有趣.</text>
 </string>
 <string id="dm_about_story_talk">
-	<text>讲个故事吧。</text>
+	<text>讲个故事吧.</text>
 </string>
 <string id="jup_ecolog_breeder_work_dialog_3_5">
-	<text>我没有神器。</text>
+	<text>我没有神器.</text>
 </string>
 <string id="jup_rasvet_base_leader_jobs_dialog_90">
 	<text>听到这件事我很难过.所以我们不能给你报酬.但你可以在另一个问题上帮助我们.</text>
 </string>
 <string id="jup_stalker_breeder_work_dialog_3_5">
-	<text>我没有神器。</text>
+	<text>我没有神器.</text>
 </string>
 <string id="jup_svoboda_leader_entering_to_freedom_dialog_1">
-	<text>你好长官，你们需不需要新人？我可是很厉害的。</text>
+	<text>你好长官,你们需不需要新人？我可是很厉害的.</text>
 </string>
  
 <string id="jup_svoboda_leader_entering_to_freedom_dialog_2">
-	<text>当然，我们总是欢迎新人加入。你帮了我们很多，我觉得可以让你加入我们伟大的阵营。</text>
+	<text>当然,我们总是欢迎新人加入.你帮了我们很多,我觉得可以让你加入我们伟大的阵营.</text>
 </string>
  
 <string id="jup_svoboda_leader_entering_to_freedom_dialog_3">
-	<text>你给我的感觉并不好，过几天再来吧。</text>
+	<text>你给我的感觉并不好,过几天再来吧.</text>
 </string>
  
 <string id="jup_svoboda_leader_entering_to_freedom_dialog_4">
-	<text>是的, 我们将在一起战斗。我准备好工作和面食了。</text>
+	<text>是的, 我们将在一起战斗.我准备好工作和面食了.</text>
 </string>
  
 <string id="jup_svoboda_leader_entering_to_freedom_dialog_5">
-	<text>这有吃东西的地方吧。我们以后想搬去古巴，那有上好的烟草。</text>
+	<text>这有吃东西的地方吧.我们以后想搬去古巴,那有上好的烟草.</text>
 </string>
  
 <string id="jup_svoboda_leader_entering_to_freedom_dialog_6">
-	<text>好了，告诉你少抽烟。就这样吧。</text>
+	<text>好了,告诉你少抽烟.就这样吧.</text>
 </string>
 <string id="mar_b3_commander_name">
 	<text>克鲁钦</text>
@@ -184,7 +184,7 @@
 	<text>· 10000 p.</text>
 </string>
 <string id="pri_army_breeder_work_dialog_3_5">
-	<text>我没有神器。</text>
+	<text>我没有神器.</text>
 </string>
 <string id="red_psyho_security_corpse_name">
 	<text>朝鲜人</text>
@@ -196,43 +196,43 @@
 	<text>修改赌注</text>
 </string>
 <string id="st_a_z_cell_1_descr">
-	<text>藏匿点：斯卡多夫斯克。附加信息:酒吧后的浮木。</text>
+	<text>藏匿点：斯卡多夫斯克.附加信息:酒吧后的浮木.</text>
 </string>
 <string id="st_a_z_cell_2_descr">
-	<text>藏匿点：斯卡多夫斯克。附加信息:复仇者后面。</text>
+	<text>藏匿点：斯卡多夫斯克.附加信息:复仇者后面.</text>
 </string>
 <string id="st_a_z_cell_3_descr">
-	<text>藏匿点：斯卡多夫斯克。附加信息:在屋里，保镖的对面。</text>
+	<text>藏匿点：斯卡多夫斯克.附加信息:在屋里,保镖的对面.</text>
 </string>
 <string id="st_a_z_cell_4_descr">
-	<text>藏匿点：舍甫琴科号。附加信息:在容器中.</text>
+	<text>藏匿点：舍甫琴科号.附加信息:在容器中.</text>
 </string>
 <string id="st_a_z_cell_5_descr">
-	<text>藏匿点：钢铁森林变异区。附加信息:ZIL后面。</text>
+	<text>藏匿点：钢铁森林变异区.附加信息:ZIL后面.</text>
 </string>
 <string id="st_a_z_cell_6_descr">
-	<text>藏匿点：港口起重机。附加信息:ZIL后面。</text>
+	<text>藏匿点：港口起重机.附加信息:ZIL后面.</text>
 </string>
 <string id="st_about_critical_pstor_text">
-	<text>警告！致命错误发生。你的存档已经损坏，无法继续游戏。青葱早些时候的存档继续。</text>
+	<text>警告！致命错误发生.你的存档已经损坏,无法继续游戏.青葱早些时候的存档继续.</text>
 </string>
 <string id="st_addon_scope_1p29">
 	<text>USP-1 '郁金香'瞄准镜</text>
 </string>
 <string id="st_addon_scope_1p29_descr">
-	<text>USP-1制式瞄准镜是为了装备到AK74N, AK-74M, AN-94, RPK-74N 和 PKMN上进行日间射击或夜间对发光目标射击而设计的。1P29是USP-1在苏联国防部炮兵总局的索引代码。在郁金香雕塑附近被创造出来，因此得名。</text>
+	<text>USP-1制式瞄准镜是为了装备到AK74N, AK-74M, AN-94, RPK-74N 和 PKMN上进行日间射击或夜间对发光目标射击而设计的.1P29是USP-1在苏联国防部炮兵总局的索引代码.在郁金香雕塑附近被创造出来,因此得名.</text>
 </string>
 <string id="st_addon_scope_acog">
 	<text>ACOG 瞄准镜</text>
 </string>
 <string id="st_addon_scope_acog_descr">
-	<text>北约步枪使用的4X光学准镜。</text>
+	<text>北约步枪使用的4X光学准镜.</text>
 </string>
 <string id="st_addon_scope_acog_r">
 	<text>复刻版ACOG 4x32准镜</text>
 </string>
 <string id="st_addon_scope_acog_r_descr">
-	<text>复刻版先进作战光学瞄准镜 4x32mm(更常称为 ACOG 4x32)。Trijicon公司出品的来复枪瞄准镜。Trijicon出品的现代版ACOG具有四倍放大，是SOPMOD项目的一员。除了没有原厂标志之外与ACOG TA01NSN是完全一样的。外壳是由金属制成的, 涂上一层薄薄的橡胶. 复刻版已经广泛装备应用于中短距离作战。很容易安装在M系列步枪的平坦的顶端。</text>
+	<text>复刻版先进作战光学瞄准镜 4x32mm(更常称为 ACOG 4x32).Trijicon公司出品的来复枪瞄准镜.Trijicon出品的现代版ACOG具有四倍放大,是SOPMOD项目的一员.除了没有原厂标志之外与ACOG TA01NSN是完全一样的.外壳是由金属制成的, 涂上一层薄薄的橡胶. 复刻版已经广泛装备应用于中短距离作战.很容易安装在M系列步枪的平坦的顶端.</text>
 </string>
 <string id="st_addon_scope_eotech">
 	<text>EOTech 瞄准镜</text>
@@ -244,13 +244,13 @@
 	<text>'眼镜蛇' EKP-1S-03瞄准镜</text>
 </string>
 <string id="st_addon_scope_kobra_descr">
-	<text>多亏了全手工校准的准心亮度，在自然光线下（晴朗的白天，深沉的黄昏，有月亮的夜晚）眼镜蛇瞄准镜能够提供绝佳的视野。把目标和准星放在同一个水平面上即可用单眼或双眼瞄准，并且视野不受限制。可以在快速移动时进行有效的高速射击，迅速突入等。</text>
+	<text>多亏了全手工校准的准心亮度,在自然光线下（晴朗的白天,深沉的黄昏,有月亮的夜晚）眼镜蛇瞄准镜能够提供绝佳的视野.把目标和准星放在同一个水平面上即可用单眼或双眼瞄准,并且视野不受限制.可以在快速移动时进行有效的高速射击,迅速突入等.</text>
 </string>
 <string id="st_addon_scope_pk-a">
 	<text>PK-A瞄准镜</text>
 </string>
 <string id="st_addon_scope_pk-a_descr">
-	<text>PK-A反射瞄准镜是一款用于带有侧边准镜滑轨的'虎式'卡宾枪的现代的，轻量级，防水且易用的光学瞄准镜。这款瞄准镜是用于在不同光线条件下（从白天到傍晚，低可视度环境和迅速变化的光线强度）使用K74N, RPK74N, AKMN-1, 1-RPKN做精确射击的。瞄准镜完全密封并充入干燥氮气以防内部起雾。</text>
+	<text>PK-A反射瞄准镜是一款用于带有侧边准镜滑轨的'虎式'卡宾枪的现代的,轻量级,防水且易用的光学瞄准镜.这款瞄准镜是用于在不同光线条件下（从白天到傍晚,低可视度环境和迅速变化的光线强度）使用K74N, RPK74N, AKMN-1, 1-RPKN做精确射击的.瞄准镜完全密封并充入干燥氮气以防内部起雾.</text>
 </string>
 <string id="st_addon_sil_1143_p">
 	<text>M11.43消音器</text>
@@ -298,7 +298,7 @@
 	<text>9x18口径消音器</text>
 </string>
 <string id="st_addon_sil_9x18_descr">
-	<text>国产9mm手枪消音器。</text>
+	<text>国产9mm手枪消音器.</text>
 </string>
 <string id="st_addon_sil_pbs-1">
 	<text>PBS-1消音器</text>
@@ -316,235 +316,235 @@
 	<text>THP-A消音器</text>
 </string>
 <string id="st_addon_sil_tgp-a_descr">
-	<text>AK系列自动步枪'THP-A-5.45'消音器.可以在AK和RPK的'74'系列的标准补偿器的位置上安装.用于减少AK74和RPK自动步枪的射击普通子弹的声音。通过在前端圆筒扭曲声音传播来消音，并能遮挡火焰。</text>
+	<text>AK系列自动步枪'THP-A-5.45'消音器.可以在AK和RPK的'74'系列的标准补偿器的位置上安装.用于减少AK74和RPK自动步枪的射击普通子弹的声音.通过在前端圆筒扭曲声音传播来消音,并能遮挡火焰.</text>
 </string>
 <string id="st_af_acid_star_descr">
-	<text>Unique artifact with excellent barrier properties. You must take his breeder ... sorry.</text>
+	<text>有优异保护性能的独特神器.</text>
 </string>
 <string id="st_af_acid_star_name">
-	<text>'Acid ciliates'</text>
+	<text>"酸性纤毛虫"</text>
 </string>
 <string id="st_af_prodigy_1_processed_descr">
-	<text>Artifact of organic nature. Consists of a deformed animal tissues. When injected into the area of chemical pollution begins 'pull' chemicals from the air and convert it into a thick viscous mass.</text>
+	<text>有机自然产物.由畸形的动物组织组成.放入化学污染的区域后开始从空气中抽取化学物质并将其转化为一种黏性物质.</text>
 </string>
 <string id="st_af_prodigy_1_processed_name">
-	<text>'Breed �768'</text>
+	<text>'品种768'</text>
 </string>
 <string id="st_af_prodigy_2_processed_descr">
-	<text>It is well established that the radiation produced by ripple thickening of this breed, causes blood in open wounds very quickly phased out.</text>
+	<text>这个神器发育的很好,具有较高辐射.能让开放伤口迅速止血.</text>
 </string>
 <string id="st_af_prodigy_2_processed_name">
-	<text>'Breed �815'</text>
+	<text>'品种815'</text>
 </string>
 <string id="st_af_prodigy_3_processed_descr">
-	<text>The organic artifact with unique properties. Yet unknown way increases the overall speed of regeneration after injury of any nature, without accelerating the accumulation of toxins.</text>
+	<text>具有独特属性的有机神器.以未知的原理让机体在任何性质的损伤后整体恢复率都有所增加,而不加速毒素的累积.</text>
 </string>
 <string id="st_af_prodigy_3_processed_name">
-	<text>'Breed �862'</text>
+	<text>'品种862'</text>
 </string>
 <string id="st_af_prodigy_4_processed_descr">
-	<text>Artifact electrostatic nature. Can dramatically increase the muscle tone of the carrier.</text>
+	<text>静电变异点的产物.能显著增加携带者的肌肉张力.</text>
 </string>
 <string id="st_af_prodigy_4_processed_name">
-	<text>'Breed �874'</text>
+	<text>'品种874'</text>
 </string>
 <string id="st_af_prodigy_5_processed_descr">
-	<text>Generates around itself the sphere of directions of the gravitational field. Very effective in reducing the weight of the contents of the rucksack carrier.</text>
+	<text>在自身周围产生一个反方向引力场的神器.非常有效地减少了携带者背包的内容的重量.</text>
 </string>
 <string id="st_af_prodigy_5_processed_name">
-	<text>'Breed �895'</text>
+	<text>'品种895'</text>
 </string>
 <string id="st_af_prodigy_6_processed_descr">
-	<text>The organic artifact. Generates around itself invisible sphere, which boosts immunity carrier.</text>
+	<text>有机神器.在自身周围生成一个无形的力场, 增强了媒体的免疫力.</text>
 </string>
 <string id="st_af_prodigy_6_processed_name">
-	<text>'Breed �934'</text>
+	<text>'品种934'</text>
 </string>
 <string id="st_af_prodigy_danger_descr">
-	<text>Radioactive. The properties of the artifact virtually nothing is known.</text>
+	<text>具有放射性.神器的属性几乎是完全未知的.</text>
 </string>
 <string id="st_af_prodigy_danger_name">
-	<text>'An unknown artifact'</text>
+	<text>'未知神器'</text>
 </string>
 <string id="st_af_shapoklak_descr">
-	<text>Unique artifact with good protective and restorative properties. However emits radiation. You need to pass an artifact Krivouhovu.</text>
+	<text>具有很好的保护和恢复属性的独特神器,然而具有放射性.</text>
 </string>
 <string id="st_af_shapoklak_name">
-	<text>'Shapoklyak'</text>
+	<text>'大礼帽'</text>
 </string>
 <string id="st_agru_key_from_door">
-	<text>Key to the door</text>
+	<text>门的钥匙</text>
 </string>
 <string id="st_agru_key_from_door_descr">
-	<text>The key is found in the dead scientist.</text>
+	<text>在死去的科学家身上发现的钥匙.</text>
 </string>
 <string id="st_agru_secret_docks_1">
-	<text>Case �708</text>
+	<text>案例708</text>
 </string>
 <string id="st_agru_secret_docks_1_descr">
-	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Top Secret' \n S/N 7736708</text>
+	<text>钉起来的几张A4纸.封面上写着: \n '绝密' \n S/N 7736708</text>
 </string>
 <string id="st_agru_secret_docks_2">
-	<text>Case �711</text>
+	<text>案例711</text>
 </string>
 <string id="st_agru_secret_docks_2_descr">
-	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Top Secret' \n S/N 7736711</text>
+	<text>钉起来的几张A4纸.封面上写着: \n '绝密' \n S/N 7736711</text>
 </string>
 <string id="st_army_smoliak_case_descr">
-	<text>Flash card with information about their personal hiding hoarders lieutenant.</text>
+	<text>装着中尉的个人藏物点信息的闪存驱动器.-斯莫亚克</text>
 </string>
 <string id="st_army_smoliak_case_title">
-	<text>'Flash card litas. Smolyak '</text>
+	<text>'斯莫亚克的闪存驱动器'</text>
 </string>
 <string id="st_army_smoliak_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Smolyak' \n %c[default] Information from the stick: Southeast,processing plant.</text>
+	<text>%c[255,238,153,26]斯莫亚克的财产 \n %c[default] 来自闪存驱动器的信息: 东南方,加工厂.</text>
 </string>
 <string id="st_army_smoliak_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Smolyak %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 斯莫亚克的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_bandit_bulava_case_descr">
-	<text>Flash card with information about their personal hiding thug - Mace.</text>
+	<text>装着梅斯的个人藏物点信息的闪存驱动器.-梅斯</text>
 </string>
 <string id="st_bandit_bulava_case_title">
-	<text>'Flash card Mace'</text>
+	<text>'梅斯的闪存驱动器'</text>
 </string>
 <string id="st_bandit_bulava_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Mace' \n %c[default] Information from the stick: none.</text>
+	<text>%c[255,238,153,26] 梅斯的财产 \n %c[default] 来自闪存驱动器的信息: 无.</text>
 </string>
 <string id="st_bandit_bulava_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Mace %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 梅斯的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_bandit_chapaev_case_descr">
-	<text>Flash card with information about their personal hiding godfather bandits - Chapaev.</text>
+	<text>装着强盗教父的个人藏物点信息的闪存驱动器.-恰帕耶夫.</text>
 </string>
 <string id="st_bandit_chapaev_case_title">
-	<text>'Flash card Chapaev'</text>
+	<text>'恰帕耶夫的闪存驱动器'</text>
 </string>
 <string id="st_bandit_chapaev_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Chapaev' \n %c[default] Information from the stick:,Port cranes container.</text>
+	<text>%c[255,238,153,26] 恰帕耶夫的财产 \n %c[default] 来自闪存驱动器的信息: 港口起重机的箱子.</text>
 </string>
 <string id="st_bandit_chapaev_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Chapaev %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 恰帕耶夫的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_bandit_dinozavr_case_descr">
-	<text>Flash card with information about their personal hiding thug - Dinosaur.</text>
+	<text>装着恐龙的个人藏物点信息的闪存驱动器.-恐龙</text>
 </string>
 <string id="st_bandit_dinozavr_case_title">
-	<text>'Dinosaur USB Flash Drive'</text>
+	<text>'恐龙的闪存驱动器'</text>
 </string>
 <string id="st_bandit_dinozavr_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Dinosaur' \n %c[default] Information from the stick: none.</text>
+	<text>%c[255,238,153,26] 恐龙的财产 \n %c[default] 来自闪存驱动器的信息: 无.</text>
 </string>
 <string id="st_bandit_dinozavr_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Dinosaur %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 恐龙的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_bandit_gnom_case_descr">
-	<text>USB flash drive with about informatsieyu skhovanku bosyakuvatogo huligana - vuyka Gnome.</text>
+	<text>装着我的个人藏物点的闪存驱动器.-侏儒</text>
 </string>
 <string id="st_bandit_gnom_case_title">
-	<text>'Flash card Dwarf'</text>
+	<text>'侏儒的闪存驱动器'</text>
 </string>
 <string id="st_bandit_gnom_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Dwarf' \n %c[default] Information from the stick: none.</text>
+	<text>%c[255,238,153,26] 侏儒的财产 \n %c[default] 来自闪存驱动器的信息: 无.</text>
 </string>
 <string id="st_bandit_gnom_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Gnome %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 侏儒的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_bandit_karas_case_descr">
-	<text>Flash card with information about their personal hiding thug - Carp.</text>
+	<text>装着卡普的个人藏物点信息的闪存驱动器.-卡普</text>
 </string>
 <string id="st_bandit_karas_case_title">
-	<text>'Flash card Karas'</text>
+	<text>'卡普的闪存驱动器'</text>
 </string>
 <string id="st_bandit_karas_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Carp' \n %c[default] Information from the stick: none.</text>
+	<text>%c[255,238,153,26] 卡普的财产 \n %c[default] 来自闪存驱动器的信息: 无.</text>
 </string>
 <string id="st_bandit_karas_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Carp %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 卡普的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_bandit_kaschey_case_descr">
-	<text>Flash card with information about their personal hiding thug - Kashchei.</text>
+	<text>装着卡斯钦的个人藏物点信息的闪存驱动器.-卡斯钦</text>
 </string>
 <string id="st_bandit_kaschey_case_title">
-	<text>'Flash card Kashchei'</text>
+	<text>'卡斯钦的闪存驱动器'</text>
 </string>
 <string id="st_bandit_kaschey_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Kashchei' \n %c[default] Information from the stick: none.</text>
+	<text>%c[255,238,153,26] 卡斯钦的财产 \n %c[default] 来自闪存驱动器的信息: 无.</text>
 </string>
 <string id="st_bandit_kaschey_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Kashchei %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 卡斯钦的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_bandit_kastet_case_descr">
-	<text>Flash card with information about their personal hiding Six Sultan - brass knuckles.</text>
+	<text>装着的个人藏物点信息的闪存驱动器.-铜指虎</text>
 </string>
 <string id="st_bandit_kastet_case_title">
-	<text>'Flash card brass knuckles'</text>
+	<text>'的闪存驱动器' brass knuckles'</text>
 </string>
 <string id="st_bandit_kastet_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'brass knuckles' \n %c[default] Information from the stick: Southeast,CPR.</text>
+	<text>%c[255,238,153,26] 铜指虎的财产 \n %c[default] 来自闪存驱动器的信息: CPR西南方.</text>
 </string>
 <string id="st_bandit_kastet_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions brass knuckles %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 铜指虎的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_bandit_mazay_case_descr">
-	<text>Flash card with information about their personal hiding thug - Mazaya.</text>
+	<text>装着莫扎亚的个人藏物点信息的闪存驱动器.-莫扎亚.</text>
 </string>
 <string id="st_bandit_mazay_case_title">
-	<text>'Flash card Mazaya'</text>
+	<text>'莫扎亚的闪存驱动器'</text>
 </string>
 <string id="st_bandit_mazay_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Mazaya' \n %c[default] Information from the stick: none.</text>
+	<text>%c[255,238,153,26] 莫扎亚的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
 </string>
 <string id="st_bandit_mazay_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Mazaya %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 莫扎亚的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_bandit_port_leader_case_descr">
-	<text>Flash card with information about their personal hiding unidentified bandyugan.</text>
+	<text>装着无名枪手的个人藏物点信息的闪存驱动器.-无名枪手</text>
 </string>
 <string id="st_bandit_port_leader_case_title">
-	<text>'Flash card unknown Bandos'</text>
+	<text>'无名枪手的闪存驱动器'</text>
 </string>
 <string id="st_bandit_port_leader_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'unidentified gunmen' \n %c[default] Information from the stick:,Center burned down the farm.</text>
+	<text>%c[255,238,153,26] 无名枪手的财产 \n %c[default] 来自闪存驱动器的信息:烧毁农场中间.</text>
 </string>
 <string id="st_bandit_port_leader_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions unidentified gunmen %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 无名枪手的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_bandit_rogach_case_descr">
-	<text>Flash card with information about their personal hiding thug - Rogac.</text>
+	<text>装着洛迦克的个人藏物点信息的闪存驱动器.-洛迦克</text>
 </string>
 <string id="st_bandit_rogach_case_title">
-	<text>'Flash card Rogac'</text>
+	<text>'洛迦克的闪存驱动器'</text>
 </string>
 <string id="st_bandit_rogach_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Rogac' \n %c[default] Information from the stick: none.</text>
+	<text>%c[255,238,153,26] 洛迦克的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
 </string>
 <string id="st_bandit_rogach_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Rogac %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 洛迦克的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_bandit_shishak_case_descr">
-	<text>Flash card with information about their personal hiding godfather storage Bandos - Shishak.</text>
+	<text>装着的什沙克个人藏物点信息的闪存驱动器.-什沙克</text>
 </string>
 <string id="st_bandit_shishak_case_title">
-	<text>'Flash card Shishak'</text>
+	<text>'什沙克的闪存驱动器'</text>
 </string>
 <string id="st_bandit_shishak_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Shishak' \n %c[default] Information from the stick:f/A tunnel.</text>
+	<text>%c[255,238,153,26] 什沙克的财产 \n %c[default] 来自闪存驱动器的信息:管道.</text>
 </string>
 <string id="st_bandit_shishak_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Shishak %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 什沙克的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_bandit_valet_case_descr">
-	<text>Flash card with information about their personal hiding the self-proclaimed tuber - Diamonds.</text>
+	<text>装着钻石的个人藏物点信息的闪存驱动器.-钻石</text>
 </string>
 <string id="st_bandit_valet_case_title">
-	<text>'Flash card of Diamonds'</text>
+	<text>'钻石的闪存驱动器'</text>
 </string>
 <string id="st_bandit_valet_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Diamonds' \n %c[default] Information from the stick: Near the station Yanov,bushes.</text>
+	<text>%c[255,238,153,26] 钻石的财产 \n %c[default] 来自闪存驱动器的信息:靠近亚诺夫车站的树丛里.</text>
 </string>
 <string id="st_bandit_valet_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Diamonds %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 钻石的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_black_angel_unindification_name">
 	<text>Neidintifitsirovan</text>
@@ -637,40 +637,40 @@
 	<text>PDA with unknown information.</text>
 </string>
 <string id="st_dolg_morgan_case_descr">
-	<text>Flash card with information about their personal hiding ushlogo huckster - dolgovtsev Morgan.</text>
+	<text>装着摩根的个人藏物点信息的闪存驱动器.-摩根.</text>
 </string>
 <string id="st_dolg_morgan_case_title">
-	<text>'Flash card Morgan'</text>
+	<text>'摩根的闪存驱动器'</text>
 </string>
 <string id="st_dolg_morgan_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Morgan' \n %c[default] Information from the stick: Somewhere in the center,near the helicopter.</text>
+	<text>%c[255,238,153,26] 摩根的财产 \n %c[default] 来自闪存驱动器的信息:靠近直升飞机的中央部位.</text>
 </string>
 <string id="st_dolg_morgan_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Morgan %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 摩根的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_duty_kanevskiy_case_descr">
-	<text>Flash card with information about their personal hiding master sapper case - dolgovtsev Kanev.</text>
+	<text>装着卡涅夫的个人藏物点信息的闪存驱动器.-卡涅夫</text>
 </string>
 <string id="st_duty_kanevskiy_case_title">
-	<text>'Flash card Kanev'</text>
+	<text>'卡涅夫的闪存驱动器'</text>
 </string>
 <string id="st_duty_kanevskiy_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Kanev' \n %c[default] Information from the stick: Saw.</text>
+	<text>%c[255,238,153,26] 卡涅夫的财产 \n %c[default] 来自闪存驱动器的信息:锯子.</text>
 </string>
 <string id="st_duty_kanevskiy_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Kanev %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 卡涅夫的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_esc_b2_bomb">
-	<text>C4 explosives</text>
+	<text>C4爆炸物</text>
 </string>
 <string id="st_esc_b2_bomb_control">
-	<text>Remote Control C4 charge</text>
+	<text>C4遥控器</text>
 </string>
 <string id="st_esc_b2_bomb_control_descr">
-	<text>For remote detonation charge C4 - to use.</text>
+	<text>使用即可远程引爆C4.</text>
 </string>
 <string id="st_esc_b2_bomb_descr">
-	<text>Explosive charge. Comes complete with a remote control.</text>
+	<text>剧烈爆炸物,带有一个远程引爆遥控.</text>
 </string>
 <string id="st_esc_b2_tamerlan_flash">
 	<text>Flash card Tamerlane</text>
@@ -703,16 +703,16 @@
 	<text>Data location SBU �15764</text>
 </string>
 <string id="st_freedom_gaiduk_case_descr">
-	<text>Flash card with information about their personal hiding semi-commander of 'Liberty' - Hajduk.</text>
+	<text>装着自由团领导人塞米的个人藏物点信息的闪存驱动器.-海杜克.</text>
 </string>
 <string id="st_freedom_gaiduk_case_title">
-	<text>'Flash card Haiduk'</text>
+	<text>'海杜克的闪存驱动器'</text>
 </string>
 <string id="st_freedom_gaiduk_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Haiduk' \n %c[default] Information from the stick:,Cement factory roof of the building.</text>
+	<text>%c[255,238,153,26] 海杜克的财产 \n %c[default] 来自闪存驱动器的信息:水泥厂房顶.</text>
 </string>
 <string id="st_freedom_gaiduk_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Haiduk %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 海杜克的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_grenade_launcher_ag36">
 	<text>AG36</text>
@@ -796,10 +796,10 @@
 	<text>Ordinary radio with FM receiver.</text>
 </string>
 <string id="st_jup_killer_caravan_case">
-	<text>Cargo caravan</text>
+	<text>会计的箱子</text>
 </string>
 <string id="st_jup_killer_caravan_case_descr">
-	<text>Steel box with something inside.</text>
+	<text>装着什么东西的铁盒子.</text>
 </string>
 <string id="st_jup_thief_voron_pda">
 	<text>PDA 'Raven'</text>
@@ -808,88 +808,88 @@
 	<text>PDA contains the zipped file archive is password protected. My PDA does not support this version of the archiver. You need to pass the PDA Stormbreaker - perhaps he can extract information.</text>
 </string>
 <string id="st_killer_cherep_case_descr">
-	<text>Flash card with information about their personal hiding mercenary - the skull.</text>
+	<text>装着骷髅的个人藏物点信息的闪存驱动器.-骷髅</text>
 </string>
 <string id="st_killer_cherep_case_title">
-	<text>'Flash card Skull'</text>
+	<text>'骷髅的闪存驱动器'骷髅</text>
 </string>
 <string id="st_killer_cherep_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Skulls' \n %c[default] Information from the stick: Surrounded by electrical anomalies.</text>
+	<text>%c[255,238,153,26] 骷髅的财产 \n %c[default] 来自闪存驱动器的信息:被闪电变异点包围.</text>
 </string>
 <string id="st_killer_cherep_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Skull %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 骷髅的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_killer_grif_case_descr">
-	<text>Flash card with information about their personal hiding mercenary - Vulture.</text>
+	<text>装着秃鹰的个人藏物点信息的闪存驱动器.-秃鹰</text>
 </string>
 <string id="st_killer_grif_case_title">
-	<text>'Flash card Vulture'</text>
+	<text>'秃鹰的闪存驱动器'</text>
 </string>
 <string id="st_killer_grif_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Vulture' \n %c[default] Information from the stick: bush near the anomalous field.</text>
+	<text>%c[255,238,153,26] 秃鹰的财产 \n %c[default] 来自闪存驱动器的信息:变异点附近的树丛.</text>
 </string>
 <string id="st_killer_grif_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Vulture %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 秃鹰的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_killer_kruk_case_descr">
-	<text>Flash card with information about their personal hiding mercenary - Hook.</text>
+	<text>装着钩子的个人藏物点信息的闪存驱动器.-钩子</text>
 </string>
 <string id="st_killer_kruk_case_title">
-	<text>'Flash card Hook'</text>
+	<text>'钩子的闪存驱动器'</text>
 </string>
 <string id="st_killer_kruk_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Hook' \n %c[default] Information from the stick: Northwest,around the Guide.</text>
+	<text>%c[255,238,153,26] 钩子的财产 \n %c[default] 来自闪存驱动器的信息:指南周围,西南方.</text>
 </string>
 <string id="st_killer_kruk_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Hook %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 钩子的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_killer_molfar_case_descr">
-	<text>Flash card with information about their personal hiding Chief of mercenaries - Molfara.</text>
+	<text>装着佣兵队长的个人藏物点信息的闪存驱动器.-莫法拉</text>
 </string>
 <string id="st_killer_molfar_case_title">
-	<text>'Flash card Molfara'</text>
+	<text>'莫法拉的闪存驱动器'</text>
 </string>
 <string id="st_killer_molfar_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Molfara' \n %c[default] Information from the stick: None.</text>
+	<text>%c[255,238,153,26] 莫法拉的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
 </string>
 <string id="st_killer_molfar_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Molfara %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 莫法拉的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_killer_revizor_case_descr">
-	<text>Flash card with information about their personal hiding mercenary - Examiner.</text>
+	<text>装着判官的个人藏物点信息的闪存驱动器.-判官</text>
 </string>
 <string id="st_killer_revizor_case_title">
-	<text>'Flash card Examiner'</text>
+	<text>'判官的闪存驱动器'</text>
 </string>
 <string id="st_killer_revizor_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Examiner' \n %c[default] Information from the stick: none.</text>
+	<text>%c[255,238,153,26] 判官的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
 </string>
 <string id="st_killer_revizor_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Examiner %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 判官的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_killer_tesak_case_descr">
-	<text>Flash card with information about their personal hiding commander of mercenaries - Grunt Tesakova.</text>
+	<text>装着佣兵指挥官的个人藏物点信息的闪存驱动器.-特沙科瓦</text>
 </string>
 <string id="st_killer_tesak_case_title">
-	<text>'Flash card Tesakova'</text>
+	<text>'特沙科瓦的闪存驱动器'</text>
 </string>
 <string id="st_killer_tesak_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Tesak' \n %c[default] Information from the stick:,Northwest dredger.</text>
+	<text>%c[255,238,153,26] 特沙科瓦的财产 \n %c[default] 来自闪存驱动器的信息:挖泥船西北方.</text>
 </string>
 <string id="st_killer_tesak_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Tesak %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 特沙科瓦的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_killer_warlord_case_descr">
-	<text>Flash card with information about their personal hiding mercenary - Warlord.</text>
+	<text>装着佣兵的个人藏物点信息的闪存驱动器.-军阀</text>
 </string>
 <string id="st_killer_warlord_case_title">
-	<text>'Flash card Warlord'</text>
+	<text>'军阀的闪存驱动器'</text>
 </string>
 <string id="st_killer_warlord_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Warlord' \n %c[default] Information from the stick: none.</text>
+	<text>%c[255,238,153,26] 军阀的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
 </string>
 <string id="st_killer_warlord_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Warlord %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 军阀的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_letter_from_agent">
 	<text>Letter from a connected</text>
@@ -946,103 +946,103 @@
 	<text>The most important part of any mine detector.</text>
 </string>
 <string id="st_mercenary_suvorov_case_descr">
-	<text>Flash card with information about their personal hiding kommandira mercenaries - Captain Suvorov.</text>
+	<text>装着佣兵指挥官的个人藏物点信息的闪存驱动器.-苏沃洛夫队长</text>
 </string>
 <string id="st_mercenary_suvorov_case_title">
-	<text>'Flash card captain Suvorov'</text>
+	<text>'苏沃洛夫队长的闪存驱动器'</text>
 </string>
 <string id="st_mercenary_suvorov_unpack_descr">
-	<text>%c[255,238,153,26] possessions captain 'Suvorov' \n %c[default] Information from the stick: none.</text>
+	<text>%c[255,238,153,26] 苏沃洛夫队长的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
 </string>
 <string id="st_mercenary_suvorov_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions captain Suvorov %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 苏沃洛夫队长的财产  %c[110,128,128,255]'</text>
 </string>
 <string id="st_mercenary_tverdohlebov_case_descr">
-	<text>Flash card with information about their personal hiding kommandira mercenaries - Major Tv�rdohlebova.</text>
+	<text>装着佣兵指挥官的个人藏物点信息的闪存驱动器.-特沃多列波瓦少校</text>
 </string>
 <string id="st_mercenary_tverdohlebov_case_title">
-	<text>'Flash card Major Tv�rdohlebova'</text>
+	<text>'特沃多列波瓦少校的闪存驱动器'</text>
 </string>
 <string id="st_mercenary_tverdohlebov_unpack_descr">
-	<text>%c[255,238,153,26] Major possessions 'Tv�rdohlebova' \n %c[default] Information from the stick: none.</text>
+	<text>%c[255,238,153,26] 特沃多列波瓦少校的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
 </string>
 <string id="st_mercenary_tverdohlebov_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Major Tv�rdohlebova %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 特沃多列波瓦少校的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_mil_hole_bomb">
-	<text>C4 explosives</text>
+	<text>C4爆炸物</text>
 </string>
 <string id="st_mil_hole_bomb_control">
-	<text>Remote Control C4 charge</text>
+	<text>C4遥控器</text>
 </string>
 <string id="st_mil_hole_bomb_control_descr">
-	<text>For remote detonation charge C4 - to use.</text>
+	<text>使用即可远程引爆C4.</text>
 </string>
 <string id="st_mil_hole_bomb_descr">
-	<text>Explosive charge. Comes complete with a remote control.</text>
+	<text>剧烈爆炸物,带有一个远程引爆遥控.</text>
 </string>
 <string id="st_mod_menu_modes_ammo">
 	<text>Besco. ammunition</text>
 </string>
 <string id="st_monolit_brodiaga_case_descr">
-	<text>Flash card with information about their personal hiding place of the former Monolith - Rogue.</text>
+	<text>装着前黑石成员的个人藏物点信息的闪存驱动器.-滚石</text>
 </string>
 <string id="st_monolit_brodiaga_case_title">
-	<text>'Flash card Rolling Stone'</text>
+	<text>'滚石的闪存驱动器'</text>
 </string>
 <string id="st_monolit_brodiaga_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Rolling Stone' \n %c[default] Information from the stick:,East blocks.</text>
+	<text>%c[255,238,153,26] 滚石的财产 \n %c[default] 来自闪存驱动器的信息:东部区域.</text>
 </string>
 <string id="st_monolit_brodiaga_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Tramps %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 滚石的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_monolit_kiborg_case_descr">
-	<text>Flash card with information about their personal hiding forces commander in chief of the Grand Monolith - Cyborg.</text>
+	<text>装着黑石指挥官的个人藏物点信息的闪存驱动器.-机器人</text>
 </string>
 <string id="st_monolit_kiborg_case_title">
-	<text>'Flash card Cyborg'</text>
+	<text>'机器人的闪存驱动器'</text>
 </string>
 <string id="st_monolit_kiborg_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Cyborg' \n %c[default] Information from the stick: The upper tier of the port.</text>
+	<text>%c[255,238,153,26] 机器人的财产 \n %c[default] 来自闪存驱动器的信息:港口的上层.</text>
 </string>
 <string id="st_monolit_kiborg_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Cyborg %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 机器人的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_monolit_voland_case_descr">
-	<text>Flash card with information about their personal hiding faction leader Monolith - Voland.</text>
+	<text>装着黑石派系领导人的个人藏物点信息的闪存驱动器.-沃兰</text>
 </string>
 <string id="st_monolit_voland_case_title">
-	<text>'Flash card Woland'</text>
+	<text>'沃兰的闪存驱动器'</text>
 </string>
 <string id="st_monolit_voland_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Woland' \n %c[default] Information from the stick Hospital. In the desktop.</text>
+	<text>%c[255,238,153,26] 沃兰的财产 \n %c[default] 来自闪存驱动器的信息:医院的桌面上.</text>
 </string>
 <string id="st_monolit_voland_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Voland %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 沃兰的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_monolith_inquisitor_case_descr">
-	<text>Flash card with information about their personal hiding High Priest Monolith - Inquisitor.</text>
+	<text>装着黑石大主教的个人藏物点信息的闪存驱动器.-砂锅</text>
 </string>
 <string id="st_monolith_inquisitor_case_title">
-	<text>'Flash card Inquisitor'</text>
+	<text>'砂锅的闪存驱动器'</text>
 </string>
 <string id="st_monolith_inquisitor_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'inquisitor' \n %c[default] Information from the stick: none.</text>
+	<text>%c[255,238,153,26] 砂锅的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
 </string>
 <string id="st_monolith_inquisitor_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Inquisitor %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 砂锅的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_monolith_intercepted_case">
-	<text>Case 'Leon'</text>
+	<text>里昂的箱子</text>
 </string>
 <string id="st_monolith_intercepted_case_descr">
-	<text>Case intercepted agent at Monolith mercenaries. Leon asked to bring a case in Pripyat, without opening it.</text>
+	<text>从黑石雇佣兵那里截获的箱子.里昂要求你把它带去普里皮亚季,而不打开它.</text>
 </string>
 <string id="st_off_pda_hint">
-	<text>Deactivate PDA</text>
+	<text>未激活的PDA</text>
 </string>
 <string id="st_position_printer_create">
-	<text>Print</text>
+	<text>打印</text>
 </string>
 <string id="st_pri_fenix_brother_medallion">
 	<text>Medallion of Germanicus</text>
@@ -1813,10 +1813,10 @@
 	<text>These brothers are considered the creators of the first airplane?</text>
 </string>
 <string id="st_quest_arms_case">
-	<text>Case with 'Ruger GP100'</text>
+	<text>装着Ruger GP100的箱子</text>
 </string>
 <string id="st_quest_arms_case_descr">
-	<text>Inside the case is parsed 'Ruger GP100', as well as repair kit to it.</text>
+	<text>箱子里装着Ruger GP100,以及配套的维修工具.</text>
 </string>
 <string id="st_quest_bloodsucker_letter_1">
 	<text>Strange note 1</text>
@@ -1957,16 +1957,16 @@
 	<text>Play each track in turn</text>
 </string>
 <string id="st_rasvet_nazar_case_descr">
-	<text>Flash card with information about their personal hiding Director grouping 'Breaking Dawn' - Nazar.</text>
+	<text>装着黎明组织的个人藏物点信息的闪存驱动器.-纳扎尔</text>
 </string>
 <string id="st_rasvet_nazar_case_title">
-	<text>'Flash card Nazar'</text>
+	<text>'纳扎尔的闪存驱动器'</text>
 </string>
 <string id="st_rasvet_nazar_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Nazar' \n %c[default] Information from the stick: Eastern Depot.</text>
+	<text>%c[255,238,153,26] 纳扎尔的财产 \n %c[default] 来自闪存驱动器的信息:东部仓库.</text>
 </string>
 <string id="st_rasvet_nazar_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Nazar %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 纳扎尔的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_red_psyho_development_1">
 	<text>An experimental drug psycho-1</text>
@@ -2053,184 +2053,184 @@
 	<text>Designed for emergency access helicopters.</text>
 </string>
 <string id="st_stalker_barga_case_descr">
-	<text>Flash card with information about their personal hiding caver - Barges.</text>
+	<text>装着巴基斯的个人藏物点信息的闪存驱动器.-巴基斯</text>
 </string>
 <string id="st_stalker_barga_case_title">
-	<text>'Flash card Barges'</text>
+	<text>'巴基斯的闪存驱动器'</text>
 </string>
 <string id="st_stalker_barga_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Barges' \n %c[default] Information from the stick: Somewhere in the middle,under the bridge.</text>
+	<text>%c[255,238,153,26] 巴基斯的财产 \n %c[default] 来自闪存驱动器的信息:桥下靠近中间的某处.</text>
 </string>
 <string id="st_stalker_barga_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Barges %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 巴基斯的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_stalker_commander_case_descr">
-	<text>Flash card with information about their personal hiding place unknown - Commander.</text>
+	<text>装着指挥官的个人藏物点信息的闪存驱动器.-指挥官</text>
 </string>
 <string id="st_stalker_commander_case_title">
-	<text>'Flash card Commander'</text>
+	<text>'指挥官的闪存驱动器'</text>
 </string>
 <string id="st_stalker_commander_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Commander' \n %c[default] Information from the stick: Somewhere in the middle of ...</text>
+	<text>%c[255,238,153,26] 指挥官的财产 \n %c[default] 来自闪存驱动器的信息:在某处中心.</text>
 </string>
 <string id="st_stalker_commander_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Commander %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 指挥官的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_stalker_crab_case_descr">
-	<text>Flash card with information about their personal hiding place stalker - Crab.</text>
+	<text>装着螃蟹的个人藏物点信息的闪存驱动器.-螃蟹</text>
 </string>
 <string id="st_stalker_crab_case_title">
-	<text>'Flash card Crab'</text>
+	<text>'螃蟹的闪存驱动器'</text>
 </string>
 <string id="st_stalker_crab_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Crab' \n %c[default] Information from the stick:,South mercenaries base.</text>
+	<text>%c[255,238,153,26] 螃蟹的财产 \n %c[default] 来自闪存驱动器的信息:佣兵基地南边.</text>
 </string>
 <string id="st_stalker_crab_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Crab %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 螃蟹的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_stalker_elbrus_case_descr">
-	<text>Flash card with information about their personal hiding hero Creek - Mount Elbrus.</text>
+	<text>装着河湾英雄的个人藏物点信息的闪存驱动器.-厄尔布鲁士</text>
 </string>
 <string id="st_stalker_elbrus_case_title">
-	<text>'Flash card Elbrus'</text>
+	<text>'厄尔布鲁士的闪存驱动器'</text>
 </string>
 <string id="st_stalker_elbrus_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Elbrus' \n %c[default] Information from the stick:,Workshops substation in the house.</text>
+	<text>%c[255,238,153,26] 厄尔布鲁士的财产 \n %c[default] 来自闪存驱动器的信息:变电站的工作室内.</text>
 </string>
 <string id="st_stalker_elbrus_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Elbrus %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 厄尔布鲁士的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_stalker_gluhar_case_descr">
-	<text>Flash card with information about their personal hiding brave ment, stalker - grouse.</text>
+	<text>装着勇者的个人藏物点信息的闪存驱动器.-松鸡</text>
 </string>
 <string id="st_stalker_gluhar_case_title">
-	<text>'Flash card Glouchar'</text>
+	<text>'松鸡的闪存驱动器'</text>
 </string>
 <string id="st_stalker_gluhar_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'grouse' \n %c[default] Information from the stick: South,parking at the break.</text>
+	<text>%c[255,238,153,26] 松鸡的财产 \n %c[default] 来自闪存驱动器的信息:破烂停车场的南边.</text>
 </string>
 <string id="st_stalker_gluhar_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Glouchar %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 松鸡的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_stalker_koriaga_case_descr">
-	<text>Flash card with information about their personal hiding priblatn�nnogo Lohan, would-be stalker - Driftwood.</text>
+	<text>装着斯纳戈的个人藏物点信息的闪存驱动器.-斯纳戈</text>
 </string>
 <string id="st_stalker_koriaga_case_title">
-	<text>'Flash card Snags'</text>
+	<text>'斯纳戈的闪存驱动器'</text>
 </string>
 <string id="st_stalker_koriaga_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Driftwood' \n %c[default] Information from the stick:,PPC second floor.</text>
+	<text>%c[255,238,153,26] 斯纳戈的财产 \n %c[default] 来自闪存驱动器的信息:,PPC second floor.</text>
 </string>
 <string id="st_stalker_koriaga_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Snags %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 斯纳戈的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_stalker_magomet_case_descr">
-	<text>Flash card with information about their personal hiding place stalker freestyle - Mohammed.</text>
+	<text>装着自由潜行者的个人藏物点信息的闪存驱动器.-穆罕默德</text>
 </string>
 <string id="st_stalker_magomet_case_title">
-	<text>'Flash card Mohammed'</text>
+	<text>'穆罕默德的闪存驱动器'</text>
 </string>
 <string id="st_stalker_magomet_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Mahomet' \n %c[default] Information from the stick: none.</text>
+	<text>%c[255,238,153,26] 穆罕默德的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
 </string>
 <string id="st_stalker_magomet_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Mohammed %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 穆罕默德的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_stalker_mayron_case_descr">
-	<text>Flash card with information about their personal hiding place stalker puzzles, Myron.</text>
+	<text>装着米隆的个人藏物点信息的闪存驱动器.-米隆</text>
 </string>
 <string id="st_stalker_mayron_case_title">
-	<text>'Flash card Myron'</text>
+	<text>'米隆的闪存驱动器'</text>
 </string>
 <string id="st_stalker_mayron_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Myron' \n %c[default] Information from the stick:,West transformer room.</text>
+	<text>%c[255,238,153,26] 米隆的财产 \n %c[default] 来自闪存驱动器的信息:西变电室.</text>
 </string>
 <string id="st_stalker_mayron_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Myron %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 米隆的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_stalker_noy_case_descr">
-	<text>Flash card with information about their personal hiding Zatonsky psychopath - Noah.</text>
+	<text>装着疯子的个人藏物点信息的闪存驱动器.-诺亚</text>
 </string>
 <string id="st_stalker_noy_case_title">
-	<text>'Flash card in November'</text>
+	<text>'诺亚的闪存驱动器'</text>
 </string>
 <string id="st_stalker_noy_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'November' \n %c[default] Information from the stick: Northeast,Volcano anomaly.</text>
+	<text>%c[255,238,153,26] 诺亚的财产 \n %c[default] 来自闪存驱动器的信息:火焰变异点东北边.</text>
 </string>
 <string id="st_stalker_noy_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] November possessions %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 诺亚的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_stalker_petruha_case_descr">
-	<text>Flash card with information about their personal hiding desperate hunter for artifacts, the hero of the Battle of ATP - Petrukha.</text>
+	<text>装着ATP之战英雄的个人藏物点信息的闪存驱动器.-佩楚卡</text>
 </string>
 <string id="st_stalker_petruha_case_title">
-	<text>'Flash card Petrukha'</text>
+	<text>'佩楚卡的闪存驱动器'</text>
 </string>
 <string id="st_stalker_petruha_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Petrukha' \n %c[default] Information from the stick: Somewhere in the middle of the deserted village ,.</text>
+	<text>%c[255,238,153,26] 佩楚卡的财产 \n %c[default] 来自闪存驱动器的信息:毁坏的村庄的中间.</text>
 </string>
 <string id="st_stalker_petruha_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Petrukha %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 佩楚卡的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_stalker_spartak_case_descr">
-	<text>Flash card with information about their personal hiding detachment commander zachistochnogo - Spartacus.</text>
+	<text>装着指挥官的个人藏物点信息的闪存驱动器.-斯巴达克斯</text>
 </string>
 <string id="st_stalker_spartak_case_title">
-	<text>'Flash card Spartacus'</text>
+	<text>'斯巴达克斯的闪存驱动器'</text>
 </string>
 <string id="st_stalker_spartak_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Spartacus' \n %c[default] Information from the stick:,Saw on assembly line.</text>
+	<text>%c[255,238,153,26] 斯巴达克斯的财产 \n %c[default] 来自闪存驱动器的信息:流水线上.</text>
 </string>
 <string id="st_stalker_spartak_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Spartacus %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 斯巴达克斯的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_stalker_tamerlan_case_descr">
-	<text>Flash card with information about their personal hiding place stalker freestyle - Tamerlane.</text>
+	<text>装着潜行者的个人藏物点信息的闪存驱动器.-铁木儿</text>
 </string>
 <string id="st_stalker_tamerlan_case_title">
-	<text>'Flash card Tamerlane'</text>
+	<text>'铁木儿的闪存驱动器'</text>
 </string>
 <string id="st_stalker_tamerlan_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Tamerlane' \n %c[default] Information from the stick: none.</text>
+	<text>%c[255,238,153,26] 铁木儿的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
 </string>
 <string id="st_stalker_tamerlan_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Tamerlane %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 铁木儿的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_stalker_vano_case_descr">
-	<text>Flash card with information about their personal hiding connoisseur of Georgian cuisine, stalker - Vano.</text>
+	<text>装着美食鉴赏家的个人藏物点信息的闪存驱动器.-瓦诺</text>
 </string>
 <string id="st_stalker_vano_case_title">
-	<text>'Flash card genatsvale Vano'</text>
+	<text>'瓦诺的闪存驱动器'</text>
 </string>
 <string id="st_stalker_vano_unpack_descr">
-	<text>%c[, 255 238,153,26] possessions 'Vano' \n %c[default] Information from a flash drive: Do not just stash,anomalous field.</text>
+	<text>%c[, 255 238,153,26] 瓦诺的财产 \n %c[default] 来自闪存驱动器的信息:藏在变异点里,不好拿.</text>
 </string>
 <string id="st_stalker_vano_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Vano %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 瓦诺的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_stalker_vobla_case_descr">
-	<text>Flash card with information about their personal hiding arrogant asshole - roach.</text>
+	<text>装着傲慢的混蛋的个人藏物点信息的闪存驱动器.-蟑螂</text>
 </string>
 <string id="st_stalker_vobla_case_title">
-	<text>'Flash card roach'</text>
+	<text>'蟑螂的闪存驱动器'</text>
 </string>
 <string id="st_stalker_vobla_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'roach' \n %c[default] Information from the stick:,Workshops substation in UAZ.</text>
+	<text>%c[255,238,153,26] 蟑螂的财产 \n %c[default] 来自闪存驱动器的信息:UAZ的变电站车间里.</text>
 </string>
 <string id="st_stalker_vobla_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions roach %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 蟑螂的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_stalker_zulus_case_descr">
-	<text>Flash card with information about their personal hiding place of the legendary Heavy, stalker - Zulu.</text>
+	<text>装着传奇潜行者的个人藏物点信息的闪存驱动器.-祖鲁</text>
 </string>
 <string id="st_stalker_zulus_case_title">
-	<text>'Flash card Zulu'</text>
+	<text>'祖鲁的闪存驱动器'</text>
 </string>
 <string id="st_stalker_zulus_unpack_descr">
-	<text>%c[255,238,153,26] possessions 'Zulu' \n %c[default] Information from the stick: Southeast,old building.</text>
+	<text>%c[255,238,153,26] 祖鲁的财产 \n %c[default] 来自闪存驱动器的信息:老建筑的东南边.</text>
 </string>
 <string id="st_stalker_zulus_unpack_title">
-	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Zulu %c[110,128,128,255]'</text>
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] 祖鲁的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_statistic_killed_m_13_name">
 	<text>Fracture</text>
@@ -2263,10 +2263,10 @@
 	<text>Key to the safe, which must lie card access to the underground laboratory.</text>
 </string>
 <string id="st_val_renegade_money_case">
-	<text>Box with money</text>
+	<text>装钱的箱子</text>
 </string>
 <string id="st_val_renegade_money_case_descr">
-	<text>Steel box with a fortune inside.</text>
+	<text>里面装着一笔钱的铁箱子.</text>
 </string>
 <string id="st_waypoint_editor_autochange_hint">
 	<text>Automatic additional notes walk and look</text>
@@ -2542,25 +2542,25 @@
 	<text>Skorpion vz. 61 'Scorpio' - Czech submachine gun, designed for tank weapons, communications and military personnel of other specialties. Scorpio was adopted in Czechoslovakia in 1961 (hence the designation vz.61 - vzor 61, ie, the sample 1961).</text>
 </string>
 <string id="st_x18_secret_docks_1">
-	<text>Case �45</text>
+	<text>案例45</text>
 </string>
 <string id="st_x18_secret_docks_1_descr">
-	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Top Secret' \n S/N 773645</text>
+	<text>钉起来的几张A4纸.封面上写着: \n '绝密' \n S/N 773645</text>
 </string>
 <string id="st_x18_secret_docks_2">
-	<text>Case �112</text>
+	<text>案例112</text>
 </string>
 <string id="st_x18_secret_docks_2_descr">
-	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Top Secret' \n S/N 7736112</text>
+	<text>钉起来的几张A4纸.封面上写着: \n '绝密' \n S/N 7736112</text>
 </string>
 <string id="st_x18_secret_docks_3">
-	<text>Case �18</text>
+	<text>案例18</text>
 </string>
 <string id="st_x18_secret_docks_3_descr">
-	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Top Secret' \n S/N 773618</text>
+	<text>钉起来的几张A4纸.封面上写着: \n '绝密' \n S/N 773618</text>
 </string>
 <string id="st_x18_secret_gs67">
-	<text>Secret Weapon</text>
+	<text>秘密武器</text>
 </string>
 <string id="st_zat_alfa_customer_pda">
 	<text>PDA alfovtsa</text>

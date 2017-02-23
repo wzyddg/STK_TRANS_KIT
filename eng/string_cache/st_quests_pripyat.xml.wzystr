@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string_table>
+<string id="pri_alf_informs_title0">
+	<text>Alpha Order: find the three necessary circuitry</text>
+</string>
+<string id="pri_alf_informs_text0">
+	<text>Monolitovsky mechanic Alf has asked you to find all the information on working with mechanical devices that could stay in the old CCD Pripyat. According to his data is the result of long dead during the second explosion scientists. Total should be three documents.</text>
+</string>
+<string id="pri_alf_informs_title1">
+	<text>Alpha Order: find the remaining two schemes</text>
+</string>
+<string id="pri_alf_informs_text1">
+	<text>One of the three old patterns found, look for the other two.</text>
+</string>
+<string id="pri_alf_informs_title2">
+	<text>Alpha Order: find the remaining two schemes</text>
+</string>
+<string id="pri_alf_informs_text2">
+	<text>One of the three old patterns found, look for the other two.</text>
+</string>
+<string id="pri_alf_informs_title3">
+	<text>Alpha Order: find the remaining two schemes</text>
+</string>
+<string id="pri_alf_informs_text3">
+	<text>One of the three old patterns found, look for the other two.</text>
+</string>
+<string id="pri_alf_informs_title4">
+	<text>Alpha order: get one remaining scheme</text>
+</string>
+<string id="pri_alf_informs_text4">
+	<text>Two of the three old patterns are found, look for the remaining one.</text>
+</string>
+<string id="pri_alf_informs_title5">
+	<text>Alpha order: get one remaining scheme</text>
+</string>
+<string id="pri_alf_informs_text5">
+	<text>Two of the three old patterns are found, look for the remaining one.</text>
+</string>
+<string id="pri_alf_informs_title6">
+	<text>Alpha order: get one remaining scheme</text>
+</string>
+<string id="pri_alf_informs_text6">
+	<text>Two of the three old patterns are found, look for the remaining one.</text>
+</string>
+<string id="pri_alf_informs_title7">
+	<text>Alpha order: First collect the information found customer</text>
+</string>
+<string id="pri_alf_informs_text7">
+	<text>Take Alpha are all found in the CCD documents.</text>
+</string>
+<string id="pri_a17_get_gauss_rifle_documentation_name">
+	<text>Item 62: find documents in the testing workshop</text>
+</string>
+<string id="pri_a17_get_gauss_rifle_documentation_text">
+	<text>It is necessary to find product documentation �62. The documentation should be clear - could it be the cause of these weapons falling helicopters.</text>
+</string>
+<string id="pri_a17_get_in_cover_name">
+	<text>Unidentified weapon: take cover in the building</text>
+</string>
+<string id="pri_a17_get_in_cover_text">
+	<text>You must take cover in the building and repel the Monolith attack.</text>
+</string>
+<string id="pri_a17_get_info_name">
+	<text>Unidentified weapon: find information</text>
+</string>
+<string id="pri_a17_get_info_text">
+	<text>Weapons malfunction, but the principle of its action is unknown. Need to find a technician who would understand this strange weapon.</text>
+</string>
+<string id="pri_a17_kill_preacher_name">
+	<text>Unidentified weapon: kill the Monolith squad leader</text>
+</string>
+<string id="pri_a17_kill_preacher_text">
+	<text>You must kill the Monolith squad leader, the one using the unidentified weapon.</text>
+</string>
+<string id="pri_a17_maraud_name">
+	<text>Unidentified weapon: search the dead Monolith fighters</text>
+</string>
+<string id="pri_a17_maraud_text">
+	<text>The Monolith fighters should have the unidentified weapon with them - find it.</text>
+</string>
+<string id="pri_a17_stalker_tech_produce_62_get_info_name">
+	<text>Unidentified weapon: talk to Cardan</text>
+</string>
+<string id="pri_a17_stalker_tech_produce_62_get_info_text">
+	<text>Cardan should have shaken off his hangover by now - time to talk to him about the unidentified weapon.</text>
+</string>
+<string id="pri_a17_stalker_tech_produce_62_show_name">
+	<text>Unknown Weapon: wait until Cardan wakes up</text>
+</string>
+<string id="pri_a17_stalker_tech_produce_62_show_text">
+	<text>It seems Cardan knows something about these weapons. I'll have to talk to him when he ave.</text>
+</string>
+<string id="pri_a17_talk_with_kovalski_about_gauss_rifle_information_name">
+	<text>Gauss rifle: tell Kovalsky about the weapon</text>
+</string>
+<string id="pri_a17_talk_with_kovalski_about_gauss_rifle_information_text">
+	<text>Colonel Kowalski need to present all information received about the product �62.</text>
+</string>
+<string id="pri_a17_task_find_gauss_rifle_name">
+	<text>Unidentified weapon: join the squad</text>
+</string>
+<string id="pri_a17_task_find_gauss_rifle_text">
+	<text>You need to join the special squad in order to capture the weapon together.</text>
+</string>
+<string id="pri_a17_task_get_gauss_rifle_from_preacher_name">
+	<text>Unidentified weapon: pick up the weapon</text>
+</string>
+<string id="pri_a17_task_get_gauss_rifle_from_preacher_text">
+	<text>You need to pick up the Monolith squad leader's weapon.</text>
+</string>
+<string id="pri_a17_task_give_gauss_rifle_to_kovalski_name">
+	<text>Unidentified weapon: take the weapon to Kovalsky</text>
+</string>
+<string id="pri_a17_task_give_gauss_rifle_to_kovalski_text">
+	<text>Weapons obtained, should now show it Kowalski and find out whether it is the cause of the fall of helicopters.</text>
+</string>
+<string id="pri_a17_watch_recons_six_name">
+	<text>Unidentified weapon: take part in the Monolith ambush</text>
+</string>
+<string id="pri_a17_watch_recons_six_text">
+	<text>The military recon unit is setting up an ambush to attack the Monolith squad. You should take part in the operation.</text>
+</string>
+<string id="pri_a18_get_reinforcement_name">
+	<text>Monolith forces: meet with the reinforcements</text>
+</string>
+<string id="pri_a18_get_reinforcement_text">
+	<text>Kovalsky has sent reinforcements to help you eliminate the Monolith squad holed up in the book store.</text>
+</string>
+<string id="pri_a18_go_post_name">
+	<text>Monolith forces: clear out the book store</text>
+</string>
+<string id="pri_a18_go_post_text">
+	<text>You need to eliminate all Monolith forces in the building. Large Monolith units are a danger to the military camp.</text>
+</string>
+<string id="pri_a18_use_idol_name">
+	<text>Monolith forces: investigate the strange construction</text>
+</string>
+<string id="pri_a18_use_idol_text">
+	<text>Inside the building, which had been 'Monolith', found a strange design. It is necessary to examine this structure.</text>
+</string>
+<string id="pri_a19_lab_x8_investigation_name">
+	<text>Laboratory X8: find documents concerning experiments</text>
+</string>
+<string id="pri_a19_lab_x8_investigation_text">
+	<text>The information you found refers to a central laboratory, designated X8. It could contain information about secret experiments conducted in the Zone.</text>
+</string>
+<string id="pri_a20_check_recon_squad_task_name">
+	<text>Missing recon unit: find the squad</text>
+</string>
+<string id="pri_a20_check_recon_squad_task_text">
+	<text>Scouts sent Kowalski, disappeared after a strange conversation. Need to find them, and find out what happened.</text>
+</string>
+<string id="pri_a21_chasovoi_body_search_name">
+	<text>Missing sentry: investigate the area where the sentry died</text>
+</string>
+<string id="pri_a21_chasovoi_body_search_text">
+	<text>All behaved very strangely, you need to look around and find the reason for the strange behavior.</text>
+</string>
+<string id="pri_a21_find_chasovoi_name">
+	<text>Missing sentry: find the sentry</text>
+</string>
+<string id="pri_a21_find_chasovoi_text">
+	<text>One of the soldiers disappeared from his post, you need to find him and find out the cause of extinction.</text>
+</string>
+<string id="pri_a21_kill_kontroler_name">
+	<text>Missing sentry: kill the controller</text>
+</string>
+<string id="pri_a21_kill_kontroler_text">
+	<text>Next to the clock there is a missing controller, you must destroy the mutant.</text>
+</string>
+<string id="pri_a22_find_dead_squad_name">
+	<text>Radio interference: find the missing squad</text>
+</string>
+<string id="pri_a22_find_dead_squad_text">
+	<text>Detachment seek sources of interference gone, you need to find it.</text>
+</string>
+<string id="pri_a22_search_bodys_name">
+	<text>Radio interference: search the bodies</text>
+</string>
+<string id="pri_a22_search_bodys_text">
+	<text>Need to examine the body, maybe it will help determine the cause of their death.</text>
+</string>
+<string id="pri_a22_search_yarmoshuk_body_name">
+	<text>Radio interference: search the body</text>
+</string>
+<string id="pri_a22_search_yarmoshuk_body_text">
+	<text>It is necessary to examine the body, maybe it will help determine the cause of his death.</text>
+</string>
+<string id="pri_a25_blow_up_door_name">
+	<text>Radio interference: blow up the door</text>
+</string>
+<string id="pri_a25_blow_up_door_text">
+	<text>To enter the building, you need to lay explosives, and clear the passage.</text>
+</string>
+<string id="pri_a25_check_freezer_knock_name">
+	<text>Radio interference: investigate the sound</text>
+</string>
+<string id="pri_a25_check_freezer_knock_text">
+	<text>Heard a knock from the refrigerator, it seems someone was inside locked. It is necessary to check the source of the sound.</text>
+</string>
+<string id="pri_a25_destroy_antenna_name">
+	<text>Radio interference: eliminate the source of interference</text>
+</string>
+<string id="pri_a25_destroy_antenna_text">
+	<text>Source interference is detected, it is necessary to destroy it.</text>
+</string>
+<string id="pri_a25_find_antenna_name">
+	<text>Radio interference: find the source of interference</text>
+</string>
+<string id="pri_a25_find_antenna_text">
+	<text>Somewhere in the building there is a source of interference, you need to find it.</text>
+</string>
+<string id="pri_a25_find_explosive_name">
+	<text>Radio interference: find the explosives</text>
+</string>
+<string id="pri_a25_find_explosive_text">
+	<text>We look for sources of interference detachment, was explosive. We need to find her, to clear the entrance to the building.</text>
+</string>
+<string id="pri_a25_remove_source_of_hindrances_name">
+	<text>Radio interference: get inside the kindergarten building</text>
+</string>
+<string id="pri_a25_remove_source_of_hindrances_text">
+	<text>The signal source is somewhere in the building of kindergarten, it is necessary to get there.</text>
+</string>
+<string id="pri_a28_cover_militarys_name">
+	<text>Evacuation: cover the military</text>
+</string>
+<string id="pri_a28_cover_militarys_text">
+	<text>Strelok may be dead, but you still have to help the military get to the helicopters.</text>
+</string>
+<string id="pri_a28_cover_strelok_name">
+	<text>Evacuation: cover Strelok</text>
+</string>
+<string id="pri_a28_cover_strelok_text">
+	<text>Command interested Known arrow. The arrow must be delivered to the helicopters.</text>
+</string>
+<string id="pri_a28_go_hellis_name">
+	<text>Evacuation: get to the helicopters</text>
+</string>
+<string id="pri_a28_go_hellis_text">
+	<text>The entire team was killed, and now you need to get to the helicopter itself.</text>
+</string>
+<string id="pri_a28_talk_with_kovalski_name">
+	<text>Evacuation: talk to Kovalsky</text>
+</string>
+<string id="pri_a28_talk_with_kovalski_text">
+	<text>You need to talk to Kovalsky before the evacuation starts.</text>
+</string>
+<string id="pri_a28_tell_kovalski_when_ready_name">
+	<text>Evacuation: tell Kovalsky you are ready</text>
+</string>
+<string id="pri_a28_tell_kovalski_when_ready_text">
+	<text>Should inform Kowalski mastered the readiness to start the evacuation.</text>
+</string>
+<string id="pri_a28_wait_surge_end_name">
+	<text>Evacuation: wait for the emission to finish</text>
+</string>
+<string id="pri_a28_wait_surge_end_text">
+	<text>You need to wait for the emission to finish.</text>
+</string>
+<string id="pri_b305_check_unknown_signal_1_name">
+	<text>Unknown: investigate the source of the signal</text>
+</string>
+<string id="pri_b305_check_unknown_signal_1_text">
+	<text>Kirillov has identified a strange signal not far from the base. You need to investigate the source of the signal.</text>
+</string>
+<string id="pri_b305_check_unknown_signal_2_name">
+	<text>Unknown: follow the signal</text>
+</string>
+<string id="pri_b305_check_unknown_signal_2_text">
+	<text>Coordinates signal again available, it is necessary for them to follow.</text>
+</string>
+<string id="pri_b305_check_unknown_signal_3_name">
+	<text>Unknown: investigate the last known signal location</text>
+</string>
+<string id="pri_b305_check_unknown_signal_3_text">
+	<text>Signal disappeared in the courtyard of the building, should be evaluated place last occurrence of the signal.</text>
+</string>
+<string id="pri_b305_check_unknown_signal_4_name">
+	<text>Unknown: prepare for the attack on the base</text>
+</string>
+<string id="pri_b305_check_unknown_signal_4_text">
+	<text>Return to the army base, and prepare for the likelihood of an attack.</text>
+</string>
+<string id="pri_b305_kovalskiy_talk_name">
+	<text>Radio interference: talk to Kovalsky</text>
+</string>
+<string id="pri_b305_kovalskiy_talk_text">
+	<text>Colonel Kowalski asked to come to him, you need to talk to him.</text>
+</string>
+<string id="pri_b306_task_1_name">
+	<text>Laboratory X8: get inside the elevator shaft</text>
+</string>
+<string id="pri_b306_task_1_text">
+	<text>Under the building of the CCD 'Jubilee' is the entrance to the underground laboratory, get Tudu is possible only through the elevator shaft.</text>
+</string>
+<string id="pri_b306_task_2_name">
+	<text>Laboratory X8: find the generator</text>
+</string>
+<string id="pri_b306_task_2_text">
+	<text>The power to the elevator shaft doors has been cut. Opening them will require you to find and activate the emergency generator.</text>
+</string>
+<string id="pri_b306_task_3_name">
+	<text>Laboratory X8: descend into the laboratory</text>
+</string>
+<string id="pri_b306_task_3_text">
+	<text>You need to use the elevator to get into laboratory X8, which is below the Yubileiny service center.</text>
+</string>
+<string id="pri_b35_task_envoy_name">
+	<text>One shot: eliminate the messenger</text>
+</string>
+<string id="pri_b35_task_envoy_text">
+	<text>It is necessary to eliminate the messenger. Without it, the mercenaries will not be able to detect the lab.</text>
+</string>
+<string id="pri_b35_task_envoy_wait_name">
+	<text>One shot: wait for the client's people</text>
+</string>
+<string id="pri_b35_task_envoy_wait_text">
+	<text>It is necessary to wait for the people of the customer, and to eliminate their leader. Without it, the mercenaries will not be able to detect the lab.</text>
+</string>
+<string id="pri_b35_task_merc_name">
+	<text>One shot: kill the mercenary squad leader</text>
+</string>
+<string id="pri_b35_task_merc_text">
+	<text>It is necessary to eliminate the leader of the mercenaries. Without it, the mercenaries will be disorganized and will not pose a threat.</text>
+</string>
+<string id="pri_b35_task_merc_wait_name">
+	<text>One shot: wait for the mercenaries to appear</text>
+</string>
+<string id="pri_b35_task_merc_wait_text">
+	<text>We must wait for the appearance of mercenaries, and to eliminate their leader. Without it, the mercenaries will be disorganized and will not pose a threat.</text>
+</string>
+<string id="pri_b35_task_reward_name">
+	<text>One shot: talk to Kovalsky</text>
+</string>
+<string id="pri_b35_task_reward_text">
+	<text>Report the mission results to Kovalsky.</text>
+</string>
+<string id="pri_a19_lab_x8_investigation_1_name">
+	<text>Laboratory X8: leave the underground complex or continue looking for documents</text>
+</string>
+<string id="pri_a19_lab_x8_investigation_1_text">
+	<text>You have found documents and you can now leave the laboratory, however there may still be other documents inside the complex.</text>
+</string>
+<string id="pri_a19_lab_x8_investigation_2_name">
+	<text>Laboratory X8: leave the underground complex or continue looking for documents</text>
+</string>
+<string id="pri_a19_lab_x8_investigation_2_text">
+	<text>You have found documents and you can now leave the laboratory, however there may still be other documents inside the complex.</text>
+</string>
+<string id="pri_a19_lab_x8_investigation_3_name">
+	<text>Laboratory X8: leave the underground complex</text>
+</string>
+<string id="pri_a19_lab_x8_investigation_3_text">
+	<text>It looks like you have collected all the documents in the laboratory. You can now leave the underground complex.</text>
+</string>
+<string id="pri_a18_wait_reinf_name">
+	<text>Monolith forces: wait for reinforcements</text>
+</string>
+<string id="pri_a18_wait_reinf_text">
+	<text>You need to wait for reinforcements sent by Kovalsky to eliminate the Monolith forces in the book store</text>
+</string>
+<string id="pri_a22_talk_with_kovalski_name">
+	<text>A quiet word: talk to Kovalsky</text>
+</string>
+<string id="pri_a22_talk_with_kovalski_text">
+	<text>You need to talk to Kovalsky. It looks like he�s got something important to say.</text>
+</string>
+<string id="pri_a28_defend_helis_name">
+	<text>Evacuation: hold out by the helicopters</text>
+</string>
+<string id="pri_a28_defend_helis_text">
+	<text>You must protect the helicopters from the enemy until they can take off.</text>
+</string>
+<string id="pri_a28_save_medic_name">
+	<text>Evacuation: revive the medic</text>
+</string>
+<string id="pri_a28_save_medic_text">
+	<text>It seems the medic has been hit by unidentified forces again. Revive him as quickly as possible.</text>
+</string>
+<string id="pri_a28_return_to_helis_name">
+	<text>Evacuation: return to the helicopters</text>
+</string>
+<string id="pri_a28_return_to_helis_text">
+	<text>You must return to the helicopters as they might be able to take off any moment now.</text>
+</string>
+<string id="pri_a28_helis_gonna_fly_name">
+	<text>Evacuation: return to the helicopters ASAP</text>
+</string>
+<string id="pri_a28_helis_gonna_fly_text">
+	<text>The helicopters are ready for take-off. You must board one of them immediately - the pilots cannot wait long.</text>
+</string>
+</string_table>

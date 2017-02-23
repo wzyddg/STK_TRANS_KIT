@@ -1,0 +1,2913 @@
+<string id="ammo-357">
+	<text>.357 Magnum cartridges</text>
+</string>
+<string id="ammo-357_descr">
+	<text>Magnum (lat. Magnum, from magnus - a great, great) - chuck increased power compared to conventional cartridge of the same caliber. Just weapons designed for this type of cartridge.</text>
+</string>
+<string id="ammo-357_s">
+	<text>.357 Magnum</text>
+</string>
+<string id="ammo-50-ae">
+	<text>.50 AE</text>
+</string>
+<string id="ammo-50-ae_descr">
+	<text>Pistol cartridge with a bullet caliber pistol Desert Eagle.</text>
+</string>
+<string id="ammo-50-ae_s">
+	<text>.50 Action Express</text>
+</string>
+<string id="ammo-7.62x25-p">
+	<text>7.62x25 mm cartridges P</text>
+</string>
+<string id="ammo-7.62x25-p_descr">
+	<text>Soviet 7.62mm pistol cartridge. Easy-metal bullet.</text>
+</string>
+<string id="ammo-7.62x25-p_s">
+	<text>7.62x25</text>
+</string>
+<string id="ammo-7.62x25-ps">
+	<text>Cartridges 7.62x25 mm SS</text>
+</string>
+<string id="ammo-7.62x25-ps_descr">
+	<text>Soviet 7.62mm pistol cartridge. Bullet with a steel core, improved armor piercing.</text>
+</string>
+<string id="ammo-7.62x25-ps_s">
+	<text>7.62x25 PS</text>
+</string>
+<string id="ammo-7.62x39-ap">
+	<text>Cartridges 7.62x39 mm (7N23)</text>
+</string>
+<string id="ammo-7.62x39-ap_descr">
+	<text>Soviet submachine gun cartridge 7.62mm. Bullet with a steel core, improved armor piercing.</text>
+</string>
+<string id="ammo-7.62x39-ap_s">
+	<text>7.62x39 (7N23)</text>
+</string>
+<string id="ammo-7.62x39-fmj">
+	<text>7.62x39 mm cartridges CIE</text>
+</string>
+<string id="ammo-7.62x39-fmj_descr">
+	<text>Soviet submachine gun cartridge 7.62mm. Easy-metal bullet.</text>
+</string>
+<string id="ammo-7.62x39-fmj_s">
+	<text>7.62x39 mm</text>
+</string>
+<string id="ammo-7.62x51-ap">
+	<text>Cartridges 7.62x51 mm NATO BP</text>
+</string>
+<string id="ammo-7.62x51-ap_descr">
+	<text>NATO standard rifle ammunition. Caliber - 7.62mm. Bullet with a steel core, improved armor piercing.</text>
+</string>
+<string id="ammo-7.62x51-ap_s">
+	<text>7.62x51 BP</text>
+</string>
+<string id="ammo-7.62x51-fmj">
+	<text>Cartridges 7.62x51 mm NATO</text>
+</string>
+<string id="ammo-7.62x51-fmj_descr">
+	<text>NATO standard rifle ammunition. Caliber - 7.62mm. Easy-metal bullet.</text>
+</string>
+<string id="ammo-7.62x51-fmj_s">
+	<text>7.62x51</text>
+</string>
+<string id="ammo-7.62x54-7h1">
+	<text>7.62x54 mm 7H1 rounds</text>
+</string>
+<string id="ammo-7.62x54-7h1_descr">
+	<text>Regular army sniper cartridge. Bullet cartridge has a blunt-pointed steel core. Cheap to manufacture modification sniper cartridge for sniper rifles.</text>
+</string>
+<string id="ammo-7.62x54-7h1_s">
+	<text>7.62x54 7H1</text>
+</string>
+<string id="ammo-7.62x54-pkm">
+	<text>Cartridges 7.62x54 7N26</text>
+</string>
+<string id="ammo-7.62x54-pkm_descr">
+	<text>Cartridge with a bullet high breakdown action. The design of the armor-piercing bullet has a core made of hardened tool steel. Is designed to engage manpower, located behind the light armored undercover at distances up to 500 m.</text>
+</string>
+<string id="ammo-7.62x54-pkm_s">
+	<text>7.62x54 7N26</text>
+</string>
+<string id="ammo-8,6x70-fmj">
+	<text>.338 Lapua Magnum cartridges</text>
+</string>
+<string id="ammo-8,6x70-fmj_descr">
+	<text>Was created as a special sniper cartridge for shooting at long distances, but at the moment is also commonly used by hunters and sportsmen arrows.</text>
+</string>
+<string id="ammo-8,6x70-fmj_s">
+	<text>.338 Lapua Magnum</text>
+</string>
+<string id="ammo-gauss_cardan_s">
+	<text>Mini Cassette</text>
+</string>
+<string id="ammo-gauss_s">
+	<text>Cassette</text>
+</string>
+<string id="ammo-vog-25p">
+	<text>VOG-25P</text>
+</string>
+<string id="ammo-vog-25p_descr">
+	<text>40mm VOG-25P or 'Foundling' (7P24) - frag grenades for grenade launchers whose main and the main difference is in the main fuse, provides a 'bouncing' grenades after hitting the ground and in the air gap, which increases its destructive effect.</text>
+</string>
+<string id="ammo-vog-25p_s">
+	<text>VOG-25P</text>
+</string>
+<string id="dm_about_story_end">
+	<text>That's interesting.</text>
+</string>
+<string id="dm_about_story_talk">
+	<text>Tell a story.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_3_5">
+	<text>I have no artifacts.</text>
+</string>
+<string id="jup_rasvet_base_leader_jobs_dialog_90">
+	<text>Preskorbno to hear it. Unfortunately I can not pay you for the good work. But you can assist us in another question.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_3_5">
+	<text>I have no artifacts.</text>
+</string>
+<string id="jup_svoboda_leader_entering_to_freedom_dialog_5">
+	<text>Here and sushi bar. Dine Cuban, we will move to Cuba, to Fidel on trosnik.</text>
+</string>
+<string id="jup_svoboda_leader_entering_to_freedom_dialog_6">
+	<text>Prospect and uvazhuha you. Do not smoke much, minzonzdrav already warned. It happens.</text>
+</string>
+<string id="mar_b3_commander_name">
+	<text>Crucian</text>
+</string>
+<string id="mar_b4_commander_name">
+	<text>Koschei</text>
+</string>
+<string id="mar_stalker_trader_name">
+	<text>Marmelyuk</text>
+</string>
+<string id="mil_night_stalker_bankir_dialog_20">
+	<text>пїЅ 1000 r.</text>
+</string>
+<string id="mil_night_stalker_bankir_dialog_21">
+	<text>пїЅ 2000 r.</text>
+</string>
+<string id="mil_night_stalker_bankir_dialog_22">
+	<text>пїЅ 3000 p.</text>
+</string>
+<string id="mil_night_stalker_bankir_dialog_23">
+	<text>пїЅ 4000 p.</text>
+</string>
+<string id="mil_night_stalker_bankir_dialog_24">
+	<text>пїЅ 5000 p.</text>
+</string>
+<string id="mil_night_stalker_bankir_dialog_25">
+	<text>пїЅ 10000 p.</text>
+</string>
+<string id="pri_army_breeder_work_dialog_3_5">
+	<text>I have no artifacts.</text>
+</string>
+<string id="red_psyho_security_corpse_name">
+	<text>Korean</text>
+</string>
+<string id="st_21_point_send_move">
+	<text>Pass the course</text>
+</string>
+<string id="st_21_point_take_else">
+	<text>Take another</text>
+</string>
+<string id="st_a_z_cell_1_descr">
+	<text>Place a cache: Skadovsk. Additional Information: behind the driftwood behind bars.</text>
+</string>
+<string id="st_a_z_cell_2_descr">
+	<text>Place a cache: Skadovsk. Additional Information: behind the Avenger.</text>
+</string>
+<string id="st_a_z_cell_3_descr">
+	<text>Place a cache: Skadovsk. Additional information: in the room, opposite the bodyguard.</text>
+</string>
+<string id="st_a_z_cell_4_descr">
+	<text>Place a cache: Shevchenko. Additional information: in the container.</text>
+</string>
+<string id="st_a_z_cell_5_descr">
+	<text>Place a cache: Anomaly 'Iron Forest'. Additional information: in the back of the ZIL.</text>
+</string>
+<string id="st_a_z_cell_6_descr">
+	<text>Place a cache: Port cranes. Additional information: in the back of the ZIL.</text>
+</string>
+<string id="st_about_critical_pstor_text">
+	<text>Warning! A fatal error occurred. Save, you just made - flew upside down. Continuation of the game impossible. Try to boot from an earlier save and go now another order.</text>
+</string>
+<string id="st_addon_scope_1p29">
+	<text>Sight USP-1 'Tulip'</text>
+</string>
+<string id="st_addon_scope_1p29_descr">
+	<text>Unified gunsight USP-1 is designed for aimed fire from a machine AK74N, AK-74M, AN-94 and RPK-74N and PKMN in the daytime and at night illuminated and illuminated targets. 1P29 - the index of sight USP-1 Gravnogo Artillery Directorate of the USSR Ministry of Defense. Created under the ROC 'Tulip', hence its name.</text>
+</string>
+<string id="st_addon_scope_acog">
+	<text>ACOG Scope</text>
+</string>
+<string id="st_addon_scope_acog_descr">
+	<text>4 x optical sight for rifles NATO.</text>
+</string>
+<string id="st_addon_scope_acog_r">
+	<text>Replica ACOG 4x32 sight</text>
+</string>
+<string id="st_addon_scope_acog_r_descr">
+	<text>Replica optical sight Advanced Combat Optical Gunsights 4x32mm (better known as ACOG 4x32) company Trijicon пїЅ Riflescopes. Four-optical replica of the popular model ACOG TA01NSN from Trijicon, a member of the program SOPMOD. The same scope as the ACOG TA01NSN only without the original logos. The housing is made of metal, coated with a thin layer of rubber. Replica already equipped with additional sights for combat on short and over short distances. Optics easily installed on flat top, and the carrying handle rifles M-series.</text>
+</string>
+<string id="st_addon_scope_eotech">
+	<text>EOTech sight</text>
+</string>
+<string id="st_addon_scope_eotech_descr">
+	<text>EO Tech - a world leader and exclusive manufacturer of holographic sighting systems for small arms.</text>
+</string>
+<string id="st_addon_scope_kobra">
+	<text>Sight 'Cobra' EKP-1S-03</text>
+</string>
+<string id="st_addon_scope_kobra_descr">
+	<text>Cobra provides confident sight aiming in conditions of natural light (bright sunny day, deep twilight and moonlight night) thanks to 16 levels manually adjust the brightness of the aiming mark. Location aiming mark and goal in the same plane allows aiming both one and two eyes that creates arrow unrestricted field of view, and to conduct an effective high-speed shooting at fast moving, Small and suddenly appear for a short time goals.</text>
+</string>
+<string id="st_addon_scope_pk-a">
+	<text>Sight PK-A</text>
+</string>
+<string id="st_addon_scope_pk-a_descr">
+	<text>Reflex Sight PK-A - a modern lightweight, sealed, easy to learn sight for hunting carbines 'Tiger' with a lateral strip for mounting optical sights. The sight is designed for precision targeting weapons AK74N, RPK74N, AKMN-1, 1-RPKN when shooting under different lighting conditions - during the day at dusk, in poor visibility conditions and rapidly changing light conditions. The sight is hermetically sealed and filled with Doctor. nitrogen to avoid sweating of the internal optical surfaces.</text>
+</string>
+<string id="st_addon_sil_1143_p">
+	<text>M11.43 silencer-P</text>
+</string>
+<string id="st_addon_sil_1143_p_descr">
+	<text>Silent fire for handguns caliber 11.43mm (.45).</text>
+</string>
+<string id="st_addon_sil_545_ar">
+	<text>A muffler M5.45</text>
+</string>
+<string id="st_addon_sil_545_ar_descr">
+	<text>Silent fire for automatic caliber 5.45mm.</text>
+</string>
+<string id="st_addon_sil_556_ar">
+	<text>A muffler M5.56</text>
+</string>
+<string id="st_addon_sil_556_ar_descr">
+	<text>Device for silent and flameless fire for assault rifles NATO standard caliber 5,56h45.</text>
+</string>
+<string id="st_addon_sil_762_ar">
+	<text>A muffler M7.62</text>
+</string>
+<string id="st_addon_sil_762_ar_descr">
+	<text>Silent fire for machine guns and rifles chambered for 7.62mm.</text>
+</string>
+<string id="st_addon_sil_762_p">
+	<text>Muffler M7.62-P</text>
+</string>
+<string id="st_addon_sil_762_p_descr">
+	<text>Silent fire for pistols chambered for 7.62mm.</text>
+</string>
+<string id="st_addon_sil_9_pb">
+	<text>Muffler 6P9</text>
+</string>
+<string id="st_addon_sil_9_pb_descr">
+	<text>Silent fire pistol PB (6P9).</text>
+</string>
+<string id="st_addon_sil_9mm">
+	<text>Muffler caliber 9x19</text>
+</string>
+<string id="st_addon_sil_9mm_descr">
+	<text>Silent fire for pistols and submachine guns 9mm.</text>
+</string>
+<string id="st_addon_sil_9x18">
+	<text>Muffler caliber 9x18</text>
+</string>
+<string id="st_addon_sil_9x18_descr">
+	<text>Silent fire for domestic 9mm pistols.</text>
+</string>
+<string id="st_addon_sil_pbs-1">
+	<text>PBS-1 silencer</text>
+</string>
+<string id="st_addon_sil_pbs-1_descr">
+	<text>BSS-1. Device for silent and flameless fire from a Kalashnikov.ikov.</text>
+</string>
+<string id="st_addon_sil_pbs-4">
+	<text>Silencer PBS-4</text>
+</string>
+<string id="st_addon_sil_pbs-4_descr">
+	<text>PBS-4. Device for silent and flameless fire of 5.45mm Kalashnikov.ikov shortened (AKS-74U).</text>
+</string>
+<string id="st_addon_sil_tgp-a">
+	<text>Muffler THP-A</text>
+</string>
+<string id="st_addon_sil_tgp-a_descr">
+	<text>Muffler-plamyagasitel taktichessky automata AK series 'THP-A-5.45'. Can be installed in place of regular compensator AK and RPK series '74'. Designed to reduce the volume shot by firing regular bullets from a machine gun AK74 and the PKK in the rear hemisphere, and maPellicle. an arrow through the distortion of the sound field in the forward hemisphere, and the lack of flame shot.</text>
+</string>
+<string id="st_af_acid_star_descr">
+	<text>Unique artifact with excellent barrier properties. You must take his breeder ... sorry.</text>
+</string>
+<string id="st_af_acid_star_name">
+	<text>'Acid ciliates'</text>
+</string>
+<string id="st_af_prodigy_1_processed_descr">
+	<text>Artifact of organic nature. Consists of a deformed animal tissues. When injected into the area of chemical pollution begins 'pull' chemicals from the air and convert it into a thick viscous mass.</text>
+</string>
+<string id="st_af_prodigy_1_processed_name">
+	<text>'Breed пїЅ768'</text>
+</string>
+<string id="st_af_prodigy_2_processed_descr">
+	<text>It is well established that the radiation produced by ripple thickening of this breed, causes blood in open wounds very quickly phased out.</text>
+</string>
+<string id="st_af_prodigy_2_processed_name">
+	<text>'Breed пїЅ815'</text>
+</string>
+<string id="st_af_prodigy_3_processed_descr">
+	<text>The organic artifact with unique properties. Yet unknown way increases the overall speed of regeneration after injury of any nature, without accelerating the accumulation of toxins.</text>
+</string>
+<string id="st_af_prodigy_3_processed_name">
+	<text>'Breed пїЅ862'</text>
+</string>
+<string id="st_af_prodigy_4_processed_descr">
+	<text>Artifact electrostatic nature. Can dramatically increase the muscle tone of the carrier.</text>
+</string>
+<string id="st_af_prodigy_4_processed_name">
+	<text>'Breed пїЅ874'</text>
+</string>
+<string id="st_af_prodigy_5_processed_descr">
+	<text>Generates around itself the sphere of directions of the gravitational field. Very effective in reducing the weight of the contents of the rucksack carrier.</text>
+</string>
+<string id="st_af_prodigy_5_processed_name">
+	<text>'Breed пїЅ895'</text>
+</string>
+<string id="st_af_prodigy_6_processed_descr">
+	<text>The organic artifact. Generates around itself invisible sphere, which boosts immunity carrier.</text>
+</string>
+<string id="st_af_prodigy_6_processed_name">
+	<text>'Breed пїЅ934'</text>
+</string>
+<string id="st_af_prodigy_danger_descr">
+	<text>Radioactive. The properties of the artifact virtually nothing is known.</text>
+</string>
+<string id="st_af_prodigy_danger_name">
+	<text>'An unknown artifact'</text>
+</string>
+<string id="st_af_shapoklak_descr">
+	<text>Unique artifact with good protective and restorative properties. However emits radiation. You need to pass an artifact Krivouhovu.</text>
+</string>
+<string id="st_af_shapoklak_name">
+	<text>'Shapoklyak'</text>
+</string>
+<string id="st_agru_key_from_door">
+	<text>Key to the door</text>
+</string>
+<string id="st_agru_key_from_door_descr">
+	<text>The key is found in the dead scientist.</text>
+</string>
+<string id="st_agru_secret_docks_1">
+	<text>Case пїЅ708</text>
+</string>
+<string id="st_agru_secret_docks_1_descr">
+	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Top Secret' \n S/N 7736708</text>
+</string>
+<string id="st_agru_secret_docks_2">
+	<text>Case пїЅ711</text>
+</string>
+<string id="st_agru_secret_docks_2_descr">
+	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Top Secret' \n S/N 7736711</text>
+</string>
+<string id="st_army_smoliak_case_descr">
+	<text>Flash card with information about their personal hiding hoarders lieutenant.</text>
+</string>
+<string id="st_army_smoliak_case_title">
+	<text>'Flash card litas. Smolyak '</text>
+</string>
+<string id="st_army_smoliak_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Smolyak' \n %c[default] Information from the stick: Southeast,processing plant.</text>
+</string>
+<string id="st_army_smoliak_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Smolyak %c[110,128,128,255]'</text>
+</string>
+<string id="st_bandit_bulava_case_descr">
+	<text>Flash card with information about their personal hiding thug - Mace.</text>
+</string>
+<string id="st_bandit_bulava_case_title">
+	<text>'Flash card Mace'</text>
+</string>
+<string id="st_bandit_bulava_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Mace' \n %c[default] Information from the stick: none.</text>
+</string>
+<string id="st_bandit_bulava_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Mace %c[110,128,128,255]'</text>
+</string>
+<string id="st_bandit_chapaev_case_descr">
+	<text>Flash card with information about their personal hiding godfather bandits - Chapaev.</text>
+</string>
+<string id="st_bandit_chapaev_case_title">
+	<text>'Flash card Chapaev'</text>
+</string>
+<string id="st_bandit_chapaev_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Chapaev' \n %c[default] Information from the stick:,Port cranes container.</text>
+</string>
+<string id="st_bandit_chapaev_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Chapaev %c[110,128,128,255]'</text>
+</string>
+<string id="st_bandit_dinozavr_case_descr">
+	<text>Flash card with information about their personal hiding thug - Dinosaur.</text>
+</string>
+<string id="st_bandit_dinozavr_case_title">
+	<text>'Dinosaur USB Flash Drive'</text>
+</string>
+<string id="st_bandit_dinozavr_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Dinosaur' \n %c[default] Information from the stick: none.</text>
+</string>
+<string id="st_bandit_dinozavr_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Dinosaur %c[110,128,128,255]'</text>
+</string>
+<string id="st_bandit_gnom_case_descr">
+	<text>USB flash drive with about informatsieyu skhovanku bosyakuvatogo huligana - vuyka Gnome.</text>
+</string>
+<string id="st_bandit_gnom_case_title">
+	<text>'Flash card Dwarf'</text>
+</string>
+<string id="st_bandit_gnom_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Dwarf' \n %c[default] Information from the stick: none.</text>
+</string>
+<string id="st_bandit_gnom_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Gnome %c[110,128,128,255]'</text>
+</string>
+<string id="st_bandit_karas_case_descr">
+	<text>Flash card with information about their personal hiding thug - Carp.</text>
+</string>
+<string id="st_bandit_karas_case_title">
+	<text>'Flash card Karas'</text>
+</string>
+<string id="st_bandit_karas_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Carp' \n %c[default] Information from the stick: none.</text>
+</string>
+<string id="st_bandit_karas_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Carp %c[110,128,128,255]'</text>
+</string>
+<string id="st_bandit_kaschey_case_descr">
+	<text>Flash card with information about their personal hiding thug - Kashchei.</text>
+</string>
+<string id="st_bandit_kaschey_case_title">
+	<text>'Flash card Kashchei'</text>
+</string>
+<string id="st_bandit_kaschey_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Kashchei' \n %c[default] Information from the stick: none.</text>
+</string>
+<string id="st_bandit_kaschey_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Kashchei %c[110,128,128,255]'</text>
+</string>
+<string id="st_bandit_kastet_case_descr">
+	<text>Flash card with information about their personal hiding Six Sultan - brass knuckles.</text>
+</string>
+<string id="st_bandit_kastet_case_title">
+	<text>'Flash card brass knuckles'</text>
+</string>
+<string id="st_bandit_kastet_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'brass knuckles' \n %c[default] Information from the stick: Southeast,CPR.</text>
+</string>
+<string id="st_bandit_kastet_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions brass knuckles %c[110,128,128,255]'</text>
+</string>
+<string id="st_bandit_mazay_case_descr">
+	<text>Flash card with information about their personal hiding thug - Mazaya.</text>
+</string>
+<string id="st_bandit_mazay_case_title">
+	<text>'Flash card Mazaya'</text>
+</string>
+<string id="st_bandit_mazay_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Mazaya' \n %c[default] Information from the stick: none.</text>
+</string>
+<string id="st_bandit_mazay_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Mazaya %c[110,128,128,255]'</text>
+</string>
+<string id="st_bandit_port_leader_case_descr">
+	<text>Flash card with information about their personal hiding unidentified bandyugan.</text>
+</string>
+<string id="st_bandit_port_leader_case_title">
+	<text>'Flash card unknown Bandos'</text>
+</string>
+<string id="st_bandit_port_leader_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'unidentified gunmen' \n %c[default] Information from the stick:,Center burned down the farm.</text>
+</string>
+<string id="st_bandit_port_leader_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions unidentified gunmen %c[110,128,128,255]'</text>
+</string>
+<string id="st_bandit_rogach_case_descr">
+	<text>Flash card with information about their personal hiding thug - Rogac.</text>
+</string>
+<string id="st_bandit_rogach_case_title">
+	<text>'Flash card Rogac'</text>
+</string>
+<string id="st_bandit_rogach_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Rogac' \n %c[default] Information from the stick: none.</text>
+</string>
+<string id="st_bandit_rogach_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Rogac %c[110,128,128,255]'</text>
+</string>
+<string id="st_bandit_shishak_case_descr">
+	<text>Flash card with information about their personal hiding godfather storage Bandos - Shishak.</text>
+</string>
+<string id="st_bandit_shishak_case_title">
+	<text>'Flash card Shishak'</text>
+</string>
+<string id="st_bandit_shishak_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Shishak' \n %c[default] Information from the stick:f/A tunnel.</text>
+</string>
+<string id="st_bandit_shishak_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Shishak %c[110,128,128,255]'</text>
+</string>
+<string id="st_bandit_valet_case_descr">
+	<text>Flash card with information about their personal hiding the self-proclaimed tuber - Diamonds.</text>
+</string>
+<string id="st_bandit_valet_case_title">
+	<text>'Flash card of Diamonds'</text>
+</string>
+<string id="st_bandit_valet_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Diamonds' \n %c[default] Information from the stick: Near the station Yanov,bushes.</text>
+</string>
+<string id="st_bandit_valet_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Diamonds %c[110,128,128,255]'</text>
+</string>
+<string id="st_black_angel_unindification_name">
+	<text>Neidintifitsirovan</text>
+</string>
+<string id="st_demolution_ballon_descr">
+	<text>Balloon with an unknown gas. It is not yet open, so the properties is not known.</text>
+</string>
+<string id="st_demolution_barrel_descr">
+	<text>A barrel of fuel, by type - aviation kerosene.</text>
+</string>
+<string id="st_demolution_kanistra_descr">
+	<text>Twenty-liter canister with fuel of unknown type. By smell, like a diesel.</text>
+</string>
+<string id="st_detector_modify_toolkit">
+	<text>Tools for use with the detectors</text>
+</string>
+<string id="st_detector_modify_toolkit_descr">
+	<text>Professional set of tools for fine repair and modernization detectors. What is included in the kit is sufficient for any work on setting up and modernization of all types of detectors.</text>
+</string>
+<string id="st_detector_serafim">
+	<text>Detector 'Seraphim'</text>
+</string>
+<string id="st_detector_serafim_descr">
+	<text>Special development scientists. Equipped with a locator anomalous formations and LED display to show the direction of the unknown sample, with not only able to detect patterns, but also to determine the distance to them. The search mode is activated samples lifting the lid antenna on the front side of the device.</text>
+</string>
+<string id="st_device_pda_alfa_commander_experienced">
+	<text>PDA commander of Alpha</text>
+</string>
+<string id="st_device_pda_alfa_commander_experienced_descr">
+	<text>%c[255,238,153,26] The commander of the Special Operations Group. %c[default] Order - all support teams and groups of special purpose! Capture dead or alive Degtyarev Alexander G  born in 1978,native town of Pripyat Ukraine. Features:,thin build-looking 25-30 years,height - 179 cm,, hair wavy light brown. Wanted,Major SBU All items found during it,immediately deliver to the center. Pay special attention to the safety of the flash-drive,paper and electronic media. 15 fold reward for the successful execution of the task!</text>
+</string>
+<string id="st_device_pda_alfa_commander_master">
+	<text>PDA commander of Alpha</text>
+</string>
+<string id="st_device_pda_alfa_commander_master_descr">
+	<text>%c[255,238,153,26] The commander of a special super elite unit. %c[default] Order - all groups over a special elite unit! Capture dead or alive Degtyarev Alexander G  born in 1978,native town of Pripyat Ukraine. Features:,thin build-looking 25-30 years,height - 179 cm,, hair wavy light brown. Wanted,Major SBU All items found during it,immediately deliver to the center. Pay special attention to the safety of the flash-drive,paper and electronic media. 30 fold reward for the successful execution of the task!</text>
+</string>
+<string id="st_device_pda_alfa_commander_novice">
+	<text>PDA commander of Alpha</text>
+</string>
+<string id="st_device_pda_alfa_commander_novice_descr">
+	<text>%c[255,238,153,26] The team leader auxiliary facilities. %c[default] Order - all support groups! Provide support to groups of special forces or possibly himself - to capture dead or alive Degtyarev Alexander G  born in 1978,a native of the town of Pripyat Ukraine. Features:,thin build-looking 25-30 years,height - 179 cm,, hair wavy light brown. Wanted,Major SBU All items found during it,immediately deliver to the center. Pay special attention to the safety of the flash-drive,paper and electronic media. 5 times the reward for the successful execution of the task!</text>
+</string>
+<string id="st_device_pda_alfa_commander_regular">
+	<text>PDA commander of Alpha</text>
+</string>
+<string id="st_device_pda_alfa_commander_regular_descr">
+	<text>%c[255,238,153,26] The commander of the Special Operations Group. %c[default] Order - all groups of special purpose! Capture dead or alive Degtyarev Alexander G  born in 1978,native town of Pripyat Ukraine. Features:,thin build-looking 25-30 years,height - 179 cm,, hair wavy light brown. Wanted,Major SBU All items found during it,immediately deliver to the center. Pay special attention to the safety of the flash-drive,paper and electronic media. 10 fold reward for the successful execution of the task!</text>
+</string>
+<string id="st_device_pda_alfa_commander_veteran">
+	<text>PDA commander of Alpha</text>
+</string>
+<string id="st_device_pda_alfa_commander_veteran_descr">
+	<text>%c[255,238,153,26] The commander of a special elite unit. %c[default] Order - all groups of special elite unit! Capture dead or alive Degtyarev Alexander G  born in 1978,native town of Pripyat Ukraine. Features:,thin build-looking 25-30 years,height - 179 cm,, hair wavy light brown. Wanted,Major SBU All items found during it,immediately deliver to the center. Pay special attention to the safety of the flash-drive,paper and electronic media. 20 fold reward for the successful execution of the task!</text>
+</string>
+<string id="st_device_pda_b1_commander">
+	<text>PDA 'Bulldog'</text>
+</string>
+<string id="st_device_pda_b1_commander_descr">
+	<text>PDA with valuable information for stalkers.</text>
+</string>
+<string id="st_device_pda_b1_renegade_1">
+	<text>PDA renegatovtsa</text>
+</string>
+<string id="st_device_pda_b1_renegade_1_descr">
+	<text>PDA with valuable information for stalkers.</text>
+</string>
+<string id="st_device_pda_b1_renegade_2">
+	<text>PDA renegatovtsa</text>
+</string>
+<string id="st_device_pda_b1_renegade_2_descr">
+	<text>PDA with valuable information for stalkers.</text>
+</string>
+<string id="st_device_pda_b1_renegade_3">
+	<text>PDA renegatovtsa</text>
+</string>
+<string id="st_device_pda_b1_renegade_3_descr">
+	<text>PDA with valuable information for stalkers.</text>
+</string>
+<string id="st_device_pda_cherniy">
+	<text>PDA 'Black'</text>
+</string>
+<string id="st_device_pda_cherniy_descr">
+	<text>flash-drive leader of mercenaries. Information from the flash-drive: Our password - 'raskukozhenaya cuckoo.'</text>
+</string>
+<string id="st_device_pda_kasilov">
+	<text>PDA 'Kasilova'</text>
+</string>
+<string id="st_device_pda_kasilov_descr">
+	<text>PDA with unknown information.</text>
+</string>
+<string id="st_dolg_morgan_case_descr">
+	<text>Flash card with information about their personal hiding ushlogo huckster - dolgovtsev Morgan.</text>
+</string>
+<string id="st_dolg_morgan_case_title">
+	<text>'Flash card Morgan'</text>
+</string>
+<string id="st_dolg_morgan_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Morgan' \n %c[default] Information from the stick: Somewhere in the center,near the helicopter.</text>
+</string>
+<string id="st_dolg_morgan_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Morgan %c[110,128,128,255]'</text>
+</string>
+<string id="st_duty_kanevskiy_case_descr">
+	<text>Flash card with information about their personal hiding master sapper case - dolgovtsev Kanev.</text>
+</string>
+<string id="st_duty_kanevskiy_case_title">
+	<text>'Flash card Kanev'</text>
+</string>
+<string id="st_duty_kanevskiy_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Kanev' \n %c[default] Information from the stick: Saw.</text>
+</string>
+<string id="st_duty_kanevskiy_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Kanev %c[110,128,128,255]'</text>
+</string>
+<string id="st_esc_b2_bomb">
+	<text>C4 explosives</text>
+</string>
+<string id="st_esc_b2_bomb_control">
+	<text>Remote Control C4 charge</text>
+</string>
+<string id="st_esc_b2_bomb_control_descr">
+	<text>For remote detonation charge C4 - to use.</text>
+</string>
+<string id="st_esc_b2_bomb_descr">
+	<text>Explosive charge. Comes complete with a remote control.</text>
+</string>
+<string id="st_esc_b2_tamerlan_flash">
+	<text>Flash card Tamerlane</text>
+</string>
+<string id="st_esc_b2_tamerlan_flash_descr">
+	<text>Flash card taken from the body of Tamerlane.</text>
+</string>
+<string id="st_esc_b3_safe_flash">
+	<text>Flash card bandits</text>
+</string>
+<string id="st_esc_b3_safe_flash_descr">
+	<text>USB flash drive with useful information for stalkers.</text>
+</string>
+<string id="st_esc_b3_safe_key">
+	<text>Key to the safe</text>
+</string>
+<string id="st_esc_b3_safe_key_descr">
+	<text>Key bandits. Is used to open the safe.</text>
+</string>
+<string id="st_esc_key_from_gate">
+	<text>Key to the gate</text>
+</string>
+<string id="st_esc_key_from_gate_descr">
+	<text>Key bandits. Used to open the gate leading to the Swamps</text>
+</string>
+<string id="st_flash_avoid_witnesses_descr">
+	<text>Sticky Information: A group of mercenaries detained by our agent in the vicinity of Jupiter. There is reason to believe that our agent is still alive. Your goal - the liberation of the agent and the neutralization of mercenaries who resisted. For safe passage into the camp - use 'Coverall mercenary '. \n To download the data in the PDA - should be used.</text>
+</string>
+<string id="st_flash_avoid_witnesses_name">
+	<text>Data location SBU пїЅ15764</text>
+</string>
+<string id="st_freedom_gaiduk_case_descr">
+	<text>Flash card with information about their personal hiding semi-commander of 'Liberty' - Hajduk.</text>
+</string>
+<string id="st_freedom_gaiduk_case_title">
+	<text>'Flash card Haiduk'</text>
+</string>
+<string id="st_freedom_gaiduk_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Haiduk' \n %c[default] Information from the stick:,Cement factory roof of the building.</text>
+</string>
+<string id="st_freedom_gaiduk_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Haiduk %c[110,128,128,255]'</text>
+</string>
+<string id="st_grenade_launcher_ag36">
+	<text>AG36</text>
+</string>
+<string id="st_grenade_launcher_ag36_descr">
+	<text>\n %c[255,1,255,255] пїЅ %c[default] shot AG36 \n\n,grenade launcher developed by German weapons concern Heckler and Koch HK 79. to replace the main platform for it is a rifle HK G36.</text>
+</string>
+<string id="st_grenade_light">
+	<text>Pomegranate GL-1</text>
+</string>
+<string id="st_grenade_light_descr">
+	<text>Lighting chemical grenade. It is intended to cover the terrain during the night battle, as well as to blind and disorient the enemy. Duration of less than a minute.</text>
+</string>
+<string id="st_guidebook_escape_point1">
+	<text>Bridge</text>
+</string>
+<string id="st_guidebook_escape_point2">
+	<text>Vehicle station</text>
+</string>
+<string id="st_guidebook_escape_point3">
+	<text>Village</text>
+</string>
+<string id="st_guidebook_escape_point4">
+	<text>Blockhouse</text>
+</string>
+<string id="st_guidebook_escape_point5">
+	<text>Base</text>
+</string>
+<string id="st_guidebook_escape_point6">
+	<text>Blockhouse</text>
+</string>
+<string id="st_guidebook_marsh_point1">
+	<text>Settlement</text>
+</string>
+<string id="st_guidebook_marsh_point2">
+	<text>Machine operators yard</text>
+</string>
+<string id="st_guidebook_marsh_point3">
+	<text>Settlement</text>
+</string>
+<string id="st_guidebook_marsh_point4">
+	<text>Pumping station</text>
+</string>
+<string id="st_guidebook_marsh_point5">
+	<text>Fisherman's Farm</text>
+</string>
+<string id="st_guidebook_marsh_point6">
+	<text>The Old Church</text>
+</string>
+<string id="st_guidebook_marsh_point7">
+	<text>Settlement</text>
+</string>
+<string id="st_guidebook_marsh_point8">
+	<text>Burnt farmstead</text>
+</string>
+<string id="st_important_science_docks">
+	<text>Scientific report пїЅ1264</text>
+</string>
+<string id="st_important_science_docks_descr">
+	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Merge anomalous rock' \n S/N 1264</text>
+</string>
+<string id="st_informer_name">
+	<text>Informant</text>
+</string>
+<string id="st_jup_azot_charge_instruments">
+	<text>Tools for working with explosives</text>
+</string>
+<string id="st_jup_azot_charge_instruments_descr">
+	<text>Special kit for neutralization of charges.</text>
+</string>
+<string id="st_jup_azot_charge_scanner">
+	<text>Low-frequency scanner</text>
+</string>
+<string id="st_jup_azot_charge_scanner_descr">
+	<text>Special scanner for DF charges. Search radius - 50 meters.</text>
+</string>
+<string id="st_jup_azot_simply_raciya">
+	<text>Radio</text>
+</string>
+<string id="st_jup_azot_simply_raciya_descr">
+	<text>Ordinary radio with FM receiver.</text>
+</string>
+<string id="st_jup_killer_caravan_case">
+	<text>Cargo caravan</text>
+</string>
+<string id="st_jup_killer_caravan_case_descr">
+	<text>Steel box with something inside.</text>
+</string>
+<string id="st_jup_thief_voron_pda">
+	<text>PDA 'Raven'</text>
+</string>
+<string id="st_jup_thief_voron_pda_descr">
+	<text>PDA contains the zipped file archive is password protected. My PDA does not support this version of the archiver. You need to pass the PDA Stormbreaker - perhaps he can extract information.</text>
+</string>
+<string id="st_killer_cherep_case_descr">
+	<text>Flash card with information about their personal hiding mercenary - the skull.</text>
+</string>
+<string id="st_killer_cherep_case_title">
+	<text>'Flash card Skull'</text>
+</string>
+<string id="st_killer_cherep_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Skulls' \n %c[default] Information from the stick: Surrounded by electrical anomalies.</text>
+</string>
+<string id="st_killer_cherep_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Skull %c[110,128,128,255]'</text>
+</string>
+<string id="st_killer_grif_case_descr">
+	<text>Flash card with information about their personal hiding mercenary - Vulture.</text>
+</string>
+<string id="st_killer_grif_case_title">
+	<text>'Flash card Vulture'</text>
+</string>
+<string id="st_killer_grif_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Vulture' \n %c[default] Information from the stick: bush near the anomalous field.</text>
+</string>
+<string id="st_killer_grif_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Vulture %c[110,128,128,255]'</text>
+</string>
+<string id="st_killer_kruk_case_descr">
+	<text>Flash card with information about their personal hiding mercenary - Hook.</text>
+</string>
+<string id="st_killer_kruk_case_title">
+	<text>'Flash card Hook'</text>
+</string>
+<string id="st_killer_kruk_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Hook' \n %c[default] Information from the stick: Northwest,around the Guide.</text>
+</string>
+<string id="st_killer_kruk_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Hook %c[110,128,128,255]'</text>
+</string>
+<string id="st_killer_molfar_case_descr">
+	<text>Flash card with information about their personal hiding Chief of mercenaries - Molfara.</text>
+</string>
+<string id="st_killer_molfar_case_title">
+	<text>'Flash card Molfara'</text>
+</string>
+<string id="st_killer_molfar_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Molfara' \n %c[default] Information from the stick: None.</text>
+</string>
+<string id="st_killer_molfar_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Molfara %c[110,128,128,255]'</text>
+</string>
+<string id="st_killer_revizor_case_descr">
+	<text>Flash card with information about their personal hiding mercenary - Examiner.</text>
+</string>
+<string id="st_killer_revizor_case_title">
+	<text>'Flash card Examiner'</text>
+</string>
+<string id="st_killer_revizor_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Examiner' \n %c[default] Information from the stick: none.</text>
+</string>
+<string id="st_killer_revizor_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Examiner %c[110,128,128,255]'</text>
+</string>
+<string id="st_killer_tesak_case_descr">
+	<text>Flash card with information about their personal hiding commander of mercenaries - Grunt Tesakova.</text>
+</string>
+<string id="st_killer_tesak_case_title">
+	<text>'Flash card Tesakova'</text>
+</string>
+<string id="st_killer_tesak_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Tesak' \n %c[default] Information from the stick:,Northwest dredger.</text>
+</string>
+<string id="st_killer_tesak_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Tesak %c[110,128,128,255]'</text>
+</string>
+<string id="st_killer_warlord_case_descr">
+	<text>Flash card with information about their personal hiding mercenary - Warlord.</text>
+</string>
+<string id="st_killer_warlord_case_title">
+	<text>'Flash card Warlord'</text>
+</string>
+<string id="st_killer_warlord_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Warlord' \n %c[default] Information from the stick: none.</text>
+</string>
+<string id="st_killer_warlord_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Warlord %c[110,128,128,255]'</text>
+</string>
+<string id="st_letter_from_agent">
+	<text>Letter from a connected</text>
+</string>
+<string id="st_letter_from_agent_descr">
+	<text>In the letter it says: Major Degtyarev. You need to urgently meet with connected power in the territory. Callsign - 'How is your fillet?'.</text>
+</string>
+<string id="st_level_change_to_agroprom">
+	<text>On Agriculture</text>
+</string>
+<string id="st_level_change_to_agroprom_underground">
+	<text>In dungeons Agroproma</text>
+</string>
+<string id="st_level_change_to_darkvalley">
+	<text>The Dark Valley</text>
+</string>
+<string id="st_level_change_to_escape">
+	<text>On Cordon</text>
+</string>
+<string id="st_level_change_to_marsh">
+	<text>In the swamp</text>
+</string>
+<string id="st_level_change_to_military">
+	<text>At military depots</text>
+</string>
+<string id="st_level_change_to_red_forest">
+	<text>In the Red Forest</text>
+</string>
+<string id="st_level_change_to_x18">
+	<text>On X18</text>
+</string>
+<string id="st_mar_army_cargo">
+	<text>Military luggage</text>
+</string>
+<string id="st_mar_army_cargo_descr">
+	<text>Army cargo. Inside contains a chemical unknown to me. Need to pass it to the SBU.</text>
+</string>
+<string id="st_mar_georadar">
+	<text>GPR</text>
+</string>
+<string id="st_mar_georadar_descr">
+	<text>With the help of GPR can find any piece of iron, no matter how deep underground it may be. Detection radius - 30 meters.</text>
+</string>
+<string id="st_mar_mine_detector">
+	<text>Mine detector</text>
+</string>
+<string id="st_mar_mine_detector_descr">
+	<text>It can help you to find and defuse mines hidden under the ground.</text>
+</string>
+<string id="st_mar_mine_sensor">
+	<text>Sensor for a detector</text>
+</string>
+<string id="st_mar_mine_sensor_descr">
+	<text>The most important part of any mine detector.</text>
+</string>
+<string id="st_mercenary_suvorov_case_descr">
+	<text>Flash card with information about their personal hiding kommandira mercenaries - Captain Suvorov.</text>
+</string>
+<string id="st_mercenary_suvorov_case_title">
+	<text>'Flash card captain Suvorov'</text>
+</string>
+<string id="st_mercenary_suvorov_unpack_descr">
+	<text>%c[255,238,153,26] possessions captain 'Suvorov' \n %c[default] Information from the stick: none.</text>
+</string>
+<string id="st_mercenary_suvorov_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions captain Suvorov %c[110,128,128,255]'</text>
+</string>
+<string id="st_mercenary_tverdohlebov_case_descr">
+	<text>Flash card with information about their personal hiding kommandira mercenaries - Major TvпїЅrdohlebova.</text>
+</string>
+<string id="st_mercenary_tverdohlebov_case_title">
+	<text>'Flash card Major TvпїЅrdohlebova'</text>
+</string>
+<string id="st_mercenary_tverdohlebov_unpack_descr">
+	<text>%c[255,238,153,26] Major possessions 'TvпїЅrdohlebova' \n %c[default] Information from the stick: none.</text>
+</string>
+<string id="st_mercenary_tverdohlebov_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Major TvпїЅrdohlebova %c[110,128,128,255]'</text>
+</string>
+<string id="st_mil_hole_bomb">
+	<text>C4 explosives</text>
+</string>
+<string id="st_mil_hole_bomb_control">
+	<text>Remote Control C4 charge</text>
+</string>
+<string id="st_mil_hole_bomb_control_descr">
+	<text>For remote detonation charge C4 - to use.</text>
+</string>
+<string id="st_mil_hole_bomb_descr">
+	<text>Explosive charge. Comes complete with a remote control.</text>
+</string>
+<string id="st_mod_menu_modes_ammo">
+	<text>Besco. ammunition</text>
+</string>
+<string id="st_monolit_brodiaga_case_descr">
+	<text>Flash card with information about their personal hiding place of the former Monolith - Rogue.</text>
+</string>
+<string id="st_monolit_brodiaga_case_title">
+	<text>'Flash card Rolling Stone'</text>
+</string>
+<string id="st_monolit_brodiaga_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Rolling Stone' \n %c[default] Information from the stick:,East blocks.</text>
+</string>
+<string id="st_monolit_brodiaga_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Tramps %c[110,128,128,255]'</text>
+</string>
+<string id="st_monolit_kiborg_case_descr">
+	<text>Flash card with information about their personal hiding forces commander in chief of the Grand Monolith - Cyborg.</text>
+</string>
+<string id="st_monolit_kiborg_case_title">
+	<text>'Flash card Cyborg'</text>
+</string>
+<string id="st_monolit_kiborg_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Cyborg' \n %c[default] Information from the stick: The upper tier of the port.</text>
+</string>
+<string id="st_monolit_kiborg_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Cyborg %c[110,128,128,255]'</text>
+</string>
+<string id="st_monolit_voland_case_descr">
+	<text>Flash card with information about their personal hiding faction leader Monolith - Voland.</text>
+</string>
+<string id="st_monolit_voland_case_title">
+	<text>'Flash card Woland'</text>
+</string>
+<string id="st_monolit_voland_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Woland' \n %c[default] Information from the stick Hospital. In the desktop.</text>
+</string>
+<string id="st_monolit_voland_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Voland %c[110,128,128,255]'</text>
+</string>
+<string id="st_monolith_inquisitor_case_descr">
+	<text>Flash card with information about their personal hiding High Priest Monolith - Inquisitor.</text>
+</string>
+<string id="st_monolith_inquisitor_case_title">
+	<text>'Flash card Inquisitor'</text>
+</string>
+<string id="st_monolith_inquisitor_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'inquisitor' \n %c[default] Information from the stick: none.</text>
+</string>
+<string id="st_monolith_inquisitor_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Inquisitor %c[110,128,128,255]'</text>
+</string>
+<string id="st_monolith_intercepted_case">
+	<text>Case 'Leon'</text>
+</string>
+<string id="st_monolith_intercepted_case_descr">
+	<text>Case intercepted agent at Monolith mercenaries. Leon asked to bring a case in Pripyat, without opening it.</text>
+</string>
+<string id="st_off_pda_hint">
+	<text>Deactivate PDA</text>
+</string>
+<string id="st_position_printer_create">
+	<text>Print</text>
+</string>
+<string id="st_pri_fenix_brother_medallion">
+	<text>Medallion of Germanicus</text>
+</string>
+<string id="st_pri_fenix_brother_medallion_descr">
+	<text>Personal medallion brother Phoenix - Germanicus.</text>
+</string>
+<string id="st_pri_inquisitor_pda_1">
+	<text>PDA Monolith</text>
+</string>
+<string id="st_pri_inquisitor_pda_1_descr">
+	<text>PDA data.</text>
+</string>
+<string id="st_pri_inquisitor_pda_2">
+	<text>PDA Monolith</text>
+</string>
+<string id="st_pri_inquisitor_pda_2_descr">
+	<text>PDA data.</text>
+</string>
+<string id="st_q_z_cell_10_a">
+	<text>Brazil</text>
+</string>
+<string id="st_q_z_cell_10_b">
+	<text>Mongolia</text>
+</string>
+<string id="st_q_z_cell_10_c">
+	<text>England</text>
+</string>
+<string id="st_q_z_cell_10_d">
+	<text>America</text>
+</string>
+<string id="st_q_z_cell_10_descr">
+	<text>The capital of this country is built in the shape of an airplane?</text>
+</string>
+<string id="st_q_z_cell_11_a">
+	<text>Peaches</text>
+</string>
+<string id="st_q_z_cell_11_b">
+	<text>Plums</text>
+</string>
+<string id="st_q_z_cell_11_c">
+	<text>Oranges</text>
+</string>
+<string id="st_q_z_cell_11_d">
+	<text>Tangerines</text>
+</string>
+<string id="st_q_z_cell_11_descr">
+	<text>What do you call Chinese officials?</text>
+</string>
+<string id="st_q_z_cell_12_a">
+	<text>Deep Purple</text>
+</string>
+<string id="st_q_z_cell_12_b">
+	<text>The Rolling Stones</text>
+</string>
+<string id="st_q_z_cell_12_c">
+	<text>Queen</text>
+</string>
+<string id="st_q_z_cell_12_d">
+	<text>BAC-Dee-Sea</text>
+</string>
+<string id="st_q_z_cell_12_descr">
+	<text>The leader of a musical group was Fred Mercury?</text>
+</string>
+<string id="st_q_z_cell_13_a">
+	<text>1 sheep</text>
+</string>
+<string id="st_q_z_cell_13_b">
+	<text>9 sheep</text>
+</string>
+<string id="st_q_z_cell_13_c">
+	<text>10 sheep</text>
+</string>
+<string id="st_q_z_cell_13_d">
+	<text>11 sheep</text>
+</string>
+<string id="st_q_z_cell_13_descr">
+	<text>In 10 Mamed sheep. All but nine dead. How much is left of sheep?</text>
+</string>
+<string id="st_q_z_cell_14_a">
+	<text>The First</text>
+</string>
+<string id="st_q_z_cell_14_b">
+	<text>Second</text>
+</string>
+<string id="st_q_z_cell_14_c">
+	<text>Third</text>
+</string>
+<string id="st_q_z_cell_14_d">
+	<text>Equally</text>
+</string>
+<string id="st_q_z_cell_14_descr">
+	<text>The first train goes from Kiev to Donetsk, and the second - from Donetsk to Kiev. They both come out, but the speed of the first three times the second speed. What will happen next train from Kiev at the time of the meeting?</text>
+</string>
+<string id="st_q_z_cell_15_a">
+	<text>11</text>
+</string>
+<string id="st_q_z_cell_15_b">
+	<text>10</text>
+</string>
+<string id="st_q_z_cell_15_c">
+	<text>21</text>
+</string>
+<string id="st_q_z_cell_15_d">
+	<text>20</text>
+</string>
+<string id="st_q_z_cell_15_descr">
+	<text>How many digits 7 in the series of numbers from '1' to '100'?</text>
+</string>
+<string id="st_q_z_cell_16_a">
+	<text>6</text>
+</string>
+<string id="st_q_z_cell_16_b">
+	<text>7</text>
+</string>
+<string id="st_q_z_cell_16_c">
+	<text>8</text>
+</string>
+<string id="st_q_z_cell_16_d">
+	<text>14</text>
+</string>
+<string id="st_q_z_cell_16_descr">
+	<text>14 burning candles. Eight extinguished. How much is left of candles?</text>
+</string>
+<string id="st_q_z_cell_17_a">
+	<text>1 kg</text>
+</string>
+<string id="st_q_z_cell_17_b">
+	<text>1.5 kg</text>
+</string>
+<string id="st_q_z_cell_17_c">
+	<text>2 kg</text>
+</string>
+<string id="st_q_z_cell_17_d">
+	<text>2.5 kg</text>
+</string>
+<string id="st_q_z_cell_17_descr">
+	<text>Brick weighs 1 kilogram plus a half-brick. How heavy brick?</text>
+</string>
+<string id="st_q_z_cell_18_a">
+	<text>The Soviet Union in 1961</text>
+</string>
+<string id="st_q_z_cell_18_b">
+	<text>United States in 1957</text>
+</string>
+<string id="st_q_z_cell_18_c">
+	<text>Soviet Union in 1945</text>
+</string>
+<string id="st_q_z_cell_18_d">
+	<text>United States in 1969</text>
+</string>
+<string id="st_q_z_cell_18_descr">
+	<text>When and who first landed on the moon?</text>
+</string>
+<string id="st_q_z_cell_19_a">
+	<text>Blokhin</text>
+</string>
+<string id="st_q_z_cell_19_b">
+	<text>Belanov</text>
+</string>
+<string id="st_q_z_cell_19_c">
+	<text>Bessonov</text>
+</string>
+<string id="st_q_z_cell_19_d">
+	<text>Yashin</text>
+</string>
+<string id="st_q_z_cell_19_descr">
+	<text>Which footballer in the USSR was the first golden ball?</text>
+</string>
+<string id="st_q_z_cell_1_a">
+	<text>New Year</text>
+</string>
+<string id="st_q_z_cell_1_b">
+	<text>March 8</text>
+</string>
+<string id="st_q_z_cell_1_c">
+	<text>When both</text>
+</string>
+<string id="st_q_z_cell_1_d">
+	<text>Equally</text>
+</string>
+<string id="st_q_z_cell_1_descr">
+	<text>Which of these events happen more often - New Year or March 8th?</text>
+</string>
+<string id="st_q_z_cell_20_a">
+	<text>Nowhere</text>
+</string>
+<string id="st_q_z_cell_20_b">
+	<text>Summer in Russia</text>
+</string>
+<string id="st_q_z_cell_20_c">
+	<text>At the equator,</text>
+</string>
+<string id="st_q_z_cell_20_d">
+	<text>In the southern hemisphere</text>
+</string>
+<string id="st_q_z_cell_20_descr">
+	<text>What is the territory of our planet can be seen the sun in a northerly direction from the horizon?</text>
+</string>
+<string id="st_q_z_cell_21_a">
+	<text>3 seconds</text>
+</string>
+<string id="st_q_z_cell_21_b">
+	<text>Per hour</text>
+</string>
+<string id="st_q_z_cell_21_c">
+	<text>8 minutes</text>
+</string>
+<string id="st_q_z_cell_21_d">
+	<text>3 nanoseconds</text>
+</string>
+<string id="st_q_z_cell_21_descr">
+	<text>Over what time period the light passes the distance from Earth to the moon and back?</text>
+</string>
+<string id="st_q_z_cell_22_a">
+	<text>In Switzerland</text>
+</string>
+<string id="st_q_z_cell_22_b">
+	<text>In France</text>
+</string>
+<string id="st_q_z_cell_22_c">
+	<text>In Italy</text>
+</string>
+<string id="st_q_z_cell_22_d">
+	<text>In Spain</text>
+</string>
+<string id="st_q_z_cell_22_descr">
+	<text>Where invented mayonnaise?</text>
+</string>
+<string id="st_q_z_cell_23_a">
+	<text>2</text>
+</string>
+<string id="st_q_z_cell_23_b">
+	<text>3</text>
+</string>
+<string id="st_q_z_cell_23_c">
+	<text>4</text>
+</string>
+<string id="st_q_z_cell_23_d">
+	<text>5</text>
+</string>
+<string id="st_q_z_cell_23_descr">
+	<text>How many angles in a tetrahedron?</text>
+</string>
+<string id="st_q_z_cell_24_a">
+	<text>Attila</text>
+</string>
+<string id="st_q_z_cell_24_b">
+	<text>Aristotle</text>
+</string>
+<string id="st_q_z_cell_24_c">
+	<text>Piping</text>
+</string>
+<string id="st_q_z_cell_24_d">
+	<text>Johannesen</text>
+</string>
+<string id="st_q_z_cell_24_descr">
+	<text>What is the name known tyrant?</text>
+</string>
+<string id="st_q_z_cell_25_a">
+	<text>March 26, 1986</text>
+</string>
+<string id="st_q_z_cell_25_b">
+	<text>July 30, 1999</text>
+</string>
+<string id="st_q_z_cell_25_c">
+	<text>November 5, 1990</text>
+</string>
+<string id="st_q_z_cell_25_d">
+	<text>April 26, 1986</text>
+</string>
+<string id="st_q_z_cell_25_descr">
+	<text>When the accident occurred at the Chernobyl nuclear power plant?</text>
+</string>
+<string id="st_q_z_cell_26_a">
+	<text>Winter in the Nizhny Novgorod region</text>
+</string>
+<string id="st_q_z_cell_26_b">
+	<text>Summer in the Nizhny Novgorod region</text>
+</string>
+<string id="st_q_z_cell_26_c">
+	<text>In the southern hemisphere</text>
+</string>
+<string id="st_q_z_cell_26_d">
+	<text>At the North Pole</text>
+</string>
+<string id="st_q_z_cell_26_descr">
+	<text>When the Orion Nebula is visible in the sky?</text>
+</string>
+<string id="st_q_z_cell_27_a">
+	<text>206</text>
+</string>
+<string id="st_q_z_cell_27_b">
+	<text>350</text>
+</string>
+<string id="st_q_z_cell_27_c">
+	<text>244</text>
+</string>
+<string id="st_q_z_cell_27_d">
+	<text>254</text>
+</string>
+<string id="st_q_z_cell_27_descr">
+	<text>How many bones in the adult human body?</text>
+</string>
+<string id="st_q_z_cell_28_a">
+	<text>1939</text>
+</string>
+<string id="st_q_z_cell_28_b">
+	<text>1928</text>
+</string>
+<string id="st_q_z_cell_28_c">
+	<text>1925</text>
+</string>
+<string id="st_q_z_cell_28_d">
+	<text>1947</text>
+</string>
+<string id="st_q_z_cell_28_descr">
+	<text>In what year appeared a color TV?</text>
+</string>
+<string id="st_q_z_cell_29_a">
+	<text>70 km/h</text>
+</string>
+<string id="st_q_z_cell_29_b">
+	<text>65 km/h</text>
+</string>
+<string id="st_q_z_cell_29_c">
+	<text>56 km/h</text>
+</string>
+<string id="st_q_z_cell_29_d">
+	<text>85km/h</text>
+</string>
+<string id="st_q_z_cell_29_descr">
+	<text>What is the starting speed of a cheetah is gaining in 2 seconds?</text>
+</string>
+<string id="st_q_z_cell_2_a">
+	<text>Igorina</text>
+</string>
+<string id="st_q_z_cell_2_b">
+	<text>Quiz</text>
+</string>
+<string id="st_q_z_cell_2_c">
+	<text>Dmitrovina</text>
+</string>
+<string id="st_q_z_cell_2_d">
+	<text>Dahlia</text>
+</string>
+<string id="st_q_z_cell_2_descr">
+	<text>What is the name game in the answers to the questions, usually a common theme?</text>
+</string>
+<string id="st_q_z_cell_30_a">
+	<text>Wind</text>
+</string>
+<string id="st_q_z_cell_30_b">
+	<text>Keyboards</text>
+</string>
+<string id="st_q_z_cell_30_c">
+	<text>Shock</text>
+</string>
+<string id="st_q_z_cell_30_d">
+	<text>string</text>
+</string>
+<string id="st_q_z_cell_30_descr">
+	<text>What musical instruments were created before man?</text>
+</string>
+<string id="st_q_z_cell_31_a">
+	<text>100 km/h</text>
+</string>
+<string id="st_q_z_cell_31_b">
+	<text>50 km/hour</text>
+</string>
+<string id="st_q_z_cell_31_c">
+	<text>1 km/h</text>
+</string>
+<string id="st_q_z_cell_31_d">
+	<text>0 km/h</text>
+</string>
+<string id="st_q_z_cell_31_descr">
+	<text>How fast should run a dog not to hear the ringing pans tied to its tail?</text>
+</string>
+<string id="st_q_z_cell_32_a">
+	<text>10</text>
+</string>
+<string id="st_q_z_cell_32_b">
+	<text>15</text>
+</string>
+<string id="st_q_z_cell_32_c">
+	<text>20</text>
+</string>
+<string id="st_q_z_cell_32_d">
+	<text>25</text>
+</string>
+<string id="st_q_z_cell_32_descr">
+	<text>How many points gets Formula 1 driver in the first place?</text>
+</string>
+<string id="st_q_z_cell_33_a">
+	<text>January 13, 1983</text>
+</string>
+<string id="st_q_z_cell_33_b">
+	<text>January 30, 1983</text>
+</string>
+<string id="st_q_z_cell_33_c">
+	<text>January 1, 1983</text>
+</string>
+<string id="st_q_z_cell_33_d">
+	<text>January 21, 1983</text>
+</string>
+<string id="st_q_z_cell_33_descr">
+	<text>When did the internet?</text>
+</string>
+<string id="st_q_z_cell_34_a">
+	<text>France</text>
+</string>
+<string id="st_q_z_cell_34_b">
+	<text>Italy</text>
+</string>
+<string id="st_q_z_cell_34_c">
+	<text>Spain</text>
+</string>
+<string id="st_q_z_cell_34_d">
+	<text>China</text>
+</string>
+<string id="st_q_z_cell_34_descr">
+	<text>Where invented pasta?</text>
+</string>
+<string id="st_q_z_cell_35_a">
+	<text>70 пїЅ C</text>
+</string>
+<string id="st_q_z_cell_35_b">
+	<text>85 пїЅ C</text>
+</string>
+<string id="st_q_z_cell_35_c">
+	<text>100 пїЅ C</text>
+</string>
+<string id="st_q_z_cell_35_d">
+	<text>120 пїЅ C</text>
+</string>
+<string id="st_q_z_cell_35_descr">
+	<text>At what temperature water boils in the kettle?</text>
+</string>
+<string id="st_q_z_cell_36_a">
+	<text>1912</text>
+</string>
+<string id="st_q_z_cell_36_b">
+	<text>1913</text>
+</string>
+<string id="st_q_z_cell_36_c">
+	<text>1914</text>
+</string>
+<string id="st_q_z_cell_36_d">
+	<text>1915</text>
+</string>
+<string id="st_q_z_cell_36_descr">
+	<text>In what year did the First World War?</text>
+</string>
+<string id="st_q_z_cell_37_a">
+	<text>1941</text>
+</string>
+<string id="st_q_z_cell_37_b">
+	<text>1939</text>
+</string>
+<string id="st_q_z_cell_37_c">
+	<text>1945</text>
+</string>
+<string id="st_q_z_cell_37_d">
+	<text>1914</text>
+</string>
+<string id="st_q_z_cell_37_descr">
+	<text>In what year did the Second World War?</text>
+</string>
+<string id="st_q_z_cell_38_a">
+	<text>54</text>
+</string>
+<string id="st_q_z_cell_38_b">
+	<text>64</text>
+</string>
+<string id="st_q_z_cell_38_c">
+	<text>72</text>
+</string>
+<string id="st_q_z_cell_38_d">
+	<text>128</text>
+</string>
+<string id="st_q_z_cell_38_descr">
+	<text>8+8*8=?</text>
+</string>
+<string id="st_q_z_cell_39_a">
+	<text>June 21, 1990</text>
+</string>
+<string id="st_q_z_cell_39_b">
+	<text>December 8, 1991</text>
+</string>
+<string id="st_q_z_cell_39_c">
+	<text>August 19, 1991</text>
+</string>
+<string id="st_q_z_cell_39_d">
+	<text>August 21, 1991</text>
+</string>
+<string id="st_q_z_cell_39_descr">
+	<text>When the Soviet Union broke up officially?</text>
+</string>
+<string id="st_q_z_cell_3_a">
+	<text>Plane</text>
+</string>
+<string id="st_q_z_cell_3_b">
+	<text>Helicopter</text>
+</string>
+<string id="st_q_z_cell_3_c">
+	<text>Bus</text>
+</string>
+<string id="st_q_z_cell_3_d">
+	<text>Train</text>
+</string>
+<string id="st_q_z_cell_3_descr">
+	<text>Which of these vehicles have a stop-cock?</text>
+</string>
+<string id="st_q_z_cell_40_a">
+	<text>Peter I</text>
+</string>
+<string id="st_q_z_cell_40_b">
+	<text>Catherine II</text>
+</string>
+<string id="st_q_z_cell_40_c">
+	<text>Nicholas I</text>
+</string>
+<string id="st_q_z_cell_40_d">
+	<text>Alexander II</text>
+</string>
+<string id="st_q_z_cell_40_descr">
+	<text>How the Russian Tsar was sold Alaska to the United States?</text>
+</string>
+<string id="st_q_z_cell_41_a">
+	<text>Wolf</text>
+</string>
+<string id="st_q_z_cell_41_b">
+	<text>Hippo</text>
+</string>
+<string id="st_q_z_cell_41_c">
+	<text>Ducks</text>
+</string>
+<string id="st_q_z_cell_41_d">
+	<text>Hunter</text>
+</string>
+<string id="st_q_z_cell_41_descr">
+	<text>Scream of creatures never repeats echo?</text>
+</string>
+<string id="st_q_z_cell_42_a">
+	<text>Horse</text>
+</string>
+<string id="st_q_z_cell_42_b">
+	<text>Sheep</text>
+</string>
+<string id="st_q_z_cell_42_c">
+	<text>Cat</text>
+</string>
+<string id="st_q_z_cell_42_d">
+	<text>Ox</text>
+</string>
+<string id="st_q_z_cell_42_descr">
+	<text>Which pet is never mentioned in the Bible?</text>
+</string>
+<string id="st_q_z_cell_43_a">
+	<text>Ear</text>
+</string>
+<string id="st_q_z_cell_43_b">
+	<text>Nose</text>
+</string>
+<string id="st_q_z_cell_43_c">
+	<text>Mouth</text>
+</string>
+<string id="st_q_z_cell_43_d">
+	<text>Appendix</text>
+</string>
+<string id="st_q_z_cell_43_descr">
+	<text>What body grows throughout a person's life?</text>
+</string>
+<string id="st_q_z_cell_44_a">
+	<text>Windows</text>
+</string>
+<string id="st_q_z_cell_44_b">
+	<text>Doors</text>
+</string>
+<string id="st_q_z_cell_44_c">
+	<text>Pilaster</text>
+</string>
+<string id="st_q_z_cell_44_d">
+	<text>Baluster</text>
+</string>
+<string id="st_q_z_cell_44_descr">
+	<text>What kind of architectural elements is never in a casino?</text>
+</string>
+<string id="st_q_z_cell_45_a">
+	<text>31</text>
+</string>
+<string id="st_q_z_cell_45_b">
+	<text>32</text>
+</string>
+<string id="st_q_z_cell_45_c">
+	<text>33</text>
+</string>
+<string id="st_q_z_cell_45_d">
+	<text>34</text>
+</string>
+<string id="st_q_z_cell_45_descr">
+	<text>How many letters in the Russian alphabet?</text>
+</string>
+<string id="st_q_z_cell_46_a">
+	<text>Iknut</text>
+</string>
+<string id="st_q_z_cell_46_b">
+	<text>Sneeze</text>
+</string>
+<string id="st_q_z_cell_46_c">
+	<text>Yawn</text>
+</string>
+<string id="st_q_z_cell_46_d">
+	<text>Get some sleep</text>
+</string>
+<string id="st_q_z_cell_46_descr">
+	<text>What can not be done with your eyes open?</text>
+</string>
+<string id="st_q_z_cell_47_a">
+	<text>Heart</text>
+</string>
+<string id="st_q_z_cell_47_b">
+	<text>Biceps</text>
+</string>
+<string id="st_q_z_cell_47_c">
+	<text>Triceps</text>
+</string>
+<string id="st_q_z_cell_47_d">
+	<text>Language</text>
+</string>
+<string id="st_q_z_cell_47_descr">
+	<text>What is the strongest muscle in the human body?</text>
+</string>
+<string id="st_q_z_cell_48_a">
+	<text>Coffee</text>
+</string>
+<string id="st_q_z_cell_48_b">
+	<text>Vodka</text>
+</string>
+<string id="st_q_z_cell_48_c">
+	<text>Tea</text>
+</string>
+<string id="st_q_z_cell_48_d">
+	<text>Fruit-drink</text>
+</string>
+<string id="st_q_z_cell_48_descr">
+	<text>What word in the Chinese language is indicated by the same character for the word 'courage'?</text>
+</string>
+<string id="st_q_z_cell_49_a">
+	<text>Bread</text>
+</string>
+<string id="st_q_z_cell_49_b">
+	<text>Potato</text>
+</string>
+<string id="st_q_z_cell_49_c">
+	<text>Borsch</text>
+</string>
+<string id="st_q_z_cell_49_d">
+	<text>Pelmeni</text>
+</string>
+<string id="st_q_z_cell_49_descr">
+	<text>Without lunch dishes impossible in Russia?</text>
+</string>
+<string id="st_q_z_cell_4_a">
+	<text>Skis</text>
+</string>
+<string id="st_q_z_cell_4_b">
+	<text>Swimming</text>
+</string>
+<string id="st_q_z_cell_4_c">
+	<text>Fencing</text>
+</string>
+<string id="st_q_z_cell_4_d">
+	<text>Boxing</text>
+</string>
+<string id="st_q_z_cell_4_descr">
+	<text>In what sport participant may withdraw from the competition due to a cut eyebrow?</text>
+</string>
+<string id="st_q_z_cell_50_a">
+	<text>29</text>
+</string>
+<string id="st_q_z_cell_50_b">
+	<text>30</text>
+</string>
+<string id="st_q_z_cell_50_c">
+	<text>31</text>
+</string>
+<string id="st_q_z_cell_50_d">
+	<text>32</text>
+</string>
+<string id="st_q_z_cell_50_descr">
+	<text>How many rounds can accommodate a machine shop from AK102?</text>
+</string>
+<string id="st_q_z_cell_5_a">
+	<text>Basketball</text>
+</string>
+<string id="st_q_z_cell_5_b">
+	<text>Volleyball</text>
+</string>
+<string id="st_q_z_cell_5_c">
+	<text>Baseball</text>
+</string>
+<string id="st_q_z_cell_5_d">
+	<text>Football</text>
+</string>
+<string id="st_q_z_cell_5_descr">
+	<text>What game was born in 1895 in the United States?</text>
+</string>
+<string id="st_q_z_cell_6_a">
+	<text>Bortnik</text>
+</string>
+<string id="st_q_z_cell_6_b">
+	<text>Koval</text>
+</string>
+<string id="st_q_z_cell_6_c">
+	<text>Cooper</text>
+</string>
+<string id="st_q_z_cell_6_d">
+	<text>Chumak</text>
+</string>
+<string id="st_q_z_cell_6_descr">
+	<text>A representative of the profession engaged in the old carriage and sale of salt?</text>
+</string>
+<string id="st_q_z_cell_7_a">
+	<text>Ronaldo</text>
+</string>
+<string id="st_q_z_cell_7_b">
+	<text>Zidane</text>
+</string>
+<string id="st_q_z_cell_7_c">
+	<text>Ronaldinho</text>
+</string>
+<string id="st_q_z_cell_7_d">
+	<text>Raul</text>
+</string>
+<string id="st_q_z_cell_7_descr">
+	<text>This is the ninth issue called 'Critters'?</text>
+</string>
+<string id="st_q_z_cell_8_a">
+	<text>25</text>
+</string>
+<string id="st_q_z_cell_8_b">
+	<text>27</text>
+</string>
+<string id="st_q_z_cell_8_c">
+	<text>29</text>
+</string>
+<string id="st_q_z_cell_8_d">
+	<text>31</text>
+</string>
+<string id="st_q_z_cell_8_descr">
+	<text>What is the serial number of the letter 'Y' in the alphabet?</text>
+</string>
+<string id="st_q_z_cell_9_a">
+	<text>Grimm</text>
+</string>
+<string id="st_q_z_cell_9_b">
+	<text>The same</text>
+</string>
+<string id="st_q_z_cell_9_c">
+	<text>Wright</text>
+</string>
+<string id="st_q_z_cell_9_d">
+	<text>White</text>
+</string>
+<string id="st_q_z_cell_9_descr">
+	<text>These brothers are considered the creators of the first airplane?</text>
+</string>
+<string id="st_quest_arms_case">
+	<text>Case with 'Ruger GP100'</text>
+</string>
+<string id="st_quest_arms_case_descr">
+	<text>Inside the case is parsed 'Ruger GP100', as well as repair kit to it.</text>
+</string>
+<string id="st_quest_bloodsucker_letter_1">
+	<text>Strange note 1</text>
+</string>
+<string id="st_quest_bloodsucker_letter_1_descr">
+	<text>The letter listed the following: '... you're the first one who saw me ... I'm saved a life ... in exchange for silence and ... and help. Help me ... I can not appear among the people, but I know that scientists certainly have what I need ... NG-7. Bring me this drug. It will help me. And I thank you enough. ' \n To download the data in the PDA - should be used.</text>
+</string>
+<string id="st_quest_bloodsucker_letter_2">
+	<text>Strange note 2</text>
+</string>
+<string id="st_quest_bloodsucker_letter_2_descr">
+	<text>The letter listed the following: 'Thank you. Look into my box, it is at the end of the corridor. There's your reward.'</text>
+</string>
+<string id="st_quest_bloodsucker_vaccine">
+	<text>Vaccine NG-7</text>
+</string>
+<string id="st_quest_bloodsucker_vaccine_descr">
+	<text>Ozersky did not say anything about this drug, but I believe that this drug stops the mutation.</text>
+</string>
+<string id="st_quest_drink_beylis">
+	<text>'Baileys'</text>
+</string>
+<string id="st_quest_drink_beylis_descr">
+	<text>Rare drink, at least within the zone.</text>
+</string>
+<string id="st_quest_flash_light">
+	<text>Lantern with optics 'Messler'</text>
+</string>
+<string id="st_quest_flash_light_descr">
+	<text>Halogen lamp and optical sight mounted in a common housing.</text>
+</string>
+<string id="st_quest_frequency_radio">
+	<text>High-frequency radio 'Grundig'</text>
+</string>
+<string id="st_quest_frequency_radio_descr">
+	<text>Is used for communication over vast distances. Manufactured in Germany.</text>
+</string>
+<string id="st_quest_heavy_medkits">
+	<text>Medkomplekt 'CCA72'</text>
+</string>
+<string id="st_quest_heavy_medkits_descr">
+	<text>Used by the MOE, universal medical kit with defibrillator.</text>
+</string>
+<string id="st_quest_live_water">
+	<text>Living Water</text>
+</string>
+<string id="st_quest_live_water_descr">
+	<text>Another miracle is born within the zone.</text>
+</string>
+<string id="st_quest_medic_medkit">
+	<text>First Aid Kit V98</text>
+</string>
+<string id="st_quest_medic_medkit_descr">
+	<text>A large medical kit. Copes with any injury or bleeding.</text>
+</string>
+<string id="st_quest_photo_device">
+	<text>Camera 'Suzanna'</text>
+</string>
+<string id="st_quest_photo_device_descr">
+	<text>Medium-format analog camera with a tripod hard Attachments.</text>
+</string>
+<string id="st_quest_sharpshooter_binocular">
+	<text>Binoculars 'Ranger'</text>
+</string>
+<string id="st_quest_sharpshooter_binocular_descr">
+	<text>Specialized army binoculars. Included in the equipment of military snipers.</text>
+</string>
+<string id="st_question_game_answer_a">
+	<text>Option A</text>
+</string>
+<string id="st_question_game_answer_a_field_hint">
+	<text>Answer: A</text>
+</string>
+<string id="st_question_game_answer_a_hint">
+	<text>Selecting A</text>
+</string>
+<string id="st_question_game_answer_b">
+	<text>Option B</text>
+</string>
+<string id="st_question_game_answer_b_field_hint">
+	<text>Answer: B</text>
+</string>
+<string id="st_question_game_answer_b_hint">
+	<text>Selecting B</text>
+</string>
+<string id="st_question_game_answer_c">
+	<text>Option C</text>
+</string>
+<string id="st_question_game_answer_c_field_hint">
+	<text>Answer: C</text>
+</string>
+<string id="st_question_game_answer_c_hint">
+	<text>Selecting C</text>
+</string>
+<string id="st_question_game_answer_d">
+	<text>Option D</text>
+</string>
+<string id="st_question_game_answer_d_field_hint">
+	<text>Answer: D</text>
+</string>
+<string id="st_question_game_answer_d_hint">
+	<text>Selecting D</text>
+</string>
+<string id="st_question_game_continue">
+	<text>Resume</text>
+</string>
+<string id="st_question_game_continue_hint">
+	<text>Go to the next question</text>
+</string>
+<string id="st_question_game_correct_series_hint">
+	<text>A series of correct answers</text>
+</string>
+<string id="st_question_game_exit">
+	<text>Back</text>
+</string>
+<string id="st_question_game_exit_hint">
+	<text>Exit from the mini-games</text>
+</string>
+<string id="st_question_game_manual_hint">
+	<text>Hint</text>
+</string>
+<string id="st_question_game_question_field_hint">
+	<text>Current issue</text>
+</string>
+<string id="st_question_game_question_number_hint">
+	<text>Question number</text>
+</string>
+<string id="st_question_game_start">
+	<text>New game</text>
+</string>
+<string id="st_question_game_start_hint">
+	<text>Running a mini-game</text>
+</string>
+<string id="st_question_game_title">
+	<text>Game: What? Where? When?</text>
+</string>
+<string id="st_queue_track_hint">
+	<text>Play each track in turn</text>
+</string>
+<string id="st_rasvet_nazar_case_descr">
+	<text>Flash card with information about their personal hiding Director grouping 'Breaking Dawn' - Nazar.</text>
+</string>
+<string id="st_rasvet_nazar_case_title">
+	<text>'Flash card Nazar'</text>
+</string>
+<string id="st_rasvet_nazar_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Nazar' \n %c[default] Information from the stick: Eastern Depot.</text>
+</string>
+<string id="st_rasvet_nazar_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Nazar %c[110,128,128,255]'</text>
+</string>
+<string id="st_red_psyho_development_1">
+	<text>An experimental drug psycho-1</text>
+</string>
+<string id="st_red_psyho_development_1_descr">
+	<text>The drug developed by scientists to combat psy-radiation.</text>
+</string>
+<string id="st_red_psyho_development_2">
+	<text>An experimental drug psycho-2</text>
+</string>
+<string id="st_red_psyho_development_2_descr">
+	<text>The drug developed by scientists to combat psy-radiation.</text>
+</string>
+<string id="st_red_psyho_ecolog_pda">
+	<text>PDAs research group</text>
+</string>
+<string id="st_red_psyho_ecolog_pda_descr">
+	<text>Information from the flash-drive: 'preparty was applied to a group of protection, performance surprised us. Everything went very well. The second we invented a drug to reduce the activity of the psy-supervisor has been applied to the entrapment us Controllers, but unfortunately his psychic activity has not decreased, and vice versa increased several times. '</text>
+</string>
+<string id="st_red_psyho_killer_pda_1">
+	<text>PDA guard expedition scientists</text>
+</string>
+<string id="st_red_psyho_killer_pda_1_descr">
+	<text>Information from the flash-drive: 'People for the protection of almost gone. Mutants attack everything with renewed vigor. Tomorrow will come back.'</text>
+</string>
+<string id="st_red_psyho_killer_pda_2">
+	<text>PDA member of the expedition</text>
+</string>
+<string id="st_red_psyho_killer_pda_2_descr">
+	<text>Information from the flash-drive: 'The drug is almost done, it remains to test it. The group received the drug went to the center location for his trial.'</text>
+</string>
+<string id="st_remote_charge_cancel">
+	<text>Cancel</text>
+</string>
+<string id="st_remote_charge_place">
+	<text>Set Up</text>
+</string>
+<string id="st_shron_check_descr">
+	<text>Complement caches ($$ACTION_USE$$)</text>
+</string>
+<string id="st_shustriy_ak47">
+	<text>Trophy 'AK-47'</text>
+</string>
+<string id="st_shustriy_ak47_descr">
+	<text>Old shabby automatic, with traces of someone's claws on the butt. Weapons, about which legends. In particular - said that he tagged killed out of him last in the Zone 'break.'</text>
+</string>
+<string id="st_shustriy_ingram_m10">
+	<text>Trophy 'Ingram Mac-10'</text>
+</string>
+<string id="st_shustriy_ingram_m10_descr">
+	<text>On the handle of submachine gun engraved. You can make out only 'for the excellent sl..bu ... ..' and someone's initials' AS P.shk.n '.</text>
+</string>
+<string id="st_shustriy_mossberg_590mk">
+	<text>Trophy 'Mossberg 590Mk.L'</text>
+</string>
+<string id="st_shustriy_mossberg_590mk_descr">
+	<text>Judging from the appearance, this weapon long trampled into the ground; And, most likely, in the vicinity of 'agricultural industry.' Factory inscription on the butt says that it is a shotgun from a limited batch differs by more qualitative burnished.</text>
+</string>
+<string id="st_shustriy_steyr_aug_ss190">
+	<text>Trophy 'Steyr AUG SS190'</text>
+</string>
+<string id="st_shustriy_steyr_aug_ss190_descr">
+	<text>Weapons for these commandos. Above this weapon worked technician who knows his business, significantly improve the combat characteristics. According to rumors, it was a screw - the legendary craftsman with 'military warehouse.'</text>
+</string>
+<string id="st_sigerous_top_register">
+	<text>Sign Up</text>
+</string>
+<string id="st_signaller_toolkit_1">
+	<text>Orc army Tools 42</text>
+</string>
+<string id="st_signaller_toolkit_1_descr">
+	<text>Designed for high-quality marching troop repair equipment.</text>
+</string>
+<string id="st_signaller_toolkit_2">
+	<text>Army tools RCH-86u</text>
+</string>
+<string id="st_signaller_toolkit_2_descr">
+	<text>Designed for setup and calibration of army equipment.</text>
+</string>
+<string id="st_special_helicopter_key">
+	<text>Universal key pilot</text>
+</string>
+<string id="st_special_helicopter_key_descr">
+	<text>Designed for emergency access helicopters.</text>
+</string>
+<string id="st_stalker_barga_case_descr">
+	<text>Flash card with information about their personal hiding caver - Barges.</text>
+</string>
+<string id="st_stalker_barga_case_title">
+	<text>'Flash card Barges'</text>
+</string>
+<string id="st_stalker_barga_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Barges' \n %c[default] Information from the stick: Somewhere in the middle,under the bridge.</text>
+</string>
+<string id="st_stalker_barga_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Barges %c[110,128,128,255]'</text>
+</string>
+<string id="st_stalker_commander_case_descr">
+	<text>Flash card with information about their personal hiding place unknown - Commander.</text>
+</string>
+<string id="st_stalker_commander_case_title">
+	<text>'Flash card Commander'</text>
+</string>
+<string id="st_stalker_commander_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Commander' \n %c[default] Information from the stick: Somewhere in the middle of ...</text>
+</string>
+<string id="st_stalker_commander_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Commander %c[110,128,128,255]'</text>
+</string>
+<string id="st_stalker_crab_case_descr">
+	<text>Flash card with information about their personal hiding place stalker - Crab.</text>
+</string>
+<string id="st_stalker_crab_case_title">
+	<text>'Flash card Crab'</text>
+</string>
+<string id="st_stalker_crab_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Crab' \n %c[default] Information from the stick:,South mercenaries base.</text>
+</string>
+<string id="st_stalker_crab_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Crab %c[110,128,128,255]'</text>
+</string>
+<string id="st_stalker_elbrus_case_descr">
+	<text>Flash card with information about their personal hiding hero Creek - Mount Elbrus.</text>
+</string>
+<string id="st_stalker_elbrus_case_title">
+	<text>'Flash card Elbrus'</text>
+</string>
+<string id="st_stalker_elbrus_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Elbrus' \n %c[default] Information from the stick:,Workshops substation in the house.</text>
+</string>
+<string id="st_stalker_elbrus_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Elbrus %c[110,128,128,255]'</text>
+</string>
+<string id="st_stalker_gluhar_case_descr">
+	<text>Flash card with information about their personal hiding brave ment, stalker - grouse.</text>
+</string>
+<string id="st_stalker_gluhar_case_title">
+	<text>'Flash card Glouchar'</text>
+</string>
+<string id="st_stalker_gluhar_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'grouse' \n %c[default] Information from the stick: South,parking at the break.</text>
+</string>
+<string id="st_stalker_gluhar_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Glouchar %c[110,128,128,255]'</text>
+</string>
+<string id="st_stalker_koriaga_case_descr">
+	<text>Flash card with information about their personal hiding priblatnпїЅnnogo Lohan, would-be stalker - Driftwood.</text>
+</string>
+<string id="st_stalker_koriaga_case_title">
+	<text>'Flash card Snags'</text>
+</string>
+<string id="st_stalker_koriaga_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Driftwood' \n %c[default] Information from the stick:,PPC second floor.</text>
+</string>
+<string id="st_stalker_koriaga_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Snags %c[110,128,128,255]'</text>
+</string>
+<string id="st_stalker_magomet_case_descr">
+	<text>Flash card with information about their personal hiding place stalker freestyle - Mohammed.</text>
+</string>
+<string id="st_stalker_magomet_case_title">
+	<text>'Flash card Mohammed'</text>
+</string>
+<string id="st_stalker_magomet_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Mahomet' \n %c[default] Information from the stick: none.</text>
+</string>
+<string id="st_stalker_magomet_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Mohammed %c[110,128,128,255]'</text>
+</string>
+<string id="st_stalker_mayron_case_descr">
+	<text>Flash card with information about their personal hiding place stalker puzzles, Myron.</text>
+</string>
+<string id="st_stalker_mayron_case_title">
+	<text>'Flash card Myron'</text>
+</string>
+<string id="st_stalker_mayron_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Myron' \n %c[default] Information from the stick:,West transformer room.</text>
+</string>
+<string id="st_stalker_mayron_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Myron %c[110,128,128,255]'</text>
+</string>
+<string id="st_stalker_noy_case_descr">
+	<text>Flash card with information about their personal hiding Zatonsky psychopath - Noah.</text>
+</string>
+<string id="st_stalker_noy_case_title">
+	<text>'Flash card in November'</text>
+</string>
+<string id="st_stalker_noy_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'November' \n %c[default] Information from the stick: Northeast,Volcano anomaly.</text>
+</string>
+<string id="st_stalker_noy_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] November possessions %c[110,128,128,255]'</text>
+</string>
+<string id="st_stalker_petruha_case_descr">
+	<text>Flash card with information about their personal hiding desperate hunter for artifacts, the hero of the Battle of ATP - Petrukha.</text>
+</string>
+<string id="st_stalker_petruha_case_title">
+	<text>'Flash card Petrukha'</text>
+</string>
+<string id="st_stalker_petruha_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Petrukha' \n %c[default] Information from the stick: Somewhere in the middle of the deserted village ,.</text>
+</string>
+<string id="st_stalker_petruha_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Petrukha %c[110,128,128,255]'</text>
+</string>
+<string id="st_stalker_spartak_case_descr">
+	<text>Flash card with information about their personal hiding detachment commander zachistochnogo - Spartacus.</text>
+</string>
+<string id="st_stalker_spartak_case_title">
+	<text>'Flash card Spartacus'</text>
+</string>
+<string id="st_stalker_spartak_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Spartacus' \n %c[default] Information from the stick:,Saw on assembly line.</text>
+</string>
+<string id="st_stalker_spartak_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Spartacus %c[110,128,128,255]'</text>
+</string>
+<string id="st_stalker_tamerlan_case_descr">
+	<text>Flash card with information about their personal hiding place stalker freestyle - Tamerlane.</text>
+</string>
+<string id="st_stalker_tamerlan_case_title">
+	<text>'Flash card Tamerlane'</text>
+</string>
+<string id="st_stalker_tamerlan_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Tamerlane' \n %c[default] Information from the stick: none.</text>
+</string>
+<string id="st_stalker_tamerlan_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Tamerlane %c[110,128,128,255]'</text>
+</string>
+<string id="st_stalker_vano_case_descr">
+	<text>Flash card with information about their personal hiding connoisseur of Georgian cuisine, stalker - Vano.</text>
+</string>
+<string id="st_stalker_vano_case_title">
+	<text>'Flash card genatsvale Vano'</text>
+</string>
+<string id="st_stalker_vano_unpack_descr">
+	<text>%c[, 255 238,153,26] possessions 'Vano' \n %c[default] Information from a flash drive: Do not just stash,anomalous field.</text>
+</string>
+<string id="st_stalker_vano_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Vano %c[110,128,128,255]'</text>
+</string>
+<string id="st_stalker_vobla_case_descr">
+	<text>Flash card with information about their personal hiding arrogant asshole - roach.</text>
+</string>
+<string id="st_stalker_vobla_case_title">
+	<text>'Flash card roach'</text>
+</string>
+<string id="st_stalker_vobla_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'roach' \n %c[default] Information from the stick:,Workshops substation in UAZ.</text>
+</string>
+<string id="st_stalker_vobla_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions roach %c[110,128,128,255]'</text>
+</string>
+<string id="st_stalker_zulus_case_descr">
+	<text>Flash card with information about their personal hiding place of the legendary Heavy, stalker - Zulu.</text>
+</string>
+<string id="st_stalker_zulus_case_title">
+	<text>'Flash card Zulu'</text>
+</string>
+<string id="st_stalker_zulus_unpack_descr">
+	<text>%c[255,238,153,26] possessions 'Zulu' \n %c[default] Information from the stick: Southeast,old building.</text>
+</string>
+<string id="st_stalker_zulus_unpack_title">
+	<text>%c[110,128,128,255] ' %c[110,200,128,0] possessions Zulu %c[110,128,128,255]'</text>
+</string>
+<string id="st_statistic_killed_m_13_name">
+	<text>Fracture</text>
+</string>
+<string id="st_statistic_killed_m_14_name">
+	<text>Cat Baiyun</text>
+</string>
+<string id="st_statistic_value_of">
+	<text>from</text>
+</string>
+<string id="st_unique_treasure_spot_descr">
+	<text>Stash. Security code</text>
+</string>
+<string id="st_val_access_card_x18">
+	<text>Access Map</text>
+</string>
+<string id="st_val_access_card_x18_descr">
+	<text>Map access to the lab X18.</text>
+</string>
+<string id="st_val_b4_baltazar_pda">
+	<text>PDA Balthazar</text>
+</string>
+<string id="st_val_b4_baltazar_pda_descr">
+	<text>PDA with valuable information.</text>
+</string>
+<string id="st_val_key_from_safe">
+	<text>Key to the safe</text>
+</string>
+<string id="st_val_key_from_safe_descr">
+	<text>Key to the safe, which must lie card access to the underground laboratory.</text>
+</string>
+<string id="st_val_renegade_money_case">
+	<text>Box with money</text>
+</string>
+<string id="st_val_renegade_money_case_descr">
+	<text>Steel box with a fortune inside.</text>
+</string>
+<string id="st_waypoint_editor_autochange_hint">
+	<text>Automatic additional notes walk and look</text>
+</string>
+<string id="st_waypoint_editor_check_way_closed_hint">
+	<text>If a lot of points, the path will be closed</text>
+</string>
+<string id="st_waypoint_editor_empty_flags_hint">
+	<text>Create points without flags - flags = 0x1</text>
+</string>
+<string id="st_wpn_9a91">
+	<text>9A-91</text>
+</string>
+<string id="st_wpn_9a91_descr">
+	<text>Automatic 9A-91 is based on the removal of powder gases from the barrel. Locking by turning the bolt, 4 lugs. USM - hammer type, can fire single and continuous bursts.</text>
+</string>
+<string id="st_wpn_ak103">
+	<text>AK-103</text>
+</string>
+<string id="st_wpn_ak103_descr">
+	<text>AK103 - export version of the AK-74M, characterized by the use of cartridges 5,56x45 mm (standard NATO SS109) and 7.62x39 mm (Soviet patron of the sample 1943), respectively. AK103 can use shops AK/AKM.</text>
+</string>
+<string id="st_wpn_ak74m">
+	<text>AK-74M</text>
+</string>
+<string id="st_wpn_ak74m_camo">
+	<text>AK-74M (Camouflage)</text>
+</string>
+<string id="st_wpn_ak74m_descr">
+	<text>AK-74M - AK-74 modernized. Equipped with a folding plastic butt and side universal mounting (plank 'dovetail') for fixing sights as optical and night, on the left side of the receiver. Thus AK-74M replaced just four models: AK-74, AKS-74, AK-74N and AKS-74N.</text>
+</string>
+<string id="st_wpn_akm">
+	<text>AKM</text>
+</string>
+<string id="st_wpn_akm_descr">
+	<text>Automatic, replaced in 1959 by the Soviet army AK and is a further development.</text>
+</string>
+<string id="st_wpn_akms">
+	<text>AKMS</text>
+</string>
+<string id="st_wpn_akms_descr">
+	<text>AKM variant with folding stock. The fastening system has been modified with respect to the stock of game (folding down-forward, under the receiver). Modification designed specifically for paratroopers.</text>
+</string>
+<string id="st_wpn_aks74">
+	<text>AKS-74</text>
+</string>
+<string id="st_wpn_aks74_descr">
+	<text>Kalashnikov.ikov assault rifle caliber 5.45 mm, designed in 1970 by designer Mikhail Kalashnikov.ikov and adopted the armed forces of the USSR in 1974. Is a further development of AKM. Development associated with the transition to a new maloimpulsnogo cartridge 5,45x39 mm.</text>
+</string>
+<string id="st_wpn_aps">
+	<text>APS</text>
+</string>
+<string id="st_wpn_aps_descr">
+	<text>9mm automatic pistol Stechkin - gun, developed in the late 1940s - early 1950s designer IY Stechkin and adopted the Armed Forces of the USSR in 1951, simultaneously with the Makarov pistol. APS is designed to arm officers directly involved in the fighting, as well as soldiers and sergeants of some special ulouse.</text>
+</string>
+<string id="st_wpn_ar15">
+	<text>AR-15</text>
+</string>
+<string id="st_wpn_ar15_descr">
+	<text>AR-15 - American semi-automatic rifle chambered 5,56x45 mm. Produced since 1963, is available for sale as a civilian self-defense weapon is a staff weapon in the Police Department. Was developed by 'ArmaLite' as a promising assault rifle for the US Army. In 1959, due to financial difficulties 'ArmaLite' sold the rights to the design of the company 'Colt's Manufacturing Company'. In the early 1960s, an automatic version of the AR-15 was adopted by the US Army under the designation M16. Is the processing of Custom classical AR-15, with the possibility of automatic fire.</text>
+</string>
+<string id="st_wpn_aug_a1">
+	<text>Steyr AUG A1</text>
+</string>
+<string id="st_wpn_aug_a3">
+	<text>Steyr AUG A3</text>
+</string>
+<string id="st_wpn_aug_descr">
+	<text>Steyr AUG (Armee Universal Gewehr - Universal Army Rifle) - a complex of small arms, released in 1977, the Austrian company Steyr-Daimler-Puch. This rifle used a layout 'bullpup', in which the store and shutter assembly located behind the control arm and fire the trigger.</text>
+</string>
+<string id="st_wpn_bizon">
+	<text>PP-19 'Bison'</text>
+</string>
+<string id="st_wpn_bizon_descr">
+	<text>PP-19 'Bison' - 19 submachine gun model, developed in 1993 VM Kalashnikov.ikov (son of designer Mikhail Kalashnikov.ikov) and Alexei Dragunov (son of EF Dragunov) commissioned by the Ministry of Internal Affairs of the Russian Federation ( Russian Ministry of Internal Affairs).</text>
+</string>
+<string id="st_wpn_cz75">
+	<text>CZ 75</text>
+</string>
+<string id="st_wpn_cz75_descr">
+	<text>CZ 75 - gun developed in Czechoslovakia in 1975. Widespread throughout the world. In the Czech Republic the most of its uses mainly police (army uses CZ 83).</text>
+</string>
+<string id="st_wpn_fn57">
+	<text>FN Five-seveN</text>
+</string>
+<string id="st_wpn_fn57_descr">
+	<text>Automatic pistol designed and manufactured by the Belgian company Fabrique Nationale of Herstal. The name is a combination of, on the one hand Five-seveN is '5.7' (5.7 - caliber weapons, which is equal to .224), and on the other the first and last letter of the name, writing in capital - an abbreviation of the company Fabrique Nationale.</text>
+</string>
+<string id="st_wpn_g36c">
+	<text>HK G36C</text>
+</string>
+<string id="st_wpn_g36c_descr">
+	<text>Extremely shortened version of the German rifles G36. The rifle was developed in 1996 by a German arms company Heckler and Koch</text>
+</string>
+<string id="st_wpn_g3a3">
+	<text>HK G3A3</text>
+</string>
+<string id="st_wpn_g3a3_descr">
+	<text>HK G3 - German automatic rifle adopted by the German army for service in 1959. In 1995 it was replaced by automatic 5.56mm NATO HK G36. G3A3 - variant with fixed buttstock and forend two options (whole and perforated).</text>
+</string>
+<string id="st_wpn_g3sg1">
+	<text>HK G3SG1</text>
+</string>
+<string id="st_wpn_g3sg1_descr">
+	<text>G3SG1 - sniper version for civilian and police sector, some models have: the stock with an adjustable cheek, folding bipod and a trigger with adjustable traction.</text>
+</string>
+<string id="st_wpn_glock17">
+	<text>Glock 17</text>
+</string>
+<string id="st_wpn_glock17_descr">
+	<text>Glock 17 - Austrian gun developed by Glock for the needs of the Austrian army. He became the first models of weapons developed by this company. The resulting sample was quite good and easy to use, thanks to which he was later adopted by the army of Austria under the designation P80. Thanks to his fighting qualities and reliability has been widely accepted as a civilian self-defense weapon.</text>
+</string>
+<string id="st_wpn_gsh18">
+	<text>GS-18</text>
+</string>
+<string id="st_wpn_gsh18_descr">
+	<text>GS-18 - Russian gun, developed in the late 1990s in the Tula Instrument Design Bureau. Title received from the first letters of the names of designers, under the leadership of which was designed (mud Vasily Petrovich and Shipunova Arcadia IG) and the number '18', meaning the capacity of the store.</text>
+</string>
+<string id="st_wpn_kedr">
+	<text>PP-91 'Cedar'</text>
+</string>
+<string id="st_wpn_kedr_descr">
+	<text>PP-91 'cedar' (Design Yevgeny Dragunov) - submachine gun developed in the early 1990s by order of the USSR Ministry of Internal Affairs on the basis of the earlier PP-71 construction EF Dragunov. The first 40 pre-production samples were manufactured in 1992 at the Izhevsk Mechanical Plant, since 1993 began mass production at Zlatoust Machine-Building Plant.</text>
+</string>
+<string id="st_wpn_l115a3">
+	<text>L115A3</text>
+</string>
+<string id="st_wpn_l115a3_descr">
+	<text>The basis of the weapons went to a sports rifle AWM, which, as well as the L115, manufactured by Accuracy International. Is a weapon with the sliding bolt, locking the barrel when turning.</text>
+</string>
+<string id="st_wpn_m16a3">
+	<text>M16A3</text>
+</string>
+<string id="st_wpn_m16a3_descr">
+	<text>M16A3 - M16A2 rifle version with continuous fire mode, is in service in the Navy. Carrying handle and iron sights are identical M16A2. Appeared in 1992 under the symbol M16A2E3.</text>
+</string>
+<string id="st_wpn_m16a4">
+	<text>M16A4</text>
+</string>
+<string id="st_wpn_m16a4_descr">
+	<text>American assault rifle (assault rifle, in Russian classification - automatic) 5.56mm, developed on the basis of rifles AR-10 and put into service in the 1960s.</text>
+</string>
+<string id="st_wpn_m500">
+	<text>Mossberg 500</text>
+</string>
+<string id="st_wpn_m500_descr">
+	<text>One of the most popular rifles multiply charged with recharging mobile forearm (pump action shotguns). First released in 1962, the year. Now available in different versions, designed for hunting and for police, security guards and self-defense.</text>
+</string>
+<string id="st_wpn_m590a1">
+	<text>Mossberg M590A1</text>
+</string>
+<string id="st_wpn_m590a1_descr">
+	<text>One of the most popular rifles multiply charged with recharging mobile forearm (pump action shotguns). First released in 1962, the year. Now available in different versions, designed for hunting and for police, security guards and self-defense.</text>
+</string>
+<string id="st_wpn_m9">
+	<text>M9</text>
+</string>
+<string id="st_wpn_m98b">
+	<text>Barrett M98B</text>
+</string>
+<string id="st_wpn_m98b_descr">
+	<text>American sniper rifle, manufactured by Barrett Firearms. Like its predecessor - Barrett M98 (and not held in a series of rifle), a model developed by Bravo chambered .338 Lapua Magnum (8,6x70 mm size or 8,58x70 mm), the Zone is unknown manner was converted into a cartridge 7.62h51.</text>
+</string>
+<string id="st_wpn_m9_descr">
+	<text>M9 - codename Beretta 92SB the US Army. Is popular among criminals thanks to a powerful patron and capacious store. As a rule, do not fall into the Zone of the newest models of weapons.</text>
+</string>
+<string id="st_wpn_mossberg500">
+	<text>Mossberg 500</text>
+</string>
+<string id="st_wpn_mossberg500_descr">
+	<text>Mossberg 500 - one of the most popular rifles multiply charged with recharging mobile forearm (pump action shotguns). First released in 1962, the year. Now available in different versions, designed for hunting and for police, security guards and self-defense.</text>
+</string>
+<string id="st_wpn_mp412">
+	<text>MP-412 Rex</text>
+</string>
+<string id="st_wpn_mp412_descr">
+	<text>MP-412 Rex - Russian-made revolver cartridges under the .357 Smith and Wesson Magnum (9x33 mm) and a .38 Smith and Wesson Special (9.1x29 mm). REX abbreviation means - 'revolver export' (Revolver for EXport).</text>
+</string>
+<string id="st_wpn_mp443">
+	<text>MP-443 'Rook'</text>
+</string>
+<string id="st_wpn_mp443_descr">
+	<text>Automatic pistol manufactured in Russia. Designed by a team of designers led by VA Yarygin, serially produced at the Izhevsk Mechanical Plant.</text>
+</string>
+<string id="st_wpn_mp5sd">
+	<text>MP5SD</text>
+</string>
+<string id="st_wpn_mp5sd_descr">
+	<text>MP5SD - silent option MP5 of 1974 with integrated BSS.</text>
+</string>
+<string id="st_wpn_p90">
+	<text>FN P90</text>
+</string>
+<string id="st_wpn_pkm">
+	<text>PKM</text>
+</string>
+<string id="st_wpn_pkm_descr">
+	<text>This belt-fed machine gun is a portable modification with a complex two-stage feeding system. Despite its weight and low precision, this LMG has found admirers in the Zone. Used primarily to fight off outnumbering enemy forces during faction conflicts and clear out mutant lairs.</text>
+</string>
+<string id="st_wpn_pmm">
+	<text>PMM</text>
+</string>
+<string id="st_wpn_pmm_descr">
+	<text>9mm Makarov pistol upgraded PMM (GRAU index - 56-A-125M) - a Russian gun, developed in the early 1990s under the theme of R &amp; D 'Rook'. Took part in the competition for the new army pistol under the designation 'Grach-3'.</text>
+</string>
+<string id="st_wpn_pp2000">
+	<text>PP-2000</text>
+</string>
+<string id="st_wpn_pp2000_descr">
+	<text>PP-2000 - Russian 9mm submachine gun, developed by a team of designers Tula Instrument Design Bureau (Acad. VP dirt, experts BI Kuznetsov AI story). PP-2000 is positioned as a weapon for law enforcement ulouse operating in urban environments, as well as a personal defense weapon for certain categories of servicemen.</text>
+</string>
+<string id="st_wpn_remington870">
+	<text>Remington 870</text>
+</string>
+<string id="st_wpn_remington870_descr">
+	<text>Remington Model 870 - US rifle, first introduced in 1950 by Remington Arms. Thanks to its characteristic recharging is one of the most popular pump action shotguns in the world. Available in different versions, it is suitable for both military and police, as for hunters and sportsmen as well as for self-defense.</text>
+</string>
+<string id="st_wpn_rpk">
+	<text>PKK</text>
+</string>
+<string id="st_wpn_rpk_descr">
+	<text>RPK (Kalashnikov.ikov machine gun) - created as a support weapon ctrelkovogo platoon level on the basis of AKM and was in service with the Armed Forces of the USSR and many other countries. To date, found in the Russian Armed Forces and the Interior Ministry. In the Soviet Army each rifle platoon (10 people) relied on the state of one of the PKK. In general in the army of the Russian Federation PKK was replaced by the RPK-74.</text>
+</string>
+<string id="st_wpn_sig552">
+	<text>SIG SG-552</text>
+</string>
+<string id="st_wpn_sig552_descr">
+	<text>SG-552 Commando - even more compact machine with the barrel 226 mm, intended for special police ulouse. Unlike SG return spring 550 behind the bolt and acts directly on it and not on the gas piston rod. The machine has modified flash suppressor and can be equipped with Picatinny rail for mounting additional accessories.</text>
+</string>
+<string id="st_wpn_sr1mp">
+	<text>CP 1MP 'Gyurza'</text>
+</string>
+<string id="st_wpn_sr1mp_descr">
+	<text>9mm automatic pistol SR-1M 'Gyurza' established in TSNIITOCHMASH designer Peter Serdyukov. The gun is designed for special forces and designed to defeat the enemy soldiers in flak jackets or in the cab, as well as antenna radar systems and rocket bodies.</text>
+</string>
+<string id="st_wpn_sr3m">
+	<text>CP-3M 'Whirlwind'</text>
+</string>
+<string id="st_wpn_sr3m_descr">
+	<text>CP-3 'Whirlwind' - compact Russian machine designed Klimovsk TSNIITOCHMASH designers AD Borisov and V. Levchenko in 1994. Was brought before the release of designer AI Tashlykova and was put into production in 1996. Is based on a silent machine AS 'Val', which unified the main parts, which positively affects the production and operation of weapons.</text>
+</string>
+<string id="st_wpn_sv98">
+	<text>SV-98</text>
+</string>
+<string id="st_wpn_sv98_descr">
+	<text>Russian stores sniper rifle, created in 1998-2000. a team of designers led by Vladimir Stronsky and commercially available Concern Izhmash '.</text>
+</string>
+<string id="st_wpn_svt40">
+	<text>SVT-40</text>
+</string>
+<string id="st_wpn_svt40_descr">
+	<text>7.62mm self-loading rifles Tokarev model 1938 and 1940 (SVT-38, SVT-40), as well as automatic rifle Tokarev sample 1940 - modification of the Soviet semi-automatic rifle, developed FV Tokarev.</text>
+</string>
+<string id="st_wpn_usp45c">
+	<text>HK USP Compact</text>
+</string>
+<string id="st_wpn_usp_expert">
+	<text>HK USP Expert</text>
+</string>
+<string id="st_wpn_usp_match">
+	<text>HK USP Match</text>
+</string>
+<string id="st_wpn_vepr12">
+	<text>Boar-12M</text>
+</string>
+<string id="st_wpn_vepr12_descr">
+	<text>Shotgun (shotgun) Boar-12 yavlyatesya relatively new development of the plant 'Hammer' (Vyatskie the field) and created as a direct competitor is very popular in Russia guns series Saiga 12C/Saiga 12K.</text>
+</string>
+<string id="st_wpn_vz61">
+	<text>Vz. 61 'Scorpio'</text>
+</string>
+<string id="st_wpn_vz61_descr">
+	<text>Skorpion vz. 61 'Scorpio' - Czech submachine gun, designed for tank weapons, communications and military personnel of other specialties. Scorpio was adopted in Czechoslovakia in 1961 (hence the designation vz.61 - vzor 61, ie, the sample 1961).</text>
+</string>
+<string id="st_x18_secret_docks_1">
+	<text>Case пїЅ45</text>
+</string>
+<string id="st_x18_secret_docks_1_descr">
+	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Top Secret' \n S/N 773645</text>
+</string>
+<string id="st_x18_secret_docks_2">
+	<text>Case пїЅ112</text>
+</string>
+<string id="st_x18_secret_docks_2_descr">
+	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Top Secret' \n S/N 7736112</text>
+</string>
+<string id="st_x18_secret_docks_3">
+	<text>Case пїЅ18</text>
+</string>
+<string id="st_x18_secret_docks_3_descr">
+	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Top Secret' \n S/N 773618</text>
+</string>
+<string id="st_x18_secret_gs67">
+	<text>Secret Weapon</text>
+</string>
+<string id="st_zat_alfa_customer_pda">
+	<text>PDA alfovtsa</text>
+</string>
+<string id="st_zat_alfa_customer_pda_descr">
+	<text>Information from the flash-drive: 'Five of the charges laid in the five points of possible occurrence of an agent of the SBU, the money ready for transfer.'</text>
+</string>
+<string id="st_zat_alfa_performer_bandit_pda">
+	<text>PDA unknown gunman</text>
+</string>
+<string id="st_zat_alfa_performer_bandit_pda_descr">
+	<text>Information from the flash-drive: 'Thank you for the work done, the money will take the forest near our Iron Man'.</text>
+</string>
+<string id="st_zat_danger_parcel">
+	<text>Sending for Kanev</text>
+</string>
+<string id="st_zat_danger_parcel_descr">
+	<text>What Avenger disparagingly called the 'fireworks' really looks like a well-packed charge of C-4 with the detonator. Beneficiary - 'dolgovets' Kanev.</text>
+</string>
+<string id="st_zat_mad_dog_pda">
+	<text>PDA captain Rogozhina</text>
+</string>
+<string id="st_zat_mad_dog_pda_descr">
+	<text>PDA with precious information for the leader of free stalkers - Sword.</text>
+</string>
+<string id="st_zat_medic_antidote">
+	<text>Antidote paramedics</text>
+</string>
+<string id="st_zat_medic_antidote_descr">
+	<text>Making a chiropractor.</text>
+</string>
+<string id="st_zat_postman_parcel">
+	<text>Sending for savers</text>
+</string>
+<string id="st_zat_postman_parcel_descr">
+	<text>According stalker Petka Pechkin, inside is a license fee. Recipient - Markovic saver on Skadovsk.</text>
+</string>
+<string id="st_zat_shakal_weapon">
+	<text>Named 'Ruger GP100'</text>
+</string>
+<string id="st_zat_shakal_weapon_descr">
+	<text>Personal arms. Achieved under the order, the handle flaunts the inscription 'Chapa'.</text>
+</string>
+<string id="st_zat_wisdom_book_1">
+	<text>The book 'Wisdom'</text>
+</string>
+<string id="st_zat_wisdom_book_1_descr">
+	<text>Rare in the area book.</text>
+</string>
+<string id="st_zat_wisdom_book_2">
+	<text>The book 'Wisdom'</text>
+</string>
+<string id="st_zat_wisdom_book_2_descr">
+	<text>Rare in the area book.</text>
+</string>
+<string id="st_zat_wisdom_book_3">
+	<text>The book 'Wisdom'</text>
+</string>
+<string id="st_zat_wisdom_book_3_descr">
+	<text>Rare in the area book.</text>
+</string>
+<string id="stalker_story_1">
+	<text>Climb, so in the hangar. Around pylischa, web - all under the roof; Detectors complete nonsense smack, saying that is not something that anyone around, and as we do not have in nature. Come take a position on the perimeter: Sanya ahead, we cover ... And then - BZDYN! Beams are hefty iron, rusty from the ceiling, as one breaks down - and down! How Sanya dodged, he did not know, and this crap stuck just exactly where he stood. Well, he is dropped and rolled, not on his feet at all, and so let's lying shmalyat! Others, too scared idiots, and went to plant themselves in white light. Here Sanya started yelling something about a creature in the corner. I look - no creature can not see ... Well, let's go, no surgery, and specific such a mess ... bordeler
+o ... We went to these ruins to walk; walked for about five minutes - cautiously so that under these beams no longer find yourself. And nonsense, well, complete nonsense: that one or other of something prividitsya, they come in bursts polrozhka slash in an empty space. And two of them did not lucky one went smooth floors, and suddenly fell into the pit, the failed second door across the back heavier. Well, here we are all bred - are in fact clear that the creature some fun! Kerf psy-defense, in all angles of the gas grenades - well, wait, who will be, and the fingers on the descent. We are waiting, waiting ... And the creature, as it turned out, was a bat or something ... As we all in a heap at the bottom of playing the fool, she currently sat q
+uietly on the ceiling and having fun, bitch ... It came down to us only later, and almost accidentally. Reptile that shattered a couple of beams - half a roof and welled up, directly to us and welled up, four guys in the cake in place ... Here we have it, and get it! How Sanya heard sheburshanie above, so on the machine and gave all - utility fucking jerk! Well here and squeal! We, too, clearly rebounded, given all of the trunks ... Creature sypanula top with such cries, that just lays the ears. Well, here we took the soul: who butt beat, who just walked feet, Sanya, so he took out a knife, so that she pobolnee guts spill ... Commander, of course, all with difficulty, but poottaskival, but it would do this bastard spoons scrape off the floor had ...</text>
+</string>
+<string id="stalker_story_10">
+	<text>Have you heard about the Explorer? The first of stalkers. First Zone began to walk, and is still alive. It is said to hold at any point. Another thing is that to find it problematic - posters pasting the address does not ... And spend too not everyone agrees. Bablosov takes like a lot, but if you found it and arranged, you can be sure - it will take you where to train. That's who would grind. Already he probably saw what was on the radar ...</text>
+</string>
+<string id="stalker_story_10_name">
+	<text>SuperGuide.</text>
+</string>
+<string id="stalker_story_11">
+	<text>Ponty beat and loot to be - are two big differences ... Che thought here for the loot so given? No dick! For only so you only ugly any shavaet stalker or fill up ... I think it is necessary. There must think, and now even better. Quite bulls here long stretch. Not channel it, without the attic if ... In short, this was the case. Three of us with bruises and Tsepoy deceased went through the service yard - road, shorter cut. Look - a deer some scratches. Well, we snykalis. And he goes past us - not to notice. Such fine and pulls the bag - be healthy. And the machine hangs craftily - just what we nashpiguet olives. Well, I Bruise - like, let us touch mozglyaka Che he there? And I told him: 'Quiet, woodpecker! Better watch where he pulls his loot '. Well Th ... Here deer as failed somewhere - we do not even understand. Well, wait. He got twenty minutes. While standing-shake, flail behind him quietly approached and poltykvy of trellis demolished. They started with a black body gut: Armor on it was cool, and Lopatnic should be ... I cast departed - my boys always give me, I share in the life. Here as heranпїЅt! .. In short, the terpenes was not easy: he chyo tricky twists, so that exploded when he Armor with someone will shoot. I dumped ottudova-quick - very few people right now on the shot and explosion Godmother ... Came a month. From Flails with bruises and deer - though bone. In general, the zeros. In short, I figured, where he dived into the ruins, and he climbed up there ... Well, passed three rooms - beggar! Then look in the corner of a bunch of beds in bulk. What the dick there are so many sunbeds? In short, took a rake. RazgrпїЅb. I look - my mother woman hatch! Lift, then cover the candle lantern. пїЅperesete! I'm in heaven! .. Well, Che was there - my business ... for nothing is left. A hung ears b - would have long ago become blind man's buff, or are still running barefoot, cormorants ... some ...</text>
+</string>
+<string id="stalker_story_11_name">
+	<text>Hatch in paradise.</text>
+</string>
+<string id="stalker_story_12">
+	<text>They say that there is one group of friends ... Their shamans when called, and when druids. They say even with an electronic equipment are not - the nature of, say, closer, and so on ... Well, they say that the area for electronics ... all sorts of electromagnetic radiation to react strongly ... yes, and monsters inciting to you. As it turns out in their language, so area - a living organism. It is impossible, they say, to go into it with the devices - the right person, and without any extra batches of handle. However, they are machines, goats, drag ... No tooth and nail to try ... On the other hand, they are killed in Zone seems to be not so much. We are no more fins glued ... So it may correctly guessed ... They are, however, more like the Belarusian side in the Zone go ... And then it would be good to look at them ... but at the same time to test how much they have artifacts on the pocket usual ...</text>
+</string>
+<string id="stalker_story_12_name">
+	<text>The story is about fighting Druids.</text>
+</string>
+<string id="stalker_story_13">
+	<text>One thread can knows about the secret laboratory deep in the Zone? .. They are like both still work ... Well, yes, yes ... It is unclear as there is generally someone could survive ... without supplies, energy ... Here and the question arises - and maybe there are not any people work? I've talked with Tipko one ... He did not see the laboratory ... ... No, I do not see it, but talks on the scanner caught some strange on the 'Amber'. They are some of the laboratory it was. And the other guy that, first, swore that he came across as a figure on a outfit stalkerovskogo type, but more like a fancy ... And as this figure is translucent told him that was falling away from here. 'Do not bother, they say, go away, we're working. ' Well, the guy peresralis ... of course! Who of us had seen this? .. On the other hand, it seems to happen near the radar ... Well, you know ... Well, yes. So it is hardly true ... But on the other hand ... mutations, because they are different, probably happen? Maybe it is not people, and some energy entity? Huh? .. Come on, you Th ... Hardly that, once neigh ...</text>
+</string>
+<string id="stalker_story_13_name">
+	<text>The shadow of a ghost.</text>
+</string>
+<string id="stalker_story_14">
+	<text>You know what I say? In this part of the Zone is almost impossible to sleep ... I'm a lucky, and so I can not sleep ... and the people are nightmares happen, it happens, and do not wake up in the morning ... of a heart attack, for example ... Who horses moves and who rips the roof concrete ... Recently, however, the rumor went, that is the means. If you strongly feel an urge to sleep, it is desirable to find a bucket of old ... or at least a large pot ... digesting there ... The main thing is ... the whole head back tuck - and sleep himself as God in the bosom ... Well, laugh, laugh. I'll see you in a couple of days when fatigue from start to fall down. Clever ... But do tell, what, then, horseradish, warriors here recently begun to roam helmets clever? Well, yes! Previously, two years so as nothing has been heard, and recently frequented! Helmets have some new - guys one body found was told. The grid is inside of a thin copper wire, to the liner sticky. Think about it - what a harness on what for she? In general, it 'w-w-w' ulterior motive, just telling you. Of the anomalies to choose there is nothing special - not the land, and in other parts of pobezopasnee, fatter and more pieces there ... I think, they are scheduled approaches. Bridgehead prepared. The sarcophagus want to break, mark my word. Soon so figanпїЅt - anyone not find it. Remember my word ... The main thing is to you and me away from here at that time to be ...</text>
+</string>
+<string id="stalker_story_14_name">
+	<text>Nightmare without a bucket.</text>
+</string>
+<string id="stalker_story_15">
+	<text>Slyshte, guys, and you're on 'interception' of something as it should know? Well it's, say, spetsaki, human warriors! But how they work, eh ?! How to work! It's not an asshole at the cordons! Not only that, in most zazhope climb, so more and sit in the Zone for months! Yes, I do not drive! Databases have several pieces at once, caches to figischa and to the perimeter of them quartered turntables supplies throw up. Their commander Gromov some ... I think the name of bullshit, fake - they did it 'Major', the 'Thunder' name. Do not believe me ?! So Pahomych interception somehow caught! Caught - and let God feet, but it would be great for shpoknuli live ... secrecy, so it! Pahomych something everyone knows? Well, that's just it! Not this bullshit, and serious team. Fuck knows what they then draw this interesting, but they work - my mother dear! I would be in a third - no, ten percent would be so! - Already have a house in Sochah ten floors would build ... They say there is such a thing ... Monster for two hundred meters to pinpoint. Any creature! Clear horseradish, then the Zone go-poplпїЅvyvat ... And yet, they say, there are some figures ... not warriors, and sort of our ... In general, some made their way to the Zone center. Not only that made their way - they say, and know how to tame the beasts! They are generally beyond the perimeter, on the mainland, do not go - and they, too, has ... well, except, perhaps, to get someone to the sarcophagus destined artifacts ... I have - even wipe! 'Dolgovtsy' some of them are well aware ... know, you bastards, fight - and are silent! Ask any of these policemen: 'Tales' - says. Well, not a bitch, well ?!</text>
+</string>
+<string id="stalker_story_15_name">
+	<text>Interception - Denizens of the Deep.</text>
+</string>
+<string id="stalker_story_16">
+	<text>Brethren, you have heard that recently some bad getting to the antenna? Monolith has sent us, and in time the brothers noticed. One we destroyed immediately. Two others fled. Underpants. All of them are cowards. Only true faith leaves no room for fear! Two were able to escape, but Monolith wise and all-knowing. Hence, they need him alive.</text>
+</string>
+<string id="stalker_story_16_name">
+	<text>About undermine the antennas</text>
+</string>
+<string id="stalker_story_17">
+	<text>Brothers Monolith called me at night. I talked to him. It was beautiful in its greatness. I almost went blind, but his light filled me with great force! I know I feel that its power resides with all of us! He told me that he is able to defeat the evil only firm faith. He said that his strength will fill only the faithful. He also revealed to me that our victory is near!</text>
+</string>
+<string id="stalker_story_17_name">
+	<text>About Monolith in a dream.</text>
+</string>
+<string id="stalker_story_18">
+	<text>I think that ... I do not what I think - well, I estimate ... And suddenly everything - that's all that there is, - what an experiment on human beings? This mozhbyt, any green men ... And what? No worse than other version ... interesting to me if it's something like a landfill, what they run in here? Check for whatever artifacts we most drool start up? Or is it all a bomb something, eh? Porastaschili them around the world, in every laboratories, rich poraskoshelilis ... Well, no, that's cool! .. Here it would be my pleasure! .. Bought covertly some crap ... took away a lot of dough ... Like 'us steeper all ', envy, sheep ... and it ... it ... ka-ak heranпїЅt! .. Oh, class! .. Oh, I can not! .. Oh ... Phew-f ... In general, of course, FIG knows that really ... Is the one who went for the radar can porasskazat about that ... Well, yes, they, can, and know just can not say - moo and drooling allowed. Maybe because just let ... Oh ... That climb all sorts of thoughts ... not much fun it all ...</text>
+</string>
+<string id="stalker_story_18_name">
+	<text>Test of faith.</text>
+</string>
+<string id="stalker_story_19">
+	<text>I was in the Dark Valley. There's a lot wrong, because the power of the Monolith has not yet reached these places. We guarded. At night we were attacked. We fought fiercely with these animals. Merit brothers were great: Monolith soon called them to him. For me, he prepared another test. My weapon is not fired. But here Monolith told me: 'You are with me, and my strength - with you. If you will be steadfast in their faith, the dash of my enemies, and came up to me! '. Then I became a shadow. I ducked and walked them right. Silly spies did not notice anything. They thought that did away with us and laughed at the empty bodies of our brothers. But I've seen them back. And then out of my hands hit the power of the Monolith. So he killed them all. I am happy to serve you at all! ..</text>
+</string>
+<string id="stalker_story_19_name">
+	<text>About the fight in the dark valley</text>
+</string>
+<string id="stalker_story_1_name">
+	<text>About critters in the hangar.</text>
+</string>
+<string id="stalker_story_2">
+	<text>We partner with this SRI long been eyeing. Painfully place deserted. Or beast in the county or mutants. But who would go there or gone, or frightened vusmert with coils move out back, or do not see them anymore. Have decided to scout out slowly. We left before dawn, and how to get to places already beginning to dawn. Leave your car in raspadochke, went to the edge of the forest. There stopped partner stayed at the bottom, and I climbed a tree with optics - look what's going on in the neighborhood. I see - housing, and not so very much neglected, the whole glass almost everything in the yards of grass a little bit, not like in other places - to the waist ... all outputs that live here, but the sheer silence and no movement. Suddenly struck just the right turn - someone with a machine gun beat shor
+t. I optics there. See on the roof of one of the buildings of an unknown man hunted like a rat tossing and shooting indiscriminately in all directions. As someone - look and I can not understand, he was there alone. And here ... started ... I saw everything clearly. Automatic out of his hands flew by itself ... As the wings of the glands grown! .. The man opened his mouth, apparently, shouted something, took out a knife and put it in front of him. And then - tree-winder! - Look, and before him by itself hangs another. That's how the air sting him and hangs and does not keep his no. What happened next - this is not the night to talk ... about five minutes that guy cut. Little by little, so females, their mother's leg - there is a cut, then prick ... Poor guy will soon have been covered in blood 
+... Then, as he was already in his legs began to totter, it also knocked the knife; here as a man lift into the air as zavernпїЅt a couple of times ... I like that in my life seen - naturally, as I rag spits ... three seconds became wet ... Then ... No, it's not going to ... Well, as I caught his breath, another five minutes fumbling sight in the area. Hands trembling, optics became wet with sweat ... Well, at least one thing! And in the normal range and infakrasnom - no-thing. As I have tears partner looked at me, and changed my mind to ask. What returned to base, I week before kicking the eyebrows, do not Doctor. ... Then how sensitive departed, our porassprashivat - maybe someone heard something about this? Only people glancing at me askance began - an hour, did not move it? There you have it ...</text>
+</string>
+<string id="stalker_story_20">
+	<text>Brethren, we patrolled the outskirts of the Black Forest and ran there for the wrong-alone. He began to handle, so we did not kill him, but he still remained in his half-animal state ... I know a wise Monolith did it for all of us: he again showed us the true face of their enemies. Now our faith is strengthened even more! Nearing, brothers! .. Nearing victory over the infidels, and then Monolith fulfill our heart's desire! A true devotee, he surrounded himself, to his glory, his greatness! We always abide in the glow of it! ..</text>
+</string>
+<string id="stalker_story_20_name">
+	<text>The transformation in the Black Forest</text>
+</string>
+<string id="stalker_story_2_name">
+	<text>Horror at the Research Institute.</text>
+</string>
+<string id="stalker_story_3">
+	<text>In general, this is what my druzhban said. Pick it up, in short, middle of the night authorities - such as jogging in the laboratory, the goods arrived. He is sleepy, not cut: a load? They told him: you che, the treasury drunk alcohol? Trupakov fresh on the table, dinner is served! In short, he comes, and to the table. And there is ... He's on the move, blind man's buff from Zone in my lifetime seen: and you broke, and fried, boiled, and mutants caught more than a dozen, and then type in the stomach dinner walk began. In short, at first sight - two minutes to man only Bosko the normal guys are like: such a healthy pumpkin bumpy. Well, the body - a concentration camp, a dam
+n, Pellicle.and bones. But he is then to understand, and at the beginning, says, look, mash some: It's the wrong way round, orange-red smeared dirty trick - blood type ... These Honduras ammunition not regret it. Pre-olg ... search anomalous objects, damn ... damn yourself search! .. It was said to be a cross between a colander and torn ... warmer ... and in general they are clearly on it in their jackboots walked well; no object, damn, and a piece of meat in black rags. In short, it is the rest of the night and half the morning humpback. Along the way, it turns out, this is the same thing that local Ghostist known for: black cloth vision in stalkпїЅrov, Bosko meter in gir
+th ... Cool that he had for the person who has seen, felt - a type of benevolent. No, a person something he naturally is, only very small: winkers do not open and nose as a pin, although the jaws - a hefty, right jamb of the gate. Walks, visible, and hung his head on his chest - no forces to keep exactly ... mozglyak ... And think for what these creatures eat for lunch. Fungi! Mushrooms! In short, all kinds - Zone full of mushrooms, so 'old' tooth given that these creatures juice from them tight. Gourmands, a damn ... And you know what in his bag at his side was hidden away? Well? But where you! In short, the brains there had been cured. Do you know whose? Kontrollerskie! ..</text>
+</string>
+<string id="stalker_story_3_name">
+	<text>Dinner pathologist.</text>
+</string>
+<string id="stalker_story_4">
+	<text>Profit was to us here Durikov one ... Chesham, then, Pellicles for five minutes to rest, and he immediately on the fifth point - and relaxes. And how to go - so it's ass off the ground last tears. Well ... dorasslablyalsya behind, and there his controller - the brains behind the DAC! - And you're done. Who are new in this business, a memorable one. The rustle of the breeze there or some suspicious ... Let him run through ... although bunny bunnies here - God forbid ... In a word, ready every moment you have to be. To shops and hand grenades and machine on continuously. If we saw that, once planted polrozhka; If the bushes something - too Lupi, and then ask. Here basic training is: not hung clothes and guts will eat, do not have time to fart! Yes, on the controller - another story. Suppose you had shot at rustling - and falls immediately in the same second! Though on the back, as though. The controller touches, if he sees you - focus he needs something. While sunbathing in the shade, listen to both ears - whether rustling, goes there any stuff to you. You can shop quietly pereschпїЅlknut, and also it is useful to cook grenades ... In general, if all quiet, and counting to three ... And valish! Valish go to hell! Well that sucked? Oh, salazhata ... Himself Cherish every second - the only way to survive here and can ...</text>
+</string>
+<string id="stalker_story_4_name">
+	<text>Easy prey controller</text>
+</string>
+<string id="stalker_story_5">
+	<text>I think that ... I do not what I think - well, I estimate ... And suddenly everything - that's all that there is, - what an experiment on human beings? This mozhbyt, any green men ... And what? No worse than other version ... interesting to me if it's something like a landfill, what they run in here? Check for whatever artifacts we most drool start up? Or is it all a bomb something, eh? Porastaschili them around the world, in every laboratories, rich poraskoshelilis ... Well, no, that's cool! .. Here it would be my pleasure! .. Bought covertly some crap ... took away a lot of dough ... Like 'us steeper all ', envy, sheep ... and it ... it ... ka-ak heranпїЅt! .. Oh, class! .. Oh, I can not! .. Oh ... Phew-f ... In general, of course, FIG knows that really ... Is the one who went for the radar can porasskazat about that ... Well, yes, they, can, and know just can not say - moo and drooling allowed. Maybe because just let ... Oh ... That climb all sorts of thoughts ... not much fun it all ...</text>
+</string>
+<string id="stalker_story_5_name">
+	<text>Pitfalls</text>
+</string>
+<string id="stalker_story_6">
+	<text>So ... I remember someone me yesterday about something ask, and I forgot ... And, remember. There is, therefore, curious, why in the Zone only our eggheads swarming, and foreigners and nose do not seem, though here the material nobelevok thousand three ... So, I answer the points. Firstly, why should climb by here when we can give our grant, but with such conditions that he do all that is necessary, he will bring on a silver platter? But if the second, they actually visited here, and in large quantities. These are the last two years zabugortsy Zone afraid to climb ... happened to them one big bummer. Now only buy materials yeah information. Generally pay well, so a lot of individuals are working on them, and looters too ... What, never heard about this story? Well, give! The whole area was on the ears, and as you fall from the skies. In general, there was a big zabroska. Some scholars thirty people from half the world ... all the luminaries, of course, here a
+nd there ... Done seriously: money charged - even eat one place, the equipment - the mountain. We took a platoon of military experts for protection of our three Guides, shielded armored personnel carriers on submerged and sailed away. What's that ... Returned a week ... twelve people killed in the trash on armored personnel carriers. By the thorn out at Rotten wood, and there they were waiting ... marauders ... Yes ... That do not care where people broke ... Put almost everyone. The perimeter of only three to choose - and one of our two egghead. The man from the impressions powerfully moved attic ... Well, it quickly by the collar - and treat. He is now writing a book about the Zone. Our anything else - the experience helped. Although ... also, perhaps, in their own way have moved one went to the radar and was lost, and the second to the mainland moved. But others took Zone. About Town-thirty-two heard? That's where they were. At first everything seems quie
+t it was ... well, within ... They're shooting-measured, samples were collected in the anomaly devices poked ... And then they started insanity. Mass. People began to slowly ride roof. I ours - one that went into retirement - told ... Who throat began to tear his nails, who currently head smashed against a wall, and who is just - the barrel in his mouth and ... And then there's the beasts flooded. Who himself was barricaded in a house. Provided, huh? Outside the night and all surrounding creatures, and people inside the reel fly off one by one. In short, in the morning, those who are still to think he could somehow escaped. Back drove straight without roads; even a couple of anomalies hooked ... We got to the rotten woods ... And of those who have stayed there, no one was never found. Guys only say that in those places has increased dramatically controllers. Yes ... That's since a town-thirty-two, no one pokes, and the alien into the Zone Nothing will tempt ...</text>
+</string>
+<string id="stalker_story_6_name">
+	<text>Chronicles of eggheads globalists.</text>
+</string>
+<string id="stalker_story_7">
+	<text>So that's what I wanted to say something. When the 'Duty' that took the Ghost, I'll close was! Yes, I accidentally do in those places proved! In my car, y 'Nivy' something from my own, right front flew: the bolts on the mound cut. And for parts complete zero. Pomateritsya as I should, and then give, I think, I'll go to the factory, pick up dates. Well, there was a kilometer to go, back and forth - for half an hour delov! Yes, and I've been there before ... Suddenly I see - 'long'! And not just patrol, and pieces of rug! Well, I thought, damn, compote! .. How was so into the bushes and fell. 'If the notice and begin to comb - I think - and here I tryndets'. ZalпїЅg, in sh
+ort, in the hole, and try not to breathe. And then shooting! To such bursts shmalyaet, I once heard in my life ... when they took first base - the elderly, remember? In general, lie, listen to both ears ... It is currently Bach, and then another, and how grohnet! .. After about five minutes, and subsides to me like no one goes. Well, I got up the nerve to, got up and sympathetic look through binoculars. And they quickly pulled out of the shop ... mashed such blind man's buff for a bunch of their drag and Ghosts on the canvas ... lumps already one of the Ghosts were dragged in ... loschinku. Then I heard - the engines roared, and the sound was gone. I still waited - l
+ike anyone. I am inside. Well, it is clear that after the 'long' what the hell will find! But it is interesting then! Et something, I'll tell you, it was something! The walls are almost through podyryavili. Beams lying across the floor, a piece of the roof collapsed. Shells on knee - natural range. Krovischa, lumps of some ... useful, however, did not find anything - so full two horns, but the machine was lying, pinned beam, do not pull out ... About the bolts I, of course, forgot to think ... Returned to the wheelbarrow, five thought minutes, removed the bolt on with the rest of the wheels ... and drove slowly ... And leave me there for half an hour before ... Hmm ...</text>
+</string>
+<string id="stalker_story_7_name">
+	<text>The Ghost of debt.</text>
+</string>
+<string id="stalker_story_8">
+	<text>Yes, I was right up to the edge of Pripyat reached. Well, first of all, and decided to look around. And found a higher point - there was a large boiler to the chimney. Well, went neatly ... like, look like chiki-peaks all - the dust lies, no traces ... climbed and crawled into the furnace: there were stairs inside the pipe. Normal climb even Nagar has not spoiled - petrified ... cautiously sticking my neck out ... Beauty! Half of the city at a glance! Pulled out the binoculars and look around ... (short pause) Well, then ... already collected, then slide down, and then slips thought: what's going on under his nose, and looked! Bend a little over the edge, look at one side, then the other ... Wow! That's got to! According to the courtyard dwarf walks! The main thing, I'm down almost reached! And it's okay, he does not see me. Only the tower, I can not carry him: 'Kalashnikov. hanging on the back and a narrow tube at all, do not turn around. From 'Makarov', which under his arm - shit thing there about fifty meters, but the height difference ... well, i
+f not make it right - and yet not make it - then just kerdyk. Sit, meditate. Well, look at the same time, what he was doing there. And he does something strange. First bodrenko so with a twinkle, rummaging through a pile of trash - just pieces scattered right and left. And then suddenly stood and froze. Like listening. Well, there is quite a mess began. Rubbish heap in that he was the move. Dwarf jumped quickly became that way a column, put his hands to his head, palms somehow cleverly twisted ... and it ka-ak will fly! From all sides! .. Lronburg, bricks, roofing material, branches ... Its just the head and covered. Well, I think everything. Kick kitten, more piss will not ... Those guys! Two seconds trash this lay, and then just ka-ak falls upon all sides! There were scraps of pipes, so they are right in the concrete fence povtykat. Charles stood still for half a minute, pokumekat yourself something, and then turned around and stomped into the building. I'm still a moment to translate the spirit. 'Well - I think - enough is enough, it's time to t
+hrow away. ' Suddenly smoke was drawn. And then bake it became. Yes, you go into a stump! Fire someone threw the bottom! After a minute - all have nothing to breathe. Somehow rowed at the edge of the pipe - there is no playground, sitting, legs swung ... Only smoke still eats his eyes, the air is not enough ... well, blame must urgently! Thank God, I am with you always Repshnur forty feet dragged on the safe side in case ... exactly what the fire ... In general, I folded it in half - it was not very thick - at the very least on the pipe fixed, shawl neck ripped in half, on Bespalko wound top, and climbed, praying to all the gods ... In my head one thought: would not only break! No insurance, personal, power cuts palm ... And, of course, the law of meanness about five meters to the ground, it was not enough. Segal had. What to do? Oh, and I roared! Lucky, though not break anything ... But ragged right leg and pulled - be healthy! Then he thought that all torn ligament. And then pulled out so that the gold medal in the women probably would have won ...</text>
+</string>
+<string id="stalker_story_8_name">
+	<text>Gray in Pripyat.</text>
+</string>
+<string id="stalker_story_9">
+	<text>And I did not believe my eyes. Here, it would seem, there is a beautiful girl, huh? But this was ... it ... Perfection. Yes I Am. Here. Perfection. Such was the feeling that the world around her in black and white and blurred, it is only in one color and sharpness. As she moved! I, too, this had never seen before. I have a lump in my throat already got. Well, she gave this science! What it here in the Zone, do? .. Well, yes, in the Zone. By the evening it was ... at the bus station there nine-private. First, something in the window on the first floor flashed. I 'Kalashnikov. fast with the fuse removed, and then look - out of the door ... I wanted to rub my eyes - you never know what you can expect from the Zone? And it fits. And I'm like a fool, eyes ... machine, however, keep at the ready - a habit already ... Then she noticed me ... smiled ... say hello ... And I listen and hear everything at her watch. It was in blue overalls, so bright ... but not balahonistom and almost fits ... The figure she - something fantastic! It was only then I realized that I do not listen at all, she says - standing and smiling from ear to ear ... It turns out, of the research team was. She asked me if I had the opportunity to help her. Her! Yes, I would anomaly reached for her! .. She said that she is dealing with these, as they are ... endemic zones. Well plants that are found only here. She said that she ran off guard, because with them no freedom of action is not, and has come here alone. I do not know. I believe it. Agreed to help - to drag her something. Two days later came as agreed. Five times almost covered, until collected. Go, but his mind one thought: now I see her again! And nothing. I even at home where it met, did not see. So ... But what she was! She also direct light from the inside ...</text>
+</string>
+<string id="stalker_story_9_name">
+	<text>Men's loneliness.</text>
+</string>
+<string id="val_b2_trader_name">
+	<text>Kapitoshkin</text>
+</string>
+<string id="val_dolg_spez_quad_3_name">
+	<text>Savchuk</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_7">
+	<text>Next to you is targeted Kolmogorov. You just Shall I live to their checkpoint.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_44">
+	<text>No, yah them, these svobodovtsev - let them shit in his last Kolupaev.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_00">
+	<text>Wow, Major. See you executed agreement. Commendable. documents from the former base svobodovskoy found?</text>
+</string>
+<string id="zat_homsa_find_quest_1_text0">
+	<text>Check stalkersky parking around the warehouse containers.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text0">
+	<text>Gaunt has asked you to find the missing stalkers group led by Guide Homs. Before transgress to seek collect additional information about the inhabitants of Homs camp.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text1">
+	<text>Skadovska inhabitants were able to call you three possible points where the group could appear Homs. Check them all.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text10">
+	<text>Report to Gont the results of its 'closed' investigation.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text2">
+	<text>Report to Gont on the search results and decide what to do next.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text3">
+	<text>Stalkers of Homs group made contact with the inhabitants Skadovska. The situation with their disappearance became clearer. Wait until they are re-entering the bond ...</text>
+</string>
+<string id="zat_homsa_find_quest_main_text4">
+	<text>Ask the Gonty what he was told rassvetovtsy missing.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text5">
+	<text>Gont failed to communicate with the detachment of Dawn. Became known very strange facts about the fate of the Guide. Talk to rassvetovtsem to find out the truth.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text6">
+	<text>The matter has become very unexpected turn. Provide assistance to stalkers, to be able to conduct further investigations. Dawn squad leader must stay alive.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text7">
+	<text>Did not become clear until the end of what you are looking for rassvetovtsy Creek, but it looks like their squad butted into trouble. Help stalkers fight off spawn zones.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text8">
+	<text>Rassvetovtsy you managed to download the frequency PDA Homs. Find this pseudo-Guide.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text9">
+	<text>Homs, so long pretending simple Guide was closed employee syndicate. He refused to cooperate. Kill him.</text>
+</string>
+<string id="zat_killer_shakal_dialog_20">
+	<text>Well, bastard, hold on ...</text>
+</string>
+<string id="zat_killer_spez_1_text0">
+	<text>In order to assist in the resolution of debt possible conflict, it is necessary to implicate in this adventure of Freedom stalkers. Convince Loki send a detachment of people for possible sabotage against the debt.</text>
+</string>
+<string id="zat_killer_spez_1_text1">
+	<text>You must wait until the agreed date of commencement of the special operetsii. Prepare for her during this time.</text>
+</string>
+<string id="zat_killer_spez_1_text2">
+	<text>The decision to help debt okanchatelno. Instead of joint action against debt, kill svobodovskih saboteurs.</text>
+</string>
+<string id="zat_killer_spez_1_text3">
+	<text>Shulgi came from an unexpected message. Detachment of his soldiers who were guarding the scientists - are not contacted. Find out what happened ...</text>
+</string>
+<string id="zat_killer_spez_1_text4">
+	<text>Dolgovtsev with scientists died. Nearby lies a wounded mercenary thrown comrades die. Find out from him what could happen.</text>
+</string>
+<string id="zat_killer_spez_1_text5">
+	<text>Blue deceived you and used in their korostnyh purposes. Now Duty and Freedom will assume that you rigged this whole adventure. Kill the wounded and decide that it is possible to take in such a difficult situation ...</text>
+</string>
+<string id="zat_killer_spez_1_text6">
+	<text>Talk with hatchets and decide how you do - to deal with mercenaries or return neutrality other clans.</text>
+</string>
+<string id="zat_killer_spez_1_text7">
+	<text>Convince svobodovskogo leader in his 'innocence' in the incident.</text>
+</string>
+<string id="zat_killer_spez_1_text8">
+	<text>Convince dolgovtsev leader in his innocence and lack of communication with the mercenaries ...</text>
+</string>
+<string id="zat_killer_spez_2_text0">
+	<text>In order to 'help' Freedom in brewing adventure Shulga need to convince of the need to transfer a group of his fighters suit you instructions related to changes in the possible route of promotion on the Creek.</text>
+</string>
+<string id="zat_killer_spez_2_text1">
+	<text>Group svobodovskih saboteurs sent to the Creek. Wait for their arrival.</text>
+</string>
+<string id="zat_killer_spez_2_text2">
+	<text>Speak with the commander of the detachment svobodovskogo upcoming operation.</text>
+</string>
+<string id="zat_killer_spez_2_text3">
+	<text>Prepare to wait for group of scientists and a detachment of Duty, occupy a favorable position ...</text>
+</string>
+<string id="zat_killer_spez_2_text4">
+	<text>Destroy all the scientists and their accompanying dolgovtsev.</text>
+</string>
+<string id="zat_killer_spez_2_text5">
+	<text>Take next to the dead body of Georgian scientists with valuable information.</text>
+</string>
+<string id="zat_killer_spez_2_text6">
+	<text>Mercenaries were instructed to carry out sabotage directed against both clans. Therefore destroy and svobodovtsev too.</text>
+</string>
+<string id="zat_killer_spez_2_text7">
+	<text>Mercenaries sent his man kontroliravshego operation ... We need to discuss with him further action.</text>
+</string>
+<string id="zat_killer_spez_2_text8">
+	<text>Follow Dolgovskaya to colonel and became convinced of his innocence in the incident. Thus it will be possible to preserve the neutrality of the debt.</text>
+</string>
+<string id="zat_killer_spez_2_text9">
+	<text>Follow the leader of Svoboda and make sure its nothing to do with what has happened. It is thus possible to preserve neutrality with freedom.</text>
+</string>
+<string id="zat_killer_spez_2_title1">
+	<text>Secret opposition: wait until Svoboda sent his men to Zaton.</text>
+</string>
+<string id="zat_killer_spez_2_title2">
+	<text>Secret opposition: meet with the leader of Svoboda.</text>
+</string>
+<string id="zat_killer_spez_2_title8">
+	<text>Secret opposition: Shulga convince his innocence in the attack.</text>
+</string>
+<string id="zat_killer_spez_2_title9">
+	<text>Secret opposition: convince Loki in his innocence in the death squad svobodovskogo ...</text>
+</string>
+<string id="zat_killer_spez_operation_text0">
+	<text>Mercenaries plotting against a very dangerous adventure Duty and Freedom. You also assigned to it almost the main role. Decide how you do - take the side of Duty, or their opponents.</text>
+</string>
+<string id="zat_rasvet_quest_homsa_leader_name">
+	<text>Shipachev</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_3_5">
+	<text>I have no artifacts.</text>
+</string>
+<string id="zat_stalker_trader_dialog_38">
+	<text>'OC-33 Pernach'</text>
+</string>
+<string id="zat_sultan_kontr_text0">
+	<text>Sultan has asked you to conduct a special investigation to find and deceived his man by the name of Yakutia. First we need to get all possible information about Yakutia in svobodovskogo 'Informant' Bagheera.</text>
+</string>
+<string id="zat_sultan_kontr_text1">
+	<text>Bagir said that Yakut was caught Lucian - a bandit gang of Chapayev on the Creek. Go there and check the veracity of the Informant.</text>
+</string>
+<string id="zat_sultan_kontr_text2">
+	<text>Lucian promised to go on a possible compromise between the maturing konfrantatsii bandit clans, only if you manage to extract from Yakutia information on stolen documents. Get them in a hostage.</text>
+</string>
+<string id="zat_sultan_kontr_text3">
+	<text>Yakut split. But anyway it is no longer a save. Wait until it's over and start hunting for caches.</text>
+</string>
+<string id="zat_sultan_kontr_text4">
+	<text>Yakut before death raskazal you about all the stolen documents Sultan that he had hidden in the recesses on the Creek and Jupiter. We'll have to find them according to a tip as he said: '... three .podavites cache. Creek on two: at the station waste recycling and close to BIS in the sewer ... and Yanov on career ... ... in iron. .kr .. '</text>
+</string>
+<string id="zat_sultan_kontr_text5">
+	<text>All documents Sultan you. Decide what side to take bandit: Sultan or Lucian.</text>
+</string>
+<string id="zat_sultan_kontr_text_1_0">
+	<text>You gave the documents with all the information on the smuggling of Lucian. Now you must come up with a suitable excuse for the Sultan. Try all the blame on svobodovskogo Informant Bagheera.</text>
+</string>
+<string id="zat_sultan_kontr_text_1_1">
+	<text>Loki believed duplicity stalker Bagheera and gave its tacit consent to his removal. Kill svobodovtsev.</text>
+</string>
+<string id="zat_sultan_kontr_text_1_2">
+	<text>Follow Sultan and to shift the blame on to his job pravalu Informant Bagheera.</text>
+</string>
+<string id="zat_sultan_kontr_text_2_0">
+	<text>All documents are returned to the customer. Now Sultan instructed you to deal with a competitor in the smuggling - Lucian. According to data received from Bagheera Lucian must soon leave the base and go to Jupiter. Wait until it arrives.</text>
+</string>
+<string id="zat_sultan_kontr_text_2_1">
+	<text>Eliminate competitors Sultan.</text>
+</string>
+<string id="zat_sultan_kontr_text_2_2">
+	<text>Lucian destroyed. Go back to the customer for a reward.</text>
+</string>
+<string id="zat_wounded_monolith_dialog_1">
+	<text>...</text>
+</string>
+<string id="zat_wounded_monolith_dialog_18">
+	<text>Good.</text>
+</string>
+<string id="zat_wounded_monolith_dialog_2">
+	<text>...</text>
+</string>

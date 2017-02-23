@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string id="st_level_change_to_zaton">
+	<text>On the Creek</text>
+</string>
+<string id="st_level_change_to_jupiter">
+	<text>Jupiter</text>
+</string>
+<string id="st_level_change_to_underground">
+	<text>On Overpass</text>
+</string>
+<string id="st_level_change_to_prypiat">
+	<text>Pripyat</text>
+</string>
+<string id="st_level_change_to_darkvalley">
+	<text>The Dark Valley</text>
+</string>
+<string id="st_level_change_to_x18">
+	<text>On X18</text>
+</string>
+<string id="st_level_change_to_military">
+	<text>At military depots</text>
+</string>
+<string id="st_level_change_to_agroprom">
+	<text>On Agriculture</text>
+</string>
+<string id="st_level_change_to_agroprom_underground">
+	<text>In dungeons Agroproma</text>
+</string>
+<string id="st_level_change_to_escape">
+	<text>On Cordon</text>
+</string>
+<string id="st_level_change_to_marsh">
+	<text>In the swamp</text>
+</string>
+<string id="st_level_change_to_red_forest">
+	<text>In the Red Forest</text>
+</string>
+<string id="st_minetrap_name">
+	<text>Booby trap</text>
+</string>
+<string id="st_mine_field_name">
+	<text>Mine</text>
+</string>
+<string id="st_bodyguard_name">
+	<text>Bodyguard</text>
+</string>
+<string id="st_bankir_name">
+	<text>Saver</text>
+</string>
+<string id="st_captured_monster_name">
+	<text>Recruited mutant</text>
+</string>
+<string id="st_trader_name">
+	<text>Middle range</text>
+</string>
+<string id="st_trader_up_name">
+	<text>A wide range of</text>
+</string>
+<string id="st_breeder_name">
+	<text>The breeder</text>
+</string>
+<string id="st_employer_name">
+	<text>Employer</text>
+</string>
+<string id="st_informer_name">
+	<text>Informant</text>
+</string>
+<string id="st_base_boss_name">
+	<text>Commander in Chief</text>
+</string>
+<string id="st_main_npc_name">
+	<text>Quest characters</text>
+</string>
+<string id="st_base_treasure_name">
+	<text>possessions groups</text>
+</string>
+<string id="st_personal_marker_name">
+	<text>Beacon</text>
+</string>
+<string id="st_treasure_rukzak_name">
+	<text>'Personal rucksack'</text>
+</string>
+<string id="st_generic_af">
+	<text>'Artifact'</text>
+</string>
+<string id="st_taynik_name">
+	<text>Stash SGM</text>
+</string>
+<string id="st_rasvet_base_name">
+	<text>Base groups 'Dawn'</text>
+</string>
+<string id="st_killer_base_name">
+	<text>Base groups 'Mercenaries'</text>
+</string>
+<string id="st_simply_instruments_name">
+	<text>'Tool kit'</text>
+</string>
+<string id="st_military_instruments_name">
+	<text>'The military instruments'</text>
+</string>
+<string id="st_monster_spot_name">
+	<text>Mutant</text>
+</string>
+<string id="st_renegade_squad_spot_name">
+	<text>Detachment of the Renegades</text>
+</string>
+<string id="st_bubble_spot_name">
+	<text>Spatial anomaly</text>
+</string>
+<string id="st_help_point_spot_name">
+	<text>Hint</text>
+</string>
+<string id="st_demolution_charge_spot_name">
+	<text>Explosive</text>
+</string>

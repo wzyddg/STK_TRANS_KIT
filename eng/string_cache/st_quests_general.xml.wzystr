@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string_table>
+<string id="hide_from_surge_message">
+	<text>Attention! Emission starts in:</text>
+</string>
+<string id="hide_from_surge_descr_1_a">
+	<text>You must run to the nearest cover immediately and hide from the emission.</text>
+</string>
+<string id="hide_from_surge_descr_2_a">
+	<text>You must not leave cover during an emission.</text>
+</string>
+<string id="hide_from_surge_name_1">
+	<text>Emission: find cover</text>
+</string>
+<string id="hide_from_surge_name_2">
+	<text>Emission: wait in cover</text>
+</string>
+<string id="val_lucas_mistery_quest_title0">
+	<text>The riddle of the Past: Meet with svobodovskim agent.</text>
+</string>
+<string id="val_lucas_mistery_quest_text0">
+	<text>Deputy. The Night Stalker leader Kolmogorov hired you to help group Liberty. Go to that place to meet with their agent.</text>
+</string>
+<string id="val_lucas_mistery_quest_title1">
+	<text>The riddle of the Past: lock signal to indulge installed antennas.</text>
+</string>
+<string id="val_lucas_mistery_quest_text1">
+	<text>Svobodovsky agent instructed to collect evidence for subsequent decoding of strange signal, which for some strange reason, it still continues to be broadcast on three old established during the war of clans antennas ... Read the frequency signal from the antenna, using a special scanner.</text>
+</string>
+<string id="val_lucas_mistery_quest_title2">
+	<text>The riddle of the Past: transmits the data to Lucas.</text>
+</string>
+<string id="val_lucas_mistery_quest_text2">
+	<text>Indicators of frequencies and other parameters of the signal have been successfully recorded scanner in all three locations. Pass Lucas scanner with the information collected.</text>
+</string>
+<string id="val_lucas_mistery_quest_title0_1">
+	<text>The riddle of the Past: follow to the first antenna.</text>
+</string>
+<string id="val_lucas_mistery_quest_text0_1">
+	<text>Remove the indicators signal transmitted from the antenna near a radioactive lake.</text>
+</string>
+<string id="val_lucas_mistery_quest_title0_2">
+	<text>The riddle of the Past: Follow to the second antenna.</text>
+</string>
+<string id="val_lucas_mistery_quest_text0_2">
+	<text>Remove the indicators signal from the antenna to indulge located on the old farm.</text>
+</string>
+<string id="val_lucas_mistery_quest_title0_3">
+	<text>The riddle of the Past: follow the third antenna.</text>
+</string>
+<string id="val_lucas_mistery_quest_text0_3">
+	<text>Remove the indicators signal from the antenna to indulge located on the former svobodovskoy base.</text>
+</string>
+<string id="val_lucas_mistery_quest_title3">
+	<text>The riddle of the Past: Destroy squad of saboteurs debt.</text>
+</string>
+<string id="val_lucas_mistery_quest_text3">
+	<text>Svobodovsky agent Lucas has asked you to eliminate competitors in your job - group of stalkers debt.</text>
+</string>
+<string id="val_lucas_mistery_quest_title4">
+	<text>The riddle of the Past: find caches in the former svobodovskoy base.</text>
+</string>
+<string id="val_lucas_mistery_quest_text4">
+	<text>Dolgovskaya competitors for valuable information destroyed. Lucas got the exact data on the number of caches. Need to find three cache left by former leader of the group Freedom.</text>
+</string>
+<string id="val_lucas_mistery_quest_title5">
+	<text>The riddle of the Past: take a specified point to vstpechi with svobodovskim agent.</text>
+</string>
+<string id="val_lucas_mistery_quest_text5">
+	<text>Documents found. Wait until Lucas.</text>
+</string>
+<string id="val_lucas_mistery_quest_title6">
+	<text>The riddle of the Past: repel rut mutants</text>
+</string>
+<string id="val_lucas_mistery_quest_text6">
+	<text>Documents found. Suddenly area base was attacked by mutants. Destroy them all to have the opportunity to transfer paper found Lucas.</text>
+</string>
+<string id="val_lucas_mistery_quest_title7">
+	<text>Riddles of the past: to follow svobodovskomu agent</text>
+</string>
+<string id="val_lucas_mistery_quest_text7">
+	<text>Mutants destroyed. Lucas did not dare to intervene and expected completion of the rut on the sidelines. Find him.</text>
+</string>
+<string id="val_lucas_mistery_quest_title8">
+	<text>The riddle of the Past: Lucas escort to the southern checkpoint</text>
+</string>
+<string id="val_lucas_mistery_quest_text8">
+	<text>All documents found transferred to the customer. It is necessary to provide cover and escort living in southern checkpoint.</text>
+</string>
+<string id="val_lucas_mistery_quest_title9">
+	<text>The riddle of the Past: get in Kolmogorov award</text>
+</string>
+<string id="val_lucas_mistery_quest_text9">
+	<text>Lucas safe. Your task is completed. it remains only to pick up the award.</text>
+</string>
+</string_table>

@@ -1,0 +1,2901 @@
+<string id="ammo-357">
+	<text>Патроны .357 Magnum</text>
+</string>
+<string id="ammo-357_descr">
+	<text>Магнум (лат. Magnum, от magnus - большой, великий) - патрон повышенной мощности, по сравнению с обычным патроном того же калибра. Так же оружие, предназначенное под патрон данного типа.</text>
+</string>
+<string id="ammo-357_s">
+	<text>.357 Magnum</text>
+</string>
+<string id="ammo-50-ae">
+	<text>.50 AE</text>
+</string>
+<string id="ammo-50-ae_descr">
+	<text>Пистолетный патрон с пулей крупного калибра для пистолета Desert Eagle.</text>
+</string>
+<string id="ammo-50-ae_s">
+	<text>.50 Action Express</text>
+</string>
+<string id="ammo-7.62x25-p">
+	<text>Патроны 7.62x25 мм П</text>
+</string>
+<string id="ammo-7.62x25-p_descr">
+	<text>Советский пистолетный патрон калибра 7.62мм. Простая цельнометаллическая пуля.</text>
+</string>
+<string id="ammo-7.62x25-p_s">
+	<text>7,62x25</text>
+</string>
+<string id="ammo-7.62x25-ps">
+	<text>Патроны 7.62x25 мм ПС</text>
+</string>
+<string id="ammo-7.62x25-ps_descr">
+	<text>Советский пистолетный патрон калибра 7.62мм. Пуля со стальным сердечником, улучшенная бронебойность.</text>
+</string>
+<string id="ammo-7.62x25-ps_s">
+	<text>7,62x25 ПС</text>
+</string>
+<string id="ammo-7.62x39-ap">
+	<text>Патроны 7,62x39 мм (7Н23)</text>
+</string>
+<string id="ammo-7.62x39-ap_descr">
+	<text>Советский автоматный патрон калибра 7.62мм. Пуля со стальным сердечником, улучшенная бронебойность.</text>
+</string>
+<string id="ammo-7.62x39-ap_s">
+	<text>7,62x39 (7Н23)</text>
+</string>
+<string id="ammo-7.62x39-fmj">
+	<text>Патроны 7.62x39 мм ЦМО</text>
+</string>
+<string id="ammo-7.62x39-fmj_descr">
+	<text>Советский автоматный патрон калибра 7.62мм. Простая цельнометаллическая пуля.</text>
+</string>
+<string id="ammo-7.62x39-fmj_s">
+	<text>7.62x39 мм</text>
+</string>
+<string id="ammo-7.62x51-ap">
+	<text>Патроны 7.62x51 мм НАТО БП</text>
+</string>
+<string id="ammo-7.62x51-ap_descr">
+	<text>Винтовочный боеприпас стандарта НАТО. Калибр - 7.62мм. Пуля со стальным сердечником, улучшенная бронебойность.</text>
+</string>
+<string id="ammo-7.62x51-ap_s">
+	<text>7.62x51 БП</text>
+</string>
+<string id="ammo-7.62x51-fmj">
+	<text>Патроны 7.62x51 мм НАТО</text>
+</string>
+<string id="ammo-7.62x51-fmj_descr">
+	<text>Винтовочный боеприпас стандарта НАТО. Калибр - 7.62мм. Простая цельнометаллическая пуля.</text>
+</string>
+<string id="ammo-7.62x51-fmj_s">
+	<text>7.62x51</text>
+</string>
+<string id="ammo-7.62x54-7h1">
+	<text>Патроны 7,62x54 мм 7H1</text>
+</string>
+<string id="ammo-7.62x54-7h1_descr">
+	<text>Штатный армейский снайперский патрон. Пуля патрона имеет тупоконечный стальной сердечник. Дешёвая в изготовлении модификация снайперского патрона для снайперских винтовок.</text>
+</string>
+<string id="ammo-7.62x54-7h1_s">
+	<text>7,62x54 7H1</text>
+</string>
+<string id="ammo-7.62x54-pkm">
+	<text>Патроны 7.62х54 7Н26</text>
+</string>
+<string id="ammo-7.62x54-pkm_descr">
+	<text>Патрон с пулей повышенного пробивного действия. В конструкции пули имеет бронебойный сердечник из закаленной инструментальной стали. Предназначена для поражения живой силы, находящейся за легкими броневыми прикрытиями, на дальностях до 500 м.</text>
+</string>
+<string id="ammo-7.62x54-pkm_s">
+	<text>7.62х54 7Н26</text>
+</string>
+<string id="ammo-8,6x70-fmj">
+	<text>Патроны .338 Lapua Magnum</text>
+</string>
+<string id="ammo-8,6x70-fmj_descr">
+	<text>Создавался как специальный снайперский патрон для стрельбы на большие дистанции, но на сегодняшний момент широко используется также охотниками и стрелками спортсменами. </text>
+</string>
+<string id="ammo-8,6x70-fmj_s">
+	<text>.338 Lapua Magnum</text>
+</string>
+<string id="ammo-gauss_cardan_s">
+	<text>Мини-кассета</text>
+</string>
+<string id="ammo-gauss_s">
+	<text>Кассета</text>
+</string>
+<string id="ammo-vog-25p">
+	<text>Выстрел ВОГ-25П</text>
+</string>
+<string id="ammo-vog-25p_descr">
+	<text>40мм выстрел ВОГ-25П или "Подкидыш" (7П24) - осколочная граната для гранатометов у которой главное и основное отличие заключается в головном взрывателе, обеспечивающем "подпрыгивание" гранаты после удара о грунт и ее разрыв в воздухе, что увеличивает её поражающее действие.</text>
+</string>
+<string id="ammo-vog-25p_s">
+	<text>ВОГ-25П</text>
+</string>
+<string id="dm_about_story_end">
+	<text>Интересно.</text>
+</string>
+<string id="dm_about_story_talk">
+	<text>Расскажи какую-нибудь историю.</text>
+</string>
+<string id="jup_ecolog_breeder_work_dialog_3_5">
+	<text>У меня нет артефактов.</text>
+</string>
+<string id="jup_rasvet_base_leader_jobs_dialog_90">
+	<text>Прескорбно это слышать. К сожалению я не могу вам заплатить за успешную работу. Но вы можете оказать нам содействие в другом вопросе.</text>
+</string>
+<string id="jup_stalker_breeder_work_dialog_3_5">
+	<text>У меня нет артефактов.</text>
+</string>
+<string id="jup_svoboda_leader_entering_to_freedom_dialog_5">
+	<text>Вот и суши бар. Готовь тогда кубинца, будем двигать мы на кубу, до Фиделя на тросник.</text>
+</string>
+<string id="jup_svoboda_leader_entering_to_freedom_dialog_6">
+	<text>Проспект тебе и уважуха. Не кури много, минзонздрав уже предупреждал. Бывай.</text>
+</string>
+<string id="mar_b3_commander_name">
+	<text>Карась</text>
+</string>
+<string id="mar_b4_commander_name">
+	<text>Кащей</text>
+</string>
+<string id="mar_stalker_trader_name">
+	<text>Мармелюк</text>
+</string>
+<string id="mil_night_stalker_bankir_dialog_20">
+	<text>• 1000 р.</text>
+</string>
+<string id="mil_night_stalker_bankir_dialog_21">
+	<text>• 2000 р.</text>
+</string>
+<string id="mil_night_stalker_bankir_dialog_22">
+	<text>• 3000 р.</text>
+</string>
+<string id="mil_night_stalker_bankir_dialog_23">
+	<text>• 4000 р.</text>
+</string>
+<string id="mil_night_stalker_bankir_dialog_24">
+	<text>• 5000 р.</text>
+</string>
+<string id="mil_night_stalker_bankir_dialog_25">
+	<text>• 10000 р.</text>
+</string>
+<string id="pri_army_breeder_work_dialog_3_5">
+	<text>У меня нет артефактов.</text>
+</string>
+<string id="red_psyho_security_corpse_name">
+	<text>Кореец</text>
+</string>
+<string id="st_21_point_send_move">
+	<text>Передать ход</text>
+</string>
+<string id="st_21_point_take_else">
+	<text>Взять еще</text>
+</string>
+<string id="st_a_z_cell_1_descr">
+	<text>Место схрона: Скадовск. Дополнительная информация: позади Коряги, за решеткой.</text>
+</string>
+<string id="st_a_z_cell_2_descr">
+	<text>Место схрона: Скадовск. Дополнительная информация: за спиной у Мстителя.</text>
+</string>
+<string id="st_a_z_cell_3_descr">
+	<text>Место схрона: Скадовск. Дополнительная информация: в комнате, что напротив телохранителя.</text>
+</string>
+<string id="st_a_z_cell_4_descr">
+	<text>Место схрона: Шевченко. Дополнительная информация: в контейнере.</text>
+</string>
+<string id="st_a_z_cell_5_descr">
+	<text>Место схрона: Аномалия "Железный Лес". Дополнительная информация: в кузове ЗИЛа.</text>
+</string>
+<string id="st_a_z_cell_6_descr">
+	<text>Место схрона: Портовые Краны. Дополнительная информация: в кузове ЗИЛа.</text>
+</string>
+<string id="st_about_critical_pstor_text">
+	<text>Внимание! Произошла критическая ошибка. Сохранение, сделанное вами только что - полетело кувырком. Продолжение игры невозможно. Попробуйте загрузиться с более раннего сохранения и пройти текущий момент другим порядком.</text>
+</string>
+<string id="st_addon_scope_1p29">
+	<text>Прицел УСП-1 "Тюльпан"</text>
+</string>
+<string id="st_addon_scope_1p29_descr">
+	<text>Унифицированный стрелковый прицел УСП-1 предназначен для ведения прицельной стрельбы из автомата АК74Н, АК-74М, АН-94 и пулеметов РПК-74Н и ПКМН в светлое время суток и ночью по светящимся и подсвечиваемым целям. 1П29 - индекс прицела УСП-1 Гравного артиллерийского управления МО СССР. Создан в рамках ОКР "Тюльпан", откуда и получил свое название.</text>
+</string>
+<string id="st_addon_scope_acog">
+	<text>Прицел ACOG</text>
+</string>
+<string id="st_addon_scope_acog_descr">
+	<text>4-х кратный оптический прицел для винтовок НАТО.</text>
+</string>
+<string id="st_addon_scope_acog_r">
+	<text>Реплика прицела ACOG 4x32</text>
+</string>
+<string id="st_addon_scope_acog_r_descr">
+	<text>Реплика оптического прицела Advanced Combat Optical Gunsights 4x32mm (больше известного как ACOG 4x32) фирмы Trijicon™ Riflescopes. Четырехкратная оптическая реплика популярной модели ACOG TA01NSN от Trijicon, входящая в программу SOPMOD. Тот же самый прицел, что и ACOG TA01NSN только без оригинальных логотипов. Корпус выполнен из металла, покрытого тонким слоем резины. Реплика уже оснащена дополнительными прицельными приспособлениями для ведения боя на коротких и сверх коротких дистанциях. Оптика легко устанавливается как на flat top, так и на ручку для переноски винтовок М-серии.</text>
+</string>
+<string id="st_addon_scope_eotech">
+	<text>Прицел EOTech</text>
+</string>
+<string id="st_addon_scope_eotech_descr">
+	<text>EO Tech - это мировой лидер и эксклюзивный производитель голографических прицельных систем для стрелкового оружия.</text>
+</string>
+<string id="st_addon_scope_kobra">
+	<text>Прицел «Кобра» ЭКП-1С-03</text>
+</string>
+<string id="st_addon_scope_kobra_descr">
+	<text>Прицел Кобра обеспечивает уверенное прицеливание в условиях естественной освещенности (яркий солнечный день, глубокие сумерки и лунная ночь) благодаря наличию 16 уровней ручной регулировки яркости прицельной марки. Расположение прицельной марки и цели в одной плоскости позволяет осуществлять прицеливание как одним, так и двумя глазами, что создает для стрелка ничем не ограниченное поле зрения, и вести эффективную скоростную стрельбу по быстро перемещающимся, малоразмерным и внезапно появляющимся на короткое время целям. </text>
+</string>
+<string id="st_addon_scope_pk-a">
+	<text>Прицел ПК-А</text>
+</string>
+<string id="st_addon_scope_pk-a_descr">
+	<text>Коллиматорный прицел ПК-А - современный легкий, герметичный, простой в освоении прицел для охотничьих карабинов "Тигр", имеющих боковую планку для установки оптических прицелов. Прицел предназначен для точного наведения на цель оружия АК74Н, РПК74Н, АКМН-1, РПКН-1 при стрельбе в различных условиях освещенности - в дневное время в сумерках, в условиях плохой видимости и быстроменяющейся освещенности. Прицел герметичен и наполнен сухим азотом во избежание запотевания внутренних оптических поверхностей.</text>
+</string>
+<string id="st_addon_sil_1143_p">
+	<text>Глушитель М11.43-П</text>
+</string>
+<string id="st_addon_sil_1143_p_descr">
+	<text>Прибор бесшумной стрельбы для пистолетов калибра 11.43мм (.45).</text>
+</string>
+<string id="st_addon_sil_545_ar">
+	<text>Глушитель М5.45-А</text>
+</string>
+<string id="st_addon_sil_545_ar_descr">
+	<text>Прибор бесшумной стрельбы для автоматов калибра 5.45мм.</text>
+</string>
+<string id="st_addon_sil_556_ar">
+	<text>Глушитель М5.56-А</text>
+</string>
+<string id="st_addon_sil_556_ar_descr">
+	<text>Прибор для беззвучной и беспламенной стрельбы для штурмовых винтовок стандарта НАТО калибра 5,56х45.</text>
+</string>
+<string id="st_addon_sil_762_ar">
+	<text>Глушитель М7.62-А</text>
+</string>
+<string id="st_addon_sil_762_ar_descr">
+	<text>Прибор бесшумной стрельбы для автоматов и винтовок калибра 7.62мм.</text>
+</string>
+<string id="st_addon_sil_762_p">
+	<text>Глушитель М7.62-П</text>
+</string>
+<string id="st_addon_sil_762_p_descr">
+	<text>Прибор бесшумной стрельбы для пистолетов калибра 7.62мм.</text>
+</string>
+<string id="st_addon_sil_9_pb">
+	<text>Глушитель 6П9</text>
+</string>
+<string id="st_addon_sil_9_pb_descr">
+	<text>Прибор бесшумной стрельбы для пистолета ПБ (6П9).</text>
+</string>
+<string id="st_addon_sil_9mm">
+	<text>Глушитель калибра 9x19</text>
+</string>
+<string id="st_addon_sil_9mm_descr">
+	<text>Прибор бесшумной стрельбы для пистолетов и пистолетов-пулемётов калибра 9мм.</text>
+</string>
+<string id="st_addon_sil_9x18">
+	<text>Глушитель калибра 9x18</text>
+</string>
+<string id="st_addon_sil_9x18_descr">
+	<text>Прибор бесшумной стрельбы для отечественных пистолетов калибра 9мм.</text>
+</string>
+<string id="st_addon_sil_pbs-1">
+	<text>Глушитель ПБС-1</text>
+</string>
+<string id="st_addon_sil_pbs-1_descr">
+	<text>ПБС-1. Прибор для беззвучной и беспламенной стрельбы из автомата Калашникова.</text>
+</string>
+<string id="st_addon_sil_pbs-4">
+	<text>Глушитель ПБС-4</text>
+</string>
+<string id="st_addon_sil_pbs-4_descr">
+	<text>ПБС-4. Прибор для беззвучной и беспламенной стрельбы из 5,45-мм автомата Калашникова укороченного (АКС74У).</text>
+</string>
+<string id="st_addon_sil_tgp-a">
+	<text>Глушитель ТГП-А</text>
+</string>
+<string id="st_addon_sil_tgp-a_descr">
+	<text>Глушитель-пламягаситель тактичесский для автоматов серии АК "ТГП-А-5,45". Может устанавливаться на место штатного компенсатора автоматов АК и пулеметов РПК серии "74". Предназначен для снижения уровня громкости выстрела при стрельбе штатными патронами из автомата АК74 и пулемета РПК в задней полусфере, и маскировки стрелка за счет искажения звукового поля в передней полусфере, и отсутствия пламени выстрела.</text>
+</string>
+<string id="st_af_acid_star_descr">
+	<text>Уникальный артефакт с превосходными защитными свойствами. Необходимо доставить его селекционеру... жалко.</text>
+</string>
+<string id="st_af_acid_star_name">
+	<text>«Кислотный инфузорий»</text>
+</string>
+<string id="st_af_prodigy_1_processed_descr">
+	<text>Артефакт органической природы. Состоит из деформированных тканей животного происхождения. При попадании в зону химического загрязнения начинает «вытягивать» химикалии из воздуха, преобразуя их в густую вязкую массу.</text>
+</string>
+<string id="st_af_prodigy_1_processed_name">
+	<text>«Порода №768»</text>
+</string>
+<string id="st_af_prodigy_2_processed_descr">
+	<text>Точно установлено, что излучение, возникающее при пульсации утолщений этой породы, заставляет кровь в открытых ранах очень быстро сворачиваться.</text>
+</string>
+<string id="st_af_prodigy_2_processed_name">
+	<text>«Порода №815»</text>
+</string>
+<string id="st_af_prodigy_3_processed_descr">
+	<text>Органический артефакт с уникальными свойствами. Неизвестным пока образом увеличивает общую скорость восстановления организма после травм любой природы, не ускоряя накопление токсинов.</text>
+</string>
+<string id="st_af_prodigy_3_processed_name">
+	<text>«Порода №862»</text>
+</string>
+<string id="st_af_prodigy_4_processed_descr">
+	<text>Артефакт электростатической природы. Способен резко увеличивать мышечный тонус носителя.</text>
+</string>
+<string id="st_af_prodigy_4_processed_name">
+	<text>«Порода №874»</text>
+</string>
+<string id="st_af_prodigy_5_processed_descr">
+	<text>Генерирует вокруг себя сферу направленного гравитационного поля. Очень эффективно снижает вес содержимого рюкзака носителя.</text>
+</string>
+<string id="st_af_prodigy_5_processed_name">
+	<text>«Порода №895»</text>
+</string>
+<string id="st_af_prodigy_6_processed_descr">
+	<text>Органический артефакт. Генерирует вокруг себя невидимую сферу, которая повышает иммунитет носителя.</text>
+</string>
+<string id="st_af_prodigy_6_processed_name">
+	<text>«Порода №934»</text>
+</string>
+<string id="st_af_prodigy_danger_descr">
+	<text>Радиоактивен. О свойствах артефакта практически ничего не известно.</text>
+</string>
+<string id="st_af_prodigy_danger_name">
+	<text>«Неизвестный артефакт»</text>
+</string>
+<string id="st_af_shapoklak_descr">
+	<text>Уникальный артефакт с неплохими защитными и восстановительными свойствами. Однако излучает радиацию. Нужно передать артефакт Кривоухову.</text>
+</string>
+<string id="st_af_shapoklak_name">
+	<text>«Шапокляк»</text>
+</string>
+<string id="st_agru_key_from_door">
+	<text>Ключ от двери</text>
+</string>
+<string id="st_agru_key_from_door_descr">
+	<text>Ключ найденный у мёртвого учёного.</text>
+</string>
+<string id="st_agru_secret_docks_1">
+	<text>Дело №708</text>
+</string>
+<string id="st_agru_secret_docks_1_descr">
+	<text>Сшитые степплером, несколько листов формата А4. Надпись на обложке:\n«Совершенно секретно»\nS/N 7736708</text>
+</string>
+<string id="st_agru_secret_docks_2">
+	<text>Дело №711</text>
+</string>
+<string id="st_agru_secret_docks_2_descr">
+	<text>Сшитые степплером, несколько листов формата А4. Надпись на обложке:\n«Совершенно секретно»\nS/N 7736711</text>
+</string>
+<string id="st_army_smoliak_case_descr">
+	<text>Флешка с информацией о личном тайнике запасливого лейтенанта.</text>
+</string>
+<string id="st_army_smoliak_case_title">
+	<text>«Флешка лт. Смоляка»</text>
+</string>
+<string id="st_army_smoliak_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Смоляка»\n%c[default]Информация с флешки: Юго-восток, завод по переработке.</text>
+</string>
+<string id="st_army_smoliak_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Смоляка%c[110,128,128,255]»</text>
+</string>
+<string id="st_bandit_bulava_case_descr">
+	<text>Флешка с информацией о личном тайнике бандита - Булавы.</text>
+</string>
+<string id="st_bandit_bulava_case_title">
+	<text>«Флешка Булавы»</text>
+</string>
+<string id="st_bandit_bulava_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Булавы»\n%c[default]Информация с флешки: отсутствует.</text>
+</string>
+<string id="st_bandit_bulava_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Булавы%c[110,128,128,255]»</text>
+</string>
+<string id="st_bandit_chapaev_case_descr">
+	<text>Флешка с информацией о личном тайнике пахана бандитов - Чапаева.</text>
+</string>
+<string id="st_bandit_chapaev_case_title">
+	<text>«Флешка Чапаева»</text>
+</string>
+<string id="st_bandit_chapaev_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Чапаева»\n%c[default]Информация с флешки: Портовые краны, контейнер.</text>
+</string>
+<string id="st_bandit_chapaev_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Чапаева%c[110,128,128,255]»</text>
+</string>
+<string id="st_bandit_dinozavr_case_descr">
+	<text>Флешка с информацией о личном тайнике бандита - Динозавра.</text>
+</string>
+<string id="st_bandit_dinozavr_case_title">
+	<text>«Флешка Динозавра»</text>
+</string>
+<string id="st_bandit_dinozavr_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Динозавра»\n%c[default]Информация с флешки: отсутствует.</text>
+</string>
+<string id="st_bandit_dinozavr_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Динозавра%c[110,128,128,255]»</text>
+</string>
+<string id="st_bandit_gnom_case_descr">
+	<text>Флешка с информацiею про схованку босякуватого хулiгана - вуйка Гнома.</text>
+</string>
+<string id="st_bandit_gnom_case_title">
+	<text>«Флешка Гнома»</text>
+</string>
+<string id="st_bandit_gnom_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Гнома»\n%c[default]Информация с флешки: отсутствует.</text>
+</string>
+<string id="st_bandit_gnom_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Гнома%c[110,128,128,255]»</text>
+</string>
+<string id="st_bandit_karas_case_descr">
+	<text>Флешка с информацией о личном тайнике бандита - Карася.</text>
+</string>
+<string id="st_bandit_karas_case_title">
+	<text>«Флешка Карася»</text>
+</string>
+<string id="st_bandit_karas_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Карася»\n%c[default]Информация с флешки: отсутствует.</text>
+</string>
+<string id="st_bandit_karas_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Карася%c[110,128,128,255]»</text>
+</string>
+<string id="st_bandit_kaschey_case_descr">
+	<text>Флешка с информацией о личном тайнике бандита - Кащея.</text>
+</string>
+<string id="st_bandit_kaschey_case_title">
+	<text>«Флешка Кащея»</text>
+</string>
+<string id="st_bandit_kaschey_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Кащея»\n%c[default]Информация с флешки: отсутствует.</text>
+</string>
+<string id="st_bandit_kaschey_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Кащея%c[110,128,128,255]»</text>
+</string>
+<string id="st_bandit_kastet_case_descr">
+	<text>Флешка с информацией о личном тайнике шестёрки Султана - Кастета.</text>
+</string>
+<string id="st_bandit_kastet_case_title">
+	<text>«Флешка Кастета»</text>
+</string>
+<string id="st_bandit_kastet_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Кастета»\n%c[default]Информация с флешки: Юго-восток, КПП.</text>
+</string>
+<string id="st_bandit_kastet_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Кастета%c[110,128,128,255]»</text>
+</string>
+<string id="st_bandit_mazay_case_descr">
+	<text>Флешка с информацией о личном тайнике бандита - Мазая.</text>
+</string>
+<string id="st_bandit_mazay_case_title">
+	<text>«Флешка Мазая»</text>
+</string>
+<string id="st_bandit_mazay_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Мазая»\n%c[default]Информация с флешки: отсутствует.</text>
+</string>
+<string id="st_bandit_mazay_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Мазая%c[110,128,128,255]»</text>
+</string>
+<string id="st_bandit_port_leader_case_descr">
+	<text>Флешка с информацией о личном тайнике неопознанного бандюгана.</text>
+</string>
+<string id="st_bandit_port_leader_case_title">
+	<text>«Флешка неизвестного бандоса»</text>
+</string>
+<string id="st_bandit_port_leader_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Неизвестного бандита»\n%c[default]Информация с флешки: Центр, сгоревший хутор.</text>
+</string>
+<string id="st_bandit_port_leader_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Неизвестного Бандита%c[110,128,128,255]»</text>
+</string>
+<string id="st_bandit_rogach_case_descr">
+	<text>Флешка с информацией о личном тайнике бандита - Рогача.</text>
+</string>
+<string id="st_bandit_rogach_case_title">
+	<text>«Флешка Рогача»</text>
+</string>
+<string id="st_bandit_rogach_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Рогача»\n%c[default]Информация с флешки: отсутствует.</text>
+</string>
+<string id="st_bandit_rogach_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Рогача%c[110,128,128,255]»</text>
+</string>
+<string id="st_bandit_shishak_case_descr">
+	<text>Флешка с информацией о личном тайнике пахана складских бандосов - Шишака.</text>
+</string>
+<string id="st_bandit_shishak_case_title">
+	<text>«Флешка Шишака»</text>
+</string>
+<string id="st_bandit_shishak_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Шишака»\n%c[default]Информация с флешки: Ж/Д туннель.</text>
+</string>
+<string id="st_bandit_shishak_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Шишака%c[110,128,128,255]»</text>
+</string>
+<string id="st_bandit_valet_case_descr">
+	<text>Флешка с информацией о личном тайнике самопровозглашённого бугра - Валета.</text>
+</string>
+<string id="st_bandit_valet_case_title">
+	<text>«Флешка Валета»</text>
+</string>
+<string id="st_bandit_valet_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Валета»\n%c[default]Информация с флешки: Возле станции Янов, кусты.</text>
+</string>
+<string id="st_bandit_valet_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Валета%c[110,128,128,255]»</text>
+</string>
+<string id="st_black_angel_unindification_name">
+	<text>Неидинтифицирован</text>
+</string>
+<string id="st_demolution_ballon_descr">
+	<text>Баллон с неизвестным газом. Пока не вскрывался, поэтому о свойствах ничего не известно.</text>
+</string>
+<string id="st_demolution_barrel_descr">
+	<text>Бочка с топливом, по виду - авиационный керосин.</text>
+</string>
+<string id="st_demolution_kanistra_descr">
+	<text>Двадцати литровая канистра с топливом неизвестного типа. По запаху, похоже на дизельное.</text>
+</string>
+<string id="st_detector_modify_toolkit">
+	<text>Инструменты для работы с детекторами</text>
+</string>
+<string id="st_detector_modify_toolkit_descr">
+	<text>Профессиональный набор инструментов для тонкого ремонта и модернизации детекторов. Того, что включено в комплект, достаточно для проведения любых работ по настройке и модернизации детекторов всех типов.</text>
+</string>
+<string id="st_detector_serafim">
+	<text>Детектор «Серафим»</text>
+</string>
+<string id="st_detector_serafim_descr">
+	<text>Специальная разработка учёных. Снабжён локатором аномальных образований и светодиодным таблом для отображения направления к неизвестному образцу, причём способен не только обнаруживать образцы, но и определять расстояния до них. Режим поиска образцов включается поднятием крышки-антенны на лицевой стороне прибора.</text>
+</string>
+<string id="st_device_pda_alfa_commander_experienced">
+	<text>КПК командира отряда Альфа</text>
+</string>
+<string id="st_device_pda_alfa_commander_experienced_descr">
+	<text>%c[255,238,153,26]Командир группы специального назначения. %c[default]Приказ - всем вспомогательным группам и группам специального назначения! Захватить живым или мёртвым Дегтярёва Александра Григорьевича 1978 года рождения, уроженца г. Припять УССР. Приметы: худощавое телосложение, на вид 25-30 лет, рост - 179 см, волосы волнистые, светло-русые. Особо опасен, майор СБУ. Все вещи, найденные при нём, немедленно доставить в центр. Особо обратить внимание на сохранность КПК, бумажных и электронных носителей информации. 15 кратное вознаграждение за успешное выполнение задачи!</text>
+</string>
+<string id="st_device_pda_alfa_commander_master">
+	<text>КПК командира отряда Альфа</text>
+</string>
+<string id="st_device_pda_alfa_commander_master_descr">
+	<text>%c[255,238,153,26]Командир специального сверх элитного подразделения. %c[default]Приказ - всем группам специального сверх элитного подразделения! Захватить живым или мёртвым Дегтярёва Александра Григорьевича 1978 года рождения, уроженца г. Припять УССР. Приметы: худощавое телосложение, на вид 25-30 лет, рост - 179 см, волосы волнистые, светло-русые. Особо опасен, майор СБУ. Все вещи, найденные при нём, немедленно доставить в центр. Особо обратить внимание на сохранность КПК, бумажных и электронных носителей информации. 30 кратное вознаграждение за успешное выполнение задачи!</text>
+</string>
+<string id="st_device_pda_alfa_commander_novice">
+	<text>КПК командира отряда Альфа</text>
+</string>
+<string id="st_device_pda_alfa_commander_novice_descr">
+	<text>%c[255,238,153,26]Командир группы вспомогательного назначения. %c[default]Приказ - всем вспомогательным группам! Обеспечить поддержку группам спецназа или по возможности самим - захватить живым или мёртвым Дегтярёва Александра Григорьевича 1978 года рождения, уроженца г. Припять УССР. Приметы: худощавое телосложение, на вид 25-30 лет, рост - 179 см, волосы волнистые, светло-русые. Особо опасен, майор СБУ. Все вещи, найденные при нём, немедленно доставить в центр. Особо обратить внимание на сохранность КПК, бумажных и электронных носителей информации. 5 кратное вознаграждение за успешное выполнение задачи!</text>
+</string>
+<string id="st_device_pda_alfa_commander_regular">
+	<text>КПК командира отряда Альфа</text>
+</string>
+<string id="st_device_pda_alfa_commander_regular_descr">
+	<text>%c[255,238,153,26]Командир группы специального назначения. %c[default]Приказ - всем группам специального назначения! Захватить живым или мёртвым Дегтярёва Александра Григорьевича 1978 года рождения, уроженца г. Припять УССР. Приметы: худощавое телосложение, на вид 25-30 лет, рост - 179 см, волосы волнистые, светло-русые. Особо опасен, майор СБУ. Все вещи, найденные при нём, немедленно доставить в центр. Особо обратить внимание на сохранность КПК, бумажных и электронных носителей информации. 10 кратное вознаграждение за успешное выполнение задачи!</text>
+</string>
+<string id="st_device_pda_alfa_commander_veteran">
+	<text>КПК командира отряда Альфа</text>
+</string>
+<string id="st_device_pda_alfa_commander_veteran_descr">
+	<text>%c[255,238,153,26]Командир специального элитного подразделения. %c[default]Приказ - всем группам специального элитного подразделения! Захватить живым или мёртвым Дегтярёва Александра Григорьевича 1978 года рождения, уроженца г. Припять УССР. Приметы: худощавое телосложение, на вид 25-30 лет, рост - 179 см, волосы волнистые, светло-русые. Особо опасен, майор СБУ. Все вещи, найденные при нём, немедленно доставить в центр. Особо обратить внимание на сохранность КПК, бумажных и электронных носителей информации. 20 кратное вознаграждение за успешное выполнение задачи!</text>
+</string>
+<string id="st_device_pda_b1_commander">
+	<text>КПК «Бульдога»</text>
+</string>
+<string id="st_device_pda_b1_commander_descr">
+	<text>КПК с ценной для сталкеров информацией.</text>
+</string>
+<string id="st_device_pda_b1_renegade_1">
+	<text>КПК ренегатовца</text>
+</string>
+<string id="st_device_pda_b1_renegade_1_descr">
+	<text>КПК с ценной для сталкеров информацией.</text>
+</string>
+<string id="st_device_pda_b1_renegade_2">
+	<text>КПК ренегатовца</text>
+</string>
+<string id="st_device_pda_b1_renegade_2_descr">
+	<text>КПК с ценной для сталкеров информацией.</text>
+</string>
+<string id="st_device_pda_b1_renegade_3">
+	<text>КПК ренегатовца</text>
+</string>
+<string id="st_device_pda_b1_renegade_3_descr">
+	<text>КПК с ценной для сталкеров информацией.</text>
+</string>
+<string id="st_device_pda_cherniy">
+	<text>КПК «Черного»</text>
+</string>
+<string id="st_device_pda_cherniy_descr">
+	<text>КПК лидера наёмников. Информация с КПК: Наш пароль - "раскукоженая кукушка".</text>
+</string>
+<string id="st_device_pda_kasilov">
+	<text>КПК «Касилова»</text>
+</string>
+<string id="st_device_pda_kasilov_descr">
+	<text>КПК с неизвестной информацией.</text>
+</string>
+<string id="st_dolg_morgan_case_descr">
+	<text>Флешка с информацией о личном тайнике ушлого барыги - долговца Моргана.</text>
+</string>
+<string id="st_dolg_morgan_case_title">
+	<text>«Флешка Моргана»</text>
+</string>
+<string id="st_dolg_morgan_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Моргана»\n%c[default]Информация с флешки: Где-то в центре, возле вертолета.</text>
+</string>
+<string id="st_dolg_morgan_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Моргана%c[110,128,128,255]»</text>
+</string>
+<string id="st_duty_kanevskiy_case_descr">
+	<text>Флешка с информацией о личном тайнике мастера сапёрного дела - долговца Каневского.</text>
+</string>
+<string id="st_duty_kanevskiy_case_title">
+	<text>«Флешка Каневского»</text>
+</string>
+<string id="st_duty_kanevskiy_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Каневского»\n%c[default]Информация с флешки: Лесопилка.</text>
+</string>
+<string id="st_duty_kanevskiy_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Каневского%c[110,128,128,255]»</text>
+</string>
+<string id="st_esc_b2_bomb">
+	<text>Взрывчатка C4</text>
+</string>
+<string id="st_esc_b2_bomb_control">
+	<text>Пульт управления зарядом C4</text>
+</string>
+<string id="st_esc_b2_bomb_control_descr">
+	<text>Для детонации удаленного заряда C4 - необходимо использовать.</text>
+</string>
+<string id="st_esc_b2_bomb_descr">
+	<text>Подрывной заряд. Идет в комплекте с пультом управления.</text>
+</string>
+<string id="st_esc_b2_tamerlan_flash">
+	<text>Флешка Тамерлана</text>
+</string>
+<string id="st_esc_b2_tamerlan_flash_descr">
+	<text>Флешка взятая с тела Тамерлана.</text>
+</string>
+<string id="st_esc_b3_safe_flash">
+	<text>Флешка бандитов</text>
+</string>
+<string id="st_esc_b3_safe_flash_descr">
+	<text>Флешка с полезной для сталкеров информацией.</text>
+</string>
+<string id="st_esc_b3_safe_key">
+	<text>Ключ от сейфа</text>
+</string>
+<string id="st_esc_b3_safe_key_descr">
+	<text>Ключ бандитов. Используется для открытия сейфа.</text>
+</string>
+<string id="st_esc_key_from_gate">
+	<text>Ключ от ворот</text>
+</string>
+<string id="st_esc_key_from_gate_descr">
+	<text>Ключ бандитов. Используется для открытия ворот ведущих на Болота</text>
+</string>
+<string id="st_flash_avoid_witnesses_descr">
+	<text>Прикрепленная информация: Группа наёмников задержала нашего агента в окрестностях Юпитера. Есть основания полагать, что наш агент все еще жив. Ваша цель - освобождение агента и нейтрализация наёмников, оказавших сопротивление. Для безопасного прохода внутрь лагеря - используйте «Комбинезон наёмника».\nДля загрузки данных в КПК - необходимо использовать.</text>
+</string>
+<string id="st_flash_avoid_witnesses_name">
+	<text>Ячейка данных СБУ №15764</text>
+</string>
+<string id="st_freedom_gaiduk_case_descr">
+	<text>Флешка с информацией о личном тайнике полу-командира "Свободы" - Гайдука.</text>
+</string>
+<string id="st_freedom_gaiduk_case_title">
+	<text>«Флешка Гайдука»</text>
+</string>
+<string id="st_freedom_gaiduk_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Гайдука»\n%c[default]Информация с флешки: Цементный завод, крыша здания.</text>
+</string>
+<string id="st_freedom_gaiduk_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Гайдука%c[110,128,128,255]»</text>
+</string>
+<string id="st_grenade_launcher_ag36">
+	<text>AG36</text>
+</string>
+<string id="st_grenade_launcher_ag36_descr">
+	<text>\n%c[255,1,255,255]•%c[default] выстрел AG36\n \nПодствольный гранатомёт, разработанный немецким оружейным концерном Heckler &amp; Koch для замены HK 79. Основной платформой для него является винтовка HK G36.</text>
+</string>
+<string id="st_grenade_light">
+	<text>Граната GL-1</text>
+</string>
+<string id="st_grenade_light_descr">
+	<text>Химическая осветительная граната. Предназначена для освещения участков местности во время ночного боя, а также для ослепления и дезориентации противника. Время действия меньше минуты.</text>
+</string>
+<string id="st_guidebook_escape_point1">
+	<text>Мост</text>
+</string>
+<string id="st_guidebook_escape_point2">
+	<text>АТП</text>
+</string>
+<string id="st_guidebook_escape_point3">
+	<text>Деревня</text>
+</string>
+<string id="st_guidebook_escape_point4">
+	<text>Блокпост</text>
+</string>
+<string id="st_guidebook_escape_point5">
+	<text>База</text>
+</string>
+<string id="st_guidebook_escape_point6">
+	<text>Блокпост</text>
+</string>
+<string id="st_guidebook_marsh_point1">
+	<text>Посёлок</text>
+</string>
+<string id="st_guidebook_marsh_point2">
+	<text>Механизаторский двор</text>
+</string>
+<string id="st_guidebook_marsh_point3">
+	<text>Посёлок</text>
+</string>
+<string id="st_guidebook_marsh_point4">
+	<text>Насосная станция</text>
+</string>
+<string id="st_guidebook_marsh_point5">
+	<text>Рыбацкий хутор</text>
+</string>
+<string id="st_guidebook_marsh_point6">
+	<text>Старая церковь</text>
+</string>
+<string id="st_guidebook_marsh_point7">
+	<text>Посёлок</text>
+</string>
+<string id="st_guidebook_marsh_point8">
+	<text>Сгоревший хутор</text>
+</string>
+<string id="st_important_science_docks">
+	<text>Научный доклад №1264</text>
+</string>
+<string id="st_important_science_docks_descr">
+	<text>Сшитые степплером, несколько листов формата А4. Надпись на обложке:\n«Слияние аномальных пород»\nS/N 1264</text>
+</string>
+<string id="st_informer_name">
+	<text>Информатор</text>
+</string>
+<string id="st_jup_azot_charge_instruments">
+	<text>Инструменты для работы со взрывчаткой</text>
+</string>
+<string id="st_jup_azot_charge_instruments_descr">
+	<text>Специальный комплект для обезвреживания зарядов.</text>
+</string>
+<string id="st_jup_azot_charge_scanner">
+	<text>Низкочастотный сканер</text>
+</string>
+<string id="st_jup_azot_charge_scanner_descr">
+	<text>Специальный сканер для пеленгации зарядов. Радиус поиска - 50 метров.</text>
+</string>
+<string id="st_jup_azot_simply_raciya">
+	<text>Рация</text>
+</string>
+<string id="st_jup_azot_simply_raciya_descr">
+	<text>Обыкновенная рация с ФМ приемником.</text>
+</string>
+<string id="st_jup_killer_caravan_case">
+	<text>Груз каравана</text>
+</string>
+<string id="st_jup_killer_caravan_case_descr">
+	<text>Стальной ящик с чем-то внутри.</text>
+</string>
+<string id="st_jup_thief_voron_pda">
+	<text>КПК «Ворона»</text>
+</string>
+<string id="st_jup_thief_voron_pda_descr">
+	<text>КПК содержит заархивированный файл, архив защищён паролем. Мой КПК не поддерживает данную версию архиватора. Необходимо передать КПК Громобою - возможно, он сможет извлечь информацию.</text>
+</string>
+<string id="st_killer_cherep_case_descr">
+	<text>Флешка с информацией о личном тайнике наёмника - Черепа.</text>
+</string>
+<string id="st_killer_cherep_case_title">
+	<text>«Флешка Черепа»</text>
+</string>
+<string id="st_killer_cherep_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Черепа»\n%c[default]Информация с флешки: В окружении электрических аномалий.</text>
+</string>
+<string id="st_killer_cherep_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Черепа%c[110,128,128,255]»</text>
+</string>
+<string id="st_killer_grif_case_descr">
+	<text>Флешка с информацией о личном тайнике наёмника - Грифа.</text>
+</string>
+<string id="st_killer_grif_case_title">
+	<text>«Флешка Грифа»</text>
+</string>
+<string id="st_killer_grif_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Грифа»\n%c[default]Информация с флешки: Куст возле аномального поля.</text>
+</string>
+<string id="st_killer_grif_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Грифа%c[110,128,128,255]»</text>
+</string>
+<string id="st_killer_kruk_case_descr">
+	<text>Флешка с информацией о личном тайнике наёмника - Крюка.</text>
+</string>
+<string id="st_killer_kruk_case_title">
+	<text>«Флешка Крюка»</text>
+</string>
+<string id="st_killer_kruk_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Крюка»\n%c[default]Информация с флешки: Северо-запад, около проводника.</text>
+</string>
+<string id="st_killer_kruk_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Крюка%c[110,128,128,255]»</text>
+</string>
+<string id="st_killer_molfar_case_descr">
+	<text>Флешка с информацией о личном тайнике главнокомандующего наёмников - Мольфара.</text>
+</string>
+<string id="st_killer_molfar_case_title">
+	<text>«Флешка Мольфара»</text>
+</string>
+<string id="st_killer_molfar_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Мольфара»\n%c[default]Информация с флешки: Отсутствует.</text>
+</string>
+<string id="st_killer_molfar_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Мольфара%c[110,128,128,255]»</text>
+</string>
+<string id="st_killer_revizor_case_descr">
+	<text>Флешка с информацией о личном тайнике наёмника - Ревизора.</text>
+</string>
+<string id="st_killer_revizor_case_title">
+	<text>«Флешка Ревизора»</text>
+</string>
+<string id="st_killer_revizor_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Ревизора»\n%c[default]Информация с флешки: отсутствует.</text>
+</string>
+<string id="st_killer_revizor_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Ревизора%c[110,128,128,255]»</text>
+</string>
+<string id="st_killer_tesak_case_descr">
+	<text>Флешка с информацией о личном тайнике командира наёмников - Рубака Тесакова.</text>
+</string>
+<string id="st_killer_tesak_case_title">
+	<text>«Флешка Тесакова»</text>
+</string>
+<string id="st_killer_tesak_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Тесака»\n%c[default]Информация с флешки: Северо-запад, земснаряд.</text>
+</string>
+<string id="st_killer_tesak_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Тесака%c[110,128,128,255]»</text>
+</string>
+<string id="st_killer_warlord_case_descr">
+	<text>Флешка с информацией о личном тайнике наёмника - Варлорда.</text>
+</string>
+<string id="st_killer_warlord_case_title">
+	<text>«Флешка Варлорда»</text>
+</string>
+<string id="st_killer_warlord_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Варлорда»\n%c[default]Информация с флешки: отсутствует.</text>
+</string>
+<string id="st_killer_warlord_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Варлорда%c[110,128,128,255]»</text>
+</string>
+<string id="st_letter_from_agent">
+	<text>Письмо от связного</text>
+</string>
+<string id="st_letter_from_agent_descr">
+	<text>В письме значится: Майору Дегтярёву. Вам нужно срочно встретиться со связным на территории электростанции. Позывной - "Как ваше филе?".</text>
+</string>
+<string id="st_level_change_to_agroprom">
+	<text>На Агропром</text>
+</string>
+<string id="st_level_change_to_agroprom_underground">
+	<text>В подземелья Агропрома</text>
+</string>
+<string id="st_level_change_to_darkvalley">
+	<text>На Темную Долину</text>
+</string>
+<string id="st_level_change_to_escape">
+	<text>На Кордон</text>
+</string>
+<string id="st_level_change_to_marsh">
+	<text>На Болота</text>
+</string>
+<string id="st_level_change_to_military">
+	<text>На Военные Склады</text>
+</string>
+<string id="st_level_change_to_red_forest">
+	<text>В Рыжий Лес</text>
+</string>
+<string id="st_level_change_to_x18">
+	<text>На X18</text>
+</string>
+<string id="st_mar_army_cargo">
+	<text>Военная поклажа</text>
+</string>
+<string id="st_mar_army_cargo_descr">
+	<text>Армейский груз. Внутри содержится неизвестное мне химическое вещество. Нужно передать его в СБУ.</text>
+</string>
+<string id="st_mar_georadar">
+	<text>Георадар</text>
+</string>
+<string id="st_mar_georadar_descr">
+	<text>При помощи георадара можно найти любую железяку, как бы глубоко под землей она не находилась. Радиус обнаружения - 30 метров.</text>
+</string>
+<string id="st_mar_mine_detector">
+	<text>Миноискатель</text>
+</string>
+<string id="st_mar_mine_detector_descr">
+	<text>С его помощью можно находить и обезвреживать мины спрятанные под землей.</text>
+</string>
+<string id="st_mar_mine_sensor">
+	<text>Датчик для миноискателя</text>
+</string>
+<string id="st_mar_mine_sensor_descr">
+	<text>Наиболее важная деталь любого миноискателя.</text>
+</string>
+<string id="st_mercenary_suvorov_case_descr">
+	<text>Флешка с информацией о личном тайнике коммандира наёмников - капитана Суворова.</text>
+</string>
+<string id="st_mercenary_suvorov_case_title">
+	<text>«Флешка капитана Суворова»</text>
+</string>
+<string id="st_mercenary_suvorov_unpack_descr">
+	<text>%c[255,238,153,26]Хабар капитана «Суворова»\n%c[default]Информация с флешки: отсутствует.</text>
+</string>
+<string id="st_mercenary_suvorov_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар капитана Суворова%c[110,128,128,255]»</text>
+</string>
+<string id="st_mercenary_tverdohlebov_case_descr">
+	<text>Флешка с информацией о личном тайнике коммандира наёмников - майора Твёрдохлебова.</text>
+</string>
+<string id="st_mercenary_tverdohlebov_case_title">
+	<text>«Флешка майора Твёрдохлебова»</text>
+</string>
+<string id="st_mercenary_tverdohlebov_unpack_descr">
+	<text>%c[255,238,153,26]Хабар майора «Твёрдохлебова»\n%c[default]Информация с флешки: отсутствует.</text>
+</string>
+<string id="st_mercenary_tverdohlebov_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар майора Твёрдохлебова%c[110,128,128,255]»</text>
+</string>
+<string id="st_mil_hole_bomb">
+	<text>Взрывчатка C4</text>
+</string>
+<string id="st_mil_hole_bomb_control">
+	<text>Пульт управления зарядом C4</text>
+</string>
+<string id="st_mil_hole_bomb_control_descr">
+	<text>Для детонации удаленного заряда C4 - необходимо использовать.</text>
+</string>
+<string id="st_mil_hole_bomb_descr">
+	<text>Подрывной заряд. Идет в комплекте с пультом управления.</text>
+</string>
+<string id="st_mod_menu_modes_ammo">
+	<text>Беск. патроны</text>
+</string>
+<string id="st_monolit_brodiaga_case_descr">
+	<text>Флешка с информацией о личном тайнике бывшего монолитовца - Бродяги.</text>
+</string>
+<string id="st_monolit_brodiaga_case_title">
+	<text>«Флешка Бродяги»</text>
+</string>
+<string id="st_monolit_brodiaga_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Бродяги»\n%c[default]Информация с флешки: Восток, блоки.</text>
+</string>
+<string id="st_monolit_brodiaga_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Бродяги%c[110,128,128,255]»</text>
+</string>
+<string id="st_monolit_kiborg_case_descr">
+	<text>Флешка с информацией о личном тайнике главнокомандующего силами Великого Монолита - Киборга.</text>
+</string>
+<string id="st_monolit_kiborg_case_title">
+	<text>«Флешка Киборга»</text>
+</string>
+<string id="st_monolit_kiborg_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Киборга»\n%c[default]Информация с флешки: Верхний ярус порта.</text>
+</string>
+<string id="st_monolit_kiborg_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Киборга%c[110,128,128,255]»</text>
+</string>
+<string id="st_monolit_voland_case_descr">
+	<text>Флешка с информацией о личном тайнике лидера группировки Монолит - Воланда.</text>
+</string>
+<string id="st_monolit_voland_case_title">
+	<text>«Флешка Воланда»</text>
+</string>
+<string id="st_monolit_voland_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Воланда»\n%c[default]Информация с флешки: Госпиталь. В столе.</text>
+</string>
+<string id="st_monolit_voland_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Воланда%c[110,128,128,255]»</text>
+</string>
+<string id="st_monolith_inquisitor_case_descr">
+	<text>Флешка с информацией о личном тайнике верховного жреца Монолита - Инквизитора.</text>
+</string>
+<string id="st_monolith_inquisitor_case_title">
+	<text>«Флешка Инквизитора»</text>
+</string>
+<string id="st_monolith_inquisitor_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Инквизитора»\n%c[default]Информация с флешки: отсутствует.</text>
+</string>
+<string id="st_monolith_inquisitor_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Инквизитора%c[110,128,128,255]»</text>
+</string>
+<string id="st_monolith_intercepted_case">
+	<text>Кейс «Леона»</text>
+</string>
+<string id="st_monolith_intercepted_case_descr">
+	<text>Кейс, перехваченный агентом Монолита у наёмников. Леон просил доставить кейс в Припять, не открывая его.</text>
+</string>
+<string id="st_off_pda_hint">
+	<text>Выключить КПК</text>
+</string>
+<string id="st_position_printer_create">
+	<text>Печать</text>
+</string>
+<string id="st_pri_fenix_brother_medallion">
+	<text>Медальон Германика</text>
+</string>
+<string id="st_pri_fenix_brother_medallion_descr">
+	<text>Личный медальон брата Феникса - Германика.</text>
+</string>
+<string id="st_pri_inquisitor_pda_1">
+	<text>КПК монолитовца</text>
+</string>
+<string id="st_pri_inquisitor_pda_1_descr">
+	<text>КПК с данными.</text>
+</string>
+<string id="st_pri_inquisitor_pda_2">
+	<text>КПК монолитовца</text>
+</string>
+<string id="st_pri_inquisitor_pda_2_descr">
+	<text>КПК с данными.</text>
+</string>
+<string id="st_q_z_cell_10_a">
+	<text>Бразилия</text>
+</string>
+<string id="st_q_z_cell_10_b">
+	<text>Монголия</text>
+</string>
+<string id="st_q_z_cell_10_c">
+	<text>Англия</text>
+</string>
+<string id="st_q_z_cell_10_d">
+	<text>Америка</text>
+</string>
+<string id="st_q_z_cell_10_descr">
+	<text>Столица этой страны построена в форме самолета?</text>
+</string>
+<string id="st_q_z_cell_11_a">
+	<text>Персики</text>
+</string>
+<string id="st_q_z_cell_11_b">
+	<text>Сливы</text>
+</string>
+<string id="st_q_z_cell_11_c">
+	<text>Апельсины</text>
+</string>
+<string id="st_q_z_cell_11_d">
+	<text>Мандарины</text>
+</string>
+<string id="st_q_z_cell_11_descr">
+	<text>Как называются китайские чиновники?</text>
+</string>
+<string id="st_q_z_cell_12_a">
+	<text>Дип Перпл</text>
+</string>
+<string id="st_q_z_cell_12_b">
+	<text>Роллинг Стоунз</text>
+</string>
+<string id="st_q_z_cell_12_c">
+	<text>Куин</text>
+</string>
+<string id="st_q_z_cell_12_d">
+	<text>Эй-Си-Ди-Си</text>
+</string>
+<string id="st_q_z_cell_12_descr">
+	<text>Лидером какой музыкальной группы был Фред Меркьюри?</text>
+</string>
+<string id="st_q_z_cell_13_a">
+	<text>1 овца</text>
+</string>
+<string id="st_q_z_cell_13_b">
+	<text>9 овец</text>
+</string>
+<string id="st_q_z_cell_13_c">
+	<text>10 овец</text>
+</string>
+<string id="st_q_z_cell_13_d">
+	<text>11 овец</text>
+</string>
+<string id="st_q_z_cell_13_descr">
+	<text>У Мамеда 10 овец. Все, кроме 9 сдохли. Сколько осталось овец?</text>
+</string>
+<string id="st_q_z_cell_14_a">
+	<text>Первый</text>
+</string>
+<string id="st_q_z_cell_14_b">
+	<text>Второй</text>
+</string>
+<string id="st_q_z_cell_14_c">
+	<text>Третий</text>
+</string>
+<string id="st_q_z_cell_14_d">
+	<text>Одинаково</text>
+</string>
+<string id="st_q_z_cell_14_descr">
+	<text>Первый поезд идёт из Киева в Донецк, а второй - из Донецка в Киев. Вышли они одновременно, но скорость первого в три раза больше скорости второго. Какой поезд будет дальше от Киева в момент встречи?</text>
+</string>
+<string id="st_q_z_cell_15_a">
+	<text>11</text>
+</string>
+<string id="st_q_z_cell_15_b">
+	<text>10</text>
+</string>
+<string id="st_q_z_cell_15_c">
+	<text>21</text>
+</string>
+<string id="st_q_z_cell_15_d">
+	<text>20</text>
+</string>
+<string id="st_q_z_cell_15_descr">
+	<text>Сколько цифр 7 в ряду чисел от "1" до "100"?</text>
+</string>
+<string id="st_q_z_cell_16_a">
+	<text>6</text>
+</string>
+<string id="st_q_z_cell_16_b">
+	<text>7</text>
+</string>
+<string id="st_q_z_cell_16_c">
+	<text>8</text>
+</string>
+<string id="st_q_z_cell_16_d">
+	<text>14</text>
+</string>
+<string id="st_q_z_cell_16_descr">
+	<text>Горело 14 свечей. Восемь погасло. Сколько осталось свечей?</text>
+</string>
+<string id="st_q_z_cell_17_a">
+	<text>1 кг</text>
+</string>
+<string id="st_q_z_cell_17_b">
+	<text>1.5 кг</text>
+</string>
+<string id="st_q_z_cell_17_c">
+	<text>2 кг</text>
+</string>
+<string id="st_q_z_cell_17_d">
+	<text>2.5 кг</text>
+</string>
+<string id="st_q_z_cell_17_descr">
+	<text>Кирпич весит 1 килограмм плюс ещё полкирпича. Сколько весит кирпич?</text>
+</string>
+<string id="st_q_z_cell_18_a">
+	<text>СССР в 1961 году</text>
+</string>
+<string id="st_q_z_cell_18_b">
+	<text>США в 1957 году</text>
+</string>
+<string id="st_q_z_cell_18_c">
+	<text>СССР в 1945 году</text>
+</string>
+<string id="st_q_z_cell_18_d">
+	<text>США в 1969 году</text>
+</string>
+<string id="st_q_z_cell_18_descr">
+	<text>Кто и когда высадился на Луне первым?</text>
+</string>
+<string id="st_q_z_cell_19_a">
+	<text>Блохин</text>
+</string>
+<string id="st_q_z_cell_19_b">
+	<text>Беланов</text>
+</string>
+<string id="st_q_z_cell_19_c">
+	<text>Бессонов</text>
+</string>
+<string id="st_q_z_cell_19_d">
+	<text>Яшин</text>
+</string>
+<string id="st_q_z_cell_19_descr">
+	<text>Какой футболист в СССР первым получил золотой мяч?</text>
+</string>
+<string id="st_q_z_cell_1_a">
+	<text>Новый год</text>
+</string>
+<string id="st_q_z_cell_1_b">
+	<text>8 Марта</text>
+</string>
+<string id="st_q_z_cell_1_c">
+	<text>Когда как</text>
+</string>
+<string id="st_q_z_cell_1_d">
+	<text>Одинаково</text>
+</string>
+<string id="st_q_z_cell_1_descr">
+	<text>Какой из этих праздников бывает чаще — Новый год или 8 Марта?</text>
+</string>
+<string id="st_q_z_cell_20_a">
+	<text>Нигде</text>
+</string>
+<string id="st_q_z_cell_20_b">
+	<text>Летом в России</text>
+</string>
+<string id="st_q_z_cell_20_c">
+	<text>На экваторе</text>
+</string>
+<string id="st_q_z_cell_20_d">
+	<text>В южном полушарии</text>
+</string>
+<string id="st_q_z_cell_20_descr">
+	<text>На какой территории нашей планеты можно увидеть Солнце в северном направлении от горизонта?</text>
+</string>
+<string id="st_q_z_cell_21_a">
+	<text>За 3 секунды</text>
+</string>
+<string id="st_q_z_cell_21_b">
+	<text>За час</text>
+</string>
+<string id="st_q_z_cell_21_c">
+	<text>За 8 минут</text>
+</string>
+<string id="st_q_z_cell_21_d">
+	<text>За 3 наносекунды</text>
+</string>
+<string id="st_q_z_cell_21_descr">
+	<text>За какой временной промежуток свет проходит расстояние от Земли до Луны и обратно?</text>
+</string>
+<string id="st_q_z_cell_22_a">
+	<text>В Швейцарии</text>
+</string>
+<string id="st_q_z_cell_22_b">
+	<text>Во Франции</text>
+</string>
+<string id="st_q_z_cell_22_c">
+	<text>В Италии</text>
+</string>
+<string id="st_q_z_cell_22_d">
+	<text>В Испании</text>
+</string>
+<string id="st_q_z_cell_22_descr">
+	<text>Где придумали майонез?</text>
+</string>
+<string id="st_q_z_cell_23_a">
+	<text>2</text>
+</string>
+<string id="st_q_z_cell_23_b">
+	<text>3</text>
+</string>
+<string id="st_q_z_cell_23_c">
+	<text>4</text>
+</string>
+<string id="st_q_z_cell_23_d">
+	<text>5</text>
+</string>
+<string id="st_q_z_cell_23_descr">
+	<text>Сколько углов в тетраэдре?</text>
+</string>
+<string id="st_q_z_cell_24_a">
+	<text>Аттила</text>
+</string>
+<string id="st_q_z_cell_24_b">
+	<text>Аристотель</text>
+</string>
+<string id="st_q_z_cell_24_c">
+	<text>Кант</text>
+</string>
+<string id="st_q_z_cell_24_d">
+	<text>Йоханнсен</text>
+</string>
+<string id="st_q_z_cell_24_descr">
+	<text>Как зовут известного тирана?</text>
+</string>
+<string id="st_q_z_cell_25_a">
+	<text>26 марта 1986</text>
+</string>
+<string id="st_q_z_cell_25_b">
+	<text>30 июля 1999</text>
+</string>
+<string id="st_q_z_cell_25_c">
+	<text>5 ноября 1990</text>
+</string>
+<string id="st_q_z_cell_25_d">
+	<text>26 апреля 1986</text>
+</string>
+<string id="st_q_z_cell_25_descr">
+	<text>Когда случилась авария на Чернобыльской АЭС?</text>
+</string>
+<string id="st_q_z_cell_26_a">
+	<text>Зимой в Нижегородской области</text>
+</string>
+<string id="st_q_z_cell_26_b">
+	<text>Летом в Нижегородской области</text>
+</string>
+<string id="st_q_z_cell_26_c">
+	<text>В южном полушарии</text>
+</string>
+<string id="st_q_z_cell_26_d">
+	<text>На северном полюсе</text>
+</string>
+<string id="st_q_z_cell_26_descr">
+	<text>Когда Туманность Ориона видна на небе?</text>
+</string>
+<string id="st_q_z_cell_27_a">
+	<text>206</text>
+</string>
+<string id="st_q_z_cell_27_b">
+	<text>350</text>
+</string>
+<string id="st_q_z_cell_27_c">
+	<text>244</text>
+</string>
+<string id="st_q_z_cell_27_d">
+	<text>254</text>
+</string>
+<string id="st_q_z_cell_27_descr">
+	<text>Сколько костей в теле взрослого человека?</text>
+</string>
+<string id="st_q_z_cell_28_a">
+	<text>1939</text>
+</string>
+<string id="st_q_z_cell_28_b">
+	<text>1928</text>
+</string>
+<string id="st_q_z_cell_28_c">
+	<text>1925</text>
+</string>
+<string id="st_q_z_cell_28_d">
+	<text>1947</text>
+</string>
+<string id="st_q_z_cell_28_descr">
+	<text>В каком году появилось цветное телевидение?</text>
+</string>
+<string id="st_q_z_cell_29_a">
+	<text>70 км/час</text>
+</string>
+<string id="st_q_z_cell_29_b">
+	<text>65 км/час</text>
+</string>
+<string id="st_q_z_cell_29_c">
+	<text>56км/час</text>
+</string>
+<string id="st_q_z_cell_29_d">
+	<text>85км/час</text>
+</string>
+<string id="st_q_z_cell_29_descr">
+	<text>Какую стартовую скорость гепард набирает за 2 секунды?</text>
+</string>
+<string id="st_q_z_cell_2_a">
+	<text>Игорина</text>
+</string>
+<string id="st_q_z_cell_2_b">
+	<text>Викторина</text>
+</string>
+<string id="st_q_z_cell_2_c">
+	<text>Дмитровина</text>
+</string>
+<string id="st_q_z_cell_2_d">
+	<text>Георгина</text>
+</string>
+<string id="st_q_z_cell_2_descr">
+	<text>Как называется игра в ответы на вопросы, обычно объединенные общей тематикой?</text>
+</string>
+<string id="st_q_z_cell_30_a">
+	<text>Духовые</text>
+</string>
+<string id="st_q_z_cell_30_b">
+	<text>Клавишные</text>
+</string>
+<string id="st_q_z_cell_30_c">
+	<text>Ударные</text>
+</string>
+<string id="st_q_z_cell_30_d">
+	<text>Струнные</text>
+</string>
+<string id="st_q_z_cell_30_descr">
+	<text>Какие музыкальные инструменты были созданы человеком раньше?</text>
+</string>
+<string id="st_q_z_cell_31_a">
+	<text>100 км/час</text>
+</string>
+<string id="st_q_z_cell_31_b">
+	<text>50 км/час</text>
+</string>
+<string id="st_q_z_cell_31_c">
+	<text>1 км/час</text>
+</string>
+<string id="st_q_z_cell_31_d">
+	<text>0 км/час</text>
+</string>
+<string id="st_q_z_cell_31_descr">
+	<text>С какой скоростью должна бежать собака, чтобы не слышать звона сковородки, привязанной к ее хвосту?</text>
+</string>
+<string id="st_q_z_cell_32_a">
+	<text>10</text>
+</string>
+<string id="st_q_z_cell_32_b">
+	<text>15</text>
+</string>
+<string id="st_q_z_cell_32_c">
+	<text>20</text>
+</string>
+<string id="st_q_z_cell_32_d">
+	<text>25</text>
+</string>
+<string id="st_q_z_cell_32_descr">
+	<text>Сколько очков получает гонщик Формулы-1 за первое место?</text>
+</string>
+<string id="st_q_z_cell_33_a">
+	<text>13 января 1983 года</text>
+</string>
+<string id="st_q_z_cell_33_b">
+	<text>30 января 1983 года</text>
+</string>
+<string id="st_q_z_cell_33_c">
+	<text>1 января 1983 года</text>
+</string>
+<string id="st_q_z_cell_33_d">
+	<text>21 января 1983 года</text>
+</string>
+<string id="st_q_z_cell_33_descr">
+	<text>Когда появился интернет?</text>
+</string>
+<string id="st_q_z_cell_34_a">
+	<text>Франция</text>
+</string>
+<string id="st_q_z_cell_34_b">
+	<text>Италия</text>
+</string>
+<string id="st_q_z_cell_34_c">
+	<text>Испания</text>
+</string>
+<string id="st_q_z_cell_34_d">
+	<text>Китай</text>
+</string>
+<string id="st_q_z_cell_34_descr">
+	<text>Где изобрели макаронные изделия?</text>
+</string>
+<string id="st_q_z_cell_35_a">
+	<text>70°С</text>
+</string>
+<string id="st_q_z_cell_35_b">
+	<text>85°С</text>
+</string>
+<string id="st_q_z_cell_35_c">
+	<text>100°С</text>
+</string>
+<string id="st_q_z_cell_35_d">
+	<text>120°С</text>
+</string>
+<string id="st_q_z_cell_35_descr">
+	<text>При какой температуре закипает вода в чайнике?</text>
+</string>
+<string id="st_q_z_cell_36_a">
+	<text>1912</text>
+</string>
+<string id="st_q_z_cell_36_b">
+	<text>1913</text>
+</string>
+<string id="st_q_z_cell_36_c">
+	<text>1914</text>
+</string>
+<string id="st_q_z_cell_36_d">
+	<text>1915</text>
+</string>
+<string id="st_q_z_cell_36_descr">
+	<text>В каком году началась первая мировая война?</text>
+</string>
+<string id="st_q_z_cell_37_a">
+	<text>1941</text>
+</string>
+<string id="st_q_z_cell_37_b">
+	<text>1939</text>
+</string>
+<string id="st_q_z_cell_37_c">
+	<text>1945</text>
+</string>
+<string id="st_q_z_cell_37_d">
+	<text>1914</text>
+</string>
+<string id="st_q_z_cell_37_descr">
+	<text>В каком году началась вторая мировая война?</text>
+</string>
+<string id="st_q_z_cell_38_a">
+	<text>54</text>
+</string>
+<string id="st_q_z_cell_38_b">
+	<text>64</text>
+</string>
+<string id="st_q_z_cell_38_c">
+	<text>72</text>
+</string>
+<string id="st_q_z_cell_38_d">
+	<text>128</text>
+</string>
+<string id="st_q_z_cell_38_descr">
+	<text>8+8*8=?</text>
+</string>
+<string id="st_q_z_cell_39_a">
+	<text>21 июня 1990 года</text>
+</string>
+<string id="st_q_z_cell_39_b">
+	<text>8 декабря 1991 года</text>
+</string>
+<string id="st_q_z_cell_39_c">
+	<text>19 августа 1991 года</text>
+</string>
+<string id="st_q_z_cell_39_d">
+	<text>21 августа 1991 года</text>
+</string>
+<string id="st_q_z_cell_39_descr">
+	<text>Когда СССР официально распался?</text>
+</string>
+<string id="st_q_z_cell_3_a">
+	<text>Самолет</text>
+</string>
+<string id="st_q_z_cell_3_b">
+	<text>Вертолет</text>
+</string>
+<string id="st_q_z_cell_3_c">
+	<text>Автобус</text>
+</string>
+<string id="st_q_z_cell_3_d">
+	<text>Поезд</text>
+</string>
+<string id="st_q_z_cell_3_descr">
+	<text>У какого из этих транспортных средств имеется стоп-кран?</text>
+</string>
+<string id="st_q_z_cell_40_a">
+	<text>Петром I</text>
+</string>
+<string id="st_q_z_cell_40_b">
+	<text>Екатериной II</text>
+</string>
+<string id="st_q_z_cell_40_c">
+	<text>Николаем I</text>
+</string>
+<string id="st_q_z_cell_40_d">
+	<text>Александром II</text>
+</string>
+<string id="st_q_z_cell_40_descr">
+	<text>Каким российским государем была продана Аляска Соединенным Штатам Америки?</text>
+</string>
+<string id="st_q_z_cell_41_a">
+	<text>Волка</text>
+</string>
+<string id="st_q_z_cell_41_b">
+	<text>Гиппопотама</text>
+</string>
+<string id="st_q_z_cell_41_c">
+	<text>Утки</text>
+</string>
+<string id="st_q_z_cell_41_d">
+	<text>Охотника</text>
+</string>
+<string id="st_q_z_cell_41_descr">
+	<text>Крик какого существа никогда не повторяет эхо?</text>
+</string>
+<string id="st_q_z_cell_42_a">
+	<text>Лошадь</text>
+</string>
+<string id="st_q_z_cell_42_b">
+	<text>Овца</text>
+</string>
+<string id="st_q_z_cell_42_c">
+	<text>Кошка</text>
+</string>
+<string id="st_q_z_cell_42_d">
+	<text>Вол</text>
+</string>
+<string id="st_q_z_cell_42_descr">
+	<text>Какое домашнее животное ни разу не упоминается в Библии?</text>
+</string>
+<string id="st_q_z_cell_43_a">
+	<text>Ухо</text>
+</string>
+<string id="st_q_z_cell_43_b">
+	<text>Нос</text>
+</string>
+<string id="st_q_z_cell_43_c">
+	<text>Рот</text>
+</string>
+<string id="st_q_z_cell_43_d">
+	<text>Аппендикс</text>
+</string>
+<string id="st_q_z_cell_43_descr">
+	<text>Какой орган растет в течение всей жизни человека?</text>
+</string>
+<string id="st_q_z_cell_44_a">
+	<text>Окон</text>
+</string>
+<string id="st_q_z_cell_44_b">
+	<text>Дверей</text>
+</string>
+<string id="st_q_z_cell_44_c">
+	<text>Пилястр</text>
+</string>
+<string id="st_q_z_cell_44_d">
+	<text>Балюстрад</text>
+</string>
+<string id="st_q_z_cell_44_descr">
+	<text>Каких архитектурных элементов никогда не бывает в казино?</text>
+</string>
+<string id="st_q_z_cell_45_a">
+	<text>31</text>
+</string>
+<string id="st_q_z_cell_45_b">
+	<text>32</text>
+</string>
+<string id="st_q_z_cell_45_c">
+	<text>33</text>
+</string>
+<string id="st_q_z_cell_45_d">
+	<text>34</text>
+</string>
+<string id="st_q_z_cell_45_descr">
+	<text>Сколько букв в Русском алфавите?</text>
+</string>
+<string id="st_q_z_cell_46_a">
+	<text>Икнуть</text>
+</string>
+<string id="st_q_z_cell_46_b">
+	<text>Чихнуть</text>
+</string>
+<string id="st_q_z_cell_46_c">
+	<text>Зевнуть</text>
+</string>
+<string id="st_q_z_cell_46_d">
+	<text>Поспать</text>
+</string>
+<string id="st_q_z_cell_46_descr">
+	<text>Что невозможно сделать с открытыми глазами?</text>
+</string>
+<string id="st_q_z_cell_47_a">
+	<text>Сердце</text>
+</string>
+<string id="st_q_z_cell_47_b">
+	<text>Бицепс</text>
+</string>
+<string id="st_q_z_cell_47_c">
+	<text>Трицепс</text>
+</string>
+<string id="st_q_z_cell_47_d">
+	<text>Язык</text>
+</string>
+<string id="st_q_z_cell_47_descr">
+	<text>Какая самая сильная мышца в человеческом организме?</text>
+</string>
+<string id="st_q_z_cell_48_a">
+	<text>Кофе</text>
+</string>
+<string id="st_q_z_cell_48_b">
+	<text>Водка</text>
+</string>
+<string id="st_q_z_cell_48_c">
+	<text>Чай</text>
+</string>
+<string id="st_q_z_cell_48_d">
+	<text>Морс</text>
+</string>
+<string id="st_q_z_cell_48_descr">
+	<text>Какое слово в китайском языке обозначается таким же иероглифом, как слово "бодрость"?</text>
+</string>
+<string id="st_q_z_cell_49_a">
+	<text>Хлеб</text>
+</string>
+<string id="st_q_z_cell_49_b">
+	<text>Картошка</text>
+</string>
+<string id="st_q_z_cell_49_c">
+	<text>Борщ</text>
+</string>
+<string id="st_q_z_cell_49_d">
+	<text>Пельмени</text>
+</string>
+<string id="st_q_z_cell_49_descr">
+	<text>Без какого блюда невозможен обед на Руси?</text>
+</string>
+<string id="st_q_z_cell_4_a">
+	<text>Лыжи</text>
+</string>
+<string id="st_q_z_cell_4_b">
+	<text>Плавание</text>
+</string>
+<string id="st_q_z_cell_4_c">
+	<text>Фехтование</text>
+</string>
+<string id="st_q_z_cell_4_d">
+	<text>Бокс</text>
+</string>
+<string id="st_q_z_cell_4_descr">
+	<text>В каком виде спорта участника могут снять с соревнований из-за рассечения брови?</text>
+</string>
+<string id="st_q_z_cell_50_a">
+	<text>29</text>
+</string>
+<string id="st_q_z_cell_50_b">
+	<text>30</text>
+</string>
+<string id="st_q_z_cell_50_c">
+	<text>31</text>
+</string>
+<string id="st_q_z_cell_50_d">
+	<text>32</text>
+</string>
+<string id="st_q_z_cell_50_descr">
+	<text>Сколько патронов вмещает в себя магазин от автомата АК102?</text>
+</string>
+<string id="st_q_z_cell_5_a">
+	<text>Баскетбол</text>
+</string>
+<string id="st_q_z_cell_5_b">
+	<text>Волейбол</text>
+</string>
+<string id="st_q_z_cell_5_c">
+	<text>Бейсбол</text>
+</string>
+<string id="st_q_z_cell_5_d">
+	<text>Футбол</text>
+</string>
+<string id="st_q_z_cell_5_descr">
+	<text>Какая игра зародилась в 1895 году в США?</text>
+</string>
+<string id="st_q_z_cell_6_a">
+	<text>Бортник</text>
+</string>
+<string id="st_q_z_cell_6_b">
+	<text>Коваль</text>
+</string>
+<string id="st_q_z_cell_6_c">
+	<text>Бондарь</text>
+</string>
+<string id="st_q_z_cell_6_d">
+	<text>Чумак</text>
+</string>
+<string id="st_q_z_cell_6_descr">
+	<text>Представитель какой профессии занимался в старину перевозкой и продажей соли?</text>
+</string>
+<string id="st_q_z_cell_7_a">
+	<text>Роналдо</text>
+</string>
+<string id="st_q_z_cell_7_b">
+	<text>Зидан</text>
+</string>
+<string id="st_q_z_cell_7_c">
+	<text>Рональдиньо</text>
+</string>
+<string id="st_q_z_cell_7_d">
+	<text>Рауль</text>
+</string>
+<string id="st_q_z_cell_7_descr">
+	<text>Этого девятого номера называют "Зубастиком"?</text>
+</string>
+<string id="st_q_z_cell_8_a">
+	<text>25</text>
+</string>
+<string id="st_q_z_cell_8_b">
+	<text>27</text>
+</string>
+<string id="st_q_z_cell_8_c">
+	<text>29</text>
+</string>
+<string id="st_q_z_cell_8_d">
+	<text>31</text>
+</string>
+<string id="st_q_z_cell_8_descr">
+	<text>Какой порядковый номер буквы "Ы" в алфавите?</text>
+</string>
+<string id="st_q_z_cell_9_a">
+	<text>Гримм</text>
+</string>
+<string id="st_q_z_cell_9_b">
+	<text>Одинаковы</text>
+</string>
+<string id="st_q_z_cell_9_c">
+	<text>Райт</text>
+</string>
+<string id="st_q_z_cell_9_d">
+	<text>Вайт</text>
+</string>
+<string id="st_q_z_cell_9_descr">
+	<text>Эти братья считаются создателями первого самолета?</text>
+</string>
+<string id="st_quest_arms_case">
+	<text>Кейс с «Ruger GP100»</text>
+</string>
+<string id="st_quest_arms_case_descr">
+	<text>Внутри кейса находится разобранный «Ruger GP100», а также ремкомплект к нему.</text>
+</string>
+<string id="st_quest_bloodsucker_letter_1">
+	<text>Странная записка 1</text>
+</string>
+<string id="st_quest_bloodsucker_letter_1_descr">
+	<text>В письме значится следующее: "...ты первый кто увидел меня...я тебе сохранил жизнь...в обмен на молчание и... и помощь. Помоги мне...я не могу появится среди людей, но я знаю что у учёных наверняка есть то, что мне нужно...NG-7. Принеси мне этот препарат. Он мне поможет. И я тебя отблагодарю."\nДля загрузки данных в КПК - необходимо использовать.</text>
+</string>
+<string id="st_quest_bloodsucker_letter_2">
+	<text>Странная записка 2</text>
+</string>
+<string id="st_quest_bloodsucker_letter_2_descr">
+	<text>В письме значится следующее: "Спасибо. Загляни в мой ящик, он в конце коридора. Там твоё вознаграждение."</text>
+</string>
+<string id="st_quest_bloodsucker_vaccine">
+	<text>Вакцина NG-7</text>
+</string>
+<string id="st_quest_bloodsucker_vaccine_descr">
+	<text>Озёрский ничего не говорил об этом препарате, но я полагаю, что данный препарат останавливает мутацию.</text>
+</string>
+<string id="st_quest_drink_beylis">
+	<text>«Бейлиз»</text>
+</string>
+<string id="st_quest_drink_beylis_descr">
+	<text>Раритетный напиток, по крайней мере в пределах зоны.</text>
+</string>
+<string id="st_quest_flash_light">
+	<text>Фонарь с оптикой «Messler»</text>
+</string>
+<string id="st_quest_flash_light_descr">
+	<text>Галогенный фонарик и оптический прицел, смонтированные в общем корпусе.</text>
+</string>
+<string id="st_quest_frequency_radio">
+	<text>Высокочастотная рация «Grundig»</text>
+</string>
+<string id="st_quest_frequency_radio_descr">
+	<text>Используется для обеспечения связи на огромных дистанциях. Производства Германии.</text>
+</string>
+<string id="st_quest_heavy_medkits">
+	<text>Медкомплект «CCA72»</text>
+</string>
+<string id="st_quest_heavy_medkits_descr">
+	<text>Используемый МЧС, универсальный медицинский набор с дефибрилятором.</text>
+</string>
+<string id="st_quest_live_water">
+	<text>Живая вода</text>
+</string>
+<string id="st_quest_live_water_descr">
+	<text>Еще одно чудо, рожденное в пределах зоны.</text>
+</string>
+<string id="st_quest_medic_medkit">
+	<text>Аптечка В98</text>
+</string>
+<string id="st_quest_medic_medkit_descr">
+	<text>Большой медицинский комплект. Отлично справляется с любым ранением или кровотечением.</text>
+</string>
+<string id="st_quest_photo_device">
+	<text>Фотоаппарат «Suzanna»</text>
+</string>
+<string id="st_quest_photo_device_descr">
+	<text>Средне-форматная аналоговая камера с жёстко прикреплённым штативом.</text>
+</string>
+<string id="st_quest_sharpshooter_binocular">
+	<text>Бинокль «Следопыт»</text>
+</string>
+<string id="st_quest_sharpshooter_binocular_descr">
+	<text>Специализированный армейский бинокль. Входит в экипировку военных снайперов.</text>
+</string>
+<string id="st_question_game_answer_a">
+	<text>Вариант A</text>
+</string>
+<string id="st_question_game_answer_a_field_hint">
+	<text>Вариант ответа: A</text>
+</string>
+<string id="st_question_game_answer_a_hint">
+	<text>Выбор варианта A</text>
+</string>
+<string id="st_question_game_answer_b">
+	<text>Вариант B</text>
+</string>
+<string id="st_question_game_answer_b_field_hint">
+	<text>Вариант ответа: B</text>
+</string>
+<string id="st_question_game_answer_b_hint">
+	<text>Выбор варианта B</text>
+</string>
+<string id="st_question_game_answer_c">
+	<text>Вариант C</text>
+</string>
+<string id="st_question_game_answer_c_field_hint">
+	<text>Вариант ответа: C</text>
+</string>
+<string id="st_question_game_answer_c_hint">
+	<text>Выбор варианта C</text>
+</string>
+<string id="st_question_game_answer_d">
+	<text>Вариант D</text>
+</string>
+<string id="st_question_game_answer_d_field_hint">
+	<text>Вариант ответа: D</text>
+</string>
+<string id="st_question_game_answer_d_hint">
+	<text>Выбор варианта D</text>
+</string>
+<string id="st_question_game_continue">
+	<text>Продолжить</text>
+</string>
+<string id="st_question_game_continue_hint">
+	<text>Переход к следующему вопросу</text>
+</string>
+<string id="st_question_game_correct_series_hint">
+	<text>Серия правильных ответов</text>
+</string>
+<string id="st_question_game_exit">
+	<text>Выход</text>
+</string>
+<string id="st_question_game_exit_hint">
+	<text>Выход из мини-игры</text>
+</string>
+<string id="st_question_game_manual_hint">
+	<text>Подсказка</text>
+</string>
+<string id="st_question_game_question_field_hint">
+	<text>Текущий вопрос</text>
+</string>
+<string id="st_question_game_question_number_hint">
+	<text>Номер вопроса</text>
+</string>
+<string id="st_question_game_start">
+	<text>Новая игра</text>
+</string>
+<string id="st_question_game_start_hint">
+	<text>Запуск мини-игры</text>
+</string>
+<string id="st_question_game_title">
+	<text>Игра: Что? Где? Когда?</text>
+</string>
+<string id="st_queue_track_hint">
+	<text>Воспроизводить каждый трек по очереди</text>
+</string>
+<string id="st_rasvet_nazar_case_descr">
+	<text>Флешка с информацией о личном тайнике директора группировки «Рассвет» - Назара.</text>
+</string>
+<string id="st_rasvet_nazar_case_title">
+	<text>«Флешка Назара»</text>
+</string>
+<string id="st_rasvet_nazar_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Назара»\n%c[default]Информация с флешки: Восточное депо.</text>
+</string>
+<string id="st_rasvet_nazar_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Назара%c[110,128,128,255]»</text>
+</string>
+<string id="st_red_psyho_development_1">
+	<text>Экспериментальный препарат ПСИХО-1</text>
+</string>
+<string id="st_red_psyho_development_1_descr">
+	<text>Препарат разработанный учёными для борьбы с пси-излучением.</text>
+</string>
+<string id="st_red_psyho_development_2">
+	<text>Экспериментальный препарат ПСИХО-2</text>
+</string>
+<string id="st_red_psyho_development_2_descr">
+	<text>Препарат разработанный учёными для борьбы с пси-излучением.</text>
+</string>
+<string id="st_red_psyho_ecolog_pda">
+	<text>КПК научно-исследовательской группы</text>
+</string>
+<string id="st_red_psyho_ecolog_pda_descr">
+	<text>Информация с КПК: "Препарт был применён на группе охраны, показатели нас удивили. Всё прошло отлично. Второй изобретённый нами препарат для уменьшения пси-активности самого контролёра был применён на пойманом нами контролёре, но к сожалению его пси-активность не уменьшилась, а наоборот увеличилась в несколько раз".</text>
+</string>
+<string id="st_red_psyho_killer_pda_1">
+	<text>КПК охранника экспедиции учёных</text>
+</string>
+<string id="st_red_psyho_killer_pda_1_descr">
+	<text>Информация с КПК: "Людей для охраны практически не осталось. Мутанты атакуют всё с новой силой. Завтра будем возвращаться".</text>
+</string>
+<string id="st_red_psyho_killer_pda_2">
+	<text>КПК члена экспедиции</text>
+</string>
+<string id="st_red_psyho_killer_pda_2_descr">
+	<text>Информация с КПК: "Препарат практически сделан, осталось испытать его. Группа получившая препарат отправилась в центр локации для его испытаний".</text>
+</string>
+<string id="st_remote_charge_cancel">
+	<text>Отмена</text>
+</string>
+<string id="st_remote_charge_place">
+	<text>Установить</text>
+</string>
+<string id="st_shron_check_descr">
+	<text>Укомплектовать схрон ($$ACTION_USE$$)</text>
+</string>
+<string id="st_shustriy_ak47">
+	<text>Трофейный «АК-47»</text>
+</string>
+<string id="st_shustriy_ak47_descr">
+	<text>Старый потертый автомат, со следами чьих-то когтей на прикладе. Оружие, про которое ходят легенды. В частности - говорят, что сам Меченный убил из него последнего в Зоне "излома".</text>
+</string>
+<string id="st_shustriy_ingram_m10">
+	<text>Трофейный «Ingram Mac-10»</text>
+</string>
+<string id="st_shustriy_ingram_m10_descr">
+	<text>На рукоятке пистолета-пулемета выгравирована надпись. Разобрать можно только «За отличн... сл..бу..» и чьи-то инициалы «А.С. П.шк.н».</text>
+</string>
+<string id="st_shustriy_mossberg_590mk">
+	<text>Трофейный «Mossberg 590Mk.L»</text>
+</string>
+<string id="st_shustriy_mossberg_590mk_descr">
+	<text>Судя по внешнему виду, это оружие долго втаптывали в землю; причём, скорее всего, в окрестностях "Агропрома". Заводская надпись на прикладе гласит, что это дробовик из ограниченной партии, отличающейся более качественным воронением.</text>
+</string>
+<string id="st_shustriy_steyr_aug_ss190">
+	<text>Трофейный «Steyr AUG SS190»</text>
+</string>
+<string id="st_shustriy_steyr_aug_ss190_descr">
+	<text>Оружие для настоящих спецназовцев. Над этим оружием поработал техник, знающий свое дело, существенно улучшив боевые характеристики. По слухам, это был Шуруп - легендарный умелец с "Военных складов".</text>
+</string>
+<string id="st_sigerous_top_register">
+	<text>Зарегистрироваться</text>
+</string>
+<string id="st_signaller_toolkit_1">
+	<text>Армейские инструменты ОРК-42</text>
+</string>
+<string id="st_signaller_toolkit_1_descr">
+	<text>Предназначены для проведения качественного походного ремонта войскового оборудования.</text>
+</string>
+<string id="st_signaller_toolkit_2">
+	<text>Армейские инструменты РКБ-86у</text>
+</string>
+<string id="st_signaller_toolkit_2_descr">
+	<text>Предназначены для настройки и калибровки войскового оборудования.</text>
+</string>
+<string id="st_special_helicopter_key">
+	<text>Универсальный ключ пилота</text>
+</string>
+<string id="st_special_helicopter_key_descr">
+	<text>Предназначен для получения экстренного доступа вертолётам.</text>
+</string>
+<string id="st_stalker_barga_case_descr">
+	<text>Флешка с информацией о личном тайнике спелеолога - Баржи.</text>
+</string>
+<string id="st_stalker_barga_case_title">
+	<text>«Флешка Баржи»</text>
+</string>
+<string id="st_stalker_barga_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Баржи»\n%c[default]Информация с флешки: Где-то в центре, под мостом.</text>
+</string>
+<string id="st_stalker_barga_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Баржи%c[110,128,128,255]»</text>
+</string>
+<string id="st_stalker_commander_case_descr">
+	<text>Флешка с информацией о личном тайнике неизвестного - Командира.</text>
+</string>
+<string id="st_stalker_commander_case_title">
+	<text>«Флешка Командира»</text>
+</string>
+<string id="st_stalker_commander_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Командира»\n%c[default]Информация с флешки: Где-то в центре...</text>
+</string>
+<string id="st_stalker_commander_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Командира%c[110,128,128,255]»</text>
+</string>
+<string id="st_stalker_crab_case_descr">
+	<text>Флешка с информацией о личном тайнике сталкера - Краба.</text>
+</string>
+<string id="st_stalker_crab_case_title">
+	<text>«Флешка Краба»</text>
+</string>
+<string id="st_stalker_crab_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Краба»\n%c[default]Информация с флешки: Юг, база наёмников.</text>
+</string>
+<string id="st_stalker_crab_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Краба%c[110,128,128,255]»</text>
+</string>
+<string id="st_stalker_elbrus_case_descr">
+	<text>Флешка с информацией о личном тайнике героя Затона - Эльбруса.</text>
+</string>
+<string id="st_stalker_elbrus_case_title">
+	<text>«Флешка Эльбруса»</text>
+</string>
+<string id="st_stalker_elbrus_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Эльбруса»\n%c[default]Информация с флешки: Цеха подстанции, в домике.</text>
+</string>
+<string id="st_stalker_elbrus_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Эльбруса%c[110,128,128,255]»</text>
+</string>
+<string id="st_stalker_gluhar_case_descr">
+	<text>Флешка с информацией о личном тайнике отважного мента, сталкера - Глухаря.</text>
+</string>
+<string id="st_stalker_gluhar_case_title">
+	<text>«Флешка Глухаря»</text>
+</string>
+<string id="st_stalker_gluhar_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Глухаря»\n%c[default]Информация с флешки: Юг, стоянка на разломе.</text>
+</string>
+<string id="st_stalker_gluhar_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Глухаря%c[110,128,128,255]»</text>
+</string>
+<string id="st_stalker_koriaga_case_descr">
+	<text>Флешка с информацией о личном тайнике приблатнённого лоха, горе-сталкера - Коряги.</text>
+</string>
+<string id="st_stalker_koriaga_case_title">
+	<text>«Флешка Коряги»</text>
+</string>
+<string id="st_stalker_koriaga_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Коряги»\n%c[default]Информация с флешки: КПП, второй этаж.</text>
+</string>
+<string id="st_stalker_koriaga_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Коряги%c[110,128,128,255]»</text>
+</string>
+<string id="st_stalker_magomet_case_descr">
+	<text>Флешка с информацией о личном тайнике вольного сталкера - Магомета.</text>
+</string>
+<string id="st_stalker_magomet_case_title">
+	<text>«Флешка Магомета»</text>
+</string>
+<string id="st_stalker_magomet_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Магомета»\n%c[default]Информация с флешки: отсутствует.</text>
+</string>
+<string id="st_stalker_magomet_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Магомета%c[110,128,128,255]»</text>
+</string>
+<string id="st_stalker_mayron_case_descr">
+	<text>Флешка с информацией о личном тайнике сталкера-загадки, Майрона.</text>
+</string>
+<string id="st_stalker_mayron_case_title">
+	<text>«Флешка Майрона»</text>
+</string>
+<string id="st_stalker_mayron_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Майрона»\n%c[default]Информация с флешки: Запад, трансформаторная комната.</text>
+</string>
+<string id="st_stalker_mayron_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Майрона%c[110,128,128,255]»</text>
+</string>
+<string id="st_stalker_noy_case_descr">
+	<text>Флешка с информацией о личном тайнике затонского психопата - Ноя.</text>
+</string>
+<string id="st_stalker_noy_case_title">
+	<text>«Флешка Ноя»</text>
+</string>
+<string id="st_stalker_noy_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Ноя»\n%c[default]Информация с флешки: Северо-восток, за вулканической аномалией.</text>
+</string>
+<string id="st_stalker_noy_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Ноя%c[110,128,128,255]»</text>
+</string>
+<string id="st_stalker_petruha_case_descr">
+	<text>Флешка с информацией о личном тайнике отчаянного охотника за артефактами, героя битвы при АТП - Петрухи.</text>
+</string>
+<string id="st_stalker_petruha_case_title">
+	<text>«Флешка Петрухи»</text>
+</string>
+<string id="st_stalker_petruha_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Петрухи»\n%c[default]Информация с флешки: Где-то в центре, заброшеная деревня.</text>
+</string>
+<string id="st_stalker_petruha_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Петрухи%c[110,128,128,255]»</text>
+</string>
+<string id="st_stalker_spartak_case_descr">
+	<text>Флешка с информацией о личном тайнике командира зачисточного отряда - Спартака.</text>
+</string>
+<string id="st_stalker_spartak_case_title">
+	<text>«Флешка Спартака»</text>
+</string>
+<string id="st_stalker_spartak_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Спартака»\n%c[default]Информация с флешки: Лесопилка, на конвеере.</text>
+</string>
+<string id="st_stalker_spartak_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Спартака%c[110,128,128,255]»</text>
+</string>
+<string id="st_stalker_tamerlan_case_descr">
+	<text>Флешка с информацией о личном тайнике вольного сталкера - Тамерлана.</text>
+</string>
+<string id="st_stalker_tamerlan_case_title">
+	<text>«Флешка Тамерлана»</text>
+</string>
+<string id="st_stalker_tamerlan_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Тамерлана»\n%c[default]Информация с флешки: отсутствует.</text>
+</string>
+<string id="st_stalker_tamerlan_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Тамерлана%c[110,128,128,255]»</text>
+</string>
+<string id="st_stalker_vano_case_descr">
+	<text>Флешка с информацией о личном тайнике знатока грузинской кухни, сталкера - Вано.</text>
+</string>
+<string id="st_stalker_vano_case_title">
+	<text>«Флешка генацвале Вано»</text>
+</string>
+<string id="st_stalker_vano_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Вано»\n%c[default]Информация с флешки: Не простой тайник, в аномальном поле.</text>
+</string>
+<string id="st_stalker_vano_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Вано%c[110,128,128,255]»</text>
+</string>
+<string id="st_stalker_vobla_case_descr">
+	<text>Флешка с информацией о личном тайнике наглого засранца - Воблы.</text>
+</string>
+<string id="st_stalker_vobla_case_title">
+	<text>«Флешка Воблы»</text>
+</string>
+<string id="st_stalker_vobla_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Воблы»\n%c[default]Информация с флешки: Цеха подстанции, в УАЗике.</text>
+</string>
+<string id="st_stalker_vobla_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Воблы%c[110,128,128,255]»</text>
+</string>
+<string id="st_stalker_zulus_case_descr">
+	<text>Флешка с информацией о личном тайнике легендарного пулемётчика, сталкера - Зулуса.</text>
+</string>
+<string id="st_stalker_zulus_case_title">
+	<text>«Флешка Зулуса»</text>
+</string>
+<string id="st_stalker_zulus_unpack_descr">
+	<text>%c[255,238,153,26]Хабар «Зулуса»\n%c[default]Информация с флешки: Юго-восток, старое здание.</text>
+</string>
+<string id="st_stalker_zulus_unpack_title">
+	<text>%c[110,128,128,255]«%c[110,200,128,0]Хабар Зулуса%c[110,128,128,255]»</text>
+</string>
+<string id="st_statistic_killed_m_13_name">
+	<text>Излом</text>
+</string>
+<string id="st_statistic_killed_m_14_name">
+	<text>Кот баюн</text>
+</string>
+<string id="st_statistic_value_of">
+	<text>из</text>
+</string>
+<string id="st_unique_treasure_spot_descr">
+	<text>Тайник. Код доступа</text>
+</string>
+<string id="st_val_access_card_x18">
+	<text>Карта доступа</text>
+</string>
+<string id="st_val_access_card_x18_descr">
+	<text>Карта доступа к лаборатории Х18.</text>
+</string>
+<string id="st_val_b4_baltazar_pda">
+	<text>КПК Балтазара</text>
+</string>
+<string id="st_val_b4_baltazar_pda_descr">
+	<text>КПК с ценной информацией.</text>
+</string>
+<string id="st_val_key_from_safe">
+	<text>Ключ от сейфа</text>
+</string>
+<string id="st_val_key_from_safe_descr">
+	<text>Ключ от сейфа, в котором должна лежать карта доступа к подземной лаборатории.</text>
+</string>
+<string id="st_val_renegade_money_case">
+	<text>Ящик с деньгами</text>
+</string>
+<string id="st_val_renegade_money_case_descr">
+	<text>Стальной ящик с целым состоянием внутри.</text>
+</string>
+<string id="st_waypoint_editor_autochange_hint">
+	<text>Автоматическая дописка walk и look</text>
+</string>
+<string id="st_waypoint_editor_check_way_closed_hint">
+	<text>Если точек много, путь будет замкнут</text>
+</string>
+<string id="st_waypoint_editor_empty_flags_hint">
+	<text>Создавать точки без флагов - flags = 0x1</text>
+</string>
+<string id="st_wpn_9a91">
+	<text>9A-91</text>
+</string>
+<string id="st_wpn_9a91_descr">
+	<text>Автоматика 9А-91 основана на отводе пороховых газов из канала ствола. Запирание осуществляется поворотом затвора, на 4 боевых упора. УСМ - куркового типа, позволяет вести огонь одиночными и непрерывными очередями.</text>
+</string>
+<string id="st_wpn_ak103">
+	<text>АК-103</text>
+</string>
+<string id="st_wpn_ak103_descr">
+	<text>АК103 - экспортная версия автомата АК-74М, отличающаяся использованием патронов 5,56x45 мм (стандарт НАТО SS109) и 7,62x39 мм (советский патрон образца 1943 г.) соответственно. АК103 может использовать магазины автоматов АК/АКМ.</text>
+</string>
+<string id="st_wpn_ak74m">
+	<text>АК-74М</text>
+</string>
+<string id="st_wpn_ak74m_camo">
+	<text>АК-74М (камуфляж)</text>
+</string>
+<string id="st_wpn_ak74m_descr">
+	<text>АК-74М - АК-74 модернизированный. Оснащён складывающимся вбок пластиковым прикладом и универсальным креплением (планка «ласточкин хвост») для крепления прицелов, как оптических так и ночных, на левой стороне ствольной коробки. Таким образом АК-74М заменил сразу четыре модели: АК-74, АКС-74, АК-74Н и АКС-74Н.</text>
+</string>
+<string id="st_wpn_akm">
+	<text>АКМ</text>
+</string>
+<string id="st_wpn_akm_descr">
+	<text>Автомат, заменивший в 1959 году на вооружении советской армии АК и являющийся его дальнейшим развитием.</text>
+</string>
+<string id="st_wpn_akms">
+	<text>АКМС</text>
+</string>
+<string id="st_wpn_akms_descr">
+	<text>Вариант АКМ со складным прикладом. Система крепления приклада была изменена относительно АКС (складывался вниз-вперед, под ствольную коробку). Модификация разработана специально для десантников.</text>
+</string>
+<string id="st_wpn_aks74">
+	<text>АКС-74</text>
+</string>
+<string id="st_wpn_aks74_descr">
+	<text>Автомат Калашникова калибра 5,45 мм, разработанный в 1970 году конструктором М. Т. Калашниковым и принятый на вооружение вооружённых сил СССР в 1974 году. Является дальнейшим развитием АКМ. Разработка связана с переходом на новый малоимпульсный патрон 5,45x39 мм.</text>
+</string>
+<string id="st_wpn_aps">
+	<text>АПС</text>
+</string>
+<string id="st_wpn_aps_descr">
+	<text>9-мм автоматический пистолет Стечкина - пистолет, разработанный в конце 1940-х - начале 1950-х годов конструктором И. Я. Стечкиным и принятый на вооружение Вооружённых Сил СССР в 1951 году, одновременно с пистолетом Макарова. АПС предназначен для вооружения офицеров, принимающих непосредственное участие в боевых действиях, а также для солдат и сержантов некоторых специальных подразделений.</text>
+</string>
+<string id="st_wpn_ar15">
+	<text>AR-15</text>
+</string>
+<string id="st_wpn_ar15_descr">
+	<text>AR-15 - американская самозарядная винтовка под патрон 5,56x45 мм. Выпускается с 1963 года, поступает в продажу в качестве гражданского оружия самообороны, является штатным оружием в департаментах полиции. Была разработана компанией «ArmaLite» в качестве перспективной штурмовой винтовки для армии США. В 1959 году из-за финансовых трудностей «ArmaLite» продала права на конструкцию компании «Colt’s Manufacturing Company». В начале 1960-х годов автоматический вариант AR-15 был принят на вооружение армии США под обозначением M16. Является кастомной переработкой классической AR-15, с возможностью ведения автоматического огня.</text>
+</string>
+<string id="st_wpn_aug_a1">
+	<text>Steyr AUG A1</text>
+</string>
+<string id="st_wpn_aug_a3">
+	<text>Steyr AUG A3</text>
+</string>
+<string id="st_wpn_aug_descr">
+	<text>Steyr AUG (Armee Universal Gewehr - армейская универсальная винтовка) - комплекс стрелкового оружия, выпущенный в 1977 году австрийской компанией Steyr-Daimler-Puch. В данной винтовке применена схема компоновки «Булл-пап», при которой магазин и затворный узел расположены позади рукоятки управления огнём и спускового крючка.</text>
+</string>
+<string id="st_wpn_bizon">
+	<text>ПП-19 «Бизон»</text>
+</string>
+<string id="st_wpn_bizon_descr">
+	<text>ПП-19 «Бизон» - пистолет-пулемёт 19 модель, разработанный в 1993 году В. М. Калашниковым (сыном конструктора М. Т. Калашникова) и Алексеем Драгуновым (сыном Е. Ф. Драгунова) по заказу Министерства внутренних дел Российской Федерации (МВД России).</text>
+</string>
+<string id="st_wpn_cz75">
+	<text>CZ 75</text>
+</string>
+<string id="st_wpn_cz75_descr">
+	<text>CZ 75 - пистолет, разработанный в Чехословакии в 1975 году. Получил широкое распространение во всём мире. В самой Чехии его использует в основном полиция (армия применяет CZ 83).</text>
+</string>
+<string id="st_wpn_fn57">
+	<text>FN Five-seveN</text>
+</string>
+<string id="st_wpn_fn57_descr">
+	<text>Самозарядный пистолет, разработанный и производимый бельгийской фирмой Fabrique Nationale of Herstal. Название представляет собой комбинацию, с одной стороны Five-seveN это «5-7» (5,7 - калибр оружия, который равен .224), а с другой первая и последняя буква названия, пишущиеся заглавными - это аббревиатура фирмы Fabrique Nationale.</text>
+</string>
+<string id="st_wpn_g36c">
+	<text>HK G36C</text>
+</string>
+<string id="st_wpn_g36c_descr">
+	<text>Экстремально укороченный вариант Немецкой винтовки G36. Винтовка была разработана в 1996 году немецкой оружейной компанией Heckler &amp; Koch</text>
+</string>
+<string id="st_wpn_g3a3">
+	<text>HK G3A3</text>
+</string>
+<string id="st_wpn_g3a3_descr">
+	<text>HK G3 - немецкая автоматическая винтовка, принятая на вооружение армией ФРГ в 1959 году. В 1995 году ей на смену пришёл автомат калибра 5,56 мм НАТО HK G36. G3A3 - вариант с фиксированным прикладом и двумя вариантами цевья (цельное и перфорированное).</text>
+</string>
+<string id="st_wpn_g3sg1">
+	<text>HK G3SG1</text>
+</string>
+<string id="st_wpn_g3sg1_descr">
+	<text>G3SG1 - снайперский вариант для гражданского и полицейского сектора, в некоторых моделях имеет: приклад с регулируемой щекой, складывающиеся сошки и спусковой механизм с возможностью регулировки тягового усилия.</text>
+</string>
+<string id="st_wpn_glock17">
+	<text>Glock 17</text>
+</string>
+<string id="st_wpn_glock17_descr">
+	<text>Glock 17 - австрийский пистолет, разработанный фирмой Glock для нужд австрийской армии. Он стал первым образцом вооружения, разработанным этой фирмой. Получившийся в результате образец оказался довольно удачным и удобным для применения, благодаря чему позднее он был принят на вооружение армии Австрии под обозначением Р80. Благодаря своим боевым качествам и надёжности получил широкое распространение в качестве гражданского оружия самообороны.</text>
+</string>
+<string id="st_wpn_gsh18">
+	<text>ГШ-18</text>
+</string>
+<string id="st_wpn_gsh18_descr">
+	<text>ГШ-18 - российский пистолет, разработанный в конце 1990-х годов в тульском Конструкторском бюро приборостроения. Название получил по первым буквам фамилий конструкторов, под руководством которых проектировался (Грязева Василия Петровича и Шипунова Аркадия Георгиевича) и числа «18», означающего ёмкость магазина.</text>
+</string>
+<string id="st_wpn_kedr">
+	<text>ПП-91 «Кедр»</text>
+</string>
+<string id="st_wpn_kedr_descr">
+	<text>ПП-91 «Кедр» (Конструкция Евгения Драгунова) - пистолет-пулемёт, разработанный в начале 1990-х годов по заказу МВД СССР на базе более раннего ПП-71 конструкции Е. Ф. Драгунова. Первые 40 предсерийных образцов были изготовлены в 1992 г. на Ижевском механическом заводе, с 1993 года началось серийное производство на Златоустовском машиностроительном заводе.</text>
+</string>
+<string id="st_wpn_l115a3">
+	<text>L115A3</text>
+</string>
+<string id="st_wpn_l115a3_descr">
+	<text>В основу оружия легла спортивная винтовка AWM, которую, так же как и L115, производит компания Accuracy International. Представляет собой оружие с продольно-скользящим затвором, запирающим канал ствола при повороте.</text>
+</string>
+<string id="st_wpn_m16a3">
+	<text>M16A3</text>
+</string>
+<string id="st_wpn_m16a3_descr">
+	<text>M16A3 - вариант винтовки M16A2 с режимом непрерывного огня, состоит на вооружении во флоте. Рукоятка для переноски и прицельные приспособления идентичны M16A2. Появилась в 1992 году под индексом M16A2E3.</text>
+</string>
+<string id="st_wpn_m16a4">
+	<text>M16A4</text>
+</string>
+<string id="st_wpn_m16a4_descr">
+	<text>Американская штурмовая винтовка (assault rifle, в российской классификации - автомат) калибра 5,56 мм, разработанная на базе винтовки AR-10 и принятая на вооружение в 1960-х годах.</text>
+</string>
+<string id="st_wpn_m500">
+	<text>Mossberg 500</text>
+</string>
+<string id="st_wpn_m500_descr">
+	<text>Одно из самых распространённых многозарядных ружей с перезарядкой подвижным цевьём (помповых ружей). Впервые выпущено в 1962-м году. Сейчас выпускается в различных модификациях, предназначеных как для охоты, так и для полиции, охранников и самообороны.</text>
+</string>
+<string id="st_wpn_m590a1">
+	<text>Mossberg M590A1</text>
+</string>
+<string id="st_wpn_m590a1_descr">
+	<text>Одно из самых распространённых многозарядных ружей с перезарядкой подвижным цевьём (помповых ружей). Впервые выпущено в 1962-м году. Сейчас выпускается в различных модификациях, предназначеных как для охоты, так и для полиции, охранников и самообороны.</text>
+</string>
+<string id="st_wpn_m9">
+	<text>M9</text>
+</string>
+<string id="st_wpn_m98b">
+	<text>Barrett M98B</text>
+</string>
+<string id="st_wpn_m98b_descr">
+	<text>Американская снайперская винтовка производства компании Barrett Firearms. Как и предшественник - Barrett M98 (так и не прошедшая в серию винтовка), модель Bravo разработана под патрон .338 Lapua Magnum (размером 8,6x70 мм или 8,58x70 мм), в Зоне же неизвестным образом была переделана под патрон 7.62х51.</text>
+</string>
+<string id="st_wpn_m9_descr">
+	<text>M9 - кодовое название Beretta 92SB на вооружении армии США. Популярен и у преступников благодаря мощному патрону и ёмкому магазину. Как правило, в Зону попадают не самые новые модели данного оружия.</text>
+</string>
+<string id="st_wpn_mossberg500">
+	<text>Mossberg 500</text>
+</string>
+<string id="st_wpn_mossberg500_descr">
+	<text>Mossberg 500 - одно из самых распространённых многозарядных ружей с перезарядкой подвижным цевьём (помповых ружей). Впервые выпущено в 1962-м году. Сейчас выпускается в различных модификациях, предназначеных как для охоты, так и для полиции, охранников и самообороны.</text>
+</string>
+<string id="st_wpn_mp412">
+	<text>MP-412 Rex</text>
+</string>
+<string id="st_wpn_mp412_descr">
+	<text>MP-412 Rex - револьвер российского производства под патроны .357 Smith &amp; Wesson Magnum (9x33 мм) и .38 Smith &amp; Wesson Special (9.1x29 мм). Аббревиатура REX означает - "револьвер экспортный" (Revolver for EXport).</text>
+</string>
+<string id="st_wpn_mp443">
+	<text>МП-443 «Грач»</text>
+</string>
+<string id="st_wpn_mp443_descr">
+	<text>Самозарядный пистолет российского производства. Разработан коллективом конструкторов под руководством В. А. Ярыгина, серийно производится на Ижевском механическом заводе.</text>
+</string>
+<string id="st_wpn_mp5sd">
+	<text>MP5SD</text>
+</string>
+<string id="st_wpn_mp5sd_descr">
+	<text>MP5SD - бесшумный вариант MP5 образца 1974 года с интегрированным ПБС.</text>
+</string>
+<string id="st_wpn_p90">
+	<text>FN P90</text>
+</string>
+<string id="st_wpn_pkm">
+	<text>ПКМ</text>
+</string>
+<string id="st_wpn_pkm_descr">
+	<text>Ручная модификация армейского пулемёта с ленточным питанием. Несмотря на высокую массу и неудовлетворительную точность боя, нашёл себе достаточно широкое применение в Зоне. В основном используется для подавления превосходящего по численности противника и при зачистках логов мутантов.</text>
+</string>
+<string id="st_wpn_pmm">
+	<text>ПММ</text>
+</string>
+<string id="st_wpn_pmm_descr">
+	<text>9-мм пистолет Макарова модернизированный ПММ (Индекс ГРАУ - 56-А-125М) - это российский пистолет, разработанный в начале 1990х годов в рамках темы НИОКР «Грач». Принял участие в конкурсе на новый армейский пистолет под обозначением «Грач-3».</text>
+</string>
+<string id="st_wpn_pp2000">
+	<text>ПП-2000</text>
+</string>
+<string id="st_wpn_pp2000_descr">
+	<text>ПП-2000 - российский 9-мм пистолет-пулемёт, разработанный коллективом конструкторов тульского КБ Приборостроения (акад. В. П. Грязев, специалисты Б. И. Кузнецов и А. И. Рассказов). ПП-2000 позиционируется как оружие для подразделений правоохранительных органов, действующих в городских условиях, а также как личное оружие самообороны для отдельных категорий военнослужащих.</text>
+</string>
+<string id="st_wpn_remington870">
+	<text>Remington 870</text>
+</string>
+<string id="st_wpn_remington870_descr">
+	<text>Remington 870 - американское ружьё, впервые представленное в 1950 году компанией Remington Arms. Благодаря своей характерной перезарядке является одним из самых знаменитых помповых ружей в мире. Выпускался в различных модификациях, он подходит как для военных и полиции, так для охотников и спортсменов, а также для самообороны.</text>
+</string>
+<string id="st_wpn_rpk">
+	<text>РПК</text>
+</string>
+<string id="st_wpn_rpk_descr">
+	<text>РПК (Ручной Пулемет Калашникова) - создан как оружие поддержки уровня cтрелкового взвода на основе автомата АКМ, и состоял на вооружении ВС СССР и еще многих стран. До настоящего времени встречается в ВС России и в МВД. В Советской Армии каждому стрелковому взводу (10 человек) полагался по штату один РПК. В основном в войсках РФ РПК был заменен на РПК-74. </text>
+</string>
+<string id="st_wpn_sig552">
+	<text>SIG SG-552</text>
+</string>
+<string id="st_wpn_sig552_descr">
+	<text>SG-552 Commando - ещё более компактный автомат со стволом 226 мм, предназначенный для специальных полицейских подразделений. В отличие от SG 550 возвратная пружина позади затворной рамы и действует непосредственно на неё, а не на шток газового поршня. Автомат имеет изменённый пламегаситель и может оснащаться планками Пикатинни для установки дополнительных аксессуаров.</text>
+</string>
+<string id="st_wpn_sr1mp">
+	<text>СР-1МП «Гюрза»</text>
+</string>
+<string id="st_wpn_sr1mp_descr">
+	<text>9-мм самозарядный пистолет СР-1М «Гюрза» создан в ЦНИИТОЧМАШ конструктором Петром Сердюковым. Пистолет рассчитан на сотрудников спецподразделений и предназначен для поражения солдат противника в бронежилетах или в кабинах автомобилей, а также антенн радиолокационных систем или корпусов ракет.</text>
+</string>
+<string id="st_wpn_sr3m">
+	<text>СР-3М «Вихрь»</text>
+</string>
+<string id="st_wpn_sr3m_descr">
+	<text>СР-3 «Вихрь» - компактный российский автомат, разработанный в климовском ЦНИИточмаш конструкторами А. Д. Борисовым и В. Н. Левченко в 1994 году. Доводился до выпуска конструктором А. И. Ташлыковым и был запущен в серийное производство в 1996 году. Создан на основе бесшумного автомата АС «Вал», с которым унифицирован по основным деталям, что положительно сказывается на производстве и эксплуатации оружия.</text>
+</string>
+<string id="st_wpn_sv98">
+	<text>СВ-98</text>
+</string>
+<string id="st_wpn_sv98_descr">
+	<text>Российская магазинная снайперская винтовка, созданная в 1998-2000 гг. коллективом конструкторов под руководством Владимира Стронского и серийно выпускаемая концерном «Ижмаш».</text>
+</string>
+<string id="st_wpn_svt40">
+	<text>СВТ-40</text>
+</string>
+<string id="st_wpn_svt40_descr">
+	<text>7,62-мм самозарядные винтовки системы Токарева образцов 1938 и 1940 годов (СВТ-38, СВТ-40), а также автоматическая винтовка Токарева образца 1940 года - модификации советской самозарядной винтовки, разработанной Ф. В. Токаревым.</text>
+</string>
+<string id="st_wpn_usp45c">
+	<text>HK USP Compact</text>
+</string>
+<string id="st_wpn_usp_expert">
+	<text>HK USP Expert</text>
+</string>
+<string id="st_wpn_usp_match">
+	<text>HK USP Match</text>
+</string>
+<string id="st_wpn_vepr12">
+	<text>Вепрь-12М</text>
+</string>
+<string id="st_wpn_vepr12_descr">
+	<text>Гладкоствольное ружье (карабин) Вепрь-12 являтеся относительно новой разработкой завода "Молот" (Вятские Поляны) и создано в качестве прямого конкурента пользующимся большой популярностью в России ружьям серии Сайга 12С / Сайга 12К.</text>
+</string>
+<string id="st_wpn_vz61">
+	<text>Vz. 61 «Скорпион»</text>
+</string>
+<string id="st_wpn_vz61_descr">
+	<text>Skorpion vz. 61, «Скорпион» - чешский пистолет-пулемёт, разрабатывался для вооружения танкистов, связистов и военнослужащих других специальностей. Скорпион был принят на вооружение в ЧССР в 1961 году (отсюда обозначение vz.61 - vzor 61, то есть образец 1961 года).</text>
+</string>
+<string id="st_x18_secret_docks_1">
+	<text>Дело №45</text>
+</string>
+<string id="st_x18_secret_docks_1_descr">
+	<text>Сшитые степплером, несколько листов формата А4. Надпись на обложке:\n«Совершенно секретно»\nS/N 773645</text>
+</string>
+<string id="st_x18_secret_docks_2">
+	<text>Дело №112</text>
+</string>
+<string id="st_x18_secret_docks_2_descr">
+	<text>Сшитые степплером, несколько листов формата А4. Надпись на обложке:\n«Совершенно секретно»\nS/N 7736112</text>
+</string>
+<string id="st_x18_secret_docks_3">
+	<text>Дело №18</text>
+</string>
+<string id="st_x18_secret_docks_3_descr">
+	<text>Сшитые степплером, несколько листов формата А4. Надпись на обложке:\n«Совершенно секретно»\nS/N 773618</text>
+</string>
+<string id="st_x18_secret_gs67">
+	<text>Секретное оружие</text>
+</string>
+<string id="st_zat_alfa_customer_pda">
+	<text>КПК альфовца</text>
+</string>
+<string id="st_zat_alfa_customer_pda_descr">
+	<text>Информация с КПК: "Пять зарядов заложены в пяти точках возможного появления агента СБУ, деньги готовы для передачи".</text>
+</string>
+<string id="st_zat_alfa_performer_bandit_pda">
+	<text>КПК неизвестного бандита</text>
+</string>
+<string id="st_zat_alfa_performer_bandit_pda_descr">
+	<text>Информация с КПК: "Спасибо за проделанную работу, деньги заберёте возле Железного леса у нашего человека".</text>
+</string>
+<string id="st_zat_danger_parcel">
+	<text>Посылка для Каневского</text>
+</string>
+<string id="st_zat_danger_parcel_descr">
+	<text>То, что Мститель пренебрежительно назвал "фейерверки", на самом деле выглядит как грамотно упакованный заряд С-4 с детонатором. Получатель - "долговец" Каневский.</text>
+</string>
+<string id="st_zat_mad_dog_pda">
+	<text>КПК капитана Рогожина</text>
+</string>
+<string id="st_zat_mad_dog_pda_descr">
+	<text>КПК с драгоценной информацией для лидера вольных сталкеров - Меча.</text>
+</string>
+<string id="st_zat_medic_antidote">
+	<text>Антидот Фельдшера</text>
+</string>
+<string id="st_zat_medic_antidote_descr">
+	<text>Посылка Костоправу.</text>
+</string>
+<string id="st_zat_postman_parcel">
+	<text>Посылка для сберегателя</text>
+</string>
+<string id="st_zat_postman_parcel_descr">
+	<text>По словам сталкера Петьки Печкина, внутри находится абонплата. Получатель - Маркович, сберегатель на Скадовске.</text>
+</string>
+<string id="st_zat_shakal_weapon">
+	<text>Именной «Ruger GP100»</text>
+</string>
+<string id="st_zat_shakal_weapon_descr">
+	<text>Именное оружие. Выполнено под заказ, на рукоятке красуется надпись "Чапа".</text>
+</string>
+<string id="st_zat_wisdom_book_1">
+	<text>Книга «Мудрости»</text>
+</string>
+<string id="st_zat_wisdom_book_1_descr">
+	<text>Редкая в зоне книга.</text>
+</string>
+<string id="st_zat_wisdom_book_2">
+	<text>Книга «Мудрости»</text>
+</string>
+<string id="st_zat_wisdom_book_2_descr">
+	<text>Редкая в зоне книга.</text>
+</string>
+<string id="st_zat_wisdom_book_3">
+	<text>Книга «Мудрости»</text>
+</string>
+<string id="st_zat_wisdom_book_3_descr">
+	<text>Редкая в зоне книга.</text>
+</string>
+<string id="stalker_story_1">
+	<text>Забираемся, значит, в тот ангар. Вокруг пылища, паутины - вообще под крышу; детекторы полную чушь порют: мол, не то что никого вокруг, а и нас в природе нету. Пошли позиции по периметру занимать: Санёк впереди, мы прикрываем... И тут - БЗДЫНЬ! Балки здоровенные такие железные, ржавые под потолком, так одна срывается - и вниз! Как Санёк увернулся, сам не знает, а эта хрень воткнулась прямо в точности, где он стоял. Ну он, как упал и откатился, не встал на ноги вообще, а так лёжа давай шмалять! Остальные тоже напугались, идиоты, и пошли себе садить в белый свет. Тут Санёк начал орать что-то про тварь в углу. Я смотрю - никакой твари не вижу... В общем, поехали, не операция, а конкретный такой бардак... бордельеро... Пошли мы по этим развалинам ходить; ходили минут пять - осторожненько так, чтоб под балками этими больше не очутиться. И бред, ну бред полный: то одному, то другому чего-то привидится, они давай очередями в полрожка полосовать по пустому месту. А двоим вообще не повезло: один шёл по ровному полу, и вдруг в яму упал, второго сорвавшейся дверью поперёк спины перетянуло. Ну, тут мы вообще завелись - ясно ж ведь, что тварь какая-то развлекается! Врубили пси-защиту, во все углы по газовой гранате - ну и ждём, кто появится, а пальцы на спуске. Ждём-ждём... А тварь, как потом оказалось, летучая была, что ли... Пока мы внизу всем скопом дурака валяли, она себе тихонько сидела под потолком и веселилась, сука... Дошло только до нас поздно, да и то случайно почти. Гадина эта расшатала ещё пару балок - полкрыши и навернулось, прямо на нас и навернулось, четверых ребят в лепёшку на месте... Вот тут мы её и достали! Как Санёк услышал шебуршание наверху, так на автомате и дал очередь - полезнейший, блин, рефлекс! Ну тут и визгу! Мы тоже, ясно, подскочили, дали из всех стволов... Тварь сыпанула сверху с такими воплями, что прям уши закладывало. Ну, тут уж мы душу отвели: кто прикладом бил, кто просто ногами прохаживался, Санёк, так тот нож достал, чтоб ей побольнее потроха вывалить... Командир, понятно, всех с трудом, но пооттаскивал, а то бы вообще падлу эту ложками с пола соскребать пришлось...</text>
+</string>
+<string id="stalker_story_10">
+	<text>А слышали о Проводнике? Самый первый из сталкеров. Первый в Зону ходить начал, и до сих пор живой. Говорят, проведёт в любую точку. Другое дело, что найти его проблематично - афиш с адресом не расклеивает... Да и провести тоже далеко не каждого соглашается. Баблосов вроде бы берёт немало, но если нашёл его и договорился, будь уверен - он тебя железно доставит куда надо. Вот с кем бы перетереть. Уж он-то, наверное, видал, что там за радаром...</text>
+</string>
+<string id="stalker_story_10_name">
+	<text>Сверхпроводник.</text>
+</string>
+<string id="stalker_story_11">
+	<text>Понты бить и с баблом быть - это две большие разницы… Чё думали, тут бабло за так даётся? Ни хера! За так только вас только уродина какая-нибудь схавает или сталкер завалит... Думать надо. Там думать надо, а тут ещё лучше. Совсем быки тут долго не протягивают. Не канает оно, без чердака если… Короче, дело такое было. Втроём мы с Синяком и Цепой покойными через хоздвор шли - дорогу, короче, срезали. Смотрим - олень какой-то чешет. Ну, мы сныкались. А он мимо нас проходит - не замечает. Мелкий такой, а мешок тянет - будь здоров. И автомат хитро висит - чуть что, маслинами нас нашпигует. Ну, Синяк мне - типа, давай пощупаем мозгляка, чё у него там? А я ему: «Тихо, дятел! Лучше смотри, куда он свой хабар тянет». Ну чё… Тут олень как провалился куда-то - мы даже не поняли. Ну, ждём. Он минут через двадцать вылез. Пока стоял-отряхивался, к нему Цепа сзади втихую подъехал и полтыквы из шпалера снёс. Начали они с Синяком тело потрошить: броник на нём был классный, да и лопатник должен быть… Я отлить отошёл - моё пацаны мне всегда отдадут, я по жизни в доле. Тут как херанёт!.. Короче, терпила тот не прост был: он чё-то хитрое наворотил, чтоб рвануло, если с него броник кто-то снимать будет. Я свалил оттудова по-быстрому - мало кто щас на выстрел и взрыв заявится... Пришёл через месяц. От Цепы с Синяком и оленя - хоть бы косточка. Вообще по нулям. Короче, прикинул я, где он в развалины нырял, и сам туда полез... Ну, прошёл три комнаты - голяк! Тут смотрю, в углу куча кроватей навалена. На кой хер там столько лежаков? Короче, взялся разгребать. Разгрёб. Смотрю - мать моя женщина, люк! Поднимаю, значит, крышку, свечу фонариком. Ёпэрэсэтэ! Я в раю!.. Ну, чё там было - моё дело… Внакладе не остался. А уши б развесил - давно бы жмуриком стал или до сих пор босой бегал, бакланил… как некоторые…</text>
+</string>
+<string id="stalker_story_11_name">
+	<text>Люк в рай.</text>
+</string>
+<string id="stalker_story_12">
+	<text>Говорят, есть одна группа товарищей... Их когда шаманами называют, а когда друидами. Они, говорят, вообще с собой электронного оборудования не носят - к природе, дескать, ближе, и всё такое... Ну, они говорят, что Зона на электронику... на излучения всякие электромагнитные сильней реагирует... да, и монстров на тебя натравливает. Как по-ихнему получается, так Зона - живой организм. Нельзя, мол, лезть в неё с приборами - правильный человек и без всяких лишних навесок справится. Правда, автоматы они с собой, козлы, таскают... Нет бы зубами и когтями попробовать... С другой стороны, гибнет их в Зоне вроде бы не так чтобы и много. Не чаще нас они ласты склеивают... Так что, может, правильно додумались... Они, правда, вроде больше с белорусской стороны в Зону заходят... А то хорошо было бы на них поглядеть... да проверить заодно, сколько у них артефактов на кармане водится...</text>
+</string>
+<string id="stalker_story_12_name">
+	<text>История о боевых друидах.</text>
+</string>
+<string id="stalker_story_13">
+	<text>Кто-нить, может, знает о лабораториях засекреченных глубоко в Зоне?.. Они ж вроде как до сих пор работают… Ну да, ну да… Непонятно, как там вообще кто-то выжить смог… без припасов, энергии... Вот и возникает вопрос - а может, там никакие не люди работают? Я тут с типком одним общался… Он сам лаборатории не видел… …Нет, сам не видел, но на сканер словил переговоры какие-то странные на «Янтаре». В них о какой-то лаборатории речь шла. А другой мужик этому, первому, клялся, что наткнулся как-то на фигуру в комбезе типа сталкеровского, но более навороченном… И вроде как фигура эта полупрозрачная ему сказала, чтобы валил отсюда прочь. «Не мешай, мол, уходи, мы тут работаем». Ну, парень пересрал… понятное дело! Кто из нас такое раньше видел?.. С другой стороны, это вроде бы случилось недалеко от радара... Ну, вы понимаете... Ну да. Так что вряд ли правда... Но с другой стороны… мутации, они ведь разные, наверное, бывают? Может, это уже не люди, а какие-то сущности энергетические? А?.. Да ладно, чё вы… Чуть что, сразу ржать…</text>
+</string>
+<string id="stalker_story_13_name">
+	<text>Тень призрака.</text>
+</string>
+<string id="stalker_story_14">
+	<text>Знаете, чего скажу? В этой части Зоны спать почти нельзя... Мне-то везёт, я и так заснуть не могу… а у народа такие кошмары случаются, что, бывает, и не просыпаются с утра... от разрыва сердца, например… Кто коней двигает, а у кого крышу рвёт конкретно... Недавно, правда, слух пошёл, что есть средство. Если сильно приспичит поспать, желательно найти ведро старое… ну или кастрюлю хотя бы большую… выварку там… Главное, чтоб целое… Голову туда засовываешь - и спи себе как у Бога за пазухой… Ну смейтесь, смейтесь. Посмотрю я на вас через пару дней, когда от усталости с ног падать начнёте. Умники… А вот сами скажите, какого, значит, хрена, вояки тут последнее время начали шастать в шлемах хитрых? Ну да! Раньше, года два уж как, ни слуху ни духу, а последнее время зачастили! ШлемА у них новые какие-то - ребята тело одного нашли, рассказывали. Сетка там внутри из тонкой такой проволоки медной, к подшлемнику прикреплённая. Вот и думайте - что за сбруя, на кой ляд она такая? А вообще это «ж-ж-ж» неспроста, точно вам говорю. Из аномалий выбирать тут особо нечего - не те угодья, на других участках и побезопаснее, и куски пожирнее ещё найдутся… Я так мыслю, подходы они намечают. Плацдарм готовят. К Саркофагу пробиться хотят, помяните моё слово. Скоро так фиганёт - никому мало не покажется. Помяните моё слово… Главное, нам с вами подальше отсюда на тот момент оказаться…</text>
+</string>
+<string id="stalker_story_14_name">
+	<text>Кошмар без ведра.</text>
+</string>
+<string id="stalker_story_15">
+	<text>Слышьте, мужики, а вы о «Перехвате» чего-нибудь как следует знаете? Это ж, говорят, спецаки, вояки кадровые! Но как работают, а?! Как работают! Это тебе не мудаки на кордонах! Мало того, что в самое зажопье лазят, так ещё и сидят в Зоне месяцами! Да не гоню я! Базы у них, несколько штук сразу, схронов до фигища, а к периметру им на постой вертушки припасы подкидывают. Командиром у них Громов какой-то… думаю, фамилия фуфло, ненастоящая - они его то «Майором», то «Громом» зовут. Не верите?! Так Пахомыч перехват как-то поймал! Поймал - и давай бог ноги, а то бы шпокнули за здорово живёшь… Секретность, так её! Пахомыча-то все знают? Ну, то-то и оно! Не фуфло это, а серьёзная команда. Хрен знает, чего им тут нарисовалось такого интересного, но работают они - мама дорогая! Мне бы в треть - не, на десять процентов бы так! - уже бы домик в Сочах этажей на десять построил бы… У них, говорят, штука такая есть… монстрОв за двести метров засекать. Любую тварь! Ясен хрен, тогда и по Зоне ходить-поплёвывать... А то ещё, говорят, есть какие-то деятели… Не вояки, а вроде как из наших… В общем, пробрались какие-то к центру Зоны. Мало, что пробрались - они, говорят, и тварей приручать умеют! Они вообще за периметр, на Большую Землю, не ходят - и к ним тоже никто… ну, кроме тех, наверно, кому к Саркофагу пробраться на роду написано… Уж артефактов у них - хоть подтирайся! «Долговцы»-то о них хорошо знают… знают, гады, воюют - и молчат! Спросишь кого из этих полицаев: «Сказки», - говорит. Ну не суки, ну?!</text>
+</string>
+<string id="stalker_story_15_name">
+	<text>Перехват - обитатель глубины.</text>
+</string>
+<string id="stalker_story_16">
+	<text>Братья, вы слышали, что недавно несколько неверных подобрались к антеннам? Монолит направил нас, и братья вовремя их заметили. Одного мы уничтожили сразу. Двое других бросились бежать. Трусы. Все они трусы. Лишь истинная вера не оставляет места для страха! Двое смогли убежать, но Монолит мудр и всеведущ. Значит, они нужны ему живыми.</text>
+</string>
+<string id="stalker_story_16_name">
+	<text>О подорвавшихся к антеннам</text>
+</string>
+<string id="stalker_story_17">
+	<text>Братья, Монолит призвал меня ночью. Я говорил с ним. Он был прекрасен в своём величии. Я едва не ослеп, но его свет наполнил меня великой силой! Я знаю, я чувствую, что его сила пребывает со всеми нами! Он сказал мне, что победить зло способна лишь твёрдая вера. Он сказал, что его сила наполнит только верных. Ещё он открыл мне, что наша победа уже близка!</text>
+</string>
+<string id="stalker_story_17_name">
+	<text>Про Монолит во сне.</text>
+</string>
+<string id="stalker_story_18">
+	<text>Я что думаю… Даже не то, что думаю - так, прикидываю… А вдруг всё - вот всё, что тут есть, - эксперимент какой над людьми? Это, можбыть, какие-нибудь человечки зелёные... А что? Не хуже других версия… Интересно мне: если это что-то вроде полигона, то чего именно они тут обкатывают? Проверяют, по каким артефактам мы больше всего слюни пускаем? Или это вообще бомбы какие-нибудь, а? Порастащили их по всему миру, по лабораториям всяким, богачи пораскошелились… Нет, ну вот это классно!.. Вот это бы с моим удовольствием!.. Купили из-под полы какую-нибудь хрень… кучу бабла отвалили… Типа «у нас круче всех», завидуйте, бараны… а оно… оно… ка-ак херанёт!.. Ой, класс!.. Ой, не могу!.. Ой… уф-ф-ф… А вообще, конечно, фиг его знает, что на самом деле… Разве тот, кто за радар ходил, может насчёт этого порассказать… Ну да, они-то, может, и знают, только сказать не могут - мычат и слюни пускают. Может, потому как раз и пускают… Эх… Вот и лезут мысли всякие… Невесело оно вообще…</text>
+</string>
+<string id="stalker_story_18_name">
+	<text>Об испытании веры.</text>
+</string>
+<string id="stalker_story_19">
+	<text>Я был в Тёмной Долине. Там очень много неверных, ведь сила Монолита ещё не достигла этих мест. Мы охраняли. Ночью на нас напали. Мы яростно сражались с этими животными. Заслуги братьев были велики: скоро Монолит призвал их к себе. Для меня он приготовил ещё одно испытание. Моё оружие уже не стреляло. Но тут Монолит сказал мне: «Ты со мной, а моя сила - с тобой. Если ты будешь твёрд в своей вере, то сокрушишь моих врагов и приблизишься ко мне!». Тогда я стал тенью. Я пригнулся и обошёл их справа. Глупые шпионы ничего не заметили. Они подумали, что покончили с нами и смеялись над пустыми телами наших братьев. Но я уже видел их спины. А потом из моих рук ударила мощь Монолита. Так он убил их всех. Я счастлив служить тебе, Совершенный!..</text>
+</string>
+<string id="stalker_story_19_name">
+	<text>Про схватку в Темной Долине</text>
+</string>
+<string id="stalker_story_1_name">
+	<text>О твари в ангаре.</text>
+</string>
+<string id="stalker_story_2">
+	<text>Мы с напарником к этому НИИ давно присматривались. Уж больно место пустынное. Ни зверья в округе, ни мутантов. Только кто бы туда ни пошёл, либо перепуганные вусмерть, с катушек съехавшие возвращались, либо вообще их больше не видали. Решили сами потихоньку разведать. Выехали затемно, а как добрались до места, уже светать начало. Оставили машину в распадочке, пошли лесом к опушке. Там остановились, напарник остался внизу, а я полез на дерево с оптикой - оглядеться, что в окрестностях творится. Вижу - корпуса, и не так чтобы совсем уж заброшенные, стёкла целые почти все, во дворах травы немного, не то что в других местах - по пояс... По всему выходило, что живут тут, однако тишина полнейшая и движения никакого. Тут вдруг чуть справа ударили очереди - кто-то из автомата бил короткими. Я оптикой туда. Вижу, на крыше одного из корпусов незнакомый мужик как крыса затравленная мечется и стреляет без разбору во все стороны. В кого - смотрю и понять не могу: он там один был. И вот тут… началось... Я всё видел как на ладони. Автомат у него из рук сам собой улетел… Будто крылья у железки выросли!.. Мужик рот раскрыл, видно, заорал чего-то, достал нож и выставил его перед собой. И тут - ёлки-моталки! - гляжу, а перед ним сам собой висит ещё один. Вот так в воздухе жалом к нему и висит, и не держит его никто. Что дальше было - это не ночь рассказывать... Минут пять того мужика резали. Понемногу так, суки, мать их за ногу - там порез, тут укол… Бедолага скоро уже весь в крови был... Потом, как он уж в ногах заплетаться стал, его нож тоже выбило; тут мужика как поднимет в воздух, как завернёт пару раз… Я такого в жизни не видел - натурально, как тряпку вертело… Я в три секунды мокрый стал… Потом... Нет, всё, не буду... В общем, как я отдышался, ещё минут пять шарил прицелом по окрестностям. Руки дрожали, оптика от пота мокрая стала… Ну хоть бы одна тварь! И в обычном диапазоне и в инфакрасном - ни-че-го. Как я слез, напарник на меня поглядел, да и спрашивать раздумал. А как вернулись на базу, я неделю до бровей надирался, не просыхал... Потом, как отошёл чуток, порасспрашивал наших - может, кто про такое чего слышал? Только народ на меня посматривать начал косо - часом, не двинулся ли? Вот такие дела…</text>
+</string>
+<string id="stalker_story_20">
+	<text>Братья, мы патрулировали окраины Чёрного Леса и наткнулись там на неверного-одиночку. Он начал обращаться, поэтому мы не убили его, но он ещё наполовину пребывал в своём животном состоянии... Я знаю, мудрый Монолит сделал это для всех нас: он снова показал нам истинное лицо своих врагов. Теперь наша вера ещё более укрепилась! Близится, братья!.. Близится победа над неверными, и тогда Монолит выполнит наше сокровенное желание! Истинно преданных он приблизит к себе, к славе своей, величию своему! Мы вечно пребудем в сиянии его!..</text>
+</string>
+<string id="stalker_story_20_name">
+	<text>Превращение в Черном Лесу</text>
+</string>
+<string id="stalker_story_2_name">
+	<text>Ужас в НИИ.</text>
+</string>
+<string id="stalker_story_3">
+	<text>В общем, дружбан мой вот чего рассказывал. Подняло его, короче, посреди ночи начальство - типа бегом в лабораторию, груз пришёл. Он сонный, не врубается: какой груз? Они ему: ты чё, спирту казённого перепил? Трупак свежий на столике, кушать подано! Короче, приходит он, и к столу. А там ТАКОЕ... Он, по ходу, жмуриков из Зоны на своём веку повидал: и тебе порванные, и жареные-вАреные, и мутантов попался не один десяток, а тут типа в желудке ужин гулять начал. Короче, с первого взгляда - без двух минут человек, только бошка на нормальную ни фига не похожа: здоровая такая тыква бугристая. Ну и тело - концлагерь, блин, кожа да кости. Но это он потом разобрал, а вначале, говорит, гляжу, месиво какое-то: всё навыворот, заляпано оранжево-красной пакостью - кровь типа... Эти гондурасы боеприпасов не пожалели. До-олг… поиск аномальных объектов, блин… ни хрена себе поиск!.. Это, говорит, была помесь дуршлага и порванной грелки… …и вообще они явно по нему в говнодавах своих хорошо погуляли; не объект, блин, а кусок мяса в чёрном тряпье. Короче, он весь остаток ночи и половину утра горбатился. По ходу, получается, это та самая тварь, которую местные за иллюзиониста знают: чёрные тряпки, видения у сталкЁров, бошка метр в обхвате... Прикольно то, что у него за лицо, кто видел, считали - это типа темечко. Не, личность-то у него натурально есть, только мелкая совсем: моргалки не открываются и нос как булавка, хотя пасть - здоровенная, прям косяк у ворот. Ходит, видно, и голову на грудь свешивает - сил нету ровно держать... мозгляк… А прикиньте, чего эти твари на обед кушают. Грибки! Грибочки! Короче, все видали - в Зоне грибов полно, так «старики» зуб дают, что эти твари из них сок жмут. Гурманы, блин… А ещё знаете, чего у него в мешочке на боку припрятано было? Ну? Да куда вам! Короче, мозги там у него были вяленые. А знаешь, чьи? Контроллерские!..</text>
+</string>
+<string id="stalker_story_3_name">
+	<text>Ужин патологоанатома.</text>
+</string>
+<string id="stalker_story_4">
+	<text>Прибился было к нам тут дурик один… Чешем, значит, скинемся на пять минут отдохнуть, а он сразу на пятую точку - и расслабляется. А как идти - так он последним задницу от земли отрывает. Ну и дорасслаблялся… отстал, а там его контроллер - за мозги цап! - и готово. Кто новичок, в нашем деле, запоминай. Шорох там или ветерок какой подозрительный… Пусть хоть зайчик пробежит… хотя зайчики тут - не дай Боже… Одним словом, готовым каждую секунду надо быть. Чтоб магазины и гранаты под рукой и автомат на непрерывном. Если уж увидел что, высаживай сразу полрожка; если за кустами что-то - тоже лупи, а уж потом спрашивай. Тут курс молодого бойца такой: не нарядов навешают, а с потрохами сожрут, пукнуть не успеешь! Да, по поводу контроллеров - отдельная история. Допустим, отстрелял ты по шороху - и падай сразу же, в ту же секунду! Хоть на спину, хоть как. Контроллер цепляет, если видит тебя - сосредоточиться ему нужно, что ли. Пока загораешь в тенёчке, слушай в оба уха - шуршит ли, идёт ли какая дрянь к тебе. Можно тихонько магазин перещёлкнуть, да и гранаты тоже нелишне приготовить… В общем, если тихо всё, считаешь до трёх и… И валишь! Валишь куда подальше! Ну что, всосали? Эх, салажата… Себя каждую секунду берегите - только так тут и уцелеть можно…</text>
+</string>
+<string id="stalker_story_4_name">
+	<text>Легкая добыча контроллера</text>
+</string>
+<string id="stalker_story_5">
+	<text>Я что думаю… Даже не то, что думаю - так, прикидываю… А вдруг всё - вот всё, что тут есть, - эксперимент какой над людьми? Это, можбыть, какие-нибудь человечки зелёные... А что? Не хуже других версия… Интересно мне: если это что-то вроде полигона, то чего именно они тут обкатывают? Проверяют, по каким артефактам мы больше всего слюни пускаем? Или это вообще бомбы какие-нибудь, а? Порастащили их по всему миру, по лабораториям всяким, богачи пораскошелились… Нет, ну вот это классно!.. Вот это бы с моим удовольствием!.. Купили из-под полы какую-нибудь хрень… кучу бабла отвалили… Типа «у нас круче всех», завидуйте, бараны… а оно… оно… ка-ак херанёт!.. Ой, класс!.. Ой, не могу!.. Ой… уф-ф-ф… А вообще, конечно, фиг его знает, что на самом деле… Разве тот, кто за радар ходил, может насчёт этого порассказать… Ну да, они-то, может, и знают, только сказать не могут - мычат и слюни пускают. Может, потому как раз и пускают… Эх… Вот и лезут мысли всякие… Невесело оно вообще…</text>
+</string>
+<string id="stalker_story_5_name">
+	<text>Подводные камни</text>
+</string>
+<string id="stalker_story_6">
+	<text>Так… помнится, кто-то меня вчера о чём-то спрашивал, а я запамятовал… А, вспомнил. Есть, значит, любопытствующие, отчего в Зоне только наши яйцеголовые копошатся, а иностранцы и носа не кажут, хотя тут материала нобелевок тыщи на три... Значит, отвечаю по пунктам. Во-первых, с какой стати самим сюда лезть, когда можно нашим грант дать, да с такими условиями, что он тебе всё, что надо, сам на блюдечке принесёт? Ну а если во-вторых, они на самом деле тут бывали, и помногу. Это последние года два забугорцы в Зону боятся лезть… случился с ними один крупный облом. Теперь только скупают материалы да информацию. Платят в общем неплохо, так что много одиночек на них работают, да и мародёры тоже… Что, не слышали про эту историю? Ну даёте! Вся Зона на ушах стояла, а вы как с неба упали. В общем, заброска была большая. Одних учёных человек тридцать с половины мира… все светила, ясное дело, туда-сюда... Готовились серьёзно: денег зарядили - хоть одним местом ешь, оборудования - горы. Взяли с собой взвод военспецов для охраны, тройку проводников из наших, на БэТээРы экранированные погрузились и отчалили. Что-что… Вернулись через неделю… двенадцать человек на убитом в хлам БэТээРе. К колючке вышли у Гнилого леса, а там их уже поджидали... мародёры… Да… Этим пофиг, откуда люди вырвались... Положили почти всех. За периметр только трое выбрались - двое наших и один яйцеголовый. Человек от впечатлений мощно чердаком двинулся… Ну, его быстренько за шиворот - и лечить. Он теперь книжку про Зону пишет. Наши-то ещё ничего - опыт помог. Хотя… тоже, наверно, по-своему двинулись: один ушёл к радару и пропал, а второй на Большую землю подался. Ну а остальных Зона взяла. Про Городок-тридцать два слышали? Вот там они и попали. Сначала всё вроде тихо было… ну, в пределах… Они там снимали-замеряли, пробы собирали, в аномалии приборами тыкали... А потом у них началось помешательство. Массовое. Народ начал медленно крышей ехать. Мне наш - тот, что на покой ушёл - рассказывал… Кто горло начинал себе ногтями раздирать, кто голову себе о стену разбивал, а кто просто - ствол в рот, и... А тут ещё зверьё попёрло. Кто в себе был, забаррикадировались в доме. Представили, да? Снаружи ночь и всё окрестные твари, а внутри люди с катушек слетают один за другим. Одним словом, под утро те, кто ещё соображать мог, кое-как вырвались. Назад гнали напрямик, без дороги; даже пару аномалий зацепили... Добрались до Гнилого леса... А из тех, кто там оставался, никого так и не нашли. Ребята только говорят, что в тех местах резко прибавилось контроллеров. Да… Вот с тех пор в Городок-тридцать два никто не суётся, а иностранца в Зону и калачом не заманишь...</text>
+</string>
+<string id="stalker_story_6_name">
+	<text>Хроники яйцеголовых глобалистов.</text>
+</string>
+<string id="stalker_story_7">
+	<text>Так вот чего я сказать-то хотел. Когда «долгИ» того иллюза брали, я ж рядом был! Да я случайно вообще в тех краях оказался! У моей тачки, у «Нивы»-то у моей, правое переднее полетело: болты на кочке срезало. И по запчастям полный ноль. Поматерился я как следует, а потом дай, думаю, на завод схожу, подберу нужные. Ну там километр идти было, туда-сюда - на полчаса делов! Да и бывал я там раньше… Тут вдруг вижу - «долгИ»! Да не просто патруль, а штук полста! Ну, думаю, блин-компот!.. Как стоял, так в кусты и завалился. «Если заметили и прочёсывать начнут, - думаю, - тут мне и трындец». Залёг, короче, в ямке, и стараюсь не дышать. А тут стрельба! Чтоб такими очередями шмаляли, я только раз в жизни слышал… когда Первую базу брали - старики, помните? В общем, лежу, слушаю в оба уха… Оно себе бахает, а потом ещё и как грохнет!.. Через минут пять затихает и ко мне вроде никто не идёт. Ну, я наглости набрался, привстал чутка и в бинокль смотрю. А эти быстренько вытягиваются из цеха… помятые такие, жмуриков своих за собой кучу тащат и иллюза на брезенте… ошмётки уже одни от иллюза остались… Утянулись в лощинку. Потом слышу - движки заревели, и звук ушёл. Я ещё подождал - вроде никого. Я внутрь. Ну ясно, что после «Долга» хрен чего найдёшь! Но интересно ж! Эт-то, я вам скажу, было что-то! Стены они почти насквозь подырявили. Балки поперёк пола валяются, кусок крыши обвалился. Гильз по колено - натуральное стрельбище. Кровища, ошмётки какие-то... Полезного, правда, ничего не нашёл - так, два рожка полных, да автомат валялся, балкой придавленный, не вытащить… Про болты я, ясное дело, и думать забыл… Вернулся к тачке, подумал пять минут, снял по болту с остальных колёс… ну и доехал потихоньку… А выйди я туда раньше на полчасика… Мда…</text>
+</string>
+<string id="stalker_story_7_name">
+	<text>Иллюзия долга.</text>
+</string>
+<string id="stalker_story_8">
+	<text>Да, так я тогда аж до самой окраины Припяти добрался. Ну и решил первым делом осмотреться. Нашёл и точку повыше - там котельная большая была с трубой. Ну, зашёл аккуратненько… вроде, смотрю, вроде чики-пики всё - пыль лежит, следов нет… Влез в топку и пополз: там внутри трубы ступеньки были. Нормально лезу, даже нагар уже и не пачкается - окаменел… Осторожненько высовываюсь... Красота! Полгорода как на ладони! Вытащил бинокль и осматриваюсь... (небольшая пауза) Ну и дальше… Собрался уже, значит, сползать вниз, а тут мысль проскакивает: что под самым носом творится, и не посмотрел! Перегибаюсь малость через край, смотрю на одну сторону, потом на другую… Оба-на! Вот это попал бы! По внутреннему двору карлик разгуливает! Главное, я ж вниз уже почти полез! И то ладно, что он меня пока не видит. Только башню я ему снести не могу: «калаш» на спине висит, а труба узкая совсем, не повернуться. Из «макарова», что под мышкой - говно дело, там метров пятьдесят, да перепад по высоте… короче, если сразу не попаду - а ведь не попаду - тогда точно кердык. Сижу, размышляю. Ну и смотрю заодно, чего он там делает. А делает он чего-то непонятное. Сначала бодренько так, с огоньком, рылся в куче хлама - только куски направо-налево разлетались. А потом вдруг как стоял, так и застыл. Вроде прислушивался. Ну а там совсем бардак начался. Мусор в той куче сам стал шевелиться. Карлик быстренько отпрыгнул, стал этак столбиком, руки к голове приложил, ладони как-то хитро вывернул… а в него ка-ак полетит! Со всех сторон!.. Железки, кирпичи, рубероид, ветки… Его так с головой и накрыло. Ну, думаю, всё. Пипец котёнку, больше ссать не будет… Ни фига! Две секунды хлам этот полежал, а потом точно так же ка-ак брызнет во все стороны! Там обрезки труб были, так они прям в забор бетонный повтыкались. Постоял карла ещё с полминуты, покумекал себе чего-то, а потом развернулся, и в здание потопал. Я ещё минутку дух переводил. «Ну, - думаю, - хорошего понемножку, валить отсюда пора». И тут вдруг дымом потянуло. А потом и припекать стало. Да идите вы в пень! Огонь кто-то снизу развёл! Через минуту - всё, дышать уже нечем было. Кое-как выгреб на край трубы - там площадки никакой, сижу, ножки свесил… Только дым всё равно глаза ест, воздуху не хватает… короче, валить надо срочно! Слава Богу, я с собой репшнура всегда сорок метров таскал на всякий пожарный случай… точно, что пожарный… В общем, сложил я его пополам - он не шибко толстый был - худо-бедно на трубе зафиксировал, платок шейный пополам разорвал, на беспалки намотал сверху, да и полез, всем богам помолясь… В голове одна мысль: только б не сорваться! Ни страховки, ничего, шнур ладони режет… Ну и, конечно, по закону подлости метров пять до земли его не хватило. Сигать пришлось. А что делать? Ох, я и загремел! Повезло, хоть не сломал ничего… Но ободрался и ногу правую потянул - будь здоров! Потом думал, что вообще связки порвал. А тогда дёрнул оттуда так, что золотую медаль в беге, наверно, выиграл бы...</text>
+</string>
+<string id="stalker_story_8_name">
+	<text>Серый в Припяти.</text>
+</string>
+<string id="stalker_story_9">
+	<text>А я тогда глазам своим не поверил. Вот, казалось бы, есть красивые девушки, да? Но эта была... она… Совершенство. Да. Вот. Совершенство. Такое было ощущение, что мир вокруг неё черно-белый и размытый, она одна только в цвете и резкости. Как она двигалась! Я такого тоже никогда раньше не видел. У меня аж ком в горле встал. Ну сдалась ей эта наука! Что ей тут, в Зоне, делать?.. Ну да, в Зоне. К вечеру дело было... У автовокзала там девятиэтажка отдельная. Сначала что-то в окне на первом этаже промелькнуло. Я «калаш» быстро с предохранителя снял, и тут смотрю - из подъезда выходит… Мне глаза протереть захотелось - мало ли, чего от Зоны ожидать можно? А она подходит. А я стою как дурак, глазею… автомат, правда, наготове держу - привычка уже… Тут она меня заметила… Улыбнулась… Поздоровалась… А я слушаю и не слышу, всё на неё смотрю. Она в синем комбинезоне была, ярком таком… но не балахонистом, а почти облегающем… Фигура у неё - что-то фантастическое! Тут только до меня дошло, что я не слушаю совсем, что она говорит - стою и улыбаюсь до ушей… Она, оказывается, из исследовательской группы была. Спрашивала, есть ли у меня возможность ей помочь. Ей! Да я бы в аномалию ради неё полез!.. Сказала, что она занимается этими, как их… эндемиками Зоны. Ну растениями, которые только тут встречаются. Сказала, что сбежала от охраны, потому что с ними никакой свободы действий нет, и в одиночку пришла сюда. Не знаю. Я поверил. Согласился помочь - притащить ей кое-что. Через двое суток пришёл, как договаривались. Раз пять чуть не накрылся, пока собирал. Иду, а у самого в голове одна мысль: вот сейчас я её опять увижу! И ничего. Я даже дома того, где её встретил, не увидел. Вот так... Но какая она была! Она же изнутри прямо светилась…</text>
+</string>
+<string id="stalker_story_9_name">
+	<text>Мужское одиночество.</text>
+</string>
+<string id="val_b2_trader_name">
+	<text>Капитошкин</text>
+</string>
+<string id="val_dolg_spez_quad_3_name">
+	<text>Савчук</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_7">
+	<text>Дальше с тобой расчитается Колмогор. Ты только доведи меня до их блокпоста живым.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_44">
+	<text>Нет, да ну их, этих свободовцев - пусть сами в своем дерьме прошлого колупаются.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_00">
+	<text>Здорово, майор. Вижу ты выполнил уговор. Похвально. документы с бывшей свободовской базы найдены?</text>
+</string>
+<string id="zat_homsa_find_quest_1_text0">
+	<text>Проверьте сталкерскую стоянку около склада контейнеров.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text0">
+	<text>Гонта поручил вам отыскать пропавшую группу сталкеров во главе с проводником Хомсой. Прежде чем преступить к поискам соберите дополнительные сведения о Хомсе у обитателей лагеря.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text1">
+	<text>Обитатели Скадовска сумели назвать Вам три возможные точки, где могла появиться группа Хомсы. Проверьте их все.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text10">
+	<text>Доложите Гонте о результатах своего «закрытого» расследования.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text2">
+	<text>Доложите Гонте о результатах поиска и решите что делать дальше.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text3">
+	<text>Сталкеры из группы Хомсы вышли на связь с обитателями Скадовска. Ситуация с их исчезновением стала проясняться. Дождитесь пока они сново выйдут на связь...</text>
+</string>
+<string id="zat_homsa_find_quest_main_text4">
+	<text>Узнайте у Гонты то что ему сообщили пропавшие рассветовцы.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text5">
+	<text>Гонте удалось связаться с отрядом Рассвета. Стали известны очень странные факты о судьбе проводника. Поговорите с рассветовцем чтобы выяснить истину.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text6">
+	<text>Дело приобрело крайне неожиданный поворот. Окажите содействие сталкерам, чтобы получить возможность провести дополнительное расследование. Лидер отряда Рассвета должен остаться в живых.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text7">
+	<text>Так и не стало ясно до конца что искали рассветовцы на Затоне, но похоже их отряд встрял в переделку. Помогите сталкерам отбиться от исчадий Зоны.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text8">
+	<text>Рассветовцы успели загрузить вам частоту ПДА Хомсы. Найдите этого лже-проводника.</text>
+</string>
+<string id="zat_homsa_find_quest_main_text9">
+	<text>Хомса, так долго притворяющийся простым проводником оказался закрытым сотрудником синдиката. Он отказался сотрудничать. Убейте его.</text>
+</string>
+<string id="zat_killer_shakal_dialog_20">
+	<text>Ну гад, держись...</text>
+</string>
+<string id="zat_killer_spez_1_text0">
+	<text>Для того чтобы оказать помощь Долгу в разрешении возможного конфликта, необходимо впутать в эту авантюру сталкеров из Свободы. Убедите Локи выслать отряд людей для проведения возможной диверсии против Долга.</text>
+</string>
+<string id="zat_killer_spez_1_text1">
+	<text>Необходимо дождаться условленного срока начала специальной опереции. Подготовьтесь к ней за это время.</text>
+</string>
+<string id="zat_killer_spez_1_text2">
+	<text>Решение помогать Долгу оканчательно. Вместо совместного выступления против Долга, убейте свободовских диверсантов.</text>
+</string>
+<string id="zat_killer_spez_1_text3">
+	<text>От Шульги пришло неожиданное сообщение. Отряд его бойцов, охранявших ученых - не выходит на связь. Выясните что произошло...</text>
+</string>
+<string id="zat_killer_spez_1_text4">
+	<text>Долговцы вместе с учеными погибли. Неподалеку лежит раненый наемник брошенный товарищами умирать. Выясните у него что могло произойти.</text>
+</string>
+<string id="zat_killer_spez_1_text5">
+	<text>Синие обманули Вас и использовали в своих коростных целях. Теперь и Долг и Свобода будут считать что вы подстроили всю эту авантюру. Убейте раненного и решите что возможно предпринять в такой непростой ситуации...</text>
+</string>
+<string id="zat_killer_spez_1_text6">
+	<text>Поговорите с Тесаком и решите как вам поступить - разобраться с наемниками или же вернуть нейтралитет других кланов.</text>
+</string>
+<string id="zat_killer_spez_1_text7">
+	<text>Убедите свободовского лидера в своей "непричастности" к произошедшему инциденту.</text>
+</string>
+<string id="zat_killer_spez_1_text8">
+	<text>Убедите лидера долговцев в своей невиновности и отсутствия связи с наемниками...</text>
+</string>
+<string id="zat_killer_spez_2_text0">
+	<text>Для того чтобы "оказать помощь" Свободе в назревающей авантюре необходимо убедить Шульгу в необходимости передать группе его бойцов выгодные для вас указания, связанные с изменением возможного маршрута продвижения на Затоне.</text>
+</string>
+<string id="zat_killer_spez_2_text1">
+	<text>Группа свободовских диверсантов отправлена на Затон. Дождитесь их прибытия.</text>
+</string>
+<string id="zat_killer_spez_2_text2">
+	<text>Обговорите с командиром свободовского отряда предстоящую операцию.</text>
+</string>
+<string id="zat_killer_spez_2_text3">
+	<text>Подготовьтесь к засаде на отряд ученых и отряд Долга, заняв выгодную позицию...</text>
+</string>
+<string id="zat_killer_spez_2_text4">
+	<text>Уничтожьте всех ученых и сопровождающих их долговцев.</text>
+</string>
+<string id="zat_killer_spez_2_text5">
+	<text>Заберите рядом с телом убитого ученого груз с ценной информацией.</text>
+</string>
+<string id="zat_killer_spez_2_text6">
+	<text>Наемниками было дано поручение провести диверсию направленную против обоих кланов. Поэтому уничтожьте и свободовцев тоже.</text>
+</string>
+<string id="zat_killer_spez_2_text7">
+	<text>Наемники прислали своего человека, контролиравшего операцию...Нужно обсудить с ним дальнейшие действия.</text>
+</string>
+<string id="zat_killer_spez_2_text8">
+	<text>Следуйте к Долговскому полковнику и убедите в своей непричастности к произошедшему. Тем самым возможно будет сохранение нейтралитета с Долгом.</text>
+</string>
+<string id="zat_killer_spez_2_text9">
+	<text>Следуйте к лидеру свободовцев и убедите в своей непричастности к произошедшему. Тем самым возможно будет сохранение нейтралитета со Свободой.</text>
+</string>
+<string id="zat_killer_spez_2_title1">
+	<text>Тайное противостояние: дождитесь пока свободовцы отправят своих людей на Затон.</text>
+</string>
+<string id="zat_killer_spez_2_title2">
+	<text>Тайное противостояние: встретьтесь с лидером свободовцев.</text>
+</string>
+<string id="zat_killer_spez_2_title8">
+	<text>Тайное противостояние: убедите Шульгу в своей непричастности к нападению.</text>
+</string>
+<string id="zat_killer_spez_2_title9">
+	<text>Тайное противостояние: убедите Локи в своей непричастности к гибели свободовского отряда...</text>
+</string>
+<string id="zat_killer_spez_operation_text0">
+	<text>Наемники затевают очень опасную авантюру против Долга и Свободы. Вам же в ней отведена едва ли не основная роль. Решите как вам поступить - выступить на стороне Долга, или их оппонентов.</text>
+</string>
+<string id="zat_rasvet_quest_homsa_leader_name">
+	<text>Шипач</text>
+</string>
+<string id="zat_stalker_breeder_work_dialog_3_5">
+	<text>У меня нет артефактов.</text>
+</string>
+<string id="zat_stalker_trader_dialog_38">
+	<text>«ОЦ-33 Пернач»</text>
+</string>
+<string id="zat_sultan_kontr_text0">
+	<text>Султан поручил вам провести специальное расследование и найти обманувшего его человека по имени Якут. Для начала необходимо получить всю возможную информацию о Якуте у свободовского "осведомителя" Багира.</text>
+</string>
+<string id="zat_sultan_kontr_text1">
+	<text>Багир сообщил, что Якут был пойман Люцианом - бандитом из чапаевской банды на Затоне. Отправляйтесь туда и убедитесь в правдивости слов стукача.</text>
+</string>
+<string id="zat_sultan_kontr_text2">
+	<text>Люциан обещал пойти на возможный компромисс в назревающей конфрантации между бандитскими кланами, только в случае если вам удасться выудить из Якута сведения о похищенных документах. Получите их у заложника.</text>
+</string>
+<string id="zat_sultan_kontr_text3">
+	<text>Якут раскололся. Но все-равно его это уже не спасет. Дождитесь пока все закончится и начните поиски тайников.</text>
+</string>
+<string id="zat_sultan_kontr_text4">
+	<text>Якут перед смертью расказал вам о всех украденных документах Султана, которые он спрятал в тайниках на Затоне и Юпитере. Придется их отыскать согласно наводке по его словам: ".подавитесь...три тайника. на Затоне два: у станции переработки отходов и недалеко от ВНЗ в канализации...и у Янова, на карьере...в...железном..кр.."</text>
+</string>
+<string id="zat_sultan_kontr_text5">
+	<text>Все документы Султана у вас. Решите сторону какого бандита занять: Султана или Люциана.</text>
+</string>
+<string id="zat_sultan_kontr_text_1_0">
+	<text>Вы отдали документы со всеми сведениями по контрабанде Люциану. Теперь же необходимо придумать подходящую отмазку для Султана. Попытайтесь все свалить на свободовского стукача Багира.</text>
+</string>
+<string id="zat_sultan_kontr_text_1_1">
+	<text>Локи поверил в двуличность сталкера Багира и дал свое молчаливое согласие на его устранение. Убейте свободовца.</text>
+</string>
+<string id="zat_sultan_kontr_text_1_2">
+	<text>Следуйте к Султану и свалите всю вину по правалу задания на его осведомителя Багира.</text>
+</string>
+<string id="zat_sultan_kontr_text_2_0">
+	<text>Все документы возвращены заказчику. Теперь Султан поручил вам разобраться с конкурентом в деле контрабанды - Люцианом. По полученным от Багира данным Люциан должен в скором времени уйти с базы и отправиться на Юпитер. Дождитесь его появления.</text>
+</string>
+<string id="zat_sultan_kontr_text_2_1">
+	<text>Устраните конкурентов Султана.</text>
+</string>
+<string id="zat_sultan_kontr_text_2_2">
+	<text>Люциан уничтожен. Вернитесь к заказчику за наградой.</text>
+</string>
+<string id="zat_wounded_monolith_dialog_1">
+	<text>...</text>
+</string>
+<string id="zat_wounded_monolith_dialog_18">
+	<text>Хорошо.</text>
+</string>
+<string id="zat_wounded_monolith_dialog_2">
+	<text>...</text>
+</string>
