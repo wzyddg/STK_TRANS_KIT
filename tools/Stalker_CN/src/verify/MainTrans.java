@@ -75,12 +75,16 @@ public class MainTrans {
 		// твари."));
 		// TODO Auto-generated method stub
 		// File rusDir = new File("D:\\AZMtext\\gameplay");
-		String existingFolderAddress = "D:\\fototext\\chs";
-		String oriAddress = "D:\\fototext\\eng";
+		String existingFolderAddress = "D:\\SGM2.2_LostSoul_CNPack_Complete\\chs\\not_used_ssssnow";
+		String oriAddress = "D:\\SGM2.2_LostSoul_CNPack_Complete\\lack";
 		String chsAddress = "D:\\SGM2.2_LostSoul_CNPack_Complete\\chs";
 		File chsDir = new File(chsAddress);
 		File oriDir = new File(oriAddress);
-		mapExistingFile(existingFolderAddress);
+//		mapExistingFile(existingFolderAddress);
+//		existingFolderAddress = "D:\\SGM2.2_LostSoul_CNPack_Complete\\chs\\inc";
+//		mapExistingFile(existingFolderAddress);
+//		existingFolderAddress = "D:\\SGM2.2_LostSoul_CNPack_Complete\\chs";
+//		mapExistingFile(existingFolderAddress);
 		// File chsDir = new
 		// File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
 		ArrayList<String> finishedFiles = new ArrayList<String>();
