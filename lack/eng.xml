@@ -547,7 +547,7 @@
 	<text>%c[110,128,128,255] ' %c[110,200,128,0] 钻石的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_black_angel_unindification_name">
-	<text>Neidintifitsirovan UNTRANSLATED</text>
+	<text>未识别设备</text>
 </string>
 <string id="st_demolution_ballon_descr">
 	<text>一个装有未知气体空泡。还没有打开，所以属性未知.</text>
@@ -607,19 +607,19 @@
 	<text>装有潜行者珍贵的资料的PDA</text>
 </string>
 <string id="st_device_pda_b1_renegade_1">
-	<text>PDA renegatovtsa  UNTRANSLATED</text>
+	<text>反叛者的PDA</text>
 </string>
 <string id="st_device_pda_b1_renegade_1_descr">
 	<text>装有潜行者珍贵的资料的PDA</text>
 </string>
 <string id="st_device_pda_b1_renegade_2">
-	<text>PDA renegatovtsa  UNTRANSLATED</text>
+	<text>反叛者的PDA</text>
 </string>
 <string id="st_device_pda_b1_renegade_2_descr">
 	<text>装有潜行者珍贵的资料的PDA</text>
 </string>
 <string id="st_device_pda_b1_renegade_3">
-	<text>PDA renegatovtsa  UNTRANSLATED</text>
+	<text>反叛者的PDA</text>
 </string>
 <string id="st_device_pda_b1_renegade_3_descr">
 	<text>装有潜行者珍贵的资料的PDA</text>
@@ -724,76 +724,76 @@
 	<text>Pomegranate GL-1</text>
 </string>
 <string id="st_grenade_light_descr">
-	<text>Lighting chemical grenade. It is intended to cover the terrain during the night battle, as well as to blind and disorient the enemy. Duration of less than a minute.</text>
+	<text>一枚化学发光的手榴弹.它的作用是照亮地形以便在夜间作战,以及让暂时致盲和迷惑敌人.持续时间少于一分钟.</text>
 </string>
 <string id="st_guidebook_escape_point1">
-	<text>Bridge</text>
+	<text>桥</text>
 </string>
 <string id="st_guidebook_escape_point2">
-	<text>Vehicle station</text>
+	<text>车站</text>
 </string>
 <string id="st_guidebook_escape_point3">
-	<text>Village</text>
+	<text>新手村</text>
 </string>
 <string id="st_guidebook_escape_point4">
-	<text>Blockhouse</text>
+	<text>碉堡</text>
 </string>
 <string id="st_guidebook_escape_point5">
-	<text>Base</text>
+	<text>基地</text>
 </string>
 <string id="st_guidebook_escape_point6">
-	<text>Blockhouse</text>
+	<text>碉堡</text>
 </string>
 <string id="st_guidebook_marsh_point1">
-	<text>Settlement</text>
+	<text>小镇</text>
 </string>
 <string id="st_guidebook_marsh_point2">
-	<text>Machine operators yard</text>
+	<text>机器操作围场</text>
 </string>
 <string id="st_guidebook_marsh_point3">
-	<text>Settlement</text>
+	<text>小镇</text>
 </string>
 <string id="st_guidebook_marsh_point4">
-	<text>Pumping station</text>
+	<text>抽水站</text>
 </string>
 <string id="st_guidebook_marsh_point5">
-	<text>Fisherman's Farm</text>
+	<text>渔人农场</text>
 </string>
 <string id="st_guidebook_marsh_point6">
-	<text>The Old Church</text>
+	<text>老教堂</text>
 </string>
 <string id="st_guidebook_marsh_point7">
-	<text>Settlement</text>
+	<text>小镇</text>
 </string>
 <string id="st_guidebook_marsh_point8">
-	<text>Burnt farmstead</text>
+	<text>烧毁的村庄</text>
 </string>
 <string id="st_important_science_docks">
-	<text>Scientific report �1264</text>
+	<text>科学报告1264号</text>
 </string>
 <string id="st_important_science_docks_descr">
-	<text>Stitched stepplerom, several sheets of A4. The inscription on the cover: \n 'Merge anomalous rock' \n S/N 1264</text>
+	<text>钉起来的几张A4纸.封面上写着: \n '融合变异石块' \n S/N 1264</text>
 </string>
 <string id="st_informer_name">
-	<text>Informant</text>
+	<text>线人</text>
 </string>
 <string id="st_jup_azot_charge_instruments">
-	<text>Tools for working with explosives</text>
+	<text>炸药的配套工具</text>
 </string>
 <string id="st_jup_azot_charge_instruments_descr">
-	<text>Special kit for neutralization of charges.</text>
+	<text>处理炸药的专用工具.</text>
 </string>
 <string id="st_jup_azot_charge_scanner">
-	<text>Low-frequency scanner</text>
+	<text>低频扫描仪</text>
 </string>
 <string id="st_jup_azot_charge_scanner_descr">
-	<text>Special scanner for DF charges. Search radius - 50 meters.</text>
+	<text>用于检测DF充能的特殊扫描仪。搜索半径：50米。</text>
 </string>
 <string id="st_jup_azot_simply_raciya">
-	<text>Radio</text>
+	<text>无线电</text>
 </string>
 <string id="st_jup_azot_simply_raciya_descr">
-	<text>Ordinary radio with FM receiver.</text>
+	<text>普通的调频收音机.</text>
 </string>
 <string id="st_jup_killer_caravan_case">
 	<text>会计的箱子</text>
@@ -802,10 +802,10 @@
 	<text>装着什么东西的铁盒子.</text>
 </string>
 <string id="st_jup_thief_voron_pda">
-	<text>PDA 'Raven'</text>
+	<text>乌鸦的PDA</text>
 </string>
 <string id="st_jup_thief_voron_pda_descr">
-	<text>PDA contains the zipped file archive is password protected. My PDA does not support this version of the archiver. You need to pass the PDA Stormbreaker - perhaps he can extract information.</text>
+	<text>PDA包含着归档文件, 并且被密码保护着.我的PDA不支持此版本的归档文件.需要移交给风暴突击者,也许他可以提取信息.</text>
 </string>
 <string id="st_killer_cherep_case_descr">
 	<text>装着骷髅的个人藏物点信息的闪存驱动器.-骷髅</text>
@@ -892,58 +892,58 @@
 	<text>%c[110,128,128,255] ' %c[110,200,128,0] 军阀的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_letter_from_agent">
-	<text>Letter from a connected</text>
+	<text>特工寄来的信</text>
 </string>
 <string id="st_letter_from_agent_descr">
-	<text>In the letter it says: Major Degtyarev. You need to urgently meet with connected power in the territory. Callsign - 'How is your fillet?'.</text>
+	<text>信里说：Degtyarev少校。你需要赶快会见我们在这片区域的特工。暗号：你的鱼片怎么样?</text>
 </string>
 <string id="st_level_change_to_agroprom">
-	<text>On Agriculture</text>
+	<text>农研所</text>
 </string>
 <string id="st_level_change_to_agroprom_underground">
-	<text>In dungeons Agroproma</text>
+	<text>农研所地下</text>
 </string>
 <string id="st_level_change_to_darkvalley">
-	<text>The Dark Valley</text>
+	<text>黑暗山谷</text>
 </string>
 <string id="st_level_change_to_escape">
-	<text>On Cordon</text>
+	<text>警戒线</text>
 </string>
 <string id="st_level_change_to_marsh">
-	<text>In the swamp</text>
+	<text>沼泽</text>
 </string>
 <string id="st_level_change_to_military">
-	<text>At military depots</text>
+	<text>军方仓库</text>
 </string>
 <string id="st_level_change_to_red_forest">
-	<text>In the Red Forest</text>
+	<text>红森林</text>
 </string>
 <string id="st_level_change_to_x18">
-	<text>On X18</text>
+	<text>X18实验室</text>
 </string>
 <string id="st_mar_army_cargo">
-	<text>Military luggage</text>
+	<text>军方货物</text>
 </string>
 <string id="st_mar_army_cargo_descr">
-	<text>Army cargo. Inside contains a chemical unknown to me. Need to pass it to the SBU.</text>
+	<text>军方货物.里面包含了未知的化学物质.需要把它带给SBU.</text>
 </string>
 <string id="st_mar_georadar">
-	<text>GPR</text>
+	<text>探地雷达</text>
 </string>
 <string id="st_mar_georadar_descr">
-	<text>With the help of GPR can find any piece of iron, no matter how deep underground it may be. Detection radius - 30 meters.</text>
+	<text>借助探地雷达可以找到任何一块金属,不管它在地下有多深.探测半径：30 米.</text>
 </string>
 <string id="st_mar_mine_detector">
-	<text>Mine detector</text>
+	<text>地雷探测器</text>
 </string>
 <string id="st_mar_mine_detector_descr">
-	<text>It can help you to find and defuse mines hidden under the ground.</text>
+	<text>它可以帮助你找到并拆除地下埋藏的地雷.</text>
 </string>
 <string id="st_mar_mine_sensor">
-	<text>Sensor for a detector</text>
+	<text>探测器的传感器</text>
 </string>
 <string id="st_mar_mine_sensor_descr">
-	<text>The most important part of any mine detector.</text>
+	<text>地雷探测器最重要的部分.</text>
 </string>
 <string id="st_mercenary_suvorov_case_descr">
 	<text>装着佣兵指挥官的个人藏物点信息的闪存驱动器.-苏沃洛夫队长</text>
@@ -982,7 +982,7 @@
 	<text>剧烈爆炸物,带有一个远程引爆遥控.</text>
 </string>
 <string id="st_mod_menu_modes_ammo">
-	<text>Besco. ammunition</text>
+	<text>无限弹药</text>
 </string>
 <string id="st_monolit_brodiaga_case_descr">
 	<text>装着前黑石成员的个人藏物点信息的闪存驱动器.-滚石</text>
@@ -1045,97 +1045,97 @@
 	<text>打印</text>
 </string>
 <string id="st_pri_fenix_brother_medallion">
-	<text>Medallion of Germanicus</text>
+	<text>日耳曼勋章</text>
 </string>
 <string id="st_pri_fenix_brother_medallion_descr">
-	<text>Personal medallion brother Phoenix - Germanicus.</text>
+	<text>凤凰兄弟的私人日耳曼勋章。</text>
 </string>
 <string id="st_pri_inquisitor_pda_1">
-	<text>PDA Monolith</text>
+	<text>黑石的PDA</text>
 </string>
 <string id="st_pri_inquisitor_pda_1_descr">
-	<text>PDA data.</text>
+	<text>包含着数据的PDA.</text>
 </string>
 <string id="st_pri_inquisitor_pda_2">
-	<text>PDA Monolith</text>
+	<text>黑石的PDA</text>
 </string>
 <string id="st_pri_inquisitor_pda_2_descr">
-	<text>PDA data.</text>
+	<text>包含着数据的PDA.</text>
 </string>
 <string id="st_q_z_cell_10_a">
-	<text>Brazil</text>
+	<text>巴西</text>
 </string>
 <string id="st_q_z_cell_10_b">
-	<text>Mongolia</text>
+	<text>蒙古</text>
 </string>
 <string id="st_q_z_cell_10_c">
-	<text>England</text>
+	<text>英格兰</text>
 </string>
 <string id="st_q_z_cell_10_d">
-	<text>America</text>
+	<text>美国</text>
 </string>
 <string id="st_q_z_cell_10_descr">
-	<text>The capital of this country is built in the shape of an airplane?</text>
+	<text>国家的首都是以飞机的形状建成的吗?</text>
 </string>
 <string id="st_q_z_cell_11_a">
-	<text>Peaches</text>
+	<text>桃子</text>
 </string>
 <string id="st_q_z_cell_11_b">
-	<text>Plums</text>
+	<text>李子</text>
 </string>
 <string id="st_q_z_cell_11_c">
-	<text>Oranges</text>
+	<text>橙子</text>
 </string>
 <string id="st_q_z_cell_11_d">
-	<text>Tangerines</text>
+	<text>橘子</text>
 </string>
 <string id="st_q_z_cell_11_descr">
-	<text>What do you call Chinese officials?</text>
+	<text>你怎么称呼中国官员?</text>
 </string>
 <string id="st_q_z_cell_12_a">
-	<text>Deep Purple</text>
+	<text>深紫色</text>
 </string>
 <string id="st_q_z_cell_12_b">
-	<text>The Rolling Stones</text>
+	<text>滚石乐队</text>
 </string>
 <string id="st_q_z_cell_12_c">
-	<text>Queen</text>
+	<text>女王</text>
 </string>
 <string id="st_q_z_cell_12_d">
 	<text>BAC-Dee-Sea</text>
 </string>
 <string id="st_q_z_cell_12_descr">
-	<text>The leader of a musical group was Fred Mercury?</text>
+	<text>哪一个乐队的队长是Fred Mercury?</text>
 </string>
 <string id="st_q_z_cell_13_a">
-	<text>1 sheep</text>
+	<text>1</text>
 </string>
 <string id="st_q_z_cell_13_b">
-	<text>9 sheep</text>
+	<text>9</text>
 </string>
 <string id="st_q_z_cell_13_c">
-	<text>10 sheep</text>
+	<text>10</text>
 </string>
 <string id="st_q_z_cell_13_d">
-	<text>11 sheep</text>
+	<text>11</text>
 </string>
 <string id="st_q_z_cell_13_descr">
-	<text>In 10 Mamed sheep. All but nine dead. How much is left of sheep?</text>
+	<text>有十只羊，除了九都死了。还剩几只羊？</text>
 </string>
 <string id="st_q_z_cell_14_a">
-	<text>The First</text>
+	<text>第一个</text>
 </string>
 <string id="st_q_z_cell_14_b">
-	<text>Second</text>
+	<text>第二个</text>
 </string>
 <string id="st_q_z_cell_14_c">
-	<text>Third</text>
+	<text>第三个</text>
 </string>
 <string id="st_q_z_cell_14_d">
-	<text>Equally</text>
+	<text>相同</text>
 </string>
 <string id="st_q_z_cell_14_descr">
-	<text>The first train goes from Kiev to Donetsk, and the second - from Donetsk to Kiev. They both come out, but the speed of the first three times the second speed. What will happen next train from Kiev at the time of the meeting?</text>
+	<text>第一班火车从基辅到顿涅茨克,第二班车从顿涅茨克到基辅.他们俩同时出发, 但第一班的速度是第二班的三倍.在相遇的时候,下一趟到基辅的火车将会发生什么?</text>
 </string>
 <string id="st_q_z_cell_15_a">
 	<text>11</text>
@@ -1150,7 +1150,7 @@
 	<text>20</text>
 </string>
 <string id="st_q_z_cell_15_descr">
-	<text>How many digits 7 in the series of numbers from '1' to '100'?</text>
+	<text>从'1'到'100'有多少个'7'?</text>
 </string>
 <string id="st_q_z_cell_16_a">
 	<text>6</text>
@@ -1165,7 +1165,7 @@
 	<text>14</text>
 </string>
 <string id="st_q_z_cell_16_descr">
-	<text>14 burning candles. Eight extinguished. How much is left of candles?</text>
+	<text>14根点燃的蜡烛，灭掉八根，还剩几根蜡烛？</text>
 </string>
 <string id="st_q_z_cell_17_a">
 	<text>1 kg</text>
@@ -1180,52 +1180,52 @@
 	<text>2.5 kg</text>
 </string>
 <string id="st_q_z_cell_17_descr">
-	<text>Brick weighs 1 kilogram plus a half-brick. How heavy brick?</text>
+	<text>一块砖与一公斤加半块砖一样重，一块砖多重？</text>
 </string>
 <string id="st_q_z_cell_18_a">
-	<text>The Soviet Union in 1961</text>
+	<text>苏联，在1961年.</text>
 </string>
 <string id="st_q_z_cell_18_b">
-	<text>United States in 1957</text>
+	<text>美国，在1957年。</text>
 </string>
 <string id="st_q_z_cell_18_c">
-	<text>Soviet Union in 1945</text>
+	<text>苏联，在1945年。</text>
 </string>
 <string id="st_q_z_cell_18_d">
-	<text>United States in 1969</text>
+	<text>美国，在1969年。</text>
 </string>
 <string id="st_q_z_cell_18_descr">
-	<text>When and who first landed on the moon?</text>
+	<text>哪个国家在什么时候第一个登上月球？</text>
 </string>
 <string id="st_q_z_cell_19_a">
-	<text>Blokhin</text>
+	<text>布洛欣</text>
 </string>
 <string id="st_q_z_cell_19_b">
-	<text>Belanov</text>
+	<text>别拉诺夫</text>
 </string>
 <string id="st_q_z_cell_19_c">
-	<text>Bessonov</text>
+	<text>别索诺夫</text>
 </string>
 <string id="st_q_z_cell_19_d">
-	<text>Yashin</text>
+	<text>雅辛</text>
 </string>
 <string id="st_q_z_cell_19_descr">
-	<text>Which footballer in the USSR was the first golden ball?</text>
+	<text>苏联的哪个足球运动员第一次赢得了金球讲?</text>
 </string>
 <string id="st_q_z_cell_1_a">
-	<text>New Year</text>
+	<text>新年</text>
 </string>
 <string id="st_q_z_cell_1_b">
-	<text>March 8</text>
+	<text>三月八号</text>
 </string>
 <string id="st_q_z_cell_1_c">
-	<text>When both</text>
+	<text>同一天</text>
 </string>
 <string id="st_q_z_cell_1_d">
-	<text>Equally</text>
+	<text>同样</text>
 </string>
 <string id="st_q_z_cell_1_descr">
-	<text>Which of these events happen more often - New Year or March 8th?</text>
+	<text>哪个事件发生的更频繁？新年还是三月八号？</text>
 </string>
 <string id="st_q_z_cell_20_a">
 	<text>Nowhere</text>
@@ -1819,37 +1819,37 @@
 	<text>箱子里装着Ruger GP100,以及配套的维修工具.</text>
 </string>
 <string id="st_quest_bloodsucker_letter_1">
-	<text>Strange note 1</text>
+	<text>奇怪的笔记一</text>
 </string>
 <string id="st_quest_bloodsucker_letter_1_descr">
-	<text>The letter listed the following: '... you're the first one who saw me ... I'm saved a life ... in exchange for silence and ... and help. Help me ... I can not appear among the people, but I know that scientists certainly have what I need ... NG-7. Bring me this drug. It will help me. And I thank you enough. ' \n To download the data in the PDA - should be used.</text>
+	<text>信件写道: "...你是第一个见到我的人.我救了你的命...代价是你要保持沉默和...和帮助.帮帮我...我不能在人中间出现, 但我知道科学家有我需要的东西...NG-7.带给我这种药.它会对我有帮助的.我会感谢你的.."\n要将数据加载到PDA中,必须使用.</text>
 </string>
 <string id="st_quest_bloodsucker_letter_2">
-	<text>Strange note 2</text>
+	<text>奇怪的笔记二</text>
 </string>
 <string id="st_quest_bloodsucker_letter_2_descr">
-	<text>The letter listed the following: 'Thank you. Look into my box, it is at the end of the corridor. There's your reward.'</text>
+	<text>信中写道: "谢谢你.区搜我的抽屉,在走廊的尽头.你的奖赏就在那.."</text>
 </string>
 <string id="st_quest_bloodsucker_vaccine">
-	<text>Vaccine NG-7</text>
+	<text>NG-7 疫苗</text>
 </string>
 <string id="st_quest_bloodsucker_vaccine_descr">
-	<text>Ozersky did not say anything about this drug, but I believe that this drug stops the mutation.</text>
+	<text>奥泽斯基没有对这药做任何说明,但我相信这药可以阻止突变.</text>
 </string>
 <string id="st_quest_drink_beylis">
-	<text>'Baileys'</text>
+	<text>'百利甜'</text>
 </string>
 <string id="st_quest_drink_beylis_descr">
-	<text>Rare drink, at least within the zone.</text>
+	<text>一种罕见的饮料, 至少在区域内是这样的.</text>
 </string>
 <string id="st_quest_flash_light">
-	<text>Lantern with optics 'Messler'</text>
+	<text>带有'麦锡勒'光学装置的灯笼</text>
 </string>
 <string id="st_quest_flash_light_descr">
-	<text>Halogen lamp and optical sight mounted in a common housing.</text>
+	<text>卤素灯和光学瞄准装置安装在一个共同的管体里.</text>
 </string>
 <string id="st_quest_frequency_radio">
-	<text>High-frequency radio 'Grundig'</text>
+	<text>高频无线电'穿透'</text>
 </string>
 <string id="st_quest_frequency_radio_descr">
 	<text>Is used for communication over vast distances. Manufactured in Germany.</text>

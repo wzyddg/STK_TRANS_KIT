@@ -463,7 +463,7 @@
 <text>捕手要我去见碉堡的科学家.有一个紧急工作需要信任的人去做.</text>
 </string>
 <string id="red_psyho_text1">
-<text>科学家告诉我,潜行者最近打开一个新的路径.它通向红树林.之后立即变得众所周知,科学家在雇佣军的保护派出两个研究小组,以进行一些实验,可能只是有关地区.远征没有人回来,失去了与他们的关系.我要回去找科研队伍.</text>
+<text>科学家告诉我,潜行者最近打开一个新的路径.它通向红森林.之后立即变得众所周知,科学家在雇佣军的保护派出两个研究小组,以进行一些实验,可能只是有关地区.远征没有人回来,失去了与他们的关系.我要回去找科研队伍.</text>
 </string>
 <string id="red_psyho_text10">
 <text>调查研究小组去的每个地方</text>
@@ -493,7 +493,7 @@
 <text>需要囤积药物,Psy药物十件.</text>
 </string>
 <string id="red_psyho_text7">
-<text>去红树林</text>
+<text>去红森林</text>
 </string>
 <string id="red_psyho_text8">
 <text>调查研究小组去的每个地方.</text>
@@ -505,7 +505,7 @@
 <text>不明情况: 和科学家谈</text>
 </string>
 <string id="red_psyho_title1">
-<text>红色危险: 去红树林</text>
+<text>红色危险: 去红森林</text>
 </string>
 <string id="red_psyho_title10">
 <text>红色危险: 检查科学家去的地方</text>
@@ -526,16 +526,16 @@
 <text>红色危险: 去试验场</text>
 </string>
 <string id="red_psyho_title4">
-<text>红色危险: 离开红树林</text>
+<text>红色危险: 离开红森林</text>
 </string>
 <string id="red_psyho_title5">
 <text>红色危险: 对话科学家</text>
 </string>
 <string id="red_psyho_title6">
-<text>红色危险: 准备远足红树林</text>
+<text>红色危险: 准备远足红森林</text>
 </string>
 <string id="red_psyho_title7">
-<text>红色危险: 去红树林</text>
+<text>红色危险: 去红森林</text>
 </string>
 <string id="red_psyho_title8">
 <text>红色危险: 检查科学家去的地方</text>
