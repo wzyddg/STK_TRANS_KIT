@@ -408,7 +408,7 @@ public class MainTrans {
 	
 	public static String clearString(String str) {
 		str = str.replaceAll("<!--[\\s\\S]*?-->", "").replaceAll("(?:&apos;|&quot;)", Matcher.quoteReplacement("'"))
-				.replaceAll(Pattern.quote("\""), Matcher.quoteReplacement("'")).replaceAll("，", ",").replaceAll("：", ":")
+				.replaceAll(Pattern.quote("\""), Matcher.quoteReplacement("'")).replaceAll("，", ",").replaceAll("：", ":").replaceAll("。", Matcher.quoteReplacement("."))
 				.replaceAll("(?:&lt;|&gt;)", "<").replaceAll("(?:</|/>)", "").replaceAll("(?:<|>)", "")
 				.replaceAll("\\\\[\\s]+?n", Matcher.quoteReplacement("\\n")).replaceAll("\\\\n(?:\\\\n|\\s)*\\\\n", Matcher.quoteReplacement("\\n"));
 		

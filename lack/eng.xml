@@ -478,7 +478,7 @@
 	<text>装着的个人藏物点信息的闪存驱动器.-铜指虎</text>
 </string>
 <string id="st_bandit_kastet_case_title">
-	<text>'的闪存驱动器' brass knuckles'</text>
+	<text>'铜指虎的闪存驱动器'</text>
 </string>
 <string id="st_bandit_kastet_unpack_descr">
 	<text>%c[255,238,153,26] 铜指虎的财产 \n %c[default] 来自闪存驱动器的信息: CPR西南方.</text>
@@ -547,94 +547,94 @@
 	<text>%c[110,128,128,255] ' %c[110,200,128,0] 钻石的财产 %c[110,128,128,255]'</text>
 </string>
 <string id="st_black_angel_unindification_name">
-	<text>Neidintifitsirovan</text>
+	<text>Neidintifitsirovan UNTRANSLATED</text>
 </string>
 <string id="st_demolution_ballon_descr">
-	<text>Balloon with an unknown gas. It is not yet open, so the properties is not known.</text>
+	<text>一个装有未知气体空泡。还没有打开，所以属性未知.</text>
 </string>
 <string id="st_demolution_barrel_descr">
-	<text>A barrel of fuel, by type - aviation kerosene.</text>
+	<text>一桶燃料，航空煤油.</text>
 </string>
 <string id="st_demolution_kanistra_descr">
-	<text>Twenty-liter canister with fuel of unknown type. By smell, like a diesel.</text>
+	<text>一公升未知类型的燃料.闻起来像柴油.</text>
 </string>
 <string id="st_detector_modify_toolkit">
-	<text>Tools for use with the detectors</text>
+	<text>与探测器一起使用的工具.</text>
 </string>
 <string id="st_detector_modify_toolkit_descr">
-	<text>Professional set of tools for fine repair and modernization detectors. What is included in the kit is sufficient for any work on setting up and modernization of all types of detectors.</text>
+	<text>一套专业的工具,用于微调和升级探测器.套件中包含的内容足以完成所有类型探测器的配置和升级工作.</text>
 </string>
 <string id="st_detector_serafim">
-	<text>Detector 'Seraphim'</text>
+	<text>'六翼天使'探测器.</text>
 </string>
 <string id="st_detector_serafim_descr">
-	<text>Special development scientists. Equipped with a locator anomalous formations and LED display to show the direction of the unknown sample, with not only able to detect patterns, but also to determine the distance to them. The search mode is activated samples lifting the lid antenna on the front side of the device.</text>
+	<text>科学家的特别发明.配备了变异点定位器和LED显示屏来显示未知样品的方向,不但能检测到图案,而且还能确定距离.抬起设备前端的盖子天线就能激活搜索模式.</text>
 </string>
 <string id="st_device_pda_alfa_commander_experienced">
-	<text>PDA commander of Alpha</text>
+	<text>阿尔法小队指挥官的PDA</text>
 </string>
 <string id="st_device_pda_alfa_commander_experienced_descr">
-	<text>%c[255,238,153,26] The commander of the Special Operations Group. %c[default] Order - all support teams and groups of special purpose! Capture dead or alive Degtyarev Alexander G  born in 1978,native town of Pripyat Ukraine. Features:,thin build-looking 25-30 years,height - 179 cm,, hair wavy light brown. Wanted,Major SBU All items found during it,immediately deliver to the center. Pay special attention to the safety of the flash-drive,paper and electronic media. 15 fold reward for the successful execution of the task!</text>
+	<text>%c[255,238,153,26]特别行动队指挥官.%c[default]命令：所有支援部队和特别行动队成员！不论死活，抓到Degtyarev Alexander Grigorevich。1978年出生，乌克兰普里皮亚季原住民。特征：身材偏瘦，25-30岁，身高179厘米，淡棕色波浪头发。注意，任务执行期间找到的任何与SBU有关的物品都要立刻上交总部。特别注意闪存驱动器、纸张和电子设备的安全.成功完成任务的给予15倍奖励。</text>
 </string>
 <string id="st_device_pda_alfa_commander_master">
-	<text>PDA commander of Alpha</text>
+	<text>阿尔法小队指挥官的PDA</text>
 </string>
 <string id="st_device_pda_alfa_commander_master_descr">
-	<text>%c[255,238,153,26] The commander of a special super elite unit. %c[default] Order - all groups over a special elite unit! Capture dead or alive Degtyarev Alexander G  born in 1978,native town of Pripyat Ukraine. Features:,thin build-looking 25-30 years,height - 179 cm,, hair wavy light brown. Wanted,Major SBU All items found during it,immediately deliver to the center. Pay special attention to the safety of the flash-drive,paper and electronic media. 30 fold reward for the successful execution of the task!</text>
+	<text>%c[255,238,153,26]特别超级精英单位的指挥官.%c[default]命令：所有特别超级精英单位！不论死活，抓到Degtyarev Alexander Grigorevich。1978年出生，乌克兰普里皮亚季原住民。特征：身材偏瘦，25-30岁，身高179厘米，淡棕色波浪头发。注意，任务执行期间找到的任何与SBU有关的物品都要立刻上交总部。特别注意闪存驱动器、纸张和电子设备的安全.成功完成任务的给予30倍奖励。</text>
 </string>
 <string id="st_device_pda_alfa_commander_novice">
-	<text>PDA commander of Alpha</text>
+	<text>阿尔法小队指挥官的PDA</text>
 </string>
 <string id="st_device_pda_alfa_commander_novice_descr">
-	<text>%c[255,238,153,26] The team leader auxiliary facilities. %c[default] Order - all support groups! Provide support to groups of special forces or possibly himself - to capture dead or alive Degtyarev Alexander G  born in 1978,a native of the town of Pripyat Ukraine. Features:,thin build-looking 25-30 years,height - 179 cm,, hair wavy light brown. Wanted,Major SBU All items found during it,immediately deliver to the center. Pay special attention to the safety of the flash-drive,paper and electronic media. 5 times the reward for the successful execution of the task!</text>
+	<text>%c[255,238,153,26]支援部队队长。%c[default]命令：所有支援部队！支援特别行动队或你们亲自，不论死活，抓到Degtyarev Alexander Grigorevich。1978年出生，乌克兰普里皮亚季原住民。特征：身材偏瘦，25-30岁，身高179厘米，淡棕色波浪头发。注意，任务执行期间找到的任何与SBU有关的物品都要立刻上交总部。特别注意闪存驱动器、纸张和电子设备的安全.成功完成任务的给予5倍奖励。</text>
 </string>
 <string id="st_device_pda_alfa_commander_regular">
-	<text>PDA commander of Alpha</text>
+	<text>阿尔法小队指挥官的PDA</text>
 </string>
 <string id="st_device_pda_alfa_commander_regular_descr">
-	<text>%c[255,238,153,26] The commander of the Special Operations Group. %c[default] Order - all groups of special purpose! Capture dead or alive Degtyarev Alexander G  born in 1978,native town of Pripyat Ukraine. Features:,thin build-looking 25-30 years,height - 179 cm,, hair wavy light brown. Wanted,Major SBU All items found during it,immediately deliver to the center. Pay special attention to the safety of the flash-drive,paper and electronic media. 10 fold reward for the successful execution of the task!</text>
+	<text>%c[255,238,153,26]特别行动队指挥官。%c[default]命令：所有支援部队和特别行动队成员！不论死活，抓到Degtyarev Alexander Grigorevich。1978年出生，乌克兰普里皮亚季原住民。特征：身材偏瘦，25-30岁，身高179厘米，淡棕色波浪头发。注意，任务执行期间找到的任何与SBU有关的物品都要立刻上交总部。特别注意闪存驱动器、纸张和电子设备的安全.成功完成任务的给予10倍奖励。</text>
 </string>
 <string id="st_device_pda_alfa_commander_veteran">
-	<text>PDA commander of Alpha</text>
+	<text>阿尔法小队指挥官的PDA</text>
 </string>
 <string id="st_device_pda_alfa_commander_veteran_descr">
-	<text>%c[255,238,153,26] The commander of a special elite unit. %c[default] Order - all groups of special elite unit! Capture dead or alive Degtyarev Alexander G  born in 1978,native town of Pripyat Ukraine. Features:,thin build-looking 25-30 years,height - 179 cm,, hair wavy light brown. Wanted,Major SBU All items found during it,immediately deliver to the center. Pay special attention to the safety of the flash-drive,paper and electronic media. 20 fold reward for the successful execution of the task!</text>
+	<text>%c[255,238,153,26]特别精英单位的指挥官. %c[default]命令：所有特别精英单位！不论死活，抓到Degtyarev Alexander Grigorevich。1978年出生，乌克兰普里皮亚季原住民。特征：身材偏瘦，25-30岁，身高179厘米，淡棕色波浪头发。注意，任务执行期间找到的任何与SBU有关的物品都要立刻上交总部。特别注意闪存驱动器、纸张和电子设备的安全.成功完成任务的给予20倍奖励。</text>
 </string>
 <string id="st_device_pda_b1_commander">
-	<text>PDA 'Bulldog'</text>
+	<text>'斗牛犬'的PDA</text>
 </string>
 <string id="st_device_pda_b1_commander_descr">
-	<text>PDA with valuable information for stalkers.</text>
+	<text>装有潜行者珍贵的资料的PDA</text>
 </string>
 <string id="st_device_pda_b1_renegade_1">
-	<text>PDA renegatovtsa</text>
+	<text>PDA renegatovtsa  UNTRANSLATED</text>
 </string>
 <string id="st_device_pda_b1_renegade_1_descr">
-	<text>PDA with valuable information for stalkers.</text>
+	<text>装有潜行者珍贵的资料的PDA</text>
 </string>
 <string id="st_device_pda_b1_renegade_2">
-	<text>PDA renegatovtsa</text>
+	<text>PDA renegatovtsa  UNTRANSLATED</text>
 </string>
 <string id="st_device_pda_b1_renegade_2_descr">
-	<text>PDA with valuable information for stalkers.</text>
+	<text>装有潜行者珍贵的资料的PDA</text>
 </string>
 <string id="st_device_pda_b1_renegade_3">
-	<text>PDA renegatovtsa</text>
+	<text>PDA renegatovtsa  UNTRANSLATED</text>
 </string>
 <string id="st_device_pda_b1_renegade_3_descr">
-	<text>PDA with valuable information for stalkers.</text>
+	<text>装有潜行者珍贵的资料的PDA</text>
 </string>
 <string id="st_device_pda_cherniy">
-	<text>PDA 'Black'</text>
+	<text>'布莱克'的PDA</text>
 </string>
 <string id="st_device_pda_cherniy_descr">
-	<text>flash-drive leader of mercenaries. Information from the flash-drive: Our password - 'raskukozhenaya cuckoo.'</text>
+	<text>佣兵头目的闪存。闪存里的信息：我们的口令：'raskukozhenaya cuckoo.'</text>
 </string>
 <string id="st_device_pda_kasilov">
-	<text>PDA 'Kasilova'</text>
+	<text>'卡西洛夫'的PDA</text>
 </string>
 <string id="st_device_pda_kasilov_descr">
-	<text>PDA with unknown information.</text>
+	<text>包含有未知信息的PDA.</text>
 </string>
 <string id="st_dolg_morgan_case_descr">
 	<text>装着摩根的个人藏物点信息的闪存驱动器.-摩根.</text>
@@ -673,34 +673,34 @@
 	<text>剧烈爆炸物,带有一个远程引爆遥控.</text>
 </string>
 <string id="st_esc_b2_tamerlan_flash">
-	<text>Flash card Tamerlane</text>
+	<text>铁木尔的闪存卡</text>
 </string>
 <string id="st_esc_b2_tamerlan_flash_descr">
-	<text>Flash card taken from the body of Tamerlane.</text>
+	<text>从铁木尔尸体上拿到的闪存卡.</text>
 </string>
 <string id="st_esc_b3_safe_flash">
-	<text>Flash card bandits</text>
+	<text>强盗的闪存卡</text>
 </string>
 <string id="st_esc_b3_safe_flash_descr">
-	<text>USB flash drive with useful information for stalkers.</text>
+	<text>装有潜行者珍贵的资料的闪存卡.</text>
 </string>
 <string id="st_esc_b3_safe_key">
-	<text>Key to the safe</text>
+	<text>保险箱的钥匙</text>
 </string>
 <string id="st_esc_b3_safe_key_descr">
-	<text>Key bandits. Is used to open the safe.</text>
+	<text>强盗的钥匙。用来打开保险箱。</text>
 </string>
 <string id="st_esc_key_from_gate">
-	<text>Key to the gate</text>
+	<text>大门的钥匙</text>
 </string>
 <string id="st_esc_key_from_gate_descr">
-	<text>Key bandits. Used to open the gate leading to the Swamps</text>
+	<text>强盗的钥匙。用来打开去沼泽地的大门。</text>
 </string>
 <string id="st_flash_avoid_witnesses_descr">
-	<text>Sticky Information: A group of mercenaries detained by our agent in the vicinity of Jupiter. There is reason to believe that our agent is still alive. Your goal - the liberation of the agent and the neutralization of mercenaries who resisted. For safe passage into the camp - use 'Coverall mercenary '. \n To download the data in the PDA - should be used.</text>
+	<text>附加信息:一群雇佣兵扣留了我们在木星周围的特工.有理由相信我们的特工还活着.你的目标是释放特工,干掉那些抵抗的雇佣兵.为了安全进入营地，请使用雇佣兵套装.\n要将数据加载到PDA中, 必须使用本闪存.</text>
 </string>
 <string id="st_flash_avoid_witnesses_name">
-	<text>Data location SBU �15764</text>
+	<text>SBU情报15764</text>
 </string>
 <string id="st_freedom_gaiduk_case_descr">
 	<text>装着自由团领导人塞米的个人藏物点信息的闪存驱动器.-海杜克.</text>
@@ -718,7 +718,7 @@
 	<text>AG36</text>
 </string>
 <string id="st_grenade_launcher_ag36_descr">
-	<text>\n %c[255,1,255,255] � %c[default] shot AG36 \n\n,grenade launcher developed by German weapons concern Heckler and Koch HK 79. to replace the main platform for it is a rifle HK G36.</text>
+	<text>\n %c[255,1,255,255] %c[default] 短AG36 \n由德国H&K公司研发的榴弹发射器。主要应用平台为HK G36步枪。</text>
 </string>
 <string id="st_grenade_light">
 	<text>Pomegranate GL-1</text>
