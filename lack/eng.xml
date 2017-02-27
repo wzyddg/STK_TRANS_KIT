@@ -1799,79 +1799,79 @@
 	<text>GS-18</text>
 </string>
 <string id="st_wpn_gsh18_descr">
-	<text>GS-18 - Russian gun, developed in the late 1990s in the Tula Instrument Design Bureau. Title received from the first letters of the names of designers, under the leadership of which was designed (mud Vasily Petrovich and Shipunova Arcadia IG) and the number '18', meaning the capacity of the store.</text>
+	<text>GS-18，俄罗斯枪，在20世纪90年代末期由图拉仪器设计局研发。名字来源是设计师名字首字母，18意味着弹夹容量。</text>
 </string>
 <string id="st_wpn_kedr">
-	<text>PP-91 'Cedar'</text>
+	<text>PP-91 '雪松'</text>
 </string>
 <string id="st_wpn_kedr_descr">
-	<text>PP-91 'cedar' (Design Yevgeny Dragunov) - submachine gun developed in the early 1990s by order of the USSR Ministry of Internal Affairs on the basis of the earlier PP-71 construction EF Dragunov. The first 40 pre-production samples were manufactured in 1992 at the Izhevsk Mechanical Plant, since 1993 began mass production at Zlatoust Machine-Building Plant.</text>
+	<text>PP-91 '雪松'(叶夫根尼·德拉贡诺夫设计)是20世纪早期在俄罗斯内务部的要求下基于E.F. 德拉贡诺夫的早期作品PP-71研发出来的。第一批40个试作品于1992年在伊热夫斯克机械厂制造，1993年开始在兹拉托乌斯特机械制造厂量产。</text>
 </string>
 <string id="st_wpn_l115a3">
 	<text>L115A3</text>
 </string>
 <string id="st_wpn_l115a3_descr">
-	<text>The basis of the weapons went to a sports rifle AWM, which, as well as the L115, manufactured by Accuracy International. Is a weapon with the sliding bolt, locking the barrel when turning.</text>
+	<text>这把枪借鉴了运动步枪AWM以及L115，由精密国际制造。拥有滑动螺栓，转动可以锁定枪管。</text>
 </string>
 <string id="st_wpn_m16a3">
 	<text>M16A3</text>
 </string>
 <string id="st_wpn_m16a3_descr">
-	<text>M16A3 - M16A2 rifle version with continuous fire mode, is in service in the Navy. Carrying handle and iron sights are identical M16A2. Appeared in 1992 under the symbol M16A2E3.</text>
+	<text>M16A3，带有连射模式的M16A2，服役于海军。把手和准星与M16A2相同。初现于1992年，称作M16A2E3.</text>
 </string>
 <string id="st_wpn_m16a4">
 	<text>M16A4</text>
 </string>
 <string id="st_wpn_m16a4_descr">
-	<text>American assault rifle (assault rifle, in Russian classification - automatic) 5.56mm, developed on the basis of rifles AR-10 and put into service in the 1960s.</text>
+	<text>美国5.56mm口径突击步枪(突击步枪，在俄国分类为自动武器)，在AR-10的基础上制作，于20世纪60年代投入使用？</text>
 </string>
 <string id="st_wpn_m500">
 	<text>Mossberg 500</text>
 </string>
 <string id="st_wpn_m500_descr">
-	<text>One of the most popular rifles multiply charged with recharging mobile forearm (pump action shotguns). First released in 1962, the year. Now available in different versions, designed for hunting and for police, security guards and self-defense.</text>
+	<text>最受欢迎的多装填滑动上膛式步枪(泵式散弹枪)之一.初现于1992年。现在有用于打猎、警察、保安和自卫等多个版本。</text>
 </string>
 <string id="st_wpn_m590a1">
 	<text>Mossberg M590A1</text>
 </string>
 <string id="st_wpn_m590a1_descr">
-	<text>One of the most popular rifles multiply charged with recharging mobile forearm (pump action shotguns). First released in 1962, the year. Now available in different versions, designed for hunting and for police, security guards and self-defense.</text>
+	<text>最受欢迎的多装填滑动上膛式步枪(泵式散弹枪)之一.初现于1992年。现在有用于打猎、警察、保安和自卫等多个版本。</text>
 </string>
 <string id="st_wpn_m9">
 	<text>M9</text>
 </string>
 <string id="st_wpn_m98b">
-	<text>Barrett M98B</text>
+	<text>巴雷特M98B</text>
 </string>
 <string id="st_wpn_m98b_descr">
-	<text>American sniper rifle, manufactured by Barrett Firearms. Like its predecessor - Barrett M98 (and not held in a series of rifle), a model developed by Bravo chambered .338 Lapua Magnum (8,6x70 mm size or 8,58x70 mm), the Zone is unknown manner was converted into a cartridge 7.62h51.</text>
+	<text>由巴雷特军火公司制造的美式狙击步枪。就像它的前辈-巴雷特 M98(而不是同系列)一样由Bravo开发。使用.338 拉普马格南弹药(8.6x70或8.58x70 mm),特异区的不知名工匠把它转换成了使用7.62h51弹药.</text>
 </string>
 <string id="st_wpn_m9_descr">
-	<text>M9 - codename Beretta 92SB the US Army. Is popular among criminals thanks to a powerful patron and capacious store. As a rule, do not fall into the Zone of the newest models of weapons.</text>
+	<text>M9，在美军代号贝雷塔92SB.因为枪机和较高的弹容，在罪犯中很受欢迎。一般来说,最新型号的枪没法流入特异区。</text>
 </string>
 <string id="st_wpn_mossberg500">
 	<text>Mossberg 500</text>
 </string>
 <string id="st_wpn_mossberg500_descr">
-	<text>Mossberg 500 - one of the most popular rifles multiply charged with recharging mobile forearm (pump action shotguns). First released in 1962, the year. Now available in different versions, designed for hunting and for police, security guards and self-defense.</text>
+	<text>最受欢迎的多装填滑动上膛式步枪(泵式散弹枪)之一.初现于1992年。现在有用于打猎、警察、保安和自卫等多个版本。</text>
 </string>
 <string id="st_wpn_mp412">
-	<text>MP-412 Rex</text>
+	<text>MP-412 雷克斯</text>
 </string>
 <string id="st_wpn_mp412_descr">
-	<text>MP-412 Rex - Russian-made revolver cartridges under the .357 Smith and Wesson Magnum (9x33 mm) and a .38 Smith and Wesson Special (9.1x29 mm). REX abbreviation means - 'revolver export' (Revolver for EXport).</text>
+	<text>MP-412 Rex，俄罗斯制造的转轮手枪，可以使用.357史密斯弹，韦森马格南弹(9x33 mm)，韦森特别弹(9.1x29 mm)和.38史密斯弹。REX是'Revolver for EXport'的缩写。</text>
 </string>
 <string id="st_wpn_mp443">
-	<text>MP-443 'Rook'</text>
+	<text>MP-443 '大车'</text>
 </string>
 <string id="st_wpn_mp443_descr">
-	<text>Automatic pistol manufactured in Russia. Designed by a team of designers led by VA Yarygin, serially produced at the Izhevsk Mechanical Plant.</text>
+	<text>俄罗斯产自动手枪。由V.A. Yarygin带领的队伍设计，在伊热夫斯克机械厂大量生产。</text>
 </string>
 <string id="st_wpn_mp5sd">
 	<text>MP5SD</text>
 </string>
 <string id="st_wpn_mp5sd_descr">
-	<text>MP5SD - silent option MP5 of 1974 with integrated BSS.</text>
+	<text>带有集成BSS的消声版MP5.</text>
 </string>
 <string id="st_wpn_p90">
 	<text>FN P90</text>
@@ -1880,25 +1880,25 @@
 	<text>PKM</text>
 </string>
 <string id="st_wpn_pkm_descr">
-	<text>This belt-fed machine gun is a portable modification with a complex two-stage feeding system. Despite its weight and low precision, this LMG has found admirers in the Zone. Used primarily to fight off outnumbering enemy forces during faction conflicts and clear out mutant lairs.</text>
+	<text>这种带式机枪是一种具有复杂两级进给系统的便携式改装.尽管它很重却精确度低, 这个轻机枪在特异区还是找到了仰慕者.主要用于对抗派系冲突中的大量敌军和清除突变巢穴.</text>
 </string>
 <string id="st_wpn_pmm">
 	<text>PMM</text>
 </string>
 <string id="st_wpn_pmm_descr">
-	<text>9mm Makarov pistol upgraded PMM (GRAU index - 56-A-125M) - a Russian gun, developed in the early 1990s under the theme of R &amp; D 'Rook'. Took part in the competition for the new army pistol under the designation 'Grach-3'.</text>
+	<text>9mm马卡洛夫手枪升级版PMM(俄罗斯编号56-A-125M)是20世纪90年代在R&D '大车'项目期间研发的俄罗斯枪。以'Grach-3'为名参与了新的军用手枪的竞标。</text>
 </string>
 <string id="st_wpn_pp2000">
 	<text>PP-2000</text>
 </string>
 <string id="st_wpn_pp2000_descr">
-	<text>PP-2000 - Russian 9mm submachine gun, developed by a team of designers Tula Instrument Design Bureau (Acad. VP dirt, experts BI Kuznetsov AI story). PP-2000 is positioned as a weapon for law enforcement ulouse operating in urban environments, as well as a personal defense weapon for certain categories of servicemen.</text>
+	<text>PP-2000，由图拉仪器设计局的一群设计院员设计的9mm冲锋枪。PP-2000主要用于城区的执法部队，以及个人防身和部分特殊类别军人。</text>
 </string>
 <string id="st_wpn_remington870">
-	<text>Remington 870</text>
+	<text>雷明顿 870</text>
 </string>
 <string id="st_wpn_remington870_descr">
-	<text>Remington Model 870 - US rifle, first introduced in 1950 by Remington Arms. Thanks to its characteristic recharging is one of the most popular pump action shotguns in the world. Available in different versions, it is suitable for both military and police, as for hunters and sportsmen as well as for self-defense.</text>
+	<text>雷明顿 870型，美式来复枪，在1950年由雷明顿军火发布。多亏了它特色的装弹系统，它成了世界上最受欢迎的泵式散弹枪之一。现在有用于打猎、警察、保安和自卫等多个版本。</text>
 </string>
 <string id="st_wpn_rpk">
 	<text>PKK</text>
