@@ -8,10 +8,10 @@
 	<text>.357马格南枪弹</text>
 </string>
 <string id="ammo-357_descr">
-	<text>马格南（从“大号”一词而来）比同口径其他枪弹威力更大.使用这种子弹的雾气也是专门设计的.</text>
+	<text>马格南(从“大号”一词而来)比同口径其他枪弹威力更大.使用这种子弹的武器也是专门设计的.</text>
 </string>
 <string id="ammo-357_s">
-	<text>.357马格南</text>
+	<text>.357马格南S弹药</text>
 </string>
 <string id="ammo-50-ae">
 	<text>.50 AE弹药</text>
@@ -244,13 +244,13 @@
 	<text>'眼镜蛇' EKP-1S-03瞄准镜</text>
 </string>
 <string id="st_addon_scope_kobra_descr">
-	<text>多亏了全手工校准的准心亮度,在自然光线下（晴朗的白天,深沉的黄昏,有月亮的夜晚）眼镜蛇瞄准镜能够提供绝佳的视野.把目标和准星放在同一个水平面上即可用单眼或双眼瞄准,并且视野不受限制.可以在快速移动时进行有效的高速射击,迅速突入等.</text>
+	<text>多亏了全手工校准的准心亮度,在自然光线下(晴朗的白天,深沉的黄昏,有月亮的夜晚)眼镜蛇瞄准镜能够提供绝佳的视野.把目标和准星放在同一个水平面上即可用单眼或双眼瞄准,并且视野不受限制.可以在快速移动时进行有效的高速射击,迅速突入等.</text>
 </string>
 <string id="st_addon_scope_pk-a">
 	<text>PK-A瞄准镜</text>
 </string>
 <string id="st_addon_scope_pk-a_descr">
-	<text>PK-A反射瞄准镜是一款用于带有侧边准镜滑轨的'虎式'卡宾枪的现代的,轻量级,防水且易用的光学瞄准镜.这款瞄准镜是用于在不同光线条件下（从白天到傍晚,低可视度环境和迅速变化的光线强度）使用K74N, RPK74N, AKMN-1, 1-RPKN做精确射击的.瞄准镜完全密封并充入干燥氮气以防内部起雾.</text>
+	<text>PK-A反射瞄准镜是一款用于带有侧边准镜滑轨的'虎式'卡宾枪的现代的,轻量级,防水且易用的光学瞄准镜.这款瞄准镜是用于在不同光线条件下(从白天到傍晚,低可视度环境和迅速变化的光线强度)使用K74N, RPK74N, AKMN-1, 1-RPKN做精确射击的.瞄准镜完全密封并充入干燥氮气以防内部起雾.</text>
 </string>
 <string id="st_addon_sil_1143_p">
 	<text>M11.43消音器</text>
@@ -628,7 +628,7 @@
 	<text>'布莱克'的PDA</text>
 </string>
 <string id="st_device_pda_cherniy_descr">
-	<text>佣兵头目的闪存。闪存里的信息：我们的口令：'raskukozhenaya cuckoo.'</text>
+	<text>佣兵头目的闪存。闪存里的信息：我们的口令:'鸟鸣啾啾'.</text>
 </string>
 <string id="st_device_pda_kasilov">
 	<text>'卡西洛夫'的PDA</text>
@@ -1736,64 +1736,64 @@
 	<text>APS</text>
 </string>
 <string id="st_wpn_aps_descr">
-	<text>9mm automatic pistol Stechkin - gun, developed in the late 1940s - early 1950s designer IY Stechkin and adopted the Armed Forces of the USSR in 1951, simultaneously with the Makarov pistol. APS is designed to arm officers directly involved in the fighting, as well as soldiers and sergeants of some special ulouse.</text>
+	<text>9mm自动手枪,也称作Stechkin枪,由枪械设计师I.Y. Stechkin于20世纪40年代末至50年代初设计，并在1951年与马卡洛夫手枪一起装备了苏联军队。这把枪是用来让军官、士兵以及特殊单位的军士能够直接投入战斗。</text>
 </string>
 <string id="st_wpn_ar15">
 	<text>AR-15</text>
 </string>
 <string id="st_wpn_ar15_descr">
-	<text>AR-15 - American semi-automatic rifle chambered 5,56x45 mm. Produced since 1963, is available for sale as a civilian self-defense weapon is a staff weapon in the Police Department. Was developed by 'ArmaLite' as a promising assault rifle for the US Army. In 1959, due to financial difficulties 'ArmaLite' sold the rights to the design of the company 'Colt's Manufacturing Company'. In the early 1960s, an automatic version of the AR-15 was adopted by the US Army under the designation M16. Is the processing of Custom classical AR-15, with the possibility of automatic fire.</text>
+	<text>AR-15时美国的5.56x45 mm毫米半自动步枪.自1963年出品后广泛用于平民自卫，是警察部门的制式装备。由阿玛莱特公司作为潜在美国军方步枪颜值。1959年阿玛莱特公司因为财政困难将其设计权出售给了柯尔特制造公司。在20世纪60年代，一款自动版AR-15被美军采用，命名为M16.是经典的AR-15的具有自动开火能力的定制款。</text>
 </string>
 <string id="st_wpn_aug_a1">
-	<text>Steyr AUG A1</text>
+	<text>斯太尔AUG A1</text>
 </string>
 <string id="st_wpn_aug_a3">
-	<text>Steyr AUG A3</text>
+	<text>斯太尔AUG A3</text>
 </string>
 <string id="st_wpn_aug_descr">
-	<text>Steyr AUG (Armee Universal Gewehr - Universal Army Rifle) - a complex of small arms, released in 1977, the Austrian company Steyr-Daimler-Puch. This rifle used a layout 'bullpup', in which the store and shutter assembly located behind the control arm and fire the trigger.</text>
+	<text>斯太尔AUG(德语Armee Universal Gewehr:通用军队步枪)-一把短小但复杂的武器，在1977年由奥地利斯太尔-戴姆勒-普赫公司发布.这把步枪使用'犊牛'无托结构，弹夹和击发装置整合到了扳机后面。</text>
 </string>
 <string id="st_wpn_bizon">
-	<text>PP-19 'Bison'</text>
+	<text>PP-19野牛</text>
 </string>
 <string id="st_wpn_bizon_descr">
-	<text>PP-19 'Bison' - 19 submachine gun model, developed in 1993 VM Kalashnikov.ikov (son of designer Mikhail Kalashnikov.ikov) and Alexei Dragunov (son of EF Dragunov) commissioned by the Ministry of Internal Affairs of the Russian Federation ( Russian Ministry of Internal Affairs).</text>
+	<text>PP-19野牛-19冲锋枪型号,在1993年由V.M. 卡拉什尼科夫(设计师米哈伊尔·卡拉什尼科夫的儿子)和阿列克谢·德拉贡诺夫(E.F. 德拉贡诺夫的儿子)在俄罗斯内务部的委托下共同设计.</text>
 </string>
 <string id="st_wpn_cz75">
 	<text>CZ 75</text>
 </string>
 <string id="st_wpn_cz75_descr">
-	<text>CZ 75 - gun developed in Czechoslovakia in 1975. Widespread throughout the world. In the Czech Republic the most of its uses mainly police (army uses CZ 83).</text>
+	<text>CZ 75于1975在捷克斯洛伐克开发出来.在全世界广为流传，在捷克共和国主要装备警察(军队使用CZ 83).</text>
 </string>
 <string id="st_wpn_fn57">
-	<text>FN Five-seveN</text>
+	<text>FN 5-7</text>
 </string>
 <string id="st_wpn_fn57_descr">
-	<text>Automatic pistol designed and manufactured by the Belgian company Fabrique Nationale of Herstal. The name is a combination of, on the one hand Five-seveN is '5.7' (5.7 - caliber weapons, which is equal to .224), and on the other the first and last letter of the name, writing in capital - an abbreviation of the company Fabrique Nationale.</text>
+	<text>由比利时赫尔斯塔尔国营工厂设计和制造的自动手枪。武器名字是两部分的组合，一方面，5-7意味着'5.7'(武器口径,相当于.224)。另一方面，取公司名字的缩写，FN。</text>
 </string>
 <string id="st_wpn_g36c">
 	<text>HK G36C</text>
 </string>
 <string id="st_wpn_g36c_descr">
-	<text>Extremely shortened version of the German rifles G36. The rifle was developed in 1996 by a German arms company Heckler and Koch</text>
+	<text>德国步枪G36的极端版本，由德国军械公司H&K在1996年研发。</text>
 </string>
 <string id="st_wpn_g3a3">
 	<text>HK G3A3</text>
 </string>
 <string id="st_wpn_g3a3_descr">
-	<text>HK G3 - German automatic rifle adopted by the German army for service in 1959. In 1995 it was replaced by automatic 5.56mm NATO HK G36. G3A3 - variant with fixed buttstock and forend two options (whole and perforated).</text>
+	<text>HK G3，被德军于1959年采用的自动步枪。1995年被5.56mm北约HK G36步枪取代。与G3A3不通电在于固定枪托和前端可选（整体以及穿孔）。</text>
 </string>
 <string id="st_wpn_g3sg1">
 	<text>HK G3SG1</text>
 </string>
 <string id="st_wpn_g3sg1_descr">
-	<text>G3SG1 - sniper version for civilian and police sector, some models have: the stock with an adjustable cheek, folding bipod and a trigger with adjustable traction.</text>
+	<text>G3SG1狙击版用于平民自卫和警察部门,一些型号具有可调托腮板，折叠两脚架和可调扳机力度。</text>
 </string>
 <string id="st_wpn_glock17">
 	<text>Glock 17</text>
 </string>
 <string id="st_wpn_glock17_descr">
-	<text>Glock 17 - Austrian gun developed by Glock for the needs of the Austrian army. He became the first models of weapons developed by this company. The resulting sample was quite good and easy to use, thanks to which he was later adopted by the army of Austria under the designation P80. Thanks to his fighting qualities and reliability has been widely accepted as a civilian self-defense weapon.</text>
+	<text>Glock 17是由格洛克为了澳洲军队需求开发的澳洲枪。是该公司开发的第一个武器型号。结果样品非常棒且易于使用，后来被澳军采用，改名P80.由于其优越的战斗能力和可靠性，它已被广泛接受为民用自卫武器.</text>
 </string>
 <string id="st_wpn_gsh18">
 	<text>GS-18</text>

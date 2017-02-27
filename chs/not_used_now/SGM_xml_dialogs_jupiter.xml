@@ -94,7 +94,7 @@
 	<text>站住,说出口令.</text>
 </string>
 <string id="jup_killer_base_chief_dialog_10">
-	<text>口令是"Shkarpertkina". 我能过去了吗?</text>
+	<text>口令是'鸟鸣啾啾'.我能过去了吗?</text>
 </string>
 <string id="jup_killer_base_chief_dialog_11">
 	<text>对,过去.</text>
@@ -118,7 +118,7 @@
 	<text>对不起,我这就走.</text>
 </string>
 <string id="jup_killer_base_chief_dialog_18">
-	<text>操你妈！</text>
+	<text>对，快他妈滚吧。</text>
 </string>
 <string id="jup_killer_base_chief_dialog_19">
 	<text>口令,我不知道口令,我走就是了.</text>
@@ -127,10 +127,10 @@
 	<text>那就好,现在趁我还很仁慈赶快离开这里.</text>
 </string>
 <string id="jup_killer_base_chief_dialog_21">
-	<text>那好吧,谢谢.</text>
+	<text>那好,就这样吧.</text>
 </string>
 <string id="jup_killer_base_chief_dialog_22">
-	<text>操你！</text>
+	<text>对，快他妈滚吧。</text>
 </string>
 <string id="jup_killer_base_chief_dialog_23">
 	<text>过去吧,别一个人.</text>
@@ -1528,7 +1528,7 @@
 	<text>站住不许动!说出口令!</text>
 </string>
 <string id="jup_authorities_agent_dialog_2">
-	<text>"A siren buzzes"</text>
+	<text>"警笛嗡嗡"</text>
 </string>
 <string id="jup_authorities_agent_dialog_3">
 	<text>正确.你是谁?你从哪里知道我在这里的?</text>

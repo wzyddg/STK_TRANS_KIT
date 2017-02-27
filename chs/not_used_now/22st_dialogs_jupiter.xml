@@ -13,7 +13,7 @@
 <text>你真的认为,电子元件保存了这么久,其中存储的信息可能还完好?</text>
 </string>
 <string id="jup_a6_azot_quest_mech_begin_dialog_3">
-<text>为什么不呢?可能有些损坏,但模块有特殊的保护,并不会受到外部影响.这些测试结果,我和Shulga都感兴趣.然而,由于目前情况,他不认为派他的手下是一个好主意,,因为可能会受竞争对手影响,导致任务失败.我们需要其他人悄悄移除模块,送到这里.我们认为你是完美人选,所以你会帮助吗?</text>
+<text>为什么不呢?可能有些损坏,但模块有特殊的保护,并不会受到外部影响.这些测试结果,我和舒尔加都感兴趣.然而,由于目前情况,他不认为派他的手下是一个好主意,,因为可能会受竞争对手影响,导致任务失败.我们需要其他人悄悄移除模块,送到这里.我们认为你是完美人选,所以你会帮助吗?</text>
 </string>
 <string id="jup_a6_azot_quest_mech_begin_dialog_4">
 <text>不,我有很多其它工作.找另一个人吧.</text>
@@ -41,7 +41,7 @@
 <text>Yeah, 是的,但佣兵要抢.</text>
 </string>
 <string id="jup_a6_azot_quest_mech_end_complete_dialog_21">
-<text>佣兵? 他们也发现了?该死.这是Shulga担心的.有人说出我们的信息.谁?不清楚.也许信使?</text>
+<text>佣兵? 他们也发现了?该死.这是舒尔加担心的.有人说出我们的信息.谁?不清楚.也许信使?</text>
 </string>
 <string id="jup_a6_azot_quest_mech_end_complete_dialog_22">
 <text>也许吧.事情开始看起来有点对头,假如他参与了,这是肯定的.但遗憾的是,他被用来作为诱饵.他们利用他发送信号给我,引我出来.</text>
@@ -56,7 +56,7 @@
 <text>好吧,让我们来谈谈我的费用.</text>
 </string>
 <string id="jup_a6_azot_quest_mech_end_complete_dialog_244">
-<text>不要,至少不是现在.我需要问Shulga.我们将决定怎样做.如果有的话,再联系.</text>
+<text>不要,至少不是现在.我需要问舒尔加.我们将决定怎样做.如果有的话,再联系.</text>
 </string>
 
 <string id="jup_a6_azot_quest_mech_end_complete_dialog_26">
