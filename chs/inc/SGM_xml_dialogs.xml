@@ -743,19 +743,19 @@
 		<text>不.</text>
 	</string>
 	<string id="pri_monolit_base_leader_dialog_11">
-		<text>是, 这是卡西洛夫的 PDA.</text>
+		<text>是, 这是卡西洛夫的PDA.</text>
 	</string>
 	<string id="pri_monolit_base_leader_dialog_12">
-		<text>很好, 黑石的意志执行了吗?</text>
+		<text>很好,黑石的意志执行了吗?</text>
 	</string>
 	<string id="pri_monolit_base_leader_dialog_13">
-		<text>干得好! 现在我们的兄弟会安息了.我同意你加入我们的队伍,这是你的奖励:</text>
+		<text>干得好!现在我们的兄弟会安息了.我同意你加入我们的队伍,这是你的奖励:</text>
 	</string>
 	<string id="pri_monolit_base_leader_dialog_14">
-		<text>谢谢你. 让黑石与我们同在!</text>
+		<text>谢谢你.让黑石与我们同在!</text>
 	</string>
 	<string id="pri_monolit_base_leader_dialog_15">
-		<text>永远. 明天再来, 黑石会指引你的道路.</text>
+		<text>永远.明天再来,黑石会指引你的道路.</text>
 	</string>
 	<string id="pri_monolit_base_leader_dialog_16">
 		<text>好吧.晚点见你.</text>
@@ -1656,7 +1656,7 @@
 		<text>你好.我听说你需要帮手所以我过来搭把手.需要我做什么?</text>
 	</string>
 	<string id="mil_b7_base_leader_dialog_3">
-		<text>我们确实很需要帮手. 我已经指定了一个作战计划并准备实施,计划是我们将夺取整个地区的控制权,要想成功我们必须先占领几个关键的战略要地: 村庄the village, 农场the farm,西部哨所 the western outpost, 临时营地the makeshift camp 以及东部大门 the eastern gate. 我的部队已经整装待发.首先要拿下农场the farm.到那里帮助我的部下占领它.在所有要地都被占领后,你将得到报酬, 你出力我破财,公平交易.祝你在战斗中无往不胜!</text>
+		<text>我们确实很需要帮手. 我已经指定了一个作战计划并准备实施,计划是我们将夺取整个地区的控制权,要想成功我们必须先占领几个关键的战略要地:村庄,农场,西部哨所,临时营地以及东部大门.我的部队已经整装待发.首先要拿下农场.到那里帮助我的部下占领它.在所有要地都被占领后,你将得到报酬, 你出力我破财,公平交易.祝你在战斗中无往不胜!</text>
 	</string>
 	<string id="mil_b7_base_leader_dialog_4">
 		<text>谢谢.我们会再见面的.</text>
@@ -1671,7 +1671,7 @@
 		<text>是的.</text>
 	</string>
 	<string id="mil_b7_base_leader_dialog_8">
-		<text>太好了.所有战略要地都被攻下了,现在这里完全我们掌控之下了... 我刚才和一个占领Farm的人聊天.他说黑暗山谷那儿有一波异变生物正在靠近.我们需要在那里建立一道稳固的防线.请立刻过去支援那里的战士并消灭所有异变生物.</text>
+		<text>太好了.所有战略要地都被攻下了,现在这里完全我们掌控之下了... 我刚才和一个占领农场的人聊天.他说黑暗山谷那儿有一波异变生物正在靠近.我们需要在那里建立一道稳固的防线.请立刻过去支援那里的战士并消灭所有异变生物.</text>
 	</string>
 	<string id="mil_b7_base_leader_dialog_9">
 		<text>好的,我马上过去帮忙..</text>
@@ -1716,7 +1716,7 @@
 		<text>但这和你的绰号有什么关系, 它是怎么来的呢?</text>
 	</string>
 	<string id="mil_b7_colonizer_commander_about_name_dialog_8">
-		<text>我曾经只对新武器感兴趣,有些是改造过的,有些则是雏形,我总是尽量去收集.由于我总是关注高品质的武器和护甲,总是费尽心机的想得到那些稀有的最好的东西,结果就以珍奇寻宝人而闻名了,因此那些家伙们就给我起了个绰号叫Prototype.</text>
+		<text>我曾经只对新武器感兴趣,有些是改造过的,有些则是雏形,我总是尽量去收集.由于我总是关注高品质的武器和护甲,总是费尽心机的想得到那些稀有的最好的东西,结果就以珍奇寻宝人而闻名了,因此那些家伙们就给我起了个绰号叫原型.</text>
 	</string>
 	<string id="mil_b7_colonizer_commander_about_name_dialog_9">
 		<text>真是引人入胜的故事啊,谢谢你能把它讲完!</text>

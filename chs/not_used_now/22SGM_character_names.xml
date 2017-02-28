@@ -51,11 +51,11 @@
 </string>
 
 <string id="jup_scientific_workman_name">
-<text>教授Igolkin</text>
+<text>伊古尔金教授</text>
 </string>
 
 <string id="mar_authorities_agent_name">
-<text>探员塔拉索夫</text>
+<text>塔拉索夫探员</text>
 </string>
 <string id="mar_b1_commander_name">
 <text>巴格拉季昂</text>
@@ -68,13 +68,13 @@
 </string>
 
 <string id="red_psyho_ecolog_corpse_1_name">
-<text>德米德夫教授</text>
+<text>杰米多夫教授</text>
 </string>
 <string id="red_psyho_ecolog_corpse_2_name">
-<text>教授Sharapov</text>
+<text>沙拉波夫教授</text>
 </string>
 <string id="red_psyho_ecolog_corpse_name">
-<text>教授卢科亚诺夫</text>
+<text>卢科亚诺夫教授</text>
 </string>
 
 <string id="val_dolg_spez_quad_1_name">
@@ -94,13 +94,13 @@
 </string>
 
 <string id="zat_quest_the_spez_ecolog_1_dead_1_name">
-<text>教授 frederson</text>
+<text>费德尔松教授</text>
 </string>
 <string id="zat_quest_the_spez_ecolog_1_dead_2_name">
-<text>教授 Sharapov</text>
+<text>沙拉波夫教授</text>
 </string>
 <string id="zat_quest_the_spez_ecolog_1_dead_3_name">
-<text>教授 Gusatsky</text>
+<text>古萨斯基教授</text>
 </string>
 <string id="zat_quest_the_spez_killer_razvodayshi_name">
 <text>塞米</text>

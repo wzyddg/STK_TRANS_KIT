@@ -3209,7 +3209,7 @@
 		<text>那, 继续, 我怎么找到他,他们在哪?</text>
 	</string>
 	<string id="zat_a6_sultan_quest_kontra_bagir_dialog_10">
-		<text>他的名字是卢西安.他最近从利曼斯克抵达.有传言说,他是一个利曼斯克叛徒的大玩家,但我一直无法证实这一点,所以我不知道这是否正确的,他最近发现使用新的路线,通过红森林到这里.只是一件事,他认为苏丹不配在这里.苏丹的业务是他想要的东西,他打算清除他.</text>
+		<text>他的名字是红鱼.他最近从利曼斯克抵达.有传言说,他是一个利曼斯克叛徒的大玩家,但我一直无法证实这一点,所以我不知道这是否正确的,他最近发现使用新的路线,通过红森林到这里.只是一件事,他认为苏丹不配在这里.苏丹的业务是他想要的东西,他打算清除他.</text>
 	</string>
 	<string id="zat_a6_sultan_quest_kontra_bagir_dialog_11">
 		<text>Okay. 那么,他们在哪里留住雅库特?</text>
@@ -3383,10 +3383,10 @@
 		<text>Oh, 这就是我想的.好样的.雅库特怎样?</text>
 	</string>
 	<string id="zat_a6_sultan_quest_kontra_dialog_vibor_2">
-		<text>您的业务的竞争对手杀了他.你听说过叫卢西恩一个小伙子吗?</text>
+		<text>您的业务的竞争对手杀了他.你听说过叫红鱼一个小伙子吗?</text>
 	</string>
 	<string id="zat_a6_sultan_quest_kontra_dialog_vibor_3">
-		<text>卢西恩.....卢西恩... AHH是,我记得.现在一切都清楚了.巴吉尔说过他的.小鱼苗,前利曼斯克叛徒.没有更多了.</text>
+		<text>红鱼.....红鱼... AHH是,我记得.现在一切都清楚了.巴吉尔说过他的.小鱼苗,前利曼斯克叛徒.没有更多了.</text>
 	</string>
 	<string id="zat_a6_sultan_quest_kontra_dialog_vibor_4">
 		<text>他试图通过获取所有信息接管你的业务,所以我不会说,我会说他是一个很大的问题,或者正在成为一个.</text>
@@ -3398,7 +3398,7 @@
 		<text>已经不用再考虑他了...</text>
 	</string>
 	<string id="zat_a6_sultan_quest_kontra_dialog_end_2_0">
-		<text>卢西恩和他的部下死了.</text>
+		<text>红鱼和他的部下死了.</text>
 	</string>
 	<string id="zat_a6_sultan_quest_kontra_dialog_end_2_1">
 		<text>好. 很高兴跟你做生意.这里是你的份额. 祝你好运. 我们不会忘记你的帮助.</text>

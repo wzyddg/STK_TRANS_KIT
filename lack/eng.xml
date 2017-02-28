@@ -397,7 +397,7 @@
 	<text>'斯莫亚克的闪存驱动器'</text>
 </string>
 <string id="st_army_smoliak_unpack_descr">
-	<text>%c[255,238,153,26]斯莫亚克的财产 \n %c[default] 来自闪存驱动器的信息: 东南方,加工厂.</text>
+	<text>%c[255,238,153,26]斯莫亚克的财产 \n %c[default] 来自闪存驱动器的信息:东南方,加工厂.</text>
 </string>
 <string id="st_army_smoliak_unpack_title">
 	<text>%c[110,128,128,255] ' %c[110,200,128,0] 斯莫亚克的财产 %c[110,128,128,255]'</text>
@@ -409,7 +409,7 @@
 	<text>'梅斯的闪存驱动器'</text>
 </string>
 <string id="st_bandit_bulava_unpack_descr">
-	<text>%c[255,238,153,26] 梅斯的财产 \n %c[default] 来自闪存驱动器的信息: 无.</text>
+	<text>%c[255,238,153,26] 梅斯的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
 </string>
 <string id="st_bandit_bulava_unpack_title">
 	<text>%c[110,128,128,255] ' %c[110,200,128,0] 梅斯的财产 %c[110,128,128,255]'</text>
@@ -421,7 +421,7 @@
 	<text>'恰帕耶夫的闪存驱动器'</text>
 </string>
 <string id="st_bandit_chapaev_unpack_descr">
-	<text>%c[255,238,153,26] 恰帕耶夫的财产 \n %c[default] 来自闪存驱动器的信息: 港口起重机的箱子.</text>
+	<text>%c[255,238,153,26] 恰帕耶夫的财产 \n %c[default] 来自闪存驱动器的信息:港口起重机的箱子.</text>
 </string>
 <string id="st_bandit_chapaev_unpack_title">
 	<text>%c[110,128,128,255] ' %c[110,200,128,0] 恰帕耶夫的财产 %c[110,128,128,255]'</text>
@@ -433,7 +433,7 @@
 	<text>'恐龙的闪存驱动器'</text>
 </string>
 <string id="st_bandit_dinozavr_unpack_descr">
-	<text>%c[255,238,153,26] 恐龙的财产 \n %c[default] 来自闪存驱动器的信息: 无.</text>
+	<text>%c[255,238,153,26] 恐龙的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
 </string>
 <string id="st_bandit_dinozavr_unpack_title">
 	<text>%c[110,128,128,255] ' %c[110,200,128,0] 恐龙的财产 %c[110,128,128,255]'</text>
@@ -445,7 +445,7 @@
 	<text>'侏儒的闪存驱动器'</text>
 </string>
 <string id="st_bandit_gnom_unpack_descr">
-	<text>%c[255,238,153,26] 侏儒的财产 \n %c[default] 来自闪存驱动器的信息: 无.</text>
+	<text>%c[255,238,153,26] 侏儒的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
 </string>
 <string id="st_bandit_gnom_unpack_title">
 	<text>%c[110,128,128,255] ' %c[110,200,128,0] 侏儒的财产 %c[110,128,128,255]'</text>
@@ -457,7 +457,7 @@
 	<text>'卡普的闪存驱动器'</text>
 </string>
 <string id="st_bandit_karas_unpack_descr">
-	<text>%c[255,238,153,26] 卡普的财产 \n %c[default] 来自闪存驱动器的信息: 无.</text>
+	<text>%c[255,238,153,26] 卡普的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
 </string>
 <string id="st_bandit_karas_unpack_title">
 	<text>%c[110,128,128,255] ' %c[110,200,128,0] 卡普的财产 %c[110,128,128,255]'</text>
@@ -469,7 +469,7 @@
 	<text>'卡斯钦的闪存驱动器'</text>
 </string>
 <string id="st_bandit_kaschey_unpack_descr">
-	<text>%c[255,238,153,26] 卡斯钦的财产 \n %c[default] 来自闪存驱动器的信息: 无.</text>
+	<text>%c[255,238,153,26] 卡斯钦的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
 </string>
 <string id="st_bandit_kaschey_unpack_title">
 	<text>%c[110,128,128,255] ' %c[110,200,128,0] 卡斯钦的财产 %c[110,128,128,255]'</text>
@@ -481,7 +481,7 @@
 	<text>'铜指虎的闪存驱动器'</text>
 </string>
 <string id="st_bandit_kastet_unpack_descr">
-	<text>%c[255,238,153,26] 铜指虎的财产 \n %c[default] 来自闪存驱动器的信息: CPR西南方.</text>
+	<text>%c[255,238,153,26] 铜指虎的财产 \n %c[default] 来自闪存驱动器的信息:CPR西南方.</text>
 </string>
 <string id="st_bandit_kastet_unpack_title">
 	<text>%c[110,128,128,255] ' %c[110,200,128,0] 铜指虎的财产 %c[110,128,128,255]'</text>
@@ -1238,7 +1238,7 @@
 	<text>奇怪的笔记一</text>
 </string>
 <string id="st_quest_bloodsucker_letter_1_descr">
-	<text>信件写道: "...你是第一个见到我的人.我救了你的命...代价是你要保持沉默和...和帮助.帮帮我...我不能在人中间出现, 但我知道科学家有我需要的东西...NG-7.带给我这种药.它会对我有帮助的.我会感谢你的.."\n要将数据加载到PDA中,必须使用.</text>
+	<text>信件写道:"...你是第一个见到我的人.我救了你的命...代价是你要保持沉默和...和帮助.帮帮我...我不能在人中间出现, 但我知道科学家有我需要的东西...NG-7.带给我这种药.它会对我有帮助的.我会感谢你的.."\n要将数据加载到PDA中,必须使用.</text>
 </string>
 <string id="st_quest_bloodsucker_letter_2">
 	<text>奇怪的笔记二</text>
@@ -1880,7 +1880,7 @@
 	<text>PKM</text>
 </string>
 <string id="st_wpn_pkm_descr">
-	<text>这种带式机枪是一种具有复杂两级进给系统的便携式改装.尽管它很重却精确度低, 这个轻机枪在特异区还是找到了仰慕者.主要用于对抗派系冲突中的大量敌军和清除突变巢穴.</text>
+	<text>这把机枪为了达到便携式目的而改造了带有一种复杂的双重压力供给系统.虽然它的重量有点高,精度有点低,但这把轻机枪在变异区里还是有很多的崇拜者.它主要用于在派系战争里击退数量上超过你的敌军或是清除变异生物的巢穴.</text>
 </string>
 <string id="st_wpn_pmm">
 	<text>PMM</text>
@@ -1901,61 +1901,61 @@
 	<text>雷明顿 870型，美式来复枪，在1950年由雷明顿军火发布。多亏了它特色的装弹系统，它成了世界上最受欢迎的泵式散弹枪之一。现在有用于打猎、警察、保安和自卫等多个版本。</text>
 </string>
 <string id="st_wpn_rpk">
-	<text>PKK</text>
+	<text>RPK</text>
 </string>
 <string id="st_wpn_rpk_descr">
-	<text>RPK (Kalashnikov.ikov machine gun) - created as a support weapon ctrelkovogo platoon level on the basis of AKM and was in service with the Armed Forces of the USSR and many other countries. To date, found in the Russian Armed Forces and the Interior Ministry. In the Soviet Army each rifle platoon (10 people) relied on the state of one of the PKK. In general in the army of the Russian Federation PKK was replaced by the RPK-74.</text>
+	<text>RPK(卡拉什尼科夫机枪)是在AKM机枪的基础上改造的支援武器，在苏联和许多其他国家军队服役。现在,在俄罗斯武装部队和内政部装备.在苏联军队每个步枪排(十个人)都很依赖RPK的火力.现在俄联邦军队中RPK广泛被RPK-74取代.</text>
 </string>
 <string id="st_wpn_sig552">
 	<text>SIG SG-552</text>
 </string>
 <string id="st_wpn_sig552_descr">
-	<text>SG-552 Commando - even more compact machine with the barrel 226 mm, intended for special police ulouse. Unlike SG return spring 550 behind the bolt and acts directly on it and not on the gas piston rod. The machine has modified flash suppressor and can be equipped with Picatinny rail for mounting additional accessories.</text>
+	<text>SG-552突击队，一支更紧凑、更小巧的226mm口径的特警用枪.与SG 550螺栓后面的复位弹簧不同，后坐力直接作用在弹簧上而不作用在气体活塞杆上。这把枪已经使用了火焰抑制器，并且可以安装皮卡汀尼导轨的附件。</text>
 </string>
 <string id="st_wpn_sr1mp">
-	<text>CP 1MP 'Gyurza'</text>
+	<text>CP 1MP '蝰蛇'</text>
 </string>
 <string id="st_wpn_sr1mp_descr">
-	<text>9mm automatic pistol SR-1M 'Gyurza' established in TSNIITOCHMASH designer Peter Serdyukov. The gun is designed for special forces and designed to defeat the enemy soldiers in flak jackets or in the cab, as well as antenna radar systems and rocket bodies.</text>
+	<text>9mm自动手枪SR-1M '蝰蛇'是由'茨尼托迟玛什'狙击枪的设计者彼得·瑟杜科夫制造的。这把枪专为特种部队设计，用于打击穿防弹衣，在室内的敌军。</text>
 </string>
 <string id="st_wpn_sr3m">
-	<text>CP-3M 'Whirlwind'</text>
+	<text>CP-3M '旋风'</text>
 </string>
 <string id="st_wpn_sr3m_descr">
-	<text>CP-3 'Whirlwind' - compact Russian machine designed Klimovsk TSNIITOCHMASH designers AD Borisov and V. Levchenko in 1994. Was brought before the release of designer AI Tashlykova and was put into production in 1996. Is based on a silent machine AS 'Val', which unified the main parts, which positively affects the production and operation of weapons.</text>
+	<text>CP-3 '旋风'战斗步枪由'茨尼托迟玛什'狙击枪的设计者A.D. 保利瑟夫和V. 勒夫琴科在1994年制造的。由A.I. 塔什利科瓦发布并于1996年投入生产。以无声步枪AS VAL为基础，整合了主要部件，对武器的生产和经营有积极的影响.</text>
 </string>
 <string id="st_wpn_sv98">
 	<text>SV-98</text>
 </string>
 <string id="st_wpn_sv98_descr">
-	<text>Russian stores sniper rifle, created in 1998-2000. a team of designers led by Vladimir Stronsky and commercially available Concern Izhmash '.</text>
+	<text>俄罗斯于1998-2000年研制的狙击枪。由弗拉基米尔·斯特朗斯基带领的设计小队设计并且可以在伊日马什买到.</text>
 </string>
 <string id="st_wpn_svt40">
 	<text>SVT-40</text>
 </string>
 <string id="st_wpn_svt40_descr">
-	<text>7.62mm self-loading rifles Tokarev model 1938 and 1940 (SVT-38, SVT-40), as well as automatic rifle Tokarev sample 1940 - modification of the Soviet semi-automatic rifle, developed FV Tokarev.</text>
+	<text>7.62mm口径托卡列夫自装填来复枪1938年款和1940年款(SVT-38与SVT-40),还有托卡列夫自动来复枪的1940年样品，都是改装自苏联半自动步枪，由F.V. 托卡列夫研制。</text>
 </string>
 <string id="st_wpn_usp45c">
-	<text>HK USP Compact</text>
+	<text>HK USP 战术版</text>
 </string>
 <string id="st_wpn_usp_expert">
-	<text>HK USP Expert</text>
+	<text>HK USP 专家版</text>
 </string>
 <string id="st_wpn_usp_match">
-	<text>HK USP Match</text>
+	<text>HK USP 竞技版</text>
 </string>
 <string id="st_wpn_vepr12">
-	<text>Boar-12M</text>
+	<text>Vepr-12M</text>
 </string>
 <string id="st_wpn_vepr12_descr">
-	<text>Shotgun (shotgun) Boar-12 yavlyatesya relatively new development of the plant 'Hammer' (Vyatskie the field) and created as a direct competitor is very popular in Russia guns series Saiga 12C/Saiga 12K.</text>
+	<text>散弹枪（猎枪）Vepr-12是较新的开发项目“铁锤”（维亚茨基耶波利亚内）的有力竞争对手。在俄罗斯Saiga 12C/Saiga 12K系列中十分受欢迎.</text>
 </string>
 <string id="st_wpn_vz61">
-	<text>Vz. 61 'Scorpio'</text>
+	<text>Vz. 61 '天蝎'</text>
 </string>
 <string id="st_wpn_vz61_descr">
-	<text>Skorpion vz. 61 'Scorpio' - Czech submachine gun, designed for tank weapons, communications and military personnel of other specialties. Scorpio was adopted in Czechoslovakia in 1961 (hence the designation vz.61 - vzor 61, ie, the sample 1961).</text>
+	<text>Vz. 61 '天蝎',捷克机枪，专为坦克、通信和其他专业的军事人员设计，于1961年装备捷克斯洛伐克军队，故得名Vz. 61。</text>
 </string>
 <string id="st_x18_secret_docks_1">
 	<text>案例45</text>
@@ -1979,230 +1979,232 @@
 	<text>秘密武器</text>
 </string>
 <string id="st_zat_alfa_customer_pda">
-	<text>PDA alfovtsa</text>
+	<text>阿尔法队员的PDA</text>
 </string>
 <string id="st_zat_alfa_customer_pda_descr">
-	<text>Information from the flash-drive: 'Five of the charges laid in the five points of possible occurrence of an agent of the SBU, the money ready for transfer.'</text>
+	<text>来自闪存驱动器的信息:'五颗炸弹已经放在SBU特工可能出现的五个地方了，请准备好付钱吧。'</text>
 </string>
 <string id="st_zat_alfa_performer_bandit_pda">
 	<text>未知枪手的PDA</text>
 </string>
 <string id="st_zat_alfa_performer_bandit_pda_descr">
-	<text>Information from the flash-drive: 'Thank you for the work done, the money will take the forest near our Iron Man'.</text>
+	<text>来自闪存驱动器的信息:'谢谢你的工作，你去钢铁森林那里找我们的人拿到钱吧。'.</text>
 </string>
 <string id="st_zat_danger_parcel">
-	<text>Sending for Kanev</text>
+	<text>给卡内弗斯基的包裹</text>
 </string>
 <string id="st_zat_danger_parcel_descr">
-	<text>What Avenger disparagingly called the 'fireworks' really looks like a well-packed charge of C-4 with the detonator. Beneficiary - 'dolgovets' Kanev.</text>
+	<text>事实上,复仇者说的所谓的"烟花",看起来像个装着C4炸药的炸药包.收件人-纪律团的卡内弗斯基.</text>
 </string>
 <string id="st_zat_mad_dog_pda">
-	<text>PDA captain Rogozhina</text>
+	<text>罗格日纳队长的PDA</text>
 </string>
 <string id="st_zat_mad_dog_pda_descr">
-	<text>PDA with precious information for the leader of free stalkers - Sword.</text>
+	<text>装着有关自由领导人'剑刃'的珍贵信息的PDA.</text>
 </string>
 <string id="st_zat_medic_antidote">
-	<text>Antidote paramedics</text>
+	<text>解毒剂</text>
 </string>
 <string id="st_zat_medic_antidote_descr">
-	<text>Making a chiropractor.</text>
+	<text>一包解毒剂.</text>
 </string>
 <string id="st_zat_postman_parcel">
-	<text>Sending for savers</text>
+	<text>给储户的包裹</text>
 </string>
 <string id="st_zat_postman_parcel_descr">
-	<text>According stalker Petka Pechkin, inside is a license fee. Recipient - Markovic saver on Skadovsk.</text>
+	<text>潜行者佩特卡·佩楚辛说这里面是执照费用。收件人：马尔科维奇，斯卡多夫斯克上的储户。</text>
 </string>
 <string id="st_zat_shakal_weapon">
-	<text>Named 'Ruger GP100'</text>
+	<text>刻有名字的Ruger GP100</text>
 </string>
 <string id="st_zat_shakal_weapon_descr">
-	<text>Personal arms. Achieved under the order, the handle flaunts the inscription 'Chapa'.</text>
+	<text>私人武器。定制款，握把上刻着'Chapa'.</text>
 </string>
 <string id="st_zat_wisdom_book_1">
-	<text>The book 'Wisdom'</text>
+	<text>书籍-《智慧》</text>
 </string>
 <string id="st_zat_wisdom_book_1_descr">
-	<text>Rare in the area book.</text>
+	<text>在特异区里，书可是稀罕东西。</text>
 </string>
 <string id="st_zat_wisdom_book_2">
-	<text>The book 'Wisdom'</text>
+	<text>书籍-《智慧》</text>
 </string>
 <string id="st_zat_wisdom_book_2_descr">
-	<text>Rare in the area book.</text>
+	<text>在特异区里，书可是稀罕东西。</text>
 </string>
 <string id="st_zat_wisdom_book_3">
-	<text>The book 'Wisdom'</text>
+	<text>书籍-《智慧》</text>
 </string>
 <string id="st_zat_wisdom_book_3_descr">
-	<text>Rare in the area book.</text>
+	<text>在特异区里，书可是稀罕东西。</text>
 </string>
 
+
+
 <string id="val_b2_trader_name">
-	<text>Kapitoshkin</text>
+	<text>卡皮托什金</text>
 </string>
 <string id="val_dolg_spez_quad_3_name">
-	<text>Savchuk</text>
+	<text>莎维楚克</text>
 </string>
 <string id="val_freedom_lucas_quest_second_dialog_7">
-	<text>Next to you is targeted Kolmogorov. You just Shall I live to their checkpoint.</text>
+	<text>下一个目标是科尔莫戈罗夫.你只要护送我到他们的检查站.</text>
 </string>
 <string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_44">
-	<text>No, yah them, these svobodovtsev - let them shit in his last Kolupaev.</text>
+	<text>不, 来吧, 这些自由团-让他们自己研究去吧.</text>
 </string>
 <string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_00">
-	<text>Wow, Major. See you executed agreement. Commendable. documents from the former base svobodovskoy found?</text>
+	<text>哇，少校。看来你任务成功了，难能可贵。前自由团基地的文件找到了?</text>
 </string>
 <string id="zat_homsa_find_quest_1_text0">
-	<text>Check stalkersky parking around the warehouse containers.</text>
+	<text>检查集装箱仓库附近逗留的潜行者.</text>
 </string>
 <string id="zat_homsa_find_quest_main_text0">
-	<text>Gaunt has asked you to find the missing stalkers group led by Guide Homs. Before transgress to seek collect additional information about the inhabitants of Homs camp.</text>
+	<text>冈塔指示你找到一个由号角想到领导的失踪的追踪小组.在继续搜查之前,在营地居民间搜集更多有关号角的信息.</text>
 </string>
 <string id="zat_homsa_find_quest_main_text1">
-	<text>Skadovska inhabitants were able to call you three possible points where the group could appear Homs. Check them all.</text>
+	<text>斯卡多夫斯克的居民给了你三个号角集团可能会在的点,都去检查一下.</text>
 </string>
 <string id="zat_homsa_find_quest_main_text10">
-	<text>Report to Gont the results of its 'closed' investigation.</text>
+	<text>告诉冈塔关于"封闭"的调查结果的报告.</text>
 </string>
 <string id="zat_homsa_find_quest_main_text2">
-	<text>Report to Gont on the search results and decide what to do next.</text>
+	<text>告诉冈塔搜索结果并决定下一步做什么.</text>
 </string>
 <string id="zat_homsa_find_quest_main_text3">
-	<text>Stalkers of Homs group made contact with the inhabitants Skadovska. The situation with their disappearance became clearer. Wait until they are re-entering the bond ...</text>
+	<text>号角小队的潜行者与斯卡多夫斯克的居民取得了联系.他们失踪的情况变得更加明朗.等待他们的进一步联络。</text>
 </string>
 <string id="zat_homsa_find_quest_main_text4">
-	<text>Ask the Gonty what he was told rassvetovtsy missing.</text>
+	<text>问问冈塔关于拉斯维托的失踪他又知道了些什么。</text>
 </string>
 <string id="zat_homsa_find_quest_main_text5">
-	<text>Gont failed to communicate with the detachment of Dawn. Became known very strange facts about the fate of the Guide. Talk to rassvetovtsem to find out the truth.</text>
+	<text>冈塔没能和黎明组织小队取得联系，向导等人的命运变得更加扑朔迷离。找到拉斯维托来查明真相.</text>
 </string>
 <string id="zat_homsa_find_quest_main_text6">
-	<text>The matter has become very unexpected turn. Provide assistance to stalkers, to be able to conduct further investigations. Dawn squad leader must stay alive.</text>
+	<text>这件事发生了意想不到的转折.向潜行人员提供协助,以便能够进行进一步的调查.黎明队队长必须活着.</text>
 </string>
 <string id="zat_homsa_find_quest_main_text7">
-	<text>Did not become clear until the end of what you are looking for rassvetovtsy Creek, but it looks like their squad butted into trouble. Help stalkers fight off spawn zones.</text>
+	<text>费尽千辛万苦才在河湾找到了拉斯维托，但看起来他们的阵容却陷入了困境.帮助潜行者和变异怪物战斗.</text>
 </string>
 <string id="zat_homsa_find_quest_main_text8">
-	<text>Rassvetovtsy you managed to download the frequency PDA Homs. Find this pseudo-Guide.</text>
+	<text>你设法从号角的PDA上下载到了拉斯维托的信息，找到这个假向导.</text>
 </string>
 <string id="zat_homsa_find_quest_main_text9">
-	<text>Homs, so long pretending simple Guide was closed employee syndicate. He refused to cooperate. Kill him.</text>
+	<text>号角，假扮了这么久的向导，竟然是间谍。他拒绝合作，杀了他。</text>
 </string>
 <string id="zat_killer_shakal_dialog_20">
-	<text>Well, bastard, hold on ...</text>
+	<text>混蛋，等等...</text>
 </string>
 <string id="zat_killer_spez_1_text0">
-	<text>In order to assist in the resolution of debt possible conflict, it is necessary to implicate in this adventure of Freedom stalkers. Convince Loki send a detachment of people for possible sabotage against the debt.</text>
+	<text>为了协助解决纪律团可能的冲突,有必要在这趟行动中把自由团牵连进来.说服洛基派遣一支小队为纪律团可能起的冲突做准备.</text>
 </string>
 <string id="zat_killer_spez_1_text1">
-	<text>You must wait until the agreed date of commencement of the special operetsii. Prepare for her during this time.</text>
+	<text>你必须等到约定的时刻开始行动.在这段时间里做好准备.</text>
 </string>
 <string id="zat_killer_spez_1_text2">
-	<text>The decision to help debt okanchatelno. Instead of joint action against debt, kill svobodovskih saboteurs.</text>
+	<text>决定帮助纪律团完成任务.而不是联合行动打击纪律团,杀死自由团的破坏分子.</text>
 </string>
 <string id="zat_killer_spez_1_text3">
-	<text>Shulgi came from an unexpected message. Detachment of his soldiers who were guarding the scientists - are not contacted. Find out what happened ...</text>
+	<text>舒尔加发来一个意想不到的讯息.守卫科学家的士兵的支队失去了联络.弄清发生了什么.</text>
 </string>
 <string id="zat_killer_spez_1_text4">
-	<text>Dolgovtsev with scientists died. Nearby lies a wounded mercenary thrown comrades die. Find out from him what could happen.</text>
+	<text>纪律团与科学家们都死了.附近躺着一个扔下同伴的受伤的雇佣军.从他身上问出发生了什么事.</text>
 </string>
 <string id="zat_killer_spez_1_text5">
-	<text>Blue deceived you and used in their korostnyh purposes. Now Duty and Freedom will assume that you rigged this whole adventure. Kill the wounded and decide that it is possible to take in such a difficult situation ...</text>
+	<text>佣兵算计了你，来实现他们的无耻目的。现在纪律团和自由团都觉得是你策划了这场阴谋。把那个伤员杀了然后想想这种两难境地应该怎么办。</text>
 </string>
 <string id="zat_killer_spez_1_text6">
-	<text>Talk with hatchets and decide how you do - to deal with mercenaries or return neutrality other clans.</text>
+	<text>与斧头交谈,决定你如何处理：与雇佣军达成协议或返回其他中立阵营.</text>
 </string>
 <string id="zat_killer_spez_1_text7">
-	<text>Convince svobodovskogo leader in his 'innocence' in the incident.</text>
+	<text>说服自由团领导人在这件事情中是无辜的。</text>
 </string>
 <string id="zat_killer_spez_1_text8">
-	<text>Convince dolgovtsev leader in his innocence and lack of communication with the mercenaries ...</text>
+	<text>说服纪律团领导人在这件事情中是无辜的并且没跟佣兵达成交易。</text>
 </string>
 <string id="zat_killer_spez_2_text0">
-	<text>In order to 'help' Freedom in brewing adventure Shulga need to convince of the need to transfer a group of his fighters suit you instructions related to changes in the possible route of promotion on the Creek.</text>
+	<text>为了'帮助'自由团制造阴谋，需要说服舒尔加调给你一组听你指挥的战士来处理河湾地区可能的路线变动.</text>
 </string>
 <string id="zat_killer_spez_2_text1">
-	<text>Group svobodovskih saboteurs sent to the Creek. Wait for their arrival.</text>
+	<text>自由团的破坏小队已经被派去了河湾，等待他们到达。</text>
 </string>
 <string id="zat_killer_spez_2_text2">
-	<text>Speak with the commander of the detachment svobodovskogo upcoming operation.</text>
+	<text>与自由团小队指挥官谈谈即将开始的行动.</text>
 </string>
 <string id="zat_killer_spez_2_text3">
-	<text>Prepare to wait for group of scientists and a detachment of Duty, occupy a favorable position ...</text>
+	<text>准备等待一批科学家和一支纪律团小队，占据有利位置.</text>
 </string>
 <string id="zat_killer_spez_2_text4">
-	<text>Destroy all the scientists and their accompanying dolgovtsev.</text>
+	<text>杀掉所有科学家和陪同的纪律团.</text>
 </string>
 <string id="zat_killer_spez_2_text5">
-	<text>Take next to the dead body of Georgian scientists with valuable information.</text>
+	<text>在格鲁吉亚科学家尸体旁拿走装着宝贵的信息的箱子.</text>
 </string>
 <string id="zat_killer_spez_2_text6">
-	<text>Mercenaries were instructed to carry out sabotage directed against both clans. Therefore destroy and svobodovtsev too.</text>
+	<text>雇佣兵奉命对两个阵营进行蓄意破坏.因此把自由团也杀了.</text>
 </string>
 <string id="zat_killer_spez_2_text7">
-	<text>Mercenaries sent his man kontroliravshego operation ... We need to discuss with him further action.</text>
+	<text>雇佣军派出他们的人围观整场行动...我们需要与他讨论进一步的行动.</text>
 </string>
 <string id="zat_killer_spez_2_text8">
-	<text>Follow Dolgovskaya to colonel and became convinced of his innocence in the incident. Thus it will be possible to preserve the neutrality of the debt.</text>
+	<text>说服纪律团的上校这件事中他是无辜的。这样可能和纪律团能保持中立。</text>
 </string>
 <string id="zat_killer_spez_2_text9">
-	<text>Follow the leader of Svoboda and make sure its nothing to do with what has happened. It is thus possible to preserve neutrality with freedom.</text>
+	<text>说服自由团的领导这件事中他是无辜的。这样可能和自由团能保持中立。</text>
 </string>
 <string id="zat_killer_spez_2_title1">
-	<text>Secret opposition: wait until Svoboda sent his men to Zaton.</text>
+	<text>秘密反对:等待自由团的人到河湾.</text>
 </string>
 <string id="zat_killer_spez_2_title2">
-	<text>Secret opposition: meet with the leader of Svoboda.</text>
+	<text>秘密反对:与自由团的队长会面.</text>
 </string>
 <string id="zat_killer_spez_2_title8">
-	<text>Secret opposition: Shulga convince his innocence in the attack.</text>
+	<text>秘密反对:向舒尔加说明是无辜的.</text>
 </string>
 <string id="zat_killer_spez_2_title9">
-	<text>Secret opposition: convince Loki in his innocence in the death squad svobodovskogo ...</text>
+	<text>秘密反对:向洛基说明自由团小队的死无他无关.</text>
 </string>
 <string id="zat_killer_spez_operation_text0">
-	<text>Mercenaries plotting against a very dangerous adventure Duty and Freedom. You also assigned to it almost the main role. Decide how you do - take the side of Duty, or their opponents.</text>
+	<text>雇佣军密谋用一场冒险打击纪律团和自由团双方.你也承担了整件事中的主要的角色.决定你要做什么：选择纪律团、或者自由团。.</text>
 </string>
 <string id="zat_rasvet_quest_homsa_leader_name">
-	<text>Shipachev</text>
+	<text>施帕奇</text>
 </string>
 <string id="zat_stalker_breeder_work_dialog_3_5">
-	<text>I have no artifacts.</text>
+	<text>我没有神器.</text>
 </string>
 <string id="zat_stalker_trader_dialog_38">
 	<text>'OC-33 Pernach'</text>
 </string>
 <string id="zat_sultan_kontr_text0">
-	<text>Sultan has asked you to conduct a special investigation to find and deceived his man by the name of Yakutia. First we need to get all possible information about Yakutia in svobodovskogo 'Informant' Bagheera.</text>
+	<text>苏丹要求你进行一次特别调查,找到以雅库特的名义欺骗他的人.首先,我们需要从自由团 的'线人'巴吉尔那得到所有关于雅库特的可能的信息.</text>
 </string>
 <string id="zat_sultan_kontr_text1">
-	<text>Bagir said that Yakut was caught Lucian - a bandit gang of Chapayev on the Creek. Go there and check the veracity of the Informant.</text>
+	<text>巴吉尔说雅库特被位于河湾的恰帕耶夫的强盗组织里的红鱼抓住了。去那检验他说的是不是真的。</text>
 </string>
 <string id="zat_sultan_kontr_text2">
-	<text>Lucian promised to go on a possible compromise between the maturing konfrantatsii bandit clans, only if you manage to extract from Yakutia information on stolen documents. Get them in a hostage.</text>
+	<text>红鱼答应说只要您能获得雅库特被盗的文档里的信息，就可能组织一场强盗帮派之间的协商。</text>
 </string>
 <string id="zat_sultan_kontr_text3">
-	<text>Yakut split. But anyway it is no longer a save. Wait until it's over and start hunting for caches.</text>
+	<text>雅库特死了。但无论如何他没存着。等到它结束后,开始搜索藏匿物。</text>
 </string>
 <string id="zat_sultan_kontr_text4">
-	<text>Yakut before death raskazal you about all the stolen documents Sultan that he had hidden in the recesses on the Creek and Jupiter. We'll have to find them according to a tip as he said: '... three .podavites cache. Creek on two: at the station waste recycling and close to BIS in the sewer ... and Yanov on career ... ... in iron. .kr .. '</text>
+	<text>在死亡前雅库特告诉了你关于所有被盗的苏丹的文件位置,他隐藏在河湾和木星.我们必须根据他的提示找到他们: "...有三个缓存.河湾有两个，在废水站和BIS附近的下水道...亚诺夫...采石场...铁...'.</text>
 </string>
 <string id="zat_sultan_kontr_text5">
-	<text>All documents Sultan you. Decide what side to take bandit: Sultan or Lucian.</text>
+	<text>苏丹所有的文件都拿到了，决定带去给谁：苏丹或红鱼。</text>
 </string>
 <string id="zat_sultan_kontr_text_1_0">
-	<text>You gave the documents with all the information on the smuggling of Lucian. Now you must come up with a suitable excuse for the Sultan. Try all the blame on svobodovskogo Informant Bagheera.</text>
+	<text>你把文件都给了红鱼，现在你需要编一个合适的接口给苏丹听。尝试把所有的责任都推到自由团的线人巴吉尔头上。</text>
 </string>
 <string id="zat_sultan_kontr_text_1_1">
-	<text>Loki believed duplicity stalker Bagheera and gave its tacit consent to his removal. Kill svobodovtsev.</text>
+	<text>洛基相信了巴吉尔是个两面三刀的家伙，默许了杀掉他。干掉巴吉尔.</text>
 </string>
 <string id="zat_sultan_kontr_text_1_2">
-	<text>Follow Sultan and to shift the blame on to his job pravalu Informant Bagheera.</text>
+	<text>去见苏丹然后把所有的责任都推到巴吉尔头上.</text>
 </string>
 <string id="zat_sultan_kontr_text_2_0">
-	<text>All documents are returned to the customer. Now Sultan instructed you to deal with a competitor in the smuggling - Lucian. According to data received from Bagheera Lucian must soon leave the base and go to Jupiter. Wait until it arrives.</text>
+	<text>所有文件都已退回给客户.现在苏丹已经指示你干掉他在走私生意上的竞争者红鱼.根据巴吉尔的数据,红鱼预计不久就要离开基地前往木星.等待他出现.</text>
 </string>
 <string id="zat_sultan_kontr_text_2_1">
 	<text>杀掉苏丹的竞争对手.</text>

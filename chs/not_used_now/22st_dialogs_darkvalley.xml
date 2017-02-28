@@ -16,25 +16,25 @@
 <text>您将需要按照探员指示.我不认为那问题,能简单的解决,但你有良好的训练,相对我的人.你从探员的指示,收集一些有关他们在黑暗山谷前基地的信息,以及关于某种天线的控制...嗯,这是你的工作?</text>
 </string>
 <string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_4">
-<text>Well, 我同意. 或许这将包含有价值的信息.</text>
+<text>好吧，我同意.或许这将包含有价值的信息.</text>
 </string>
 <string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_5">
-<text>Ok, 这里有他的位置.我们在检查站的人告诉我,他已经从Garbage到了,等待我的人到来,这样的potaraplivaysya.然后它会吃的突变体,并断绝我们的树莓.</text>
+<text>好的, 这里有他的位置.我们在检查站的人告诉我,他已经从废弃区来了,等待我的人到来.然后它会吃的突变体,并断绝我们的树莓.</text>
 </string>
 <string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_76">
 <text>地板.</text>
 </string>
 <string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_55">
-<text>对不起, 第二次机会,如果你改变主意,你不会的.任何请求我可以甚至不处理.</text>
+<text>对不起,如果你改变主意也不会有第二次机会了.任何请求我可以甚至不处理.</text>
 </string>
 <string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_56">
-<text>Oh, 怕了.</text>
+<text>哦,怕了.</text>
 </string>
 <string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_6">
 <text>你个人了解这个神秘的过去吗?以及有什么保证是不是会适得其反?</text>
 </string>
 <string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_7">
-<text>保证 -与他们一样,我们之间保持和平,我不认为他们想破坏我们的关系.对自由团是首先,而不是我们.顺便说一下,你的份额 - 总数的一半.我个人认为,可能svobodovtsy想要得到的一些文件存储在他们的老基地,这就是他们为什么不自己拿的 - 我知道.</text>
+<text>保证-与他们一样,我们之间保持和平,我不认为他们想破坏我们的关系.对自由团是首先,而不是我们.顺便说一下,你的报酬 - 总数的一半.我个人认为,可能自由团想要得到的一些文件存储在他们的老基地,这就是他们为什么不自己拿的 - 我知道.</text>
 </string>
 <string id="val_freedom_lucas_quest_first_dialog_00">
 <text>你在夜行者阵营?</text>
@@ -94,10 +94,10 @@
 <text>同意.</text>
 </string>
 <string id="val_freedom_lucas_quest_second_dialog_00">
-<text>你活了下来.好.这些突变体真烂..</text>
+<text>你活了下来.好.这些突变体真烦人...</text>
 </string>
 <string id="val_freedom_lucas_quest_second_dialog_0">
-<text>这是我最关注的问题.你到底在干什么?我等待着,直到我被吞食,然后剩下尸体,文件prespokoynenko utyulepat...</text>
+<text>那是我最不在乎的。你到底在干什么？等待我被吃掉, 然后拿走我的文件和东西？没门。</text>
 </string>
 <string id="val_freedom_lucas_quest_second_dialog_1">
 <text>你错了,你会怎么做?我不能介入.怪物不会放过你,或文件的任何东西...</text>
@@ -118,10 +118,10 @@
 <text>听着,如果你不交,然后我通常不说一句话,只是射你的头,你尸体会在苏打溶液,将文件交给码头区一个哥们.卢卡斯是倒霉的朋友,当我们被突变体攻击.你怎么想?</text>
 </string>
 <string id="val_freedom_lucas_quest_second_dialog_2222">
-<text>Okay, okay. 这里是你的钱为遇到的意外困难.现在满意了吗?此外仍然需要帮助.</text>
+<text>好吧，好吧。这里是为你遇到的意外困难的补偿.现在满意了吗?此外仍然需要帮助.</text>
 </string>
 <string id="val_freedom_lucas_quest_second_dialog_22222">
-<text>是.还有什么你想要?记录了他的zaberesh?</text>
+<text>是.还有什么你想要?他的文件?</text>
 </string>
 <string id="val_freedom_lucas_quest_second_dialog_33">
 <text>我很害怕.陈腐的懦夫.我不能做当你面对怪物.一,二 - 还是没有去.但没有更多的 ...</text>
@@ -133,7 +133,7 @@
 <text>但他却成了.我们组的人,切尔诺贝利事故后的强攻,在手指上.反正是没有发现,没有一个是好.嗯,怎么能帮助我?</text>
 </string>
 <string id="val_freedom_lucas_quest_second_dialog_33333">
-<text>Well, 还有什么?记录自己的方式,拿走.</text>
+<text>好吧, 还有什么?记录自己的方式,拿走.</text>
 </string>
 <string id="val_freedom_lucas_quest_second_dialog_44">
 <text>但接下来呢. 柯尔莫哥洛夫去link. 他警告山谷中有奇怪生物活动,要快点.</text>
@@ -142,10 +142,10 @@
 <text>拿你的文件.我们从哪里离开这里更好?</text>
 </string>
 <string id="val_freedom_lucas_quest_second_dialog_5">
-<text>去到遥远的前哨农场,这是必要的. 柯尔莫哥洛夫等我们. 与他的将是一些更自由人民.从那里,我可以去的封锁线.</text>
+<text>去到遥远的前哨农场,这是必要的.柯尔莫哥洛夫等我们.他和一些更自由的人在一起.从那里,我可以去的封锁线.</text>
 </string>
 <string id="val_freedom_lucas_quest_second_dialog_6">
-<text>我的份额怎样?</text>
+<text>我的报酬怎样?</text>
 </string>
 
 <string id="val_freedom_lucas_quest_second_dialog_8">
@@ -153,7 +153,7 @@
 </string>
 
 <string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_0">
-<text>是, 我帮助卢卡斯.现在来谈谈我的份额?</text>
+<text>是, 我帮助卢卡斯.现在来谈谈我的报酬?</text>
 </string>
 <string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_1">
 <text>好吧, 你是对的.我们不会推脱.这里是你的老老实实赢得的.顺便说一下,我可以提供别的东西.你将不得不选择奖励.</text>
