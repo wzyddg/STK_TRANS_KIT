@@ -1,0 +1,201 @@
+      <string id="st_treasure_rukzak_title">
+		<text>个人背包</text>
+	</string>
+      <string id="st_treasure_rukzak_descr">
+		<text>标准潜行者背包.让你把带不动的物品匿藏起来. </text>
+	</string>
+      <string id="st_repair_arms_box_title">
+		<text> 武器修理套装 </text>
+	</string>
+      <string id="st_repair_arms_box_descr">
+		<text>工具盒. 用于修理武器. </text>
+	</string>
+      <string id="st_repair_outfit_box_title">
+		<text>装备修理套装</text>
+	</string>
+      <string id="st_repair_outfit_box_descr">
+		<text>工具盒. 用于修理装备. </text>
+	</string>
+      <string id="st_binocular_default">
+		<text>标准双筒望远镜 </text>
+	</string>
+      <string id="st_binocular_m1">
+		<text>鹰式 双筒望远镜 </text>
+	</string>
+      <string id="st_binocular_m2">
+		<text>擎天柱 双筒望远镜 </text>
+	</string>
+      <string id="st_binocular_m3">
+		<text>猎豹 双筒望远镜 </text>
+	</string>
+      <string id="st_sleeping_bag_title">
+		<text> 睡袋 </text>
+	</string>
+      <string id="st_sleeping_bag_descr">
+		<text> 标准睡袋.能让你在任何地方都睡得舒服. </text>
+	</string>
+      <string id="st_emulator_brain_waves_title">
+		<text> 'BRAIN-8'脑电波模拟器 </text>
+	</string>
+      <string id="st_emulator_brain_waves_descr">
+		<text> PSY屏蔽装置,以免受外界电磁力场影响脑电波活动,  BRAIN-8的新版本加强对有心灵感应和辐射更新保障制度. 自动使用.\n%c[255,238,153,26]让PSI健康值不低于90%.</text>
+	</string>
+      <string id="st_player">
+		<text> 收音机</text>
+	</string>
+      <string id="st_player_descr">
+		<text>潜行者专用收音机, 支持自定义音乐, 为特异区专门设计的. 使用内置的 '电池' 神器粒子. 很受潜行者欢迎. 通常不购买,但如果没有吉他,它可以派上用场. </text>
+	</string>
+      <string id="st_mp3_track_descr">
+		<text>ipod.数字音频播放器.</text>
+	</string>
+      <string id="st_army_timer_title">
+		<text>军用计时器</text>
+	</string>
+      <string id="st_army_timer_descr">
+		<text>允许你设定的时间,期间,你可以做任何事.</text>
+	</string>
+      <string id="st_detector_omega">
+		<text>'Omega' 探测器</text>
+	</string>
+      <string id="st_detector_omega_descr">
+		<text>改进的新一代探测器. 让你能够发现在100米范围内的未知的神器, 并将坐标上传到你的PDA. 包括变异点探测软件, 都存储在数据库中, 当探测到神器 变异点是会将结果显示在LED屏幕上,这个探测器使用这种先进技术,它甚至可以察觉尚不为人所知的变异点和神器.</text>
+	</string>
+      <string id="st_repair_arms_box_used_title">
+		<text>工具箱(用来修理武器)</text>
+	</string>
+      <string id="st_repair_arms_box_used_descr">
+		<text>这个工具已经被使用,现在是不完整的.用于修补武器, 需要同类武器的零件才能修理.</text>
+	</string>
+      <string id="st_repair_outfit_box_used_title">
+		<text>工具箱(用于护甲修理)</text>
+	</string>
+      <string id="st_repair_outfit_box_used_descr">
+		<text>该工具包已经被使用,现在是不完整的. 用于修理护甲, 需要同种衣服的零件才能修理.</text>
+	</string>
+      <string id="st_conventer_grenade_box_title">
+		<text>手榴弹工具包</text>
+	</string>
+      <string id="st_conventer_grenade_box_descr">
+		<text>设计级处理工具盒,排空和灌装手榴弹.有了这些工具,您可以把两枚手榴弹合二为一,从而有效地提威力提高一倍. </text>
+	</string>
+      <string id="st_personal_pda_title">
+		<text>德格特雅里夫的PDA</text>
+	</string>
+      <string id="st_personal_pda_descr">
+		<text>掌上电脑新一代型号'火星-226',储存着你的个人信息. </text>
+	</string>
+      <string id="st_guidebook_mono_title">
+		<text>GPS-导航仪</text>
+	</string>
+      <string id="st_guidebook_mono_descr">
+		<text>神秘和未知的神器装置. 用途为传送.</text>
+	</string>
+      <string id="st_guidebook_alternal_title">
+		<text>高级 GPS-导航仪</text>
+	</string>
+      <string id="st_guidebook_alternal_descr">
+		<text>高级的GPS-导航仪.碉堡实验室的科学家开发出特殊工具,为更多的准确和高效利用.</text>
+	</string>
+      <string id="st_disk_breaking_title">
+		<text>磁盘和程序</text>
+	</string>
+      <string id="st_disk_breaking_descr">
+		<text>驱动包含实用用工程、软件和病毒用于入侵所有类型的pda.安装这些实用程序,必须使用磁盘.</text>
+	</string>
+      <string id="st_remote_explosive_charge_title">
+		<text>远程控制的RS - 15炸药</text>
+	</string>
+      <string id="st_remote_explosive_charge_descr">
+		<text>炸药.带有远程控制.使用部署炸弹.</text>
+	</string>
+      <string id="st_remote_charge_control_title">
+		<text>RS-15远程控制</text>
+	</string>
+      <string id="st_remote_charge_control_descr">
+		<text>RS - 15的遥控引爆器.</text>
+	</string>
+      <string id="st_minetrap_detector_title">
+		<text>PDA扫描器扩展装置-1</text>
+	</string>
+      <string id="st_minetrap_detector_descr">
+		<text>检测其他PDA,地雷的信号.重2.25公斤.有效探测距离 - 50米.自动使用</text>
+	</string>
+      <string id="st_minetrap_elite_detector_title">
+		<text>PDA扫描器扩展装置-2</text>
+	</string>
+      <string id="st_minetrap_elite_detector_descr">
+		<text>升级版本.检测其他PDA,地雷的信号.重1.12千克.有效探测距离 - 145米.自动使用.</text>
+	</string>
+      <string id="st_money_meshochek_title">
+		<text>钱袋 </text>
+	</string>
+      <string id="st_money_meshochek_descr">
+		<text>使用得到货币.</text>
+	</string>
+      <string id="st_detector_omega_up">
+		<text> 'Omega' 探测器 (改进型) </text>
+	</string>
+      <string id="st_detector_omega_up_descr">
+		<text>改进的新一代探测器. 让你能够发现在150米范围内的未知的神器, 并将坐标上传到你的PDA. 包括变异点探测软件, 都存储在数据库中, 当探测到神器 变异点是会将结果显示在LED屏幕上,这个探测器使用这种先进技术,它甚至可以察觉尚不为人所知的变异点和神器.</text>
+	</string>
+      <string id="st_detector1_up">
+		<text> '回声' 探测器 (改进型) </text>
+	</string>
+      <string id="st_detector2_up">
+		<text> '熊式' 探测器 (改进型) </text>
+	</string>
+      <string id="st_detector3_up">
+		<text> '维尔斯' 探测器 (改进型) </text>
+	</string>
+      <string id="st_detector4_up">
+		<text>'火龙' 探测器原型  (改进型) </text>
+	</string>
+      <string id="st_geiger_counter_title">
+		<text> 盖氏探测器 </text>
+	</string>
+      <string id="st_geiger_counter_descr">
+		<text> 佩戴型电离储存器. 让你能够精确的知道周围环境的辐射,自动使用. </text>
+	</string>
+      <string id="st_personal_marker_title">
+		<text>个人的标记</text>
+	</string>
+      <string id="st_personal_marker_descr">
+		<text>用于设置在地图上的标签.</text>
+	</string>
+      <string id="st_detector_battery_1_title">
+		<text>探测器电池</text>
+	</string>
+      <string id="st_detector_battery_1_descr">
+		<text>探测器的电池.工作电压:1.5V.\n使用时间: 120秒.</text>
+	</string>
+      <string id="st_detector_battery_2_title">
+		<text>探测器电池</text>
+	</string>
+      <string id="st_detector_battery_2_descr">
+		<text>探测器的电池.工作电压:1.5V.\n使用时间: 240秒.</text>
+	</string>
+      <string id="st_detector_battery_3_title">
+		<text>探测器电池</text>
+	</string>
+      <string id="st_detector_battery_3_descr">
+		<text>探测器的电池.工作电压:1.5V.\n使用时间: 480秒.</text>
+	</string>
+      <string id="st_ammo_container_title">
+		<text>弹药盒</text>
+	</string>
+      <string id="st_ammo_container_descr">
+		<text>快看看里面有什么.</text>
+	</string>
+      <string id="st_mobile_tool_title">
+		<text>便携式百科全书</text>
+	</string>
+      <string id="st_mobile_tool_descr">
+		<text>看看这里面有什么</text>
+	</string>
+      <string id="st_chicken_rabua_egg_title">
+		<text>一个鸡蛋</text>
+	</string>
+      <string id="st_chicken_rabua_egg_descr">
+		<text>这种蛋只在特异区和迈克尔·杰克逊老家才有.仅用于销售.</text>
+	</string>
