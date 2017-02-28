@@ -1,0 +1,144 @@
+﻿<string id="ammo-9x18-hpm"> 
+<text> Ammunition 9x18mm HPM </text> 
+</string> 
+<string id="ammo-9x18-hpm_s"> 
+<text> 9x18 HPM </text> 
+</string> 
+<string id="ammo-9x18-hpm_descr"> 
+<text> 把枪口射速变的更高,并增加了穿甲效果,比AP子弹更有效,是政府给特种部队的子弹. </text> 
+</string> 
+<string id="ammo-9x19-spp"> 
+<text>Cartridges  9x19 mm CSE </text> 
+</string> 
+<string id="ammo-9x19-spp_s"> 
+<text> 9x19 CSE </text> 
+</string> 
+<string id="ammo-9x19-spp_descr"> 
+<text> 9x19高初速子弹,扩展型子弹,带有穿甲核心. </text> 
+</string> 
+<string id="ammo-5.45x39-hm"> 
+<text>Bullets  TP-5, 45x39 mm </text> 
+</string> 
+<string id="ammo-5.45x39-hm_s"> 
+<text> TP-5, 45x39 mm </text> 
+</string> 
+<string id="ammo-5.45x39-hm_descr"> 
+<text> 为华沙公约枪支准备的高科技子弹,因为有特种合金,子弹改进了弹道（开火速度）,并能穿透金属表面. </text> 
+</string> 
+<string id="ammo-5.45x39-hr"> 
+<text>Cartridges TR-5, 45x39 mm </text> 
+</string> 
+<string id="ammo-5.45x39-hr_s"> 
+<text> TS-5, 45x39 mm </text> 
+</string> 
+<string id="ammo-5.45x39-hr_descr"> 
+<text> 为华沙公约准备枪支准备的特种子弹,应用了塑料合金工业技术让这些子弹改善了弹道（开火速度）更能够穿透金属表面,是政府给特种部队的子弹. </text> 
+</string> 
+<string id="ammo-5.56x45-gd"> 
+<text>Cartridges  LS-5, 56h45 mm </text> 
+</string> 
+<string id="ammo-5.56x45-gd_s"> 
+<text> LS-5, 56h45 mm </text> 
+</string> 
+<string id="ammo-5.56x45-gd_descr"> 
+<text> 特殊扩展性子弹,子弹带有金属核心让子弹有了搞准确性和穿透性,生产这种子弹需耗费大量工业力量和大量材料,所以不太可能大量生产. </text> 
+</string> 
+<string id="ammo-12x76-quadro"> 
+<text>Cartridges 12x76 quadro </text> 
+</string> 
+<string id="ammo-12x76-quadro_s"> 
+<text> 12x76 quad </text> 
+</string> 
+<string id="ammo-12x76-quadro_descr"> 
+<text> 空心铅弹,增加了子弹飞行速度,不过缺少了很多准确度.</text> 
+</string> 
+<string id="ammo-7.62x54-sv"> 
+<text>Cartridges 7,62 x54 mm W </text> 
+</string> 
+<string id="ammo-7.62x54-sv_s"> 
+<text> 7,62 x54 S </text> 
+</string> 
+<string id="ammo-7.62x54-sv_descr"> 
+<text> 给7.62口径狙击步枪专门设置的特殊子弹,子弹为金属核心,比起同口径标准版子弹,这些子弹增加了开火速度和高穿透属性,生产这种子弹需耗费大量工业力量和大量材料,所以不太可能大量生产. </text> 
+</string> 
+<string id="ammo-9x39-sp5"> 
+<text>Cartridges 9x39 mm SP-5 </text> 
+</string> 
+<string id="ammo-9x39-sp5_s"> 
+<text> 9x39 mm SP-5 </text> 
+</string> 
+<string id="ammo-9x39-sp5_descr"> 
+<text> 次音速狙击步枪子弹,但是子弹却有很高重量,能够在400米之内穿透大多数装甲.</text> 
+</string> 
+<string id="ammo-12x76-dart"> 
+<text>Cartridges 12x76 dart </text> 
+</string> 
+<string id="ammo-12x76-dart_s"> 
+<text> 12x76 dart </text> 
+</string> 
+<string id="ammo-12x76-dart_descr"> 
+<text> 飞镖子弹,有类羽毛结构能够稳定子弹飞行,增加了准确度,这种子弹几乎能穿透任何防弹背心. </text> 
+</string> 
+<string id="ammo_box_10_vog"> 
+<text> VOG-25榴弹箱 </text> 
+</string> 
+<string id="ammo_box_10_vog_descr"> 
+<text> 内容: VOG-25x10 榴弹用于榴弹发射器. </text> 
+</string> 
+<string id="ammo_box_10_m209"> 
+<text> M209 Grenade box </text> 
+</string> 
+<string id="ammo_box_10_m209_descr"> 
+<text>  内容: M209x10 榴弹用于榴弹发射器. </text> 
+</string> 
+<string id="ammo_7.62x51_fmj"> 
+<text> Ammunition 7.62x51 mm </text> 
+</string> 
+<string id="ammo_7.62x51_fmj_s"> 
+<text> 7,62 NATO FMJ </text> 
+</string> 
+<string id="ammo_7.62x51_fmj_descr"> 
+<text> NATO 7.62 标准弹,全金属弹头. </text> 
+</string>  
+<string id="ammo_7.62x51_ap"> 
+<text> Ammunition 7.62x51 mm BP </text> 
+</string> 
+<string id="ammo_7.62x51_ap_s"> 
+<text> 7,62 NATO AP </text> 
+</string> 
+<string id="ammo_7.62x51_ap_descr"> 
+<text> NATO 7.62 标准弹,金属核心增进子弹穿透力. </text> 
+</string> 
+<string id="ammo-pg-2v"> 
+<text> PG-2B </text> 
+</string> 
+<string id="ammo-pg-2v_descr"> 
+<text> PG-2B 一种旋转推进的 RPG-7 火箭. </text> 
+</string> 
+<string id="ammo_7.62x25_fmj_name"> 
+<text> 7,62 x25 mm </text> 
+</string> 
+<string id="ammo_7.62x25_fmj_descr"> 
+<text> 标准版托卡列夫手枪和波波沙41冲锋枪弹药,普通核心,爆炸子弹. </text> 
+</string> 
+<string id="ammo_12.7x99_fmj_name"> 
+<text> Bullets .50 cal BMG </text> 
+</string> 
+<string id="ammo_12.7x99_fmj_descr"> 
+<text> 12.7x99"保护者"(12,7 x99 mm NATO, .50 BMG) 弹药源于 1920 年 重机枪弹药,像勃朗宁 M2 之类,现在也用于狙击步枪,像 M82 . </text> 
+</string> 
+<string id="ammo_flw"> 
+<text> 瓦斯罐 </text> 
+</string> 
+<string id="ammo_flw_descr"> 
+<text> 为战斗型喷火器准备的瓦斯罐. </text> 
+</string> 
+<string id="ammo-dumdum"> 
+<text> Charges 9mm M72-DD "达姆弹" </text> 
+</string> 
+<string id="ammo-dumdum_s"> 
+<text> 9 M72-DD 达姆弹 </text> 
+</string> 
+<string id="ammo-dumdum_descr"> 
+<text> 新式的九毫米爆炸子弹,为替换9x39子弹而设计,但当地技师改造了这些子弹,能够实用于任何口径.子弹中有"扳手"神器和压缩炸药提供动能,这种子弹经常能在佣兵身上找到,这种子弹也同时能够用于瑞典的南极冲突,L96A1. </text> 
+</string>

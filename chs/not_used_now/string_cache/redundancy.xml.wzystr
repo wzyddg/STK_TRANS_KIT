@@ -1,0 +1,144 @@
+	<string id="jup_duty_base_leader_community_exit_dialog_1">
+	    <text>我需要继续前进,完成我的工作,所以我必须离开纪律团.</text>
+	</string>
+	<string id="jup_duty_base_leader_community_exit_dialog_2">
+	    <text>这是不合规则的,你不能随便挑选和选择,当你想加入我们的时候.</text>
+	</string>
+	<string id="jup_duty_base_leader_community_exit_dialog_3">
+	    <text>好吧,也许有另一种方法,我将想一想.</text>
+	</string>
+	<string id="jup_duty_base_leader_community_exit_dialog_4">
+	    <text>好, 去想一想我所说的.</text>
+	</string>
+	<string id="jup_duty_base_leader_community_exit_dialog_5">
+	    <text>我意识到这可能是不寻常的,但我的情况不是那种死缠烂打的潜行者.</text>
+	</string>
+	<string id="jup_duty_base_leader_community_exit_dialog_6">
+	    <text>我知道,但到底为什么我应该让你走?这样做不会发送正确的信给到我的部下.</text>
+	</string>
+	<string id="jup_duty_base_leader_community_exit_dialog_7">
+	    <text>除了这个事实,你知道我与你不对立,也有 10,000 卢布以支助您的个人目标.</text>
+	</string>
+	<string id="jup_duty_base_leader_community_exit_dialog_8">
+	    <text>咦? 嗯...好吧吧潜行者,告别了.只要你远离那些自由团混蛋.</text>
+	</string>
+	<string id="jup_duty_base_leader_community_exit_dialog_9">
+	    <text>我想我可以停留久一点,看看我能做什么,不会对你的人有不利影响.</text>
+	</string>
+	<string id="jup_duty_base_leader_community_exit_dialog_10">
+	    <text>你做到这一点,然后再回来找我, 少校.</text>
+	</string>
+	<string id="jup_duty_base_leader_community_exit_dialog_11">
+	    <text>我会想我能为此做些什么.</text>
+	</string>
+	<string id="jup_duty_base_leader_community_exit_dialog_12">
+	    <text>祝你好运, 上校,再见.</text>
+	</string>
+	<string id="jup_freedom_base_leader_community_exit_dialog_1">
+	    <text>恐怕我必须断绝与自由团的关系.</text>
+	</string>
+	<string id="jup_freedom_base_leader_community_exit_dialog_2">
+	    <text>妈的,这是一个耻辱,你明白我的意思不能那么容易让你离开.</text>
+	</string>
+	<string id="jup_freedom_base_leader_community_exit_dialog_3">
+	    <text>我明白这一点,为不造成问题,我现在离开和反思.</text>
+	</string>
+	<string id="jup_freedom_base_leader_community_exit_dialog_4">
+	    <text>这很好,当然不用急于想事情.</text>
+	</string>
+	<string id="jup_freedom_base_leader_community_exit_dialog_5">
+	    <text>我理解,并希望我们有好的关系.</text>
+	</string>
+	<string id="jup_freedom_base_leader_community_exit_dialog_6">
+	    <text>远离我们的基地,事情就没有这么容易了,敌人环绕,我的人如果看到你加入又离开会打击士气呢?</text>
+	</string>
+	<string id="jup_freedom_base_leader_community_exit_dialog_7">
+	    <text>是,我知道你在说什么,但如果我捐出 10,000 卢布,可以用来补给的你手下,甚至给他们好睡.</text>
+	</string>
+	<string id="jup_freedom_base_leader_community_exit_dialog_8">
+	    <text>这是一个好主意,我肯定这个做法,谢谢你的支助.</text>
+	</string>
+	<string id="jup_freedom_base_leader_community_exit_dialog_9">
+	    <text>我不会破坏阵营的稳定,所以我会由着事情是怎样就怎样.</text>
+	</string>
+	<string id="jup_freedom_base_leader_community_exit_dialog_10">
+	    <text>你真好,谢了.</text>
+	</string>
+	<string id="jup_freedom_base_leader_community_exit_dialog_11">
+	    <text>我将想一想,也许我能拿出一个解决方案.</text>
+	</string>
+	<string id="jup_freedom_base_leader_community_exit_dialog_12">
+	    <text>我走了,再见.</text>
+	</string>
+	<string id="jup_killer_base_leader_community_exit_dialog_1">
+	    <text>我想脱离阵营.</text>
+	</string>
+	<string id="jup_killer_base_leader_community_exit_dialog_2">
+	    <text>当你加入了,你知道这是为了生活,我觉得你应该离开反思.</text>
+	</string>
+	<string id="jup_killer_base_leader_community_exit_dialog_3">
+	    <text>是,也许我会更好的.</text>
+	</string>
+	<string id="jup_killer_base_leader_community_exit_dialog_4">
+	    <text>这是聪明的事.</text>
+	</string>
+	<string id="jup_killer_base_leader_community_exit_dialog_5">
+	    <text>我已经决定,我需要继续前进,并按我原来的计划继续.</text>
+	</string>
+	<string id="jup_killer_base_leader_community_exit_dialog_6">
+	    <text>如果你知道你不在意承诺,那么你就犯了大错.</text>
+	</string>
+	<string id="jup_killer_base_leader_community_exit_dialog_7">
+	    <text>我并不想离开时有不好的感觉,我愿意给你......10,000 卢布,使事情容易.</text>
+	</string>
+	<string id="jup_killer_base_leader_community_exit_dialog_8">
+	    <text>Hmmm..是可以的,你可以走,但知道一点,你不再指望我们,当你需要帮助时.所以,现在你已经支付,我没有什么要对你说,在我改变主意前离开.</text>
+	</string>
+	<string id="jup_killer_base_leader_community_exit_dialog_9">
+	    <text>如果你坚持我不能离开的话,我不知道还有什么可以说的.我需要想一想,然后我会再来看你.</text>
+	</string>
+	<string id="jup_killer_base_leader_community_exit_dialog_10">
+	    <text>思考不会改变什么,生命意味着生活.</text>
+	</string>
+	<string id="jup_killer_base_leader_community_exit_dialog_11">
+	    <text>现在我们完了,走吧.</text>
+	</string>
+	<string id="jup_killer_base_leader_community_exit_dialog_12">
+	    <text>我明白,我离开, 祝你好运.</text>
+	</string>
+	<string id="jup_rasvet_base_leader_community_exit_dialog_1">
+	    <text>我要继续原来的任务,因为这个原因,我看是时候我离开你的阵营.</text>
+	</string>
+	<string id="jup_rasvet_base_leader_community_exit_dialog_2">
+	    <text>妈的,我不愿失去一个能人,现在很少了.</text>
+	</string>
+	<string id="jup_rasvet_base_leader_community_exit_dialog_3">
+	    <text>我想我可以迟些离开,如果可以帮助您.</text>
+	</string>
+	<string id="jup_rasvet_base_leader_community_exit_dialog_4">
+	    <text>很好,我几乎没有任何能人.</text>
+	</string>
+	<string id="jup_rasvet_base_leader_community_exit_dialog_5">
+	    <text>不幸的是时间是一个问题,我不能再远离事情.</text>
+	</string>
+	<string id="jup_rasvet_base_leader_community_exit_dialog_6">
+	    <text>该死,我怎么办?我几乎没有足够的手下填补基地,单独巡逻和侦察周围.</text>
+	</string>
+	<string id="jup_rasvet_base_leader_community_exit_dialog_7">
+	    <text>我知道这不是一个理想的解决方案,但这里是 5,000 卢布.也许可以雇用外界的帮助.</text>
+	</string>
+	<string id="jup_rasvet_base_leader_community_exit_dialog_8">
+	    <text>这肯定是一个很好的数目,可悲的是,我无法拒绝.</text>
+	</string>
+	<string id="jup_rasvet_base_leader_community_exit_dialog_9">
+	    <text>我想,待久一点不会伤害你的下一步行动.</text>
+	</string>
+	<string id="jup_rasvet_base_leader_community_exit_dialog_10">
+	    <text>这将有帮助,我再想想,谢了.</text>
+	</string>
+	<string id="jup_rasvet_base_leader_community_exit_dialog_11">
+	    <text>我会想我怎么帮忙,我稍后来.</text>
+	</string>
+	<string id="jup_rasvet_base_leader_community_exit_dialog_12">
+	    <text>祝你好运,我希望你的目标一定会很快实现,告别了.</text>
+	</string>

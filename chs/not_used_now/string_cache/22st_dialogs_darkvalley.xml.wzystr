@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_00">
+<text>少校, 有一件事 - 你想帮助我们阵营吗?</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_0">
+<text>你是谁,在做什么?</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_1">
+<text>第二个问题,首先我会回答,因为它有更多的机会得到积极的回应.但我会从细节开始的.我柯尔莫哥洛夫,夜行者副领袖.本集团目前控制黑暗山谷南部.大约两年前,所有这些地方,被所谓的自由团控制.现在,他们的领导人已经派了一个人来调查些情况.他已要求我们协助...</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_2">
+<text>你决定不使用自己的资源和人,并把此事求助外人,我吗?为什么我要接受它?</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_3">
+<text>您将需要按照探员指示.我不认为那问题,能简单的解决,但你有良好的训练,相对我的人.你从探员的指示,收集一些有关他们在黑暗山谷前基地的信息,以及关于某种天线的控制...嗯,这是你的工作?</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_4">
+<text>好吧，我同意.或许这将包含有价值的信息.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_5">
+<text>好的, 这里有他的位置.我们在检查站的人告诉我,他已经从废弃区来了,等待我的人到来.然后它会吃的突变体,并断绝我们的树莓.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_76">
+<text>地板.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_55">
+<text>对不起,如果你改变主意也不会有第二次机会了.任何请求我可以甚至不处理.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_56">
+<text>哦,怕了.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_6">
+<text>你个人了解这个神秘的过去吗?以及有什么保证是不是会适得其反?</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_first_dialog_7">
+<text>保证-与他们一样,我们之间保持和平,我不认为他们想破坏我们的关系.对自由团是首先,而不是我们.顺便说一下,你的报酬 - 总数的一半.我个人认为,可能自由团想要得到的一些文件存储在他们的老基地,这就是他们为什么不自己拿的 - 我知道.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_00">
+<text>你在夜行者阵营?</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_0">
+<text>是, 我雇了柯尔莫哥洛夫 - 协助你找到一些信息,收集信号的证据 ...</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_1">
+<text>没错, 我需要指挥官的注意聪明人.这是真的,我们过去的自由团,控制了这里.曾经有一段时间,我们忠于领导契诃夫 - 而不是现在.但我们会找到一个方法来恢复,在行动失败切尔诺贝利爆炸后的权威.你会帮助我们.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_2">
+<text>我的主要问题是什么?</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_22">
+<text>我们如常安排好任务.但麻烦开始poporyadku我们的技术人员最近记录了强大的辐射性质的不明信号.他刚到这里 - 从山谷.他们未能拦截和解码.在山谷里强大的发射器只有我们的老中继天线.但是,为什么突然,突然又开始工作并带来不明信号 - 目前尚不清楚.我已指示去检查.你帮助进行必要的测量,然后,如果一切顺利我们转移到另一个问题 ...</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_222">
+<text>我拿什么捕捉信号?</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_2222">
+<text>在这里,利用这个.这是我个人的扫描仪.它捕获传出的脉冲频率.有了它们,我们的技术人员将能够破译和理解其性质,可以使它重新工作,这些发射器...位置坐标我会上传.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_22222">
+<text>明白.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_202">
+<text>Well, 怎样?</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_2021">
+<text>还没, 正在做.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_2022">
+<text>是, 所有扫描仪的数据来自三个固定天线.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_20222">
+<text>Well, 让他在这.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_202222">
+<text>Take. 接下来?</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_3">
+<text>第二个目标 - 我的任务是找到高速缓存和组位于前基地的领土上,其余的信息.据目击者称的前一天我们在军事仓库,契诃夫,那么他的副手,后来氏族领袖的氏族ukripilsya - Lukash,这里HID约氏族的信息和数据有关正在进行的试验区,现有的封闭附近的秘密实验室.结果这三个缓存,你就必须找到他们所有,但首先你必须消灭潜在对手.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_4">
+<text>竞争对手是指?</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_5">
+<text>少校, 现在,我们小组还非常薄弱,很少有可靠的人.泄露有关我们行动的信息.很长一段时间众所周知.沃罗宁已派出一队的破坏者,在山谷中,以打击我的活动.我是能够消灭他们,他们将等待你,我sunemsya基地,后寻找文件,引诱我们进入一个陷阱.因此,你必须消灭他们,然后回到主要任务.我会配合你的行动.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_6">
+<text>Well, 在哪?</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_7">
+<text>支队位于基地附近,消灭他们,然后接受其他的指令.</text>
+</string>
+<string id="val_freedom_lucas_quest_first_dialog_8">
+<text>同意.</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_00">
+<text>你活了下来.好.这些突变体真烦人...</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_0">
+<text>那是我最不在乎的。你到底在干什么?等待我被吃掉, 然后拿走我的文件和东西?没门。</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_1">
+<text>你错了,你会怎么做?我不能介入.怪物不会放过你,或文件的任何东西...</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_2">
+<text>这是你,然后告诉同伙不付款,你将不会得到其文件.</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_3">
+<text>So 我告诉你,并相信它.什么阻止我的帮助?</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_4">
+<text>Well, 因为我还活着.没有什么可怕的事情发生了.下一步是什么?</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_22">
+<text>你有么?我甚至想要挟?虽然在某些方面你是对的.风险必须合理的.但不是在这要求让步.</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_222">
+<text>听着,如果你不交,然后我通常不说一句话,只是射你的头,你尸体会在苏打溶液,将文件交给码头区一个哥们.卢卡斯是倒霉的朋友,当我们被突变体攻击.你怎么想?</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_2222">
+<text>好吧，好吧。这里是为你遇到的意外困难的补偿.现在满意了吗?此外仍然需要帮助.</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_22222">
+<text>是.还有什么你想要?他的文件?</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_33">
+<text>我很害怕.陈腐的懦夫.我不能做当你面对怪物.一,二 - 还是没有去.但没有更多的 ...</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_333">
+<text>在这两次.你怎么成为一个的新探员.随着他的然后?</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_3333">
+<text>但他却成了.我们组的人,切尔诺贝利事故后的强攻,在手指上.反正是没有发现,没有一个是好.嗯,怎么能帮助我?</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_33333">
+<text>好吧, 还有什么?记录自己的方式,拿走.</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_44">
+<text>但接下来呢. 柯尔莫哥洛夫去link. 他警告山谷中有奇怪生物活动,要快点.</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_444">
+<text>拿你的文件.我们从哪里离开这里更好?</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_5">
+<text>去到遥远的前哨农场,这是必要的.柯尔莫哥洛夫等我们.他和一些更自由的人在一起.从那里,我可以去的封锁线.</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_6">
+<text>我的报酬怎样?</text>
+</string>
+<string id="val_freedom_lucas_quest_second_dialog_8">
+<text>提出.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_0">
+<text>是, 我帮助卢卡斯.现在来谈谈我的报酬?</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_1">
+<text>好吧, 你是对的.我们不会推脱.这里是你的老老实实赢得的.顺便说一下,我可以提供别的东西.你将不得不选择奖励.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_2">
+<text>你是什么意思?误解了.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_3">
+<text>好吧, 一般在你的地方的方式继续下去吗?这里有选择,取决于什么样的额外奖励,但有提示得到它.好了,你决定.几乎没有任何风险.仅在一个地方可能没有什么值得的.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_4">
+<text>往北.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_5">
+<text>往西.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_6">
+<text>Oh, 东是我的路.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_44">
+<text>如果你往北将是桥.辐射比得上在普里皮亚季,但不是到处.所以,你往下看,不要忘了,你就会高兴.好吧,去.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_444">
+<text>Yeah, 很好的建议..</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_55">
+<text>往西,整个俄罗斯移动,你也到那.好,好.有一个农场,避开路障,一点点.克朗代克是不是小姐.去.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_555">
+<text>往西比往东好.看看有什么 ..</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_66">
+<text>Oh, 东是一个棘手的问题,和狡猾,少校.在那里,后面高的山,一块大石头,这是长得很少.为什么不走. 祝你好运, 潜行者.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_666">
+<text>我们将看到的一切是多么麻烦. 就这样.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_7">
+<text>Oh 你, 一个变异点, 这个选择. 你付给我钱,看上去nepoymi什么.我走了.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_77">
+<text>Well如你所想. 我提供,你拒绝. 祝你好运, 潜行者.</text>
+</string>
+<string id="val_night_zam_leader_kolmogor_quest_1_second_dialog_777">
+<text>你不会吧好.</text>
+</string>
+</string_table>

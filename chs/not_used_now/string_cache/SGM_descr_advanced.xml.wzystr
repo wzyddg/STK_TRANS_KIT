@@ -1,0 +1,144 @@
+	<string id="st_wpn_abakan_m1">
+		<text>AN-94 "Abakan" M1</text>
+	</string>
+	<string id="st_wpn_ak74_m1">
+		<text>AKM-74 M1</text>
+	</string>
+	<string id="st_wpn_ak74u_m1">
+		<text>AKS-74u M1</text>
+	</string>
+	<string id="st_wpn_beretta_m1">
+		<text>Beretta M1</text>
+	</string>
+	<string id="st_wpn_bm16_m1">
+		<text>锯短的 shotgun M1</text>
+	</string>
+	<string id="st_wpn_toz34_m1">
+		<text>TOZ-34 M1</text>
+	</string>
+	<string id="st_wpn_vintorez_m1">
+		<text>VSS "Vintorez" M1</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_m1">
+		<text>Chaser-13 M1</text>
+	</string>
+	<string id="st_wpn_fort_m1">
+		<text>FORT-12 M1</text>
+	</string>
+	<string id="st_wpn_groza_m1">
+		<text>S-14 "雷暴" M1</text>
+	</string>
+	<string id="st_wpn_pm_m1">
+		<text>PMm M1</text>
+	</string>
+	<string id="st_wpn_lr300_m1">
+		<text>LR-300 M1</text>
+	</string>
+	<string id="st_wpn_mp5_m1">
+		<text>MP-5 M1</text>
+	</string>
+	<string id="st_wpn_spas12_m1">
+		<text>SPAS 12 M1</text>
+	</string>
+	<string id="st_wpn_sig220_m1">
+		<text>SIG 220 M1</text>
+	</string>
+	<string id="st_wpn_sig550_m1">
+		<text>SG-550 M1</text>
+	</string>
+	<string id="st_wpn_abakan_m2">
+		<text>AN-94 "Abakan" M2</text>
+	</string>
+	<string id="st_wpn_ak74_m2">
+		<text>AKM-74 M2</text>
+	</string>
+	<string id="st_wpn_ak74u_m2">
+		<text>AKS-74u M2</text>
+	</string>
+	<string id="st_wpn_beretta_m2">
+		<text>Beretta M2</text>
+	</string>
+	<string id="st_wpn_bm16_m2">
+		<text>锯短的 shotgun M2</text>
+	</string>
+	<string id="st_wpn_toz34_m2">
+		<text>TOZ-34 M2</text>
+	</string>
+	<string id="st_wpn_vintorez_m2">
+		<text>VSS "Vintorez" M2</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_m2">
+		<text>Chaser-13 M2</text>
+	</string>
+	<string id="st_wpn_fort_m2">
+		<text>FORT-12 M2</text>
+	</string>
+	<string id="st_wpn_groza_m2">
+		<text>S-14 "雷暴" M2</text>
+	</string>
+	<string id="st_wpn_pm_m2">
+		<text>PMm M2</text>
+	</string>
+	<string id="st_wpn_lr300_m2">
+		<text>LR-300 M2</text>
+	</string>
+	<string id="st_wpn_mp5_m2">
+		<text>MP-5 M2</text>
+	</string>
+	<string id="st_wpn_spas12_m2">
+		<text>SPAS 12 M2</text>
+	</string>
+	<string id="st_wpn_sig220_m2">
+		<text>SIG 220 M2</text>
+	</string>
+	<string id="st_wpn_sig550_m2">
+		<text>SG-550 M2</text>
+	</string>
+	<string id="st_wpn_abakan_m3">
+		<text>AN-94 "Abakan" M3</text>
+	</string>
+	<string id="st_wpn_ak74_m3">
+		<text>AKM-74 M3</text>
+	</string>
+	<string id="st_wpn_ak74u_m3">
+		<text>AKS-74u M3</text>
+	</string>
+	<string id="st_wpn_beretta_m3">
+		<text>Beretta M3</text>
+	</string>
+	<string id="st_wpn_bm16_m3">
+		<text>锯短的 shotgun M3</text>
+	</string>
+	<string id="st_wpn_toz34_m3">
+		<text>TOZ-34 M3</text>
+	</string>
+	<string id="st_wpn_vintorez_m3">
+		<text>VSS "Vintorez" M3</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_m3">
+		<text>Chaser-13 M3</text>
+	</string>
+	<string id="st_wpn_fort_m3">
+		<text>FORT-12 M3</text>
+	</string>
+	<string id="st_wpn_groza_m3">
+		<text>S-14 "雷暴" M3</text>
+	</string>
+	<string id="st_wpn_pm_m3">
+		<text>PMm M3</text>
+	</string>
+	<string id="st_wpn_lr300_m3">
+		<text>LR-300 M3</text>
+	</string>
+	<string id="st_wpn_mp5_m3">
+		<text>MP-5 M3</text>
+	</string>
+	<string id="st_wpn_spas12_m3">
+		<text>SPAS 12 M3</text>
+	</string>
+	<string id="st_wpn_sig220_m3">
+		<text>SIG 220 M3</text>
+	</string>
+	<string id="st_wpn_sig550_m3">
+		<text>SG-550 M3</text>
+	</string>

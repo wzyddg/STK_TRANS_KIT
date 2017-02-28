@@ -1,0 +1,84 @@
+﻿<string id="st_medal_50_title"> 
+<text>成就:新人</text>
+      </string> 
+      <string id="st_medal_50_descr"> 
+<text>新等级的奖金，当你经验到达50时就会自动KKK颁发，使用即可转换成资产。</text>
+      </string> 
+      <string id="st_medal_100_title"> 
+<text>成就: 拓荒者</text>
+      </string> 
+      <string id="st_medal_100_descr"> 
+<text>新等级的奖金，当你经验到达100时就会自动KKK颁发，使用即可转换成资产。 </text>
+      </string> 
+      <string id="st_medal_150_title"> 
+<text>成就: 潜行者</text>
+      </string> 
+      <string id="st_medal_150_descr"> 
+<text>新等级的奖金，当你经验到达150时就会自动颁发，使用即可转换成资产。</text>
+      </string> 
+      <string id="st_medal_200_title"> 
+<text>成就: 老兵</text>
+      </string> 
+      <string id="st_medal_200_descr"> 
+<text>新等级的奖金，当你经验到达200时就会自动颁发，使用即可转换成资产。</text>
+      </string> 
+      <string id="st_medal_300_title"> 
+<text>成就: 精英</text>
+      </string> 
+      <string id="st_medal_300_descr"> 
+<text>新等级的奖金，当你经验到达300时就会自动颁发，使用即可转换成资产。</text>
+      </string> 
+      <string id="st_medal_400_title"> 
+<text>成就: 大师</text>
+      </string> 
+      <string id="st_medal_400_descr"> 
+<text>新等级的奖金，当你经验到达400时就会自动颁发，使用即可转换成资产。</text>
+      </string> 
+      <string id="st_medal_500_title"> 
+<text>成就: 精英</text>
+      </string> 
+      <string id="st_medal_500_descr"> 
+<text>新等级的奖金，当你经验到达500时就会自动颁发，使用即可转换成资产。</text>
+      </string> 
+      <string id="st_medal_600_title"> 
+<text>成就: 变异区英雄</text>
+      </string> 
+      <string id="st_medal_600_descr"> 
+<text>新等级的奖金，当你经验到达600时就会自动颁发，使用即可转换成资产。</text>
+      </string> 
+      <string id="st_medal_800_title"> 
+<text>成就: 最伟大的潜行者</text>
+      </string> 
+      <string id="st_medal_800_descr"> 
+<text>新等级的奖金，当你经验到达800时就会自动颁发，使用即可转换成资产。</text>
+      </string> 
+      <string id="st_medal_1000_title"> 
+<text>成就: 普里皮亚的召唤</text>
+      </string> 
+      <string id="st_medal_1000_descr"> 
+<text>新等级的奖金，当你经验到达1000时就会自动颁发，使用即可转换成资产。</text>
+      </string> 
+      <string id="st_silver_coin_descr"> 
+        <text> 银色的仿古俄罗斯卢布. 在变异区外能够卖个好价钱(可惜这里是变异区). </text>
+      </string> 
+      <string id="st_gold_ten_coin_descr"> 
+        <text>古金迪尤卡(欧洲中世纪贸易金银币). 在一个山洞内发现…</text>
+      </string> 
+      <string id="st_medallion_strelka_descr"> 
+        <text> 金章项链, 原主人是Arrow. </text>
+      </string> 
+      <string id="st_zheton_stalker_descr"> 
+        <text> 标记 潜行者:\n 名称: 枪手\n 分类: 黑石\n 等级: 1200\n 声望: 900 </text>
+      </string> 
+      <string id="st_silver_coin_title"> 
+        <text>银卢布</text>
+      </string> 
+      <string id="st_gold_ten_coin_title"> 
+        <text>金卢布</text>
+      </string> 
+      <string id="st_medallion_strelka_title"> 
+        <text>奖章</text>
+      </string> 
+      <string id="st_zheton_stalker_title"> 
+        <text> S.T.A.L.K.E.R 令牌 </text>
+      </string>

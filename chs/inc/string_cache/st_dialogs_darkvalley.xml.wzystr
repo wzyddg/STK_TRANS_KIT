@@ -1,0 +1,12 @@
+﻿	<string id="val_south_outpost_commander_start_dialog_0">
+		<text>这可不是一个散步的好地方!总之,你好.我叫皮特库利科夫,我是这个检查站的长官.你来干嘛?</text>
+	</string>
+	<string id="val_south_outpost_commander_start_dialog_1">
+		<text>我从斯卡多夫斯克来的,如果你知道.他们叫我找一个人.</text>
+	</string>
+	<string id="val_b2_base_leader_name">
+	    <text>阿库洛夫</text>
+    </string>
+	<string id="val_b14_outpost_commander_name">
+	    <text>狮子座</text>
+	</string>

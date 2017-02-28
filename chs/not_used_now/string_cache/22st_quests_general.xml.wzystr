@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<string id="val_lucas_mistery_quest_title0">
+<text>过去之谜: 会见探员.</text>
+</string>
+<string id="val_lucas_mistery_quest_text0">
+<text>柯尔莫哥洛夫夜行者副领导人请你来帮助自由成员.去与他们的探员会面.</text>
+</string>
+<string id="val_lucas_mistery_quest_title1">
+<text>过去之谜: 接收信号,检查天线.</text>
+</string>
+<string id="val_lucas_mistery_quest_title2">
+<text>过去之谜: 将数据传递到卢卡斯.</text>
+</string>
+<string id="val_lucas_mistery_quest_title0_1">
+<text>过去之谜: 到第一天线.</text>
+</string>
+<string id="val_lucas_mistery_quest_title0_2">
+<text>过去之谜: 到第二天线.</text>
+</string>
+<string id="val_lucas_mistery_quest_title0_3">
+<text>过去之谜: 到第三天线.</text>
+</string>
+<string id="val_lucas_mistery_quest_title3">
+<text>过去之谜: 消灭纪律团破坏者.</text>
+</string>
+<string id="val_lucas_mistery_quest_text3">
+<text>自由团团员卢卡斯要求你消灭破坏者 - 一队纪律团.</text>
+</string>
+<string id="val_lucas_mistery_quest_title4">
+<text>过去之谜: 找到前自由团基地的藏物.</text>
+</string>
+<string id="val_lucas_mistery_quest_text4">
+<text>纪律团竞争对手不再是一个问题.卢卡斯收到储物箱的确切数据.您将需要寻找自由团前领导人留下的三个储物箱.</text>
+</string>
+<string id="val_lucas_mistery_quest_title5">
+<text>过去之谜: 到指定地等待自由团探员.</text>
+</string>
+<string id="val_lucas_mistery_quest_text5">
+<text>文件被发现.等待卢卡斯.</text>
+</string>
+<string id="val_lucas_mistery_quest_title6">
+<text>过去之谜: 击退突变体</text>
+</string>
+<string id="val_lucas_mistery_quest_text6">
+<text>已发现文件.突然,该基地被突变体攻击了.消灭它们,所以,你可以把文件传到卢卡斯.</text>
+</string>
+<string id="val_lucas_mistery_quest_title7">
+<text>过去之谜: 跟着自由团探员</text>
+</string>
+<string id="val_lucas_mistery_quest_title8">
+<text>过去之谜: 护送卢卡斯到南部检查站</text>
+</string>
+<string id="val_lucas_mistery_quest_text8">
+<text>所有发现的文件已移交给客户.提供保护是必要的,护送他到南部检查站.</text>
+</string>
+<string id="val_lucas_mistery_quest_title9">
+<text>过去之谜: 去见柯尔莫哥洛夫获得奖励</text>
+</string>
+<string id="val_lucas_mistery_quest_text9">
+<text>卢卡斯安全了.你的任务成功执行.你需要拿奖励.</text>
+</string>
+</string_table>

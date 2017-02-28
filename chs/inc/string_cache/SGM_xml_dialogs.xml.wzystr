@@ -1,0 +1,2831 @@
+﻿
+
+
+	<string id="pas_hostage_miller_dialog_1">
+		<text>潜行者!? 我早已为, "我就会这样... 死掉..." 我真不知道我怎么会敢带着不知道从哪里来的潜行者过地下通道... 我第一次见到这么多血腥!.. 好了, 我们现在能走了吗?</text>
+	</string>
+	<string id="pas_hostage_miller_dialog_2">
+		<text>是,我们走,你的朋友盖瑞让我来解救你的.</text>
+	</string>
+	<string id="pas_hostage_miller_dialog_3">
+		<text>我真感激,我们走?</text>
+	</string>
+	<string id="pas_hostage_miller_dialog_4">
+		<text>我们去普利皮亚找盖瑞.</text>
+	</string>
+
+
+
+	<string id="pri_army_fenix_dialog_1">
+		<text>你好,我叫凤凰,我的哥哥 - 格马尼库斯,死在了洗衣厂.我确定黑石的审判官和此时有关.这个恶棍在从木星回来的时候害了我的兄弟.以审判官为首的黑石在木星工厂追踪他,然后跟踪他,直到他没有反抗的时候.如果它愿意投降,可能他到现在还活着,我还能看到他.但是我没看到他回来.你能帮我的只有复仇 - 审判官.</text>
+	</string>
+	<string id="pri_army_fenix_dialog_2">
+		<text>我很抱歉,到时我必须走了..</text>
+	</string>
+	<string id="pri_army_fenix_dialog_3">
+		<text>我很抱歉,审判官在哪里?你有消息吗?</text>
+	</string>
+	<string id="pri_army_fenix_dialog_4">
+		<text>这是它的坐标,你真的能帮我吗?</text>
+	</string>
+	<string id="pri_army_fenix_dialog_5">
+		<text>不.</text>
+	</string>
+	<string id="pri_army_fenix_dialog_6">
+		<text>对.我能解决掉审判官.</text>
+	</string>
+	<string id="pri_army_fenix_dialog_7">
+		<text>太好了,这是审判官和他小队的信息,祝你好运,少校.</text>
+	</string>
+	<string id="pri_army_fenix_dialog_8">
+		<text>我接下了.</text>
+	</string>
+	<string id="pri_army_fenix_dialog_9">
+		<text>结果?</text>
+	</string>
+	<string id="pri_army_fenix_dialog_10">
+		<text>我把你哥哥的盒子带来了还有一些PDA.</text>
+	</string>
+	<string id="pri_army_fenix_dialog_11">
+		<text>感谢你,少校.你真是快枪手,格马尼库斯的勋章对我意义重大,我从内心感谢,这是你的报酬.</text>
+	</string>
+	<string id="pri_army_fenix_dialog_12">
+		<text>好了凤凰兄弟,我要走了.</text>
+	</string>
+	<string id="pri_army_fenix_dialog_13">
+		<text>有没有.</text>
+	</string>
+	<string id="pri_army_fenix_dialog_14">
+		<text>你好,少校同志.</text>
+	</string>
+	<string id="pri_army_fenix_dialog_15">
+		<text>那就这样.</text>
+	</string>
+	<string id="pri_authorities_agent_dialog_1">
+		<text>哦,少校,你拿到文件了?</text>
+	</string>
+	<string id="pri_authorities_agent_dialog_2">
+		<text>对,给你.</text>
+	</string>
+	<string id="pri_authorities_agent_dialog_3">
+		<text>这件事干得好.等待我们进一步的指示 ...还有一件事,拿着,这是从他的上级给你的报酬.哦,还有一点,你现在去军方哨站的道路已经打开,能够去黑暗山谷了.这个地方居住着黎明组织.我听说他们有不少问题,如果你要去的话.我想我们都会感兴趣的.祝你好运,少校同志.小心.</text>
+	</string>
+	<string id="pri_authorities_agent_dialog_4">
+		<text>谢谢你.</text>
+	</string>
+	<string id="pri_monolit_base_leader_community_exit_dialog_1">
+		<text>兄弟,我必须离开你了.</text>
+	</string>
+	<string id="pri_monolit_base_leader_community_exit_dialog_2">
+		<text>你觉得黑石会让你走吗?</text>
+	</string>
+	<string id="pri_monolit_base_leader_community_exit_dialog_3">
+		<text>不确定,我会问他的.</text>
+	</string>
+	<string id="pri_monolit_base_leader_community_exit_dialog_4">
+		<text>走.</text>
+	</string>
+	<string id="pri_monolit_base_leader_community_exit_dialog_5">
+		<text>他不会介意的,现在,兄弟,我要走了.</text>
+	</string>
+	<string id="pri_monolit_base_leader_community_exit_dialog_6">
+		<text>我们伟大的黑石说要离开他必须交25000卢布,愿黑石的意志得到贯彻!</text>
+	</string>
+	<string id="pri_monolit_base_leader_community_exit_dialog_7">
+		<text>好,这是黑石的钱.</text>
+	</string>
+	<string id="pri_monolit_base_leader_community_exit_dialog_8">
+		<text>好了,走吧兄弟,记住黑石活在我们所有人的心中.</text>
+	</string>
+	<string id="pri_monolit_base_leader_community_exit_dialog_9">
+		<text>我改变主意了,我要留下和黑石一起.</text>
+	</string>
+	<string id="pri_monolit_base_leader_community_exit_dialog_10">
+		<text>很好,兄弟,留下.</text>
+	</string>
+	<string id="pri_monolit_base_leader_community_exit_dialog_11">
+		<text>我现在还没钱,黑石的意志可以晚点再执行.</text>
+	</string>
+	<string id="pri_monolit_base_leader_community_exit_dialog_12">
+		<text>好吧,再见,兄弟.</text>
+	</string>
+	<string id="pri_mechanic_about_not_details_dialog_1">
+		<text>你需要什么东西来改造物品?</text>
+	</string>
+	<string id="pri_mechanic_about_not_details_dialog_2">
+		<text>你拿任何东西都行,少校同志.准确的说：装甲,武器,还有神奇,把它们放到我旁边的箱子里.</text>
+	</string>
+	<string id="pri_mechanic_about_not_details_dialog_3">
+		<text>行.</text>
+	</string>
+	<string id="pri_mechanic_box_processing_dialog_1">
+		<text>我给你带来了一些没用的垃圾,把它们分解成零件.</text>
+	</string>
+	<string id="pri_mechanic_box_processing_dialog_2">
+		<text>哇！你从哪里来的,能拿到这么多好东西的?好吧,我不应该问这个问题.</text>
+	</string>
+	<string id="pri_mechanic_box_processing_dialog_3">
+		<text>我是从SSU来的,每个SSU探员都有点小秘密.</text>
+	</string>
+	<string id="pri_army_bodyguard_dialog_1">
+		<text>你好！你想要军队式专业的服务吗?只要10000.你觉得如何?</text>
+	</string>
+	<string id="pri_army_bodyguard_dialog_2">
+		<text>呆在这里,攻击敌人.</text>
+	</string>
+	<string id="pri_army_bodyguard_dialog_3">
+		<text>好吧,我不建议带上一个勇敢的战士.</text>
+	</string>
+	<string id="pri_army_bodyguard_dialog_4">
+		<text>不,太贵了.</text>
+	</string>
+	<string id="pri_army_bodyguard_dialog_5">
+		<text>你有什么命令吗?</text>
+	</string>
+	<string id="pri_army_bodyguard_dialog_6">
+		<text>掩护我.</text>
+	</string>
+	<string id="pri_army_bodyguard_dialog_8">
+		<text>不要使用武器.</text>
+	</string>
+	<string id="pri_army_bodyguard_dialog_9">
+		<text>呆在这里.</text>
+	</string>
+	<string id="pri_army_bodyguard_dialog_10">
+		<text>稍息！你可以走了.</text>
+	</string>
+	<string id="pri_army_trader_offer_dialog_1">
+		<text>我能买望远镜吗?</text>
+	</string>
+	<string id="pri_army_trader_offer_dialog_2">
+		<text>可以,我有一堆 %c[255,1,128,54]望远镜%c[default], 我想你会喜欢的.\n这就是:</text>
+	</string>
+	<string id="pri_army_trader_offer_dialog_3">
+		<text>我没兴趣,东西太少了</text>
+	</string>
+	<string id="pri_army_trader_offer_dialog_4">
+		<text>不错的选择,这个望远镜值5000,你需要吗?</text>
+	</string>
+	<string id="pri_army_trader_offer_dialog_5">
+		<text>一般距离,这个望远镜值5000,你需要吗?</text>
+	</string>
+	<string id="pri_army_trader_offer_dialog_6">
+		<text>我可以给你一个普通的,这东西在这里没用.</text>
+	</string>
+	<string id="pri_army_trader_offer_dialog_7">
+		<text>好吧.</text>
+	</string>
+	<string id="pri_army_trader_offer_dialog_8">
+		<text>给你,拿着.</text>
+	</string>
+	<string id="pri_army_trader_offer_dialog_9">
+		<text>谢谢你.</text>
+	</string>
+	<string id="pri_army_trader_offer_dialog_10">
+		<text>我不需要它.</text>
+	</string>
+	<string id="pri_army_trader_offer_dialog_11">
+		<text>太好了! 这是你的望远镜 , 少校同志.</text>
+	</string>
+	<string id="pri_army_trader_offer_dialog_12">
+		<text>谢谢你.</text>
+	</string>
+	<string id="pri_army_trader_offer_dialog_13">
+		<text>是.</text>
+	</string>
+	<string id="pri_army_trader_offer_dialog_14">
+		<text>不.</text>
+	</string>
+	<string id="pri_army_trader_offer_dialog_15">
+		<text>太贵了.</text>
+	</string>
+	<string id="pri_army_trader_dialog_1">
+		<text>你好! 你需要什么?</text>
+	</string>
+	<string id="pri_army_trader_dialog_2">
+		<text>买些东西.</text>
+	</string>
+	<string id="pri_army_trader_dialog_3">
+		<text>太好了!我有很好的产品, 我们回去的时候会很需要钱的...</text>
+	</string>
+	<string id="pri_army_trader_dialog_4">
+		<text>算了.</text>
+	</string>
+	<string id="pri_army_trader_dialog_5">
+		<text>我不需要什么东西.</text>
+	</string>
+	<string id="pri_army_trader_dialog_6">
+		<text>不,我不会取消预订.</text>
+	</string>
+	<string id="pri_army_trader_dialog_7">
+		<text>就是这样! 货已经到了.</text>
+	</string>
+	<string id="pri_army_trader_dialog_8">
+		<text>我知道了.</text>
+	</string>
+	<string id="pri_army_trader_dialog_9">
+		<text>这不可能.我告诉过你,你每次只能下一个订单.要重新下订单你需要赔我500.</text>
+	</string>
+	<string id="pri_army_trader_dialog_10">
+		<text>好吧,赔就赔,给你.</text>
+	</string>
+	<string id="pri_army_trader_dialog_11">
+		<text>我会取消上一个订单,同时,你可以选择下一个.</text>
+	</string>
+	<string id="pri_army_trader_dialog_12">
+		<text>我能重新下一个订单吗?</text>
+	</string>
+	<string id="pri_army_trader_dialog_13">
+		<text>太贵了.</text>
+	</string>
+	<string id="pri_army_trader_dialog_14">
+		<text>我改变主意了.</text>
+	</string>
+	<string id="pri_army_trader_dialog_15">
+		<text>好的,拿着.</text>
+	</string>
+	<string id="pri_army_trader_dialog_16">
+		<text>好极了! 交易已经完成了,现在你只需要把钱给我拿货就行了.</text>
+	</string>
+	<string id="pri_army_trader_dialog_17">
+		<text>哪种货物,记住你每次只能下一个订单,你可以取消,但是要花钱.</text>
+	</string>
+	<string id="pri_army_trader_dialog_18">
+		<text>我想订购一些货物.</text>
+	</string>
+	<string id="pri_army_trader_dialog_19">
+		<text>好的.选择货物的类型.</text>
+	</string>
+	<string id="pri_army_trader_dialog_20">
+		<text>武器.</text>
+	</string>
+	<string id="pri_army_trader_dialog_21">
+		<text>装甲.</text>
+	</string>
+	<string id="pri_army_trader_dialog_22">
+		<text>旱天雷 "破冰"</text>
+	</string>
+	<string id="pri_army_trader_dialog_23">
+		<text>"布拉特" 装甲</text>
+	</string>
+	<string id="pri_army_trader_dialog_235">
+		<text>"军方" 外骨骼</text>
+	</string>
+	<string id="pri_army_trader_dialog_24">
+		<text>M14</text>
+	</string>
+	<string id="pri_army_trader_dialog_25">
+		<text>SVD "猛虎"</text>
+	</string>
+	<string id="pri_army_trader_dialog_26">
+		<text>巴雷特 M82A1</text>
+	</string>
+	<string id="pri_army_bankir_dialog_1">
+		<text>不,下次吧.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_2">
+		<text>我没那么多钱了,下次吧.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_3">
+		<text>很好! 你现在的存款是:</text>
+	</string>
+	<string id="pri_army_bankir_dialog_4">
+		<text>我改变主意了.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_5">
+		<text>下次再来!</text>
+	</string>
+	<string id="pri_army_bankir_dialog_6">
+		<text>当然!</text>
+	</string>
+	<string id="pri_army_bankir_dialog_7">
+		<text>我不会存的..</text>
+	</string>
+	<string id="pri_army_bankir_dialog_8">
+		<text>感谢你的服务.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_9">
+		<text>别客气! 别忘记,要想拿回你的钱,你需要给我10%.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_10">
+		<text>当然,晚点见你.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_11">
+		<text>我想多存点.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_12">
+		<text>如你所愿.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_13">
+		<text>是.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_17">
+		<text>是,我想存几千.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_18">
+		<text>你想存多少?</text>
+	</string>
+	<string id="pri_army_bankir_dialog_19">
+		<text>我把所有的钱都存进去.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_20">
+		<text>?1000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_21">
+		<text>?2000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_22">
+		<text>?3000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_23">
+		<text>?4000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_24">
+		<text>?5000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_25">
+		<text>?10000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_26">
+		<text>嗨! 你为何而来?</text>
+	</string>
+	<string id="pri_army_bankir_dialog_27">
+		<text>我需要你的服务.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_28">
+		<text>你想要什么?少校同志?存钱还是交换电子货币?</text>
+	</string>
+	<string id="pri_army_bankir_dialog_29">
+		<text>存款.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_30">
+		<text>没什么.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_31">
+		<text>取款.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_32">
+		<text>你想取多少?你的账户上有:</text>
+	</string>
+	<string id="pri_army_bankir_dialog_33">
+		<text>好极了! 现在,我按照约定拿走我的10%,剩下的还给你.算下来这10%是100.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_34">
+		<text>我知道了.拿走你的那份然后把我的给我.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_35">
+		<text>好极了! 现在,我按照约定拿走我的10%,剩下的还给你.算下来这10%是 200.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_36">
+		<text>好极了! 现在,我按照约定拿走我的10%,剩下的还给你.算下来这10%是 300.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_37">
+		<text>好极了! 现在,我按照约定拿走我的10%,剩下的还给你.算下来这10%是 400.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_38">
+		<text>好极了! 现在,我按照约定拿走我的10%,剩下的还给你.算下来这10%是 500.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_39">
+		<text>好极了! 现在,我按照约定拿走我的10%,剩下的还给你.算下来这10%是 1000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_40">
+		<text>我要拿走我所有的钱.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_41">
+		<text>好极了! 现在,我按照约定拿走我的10%,剩下的还给你.算下来这10%是:</text>
+	</string>
+	<string id="pri_army_bankir_dialog_42">
+		<text>你的账号上没有100了,所以说你不用给我10%了,把钱拿走吧.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_43">
+		<text>谢谢.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_44">
+		<text>太棒了!你选择了定期存款.让我提醒你,这些钱经过我手里你不能随时拿走.你可以在20:00和20:45之间取回去,每天你可以拿到7%的利息.你觉得如何?</text>
+	</string>
+	<string id="pri_army_bankir_dialog_45">
+		<text>定期存款.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_46">
+		<text>没什么.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_47">
+		<text>只是存点钱到我的账户上.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_48">
+		<text>少校同志,你的存款已经成功补充,从现在到明天20:00到20:45你就可以拿到你的利息.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_49">
+		<text>明白了.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_50">
+		<text>我只是把我的存款补充下.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_51">
+		<text>多少?</text>
+	</string>
+	<string id="pri_army_bankir_dialog_52">
+		<text>我没钱了.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_53">
+		<text>我把我所有的钱都存进去.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_54">
+		<text>1000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_55">
+		<text>2000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_56">
+		<text>3000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_57">
+		<text>4000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_58">
+		<text>5000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_59">
+		<text>10000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_59_1">
+		<text>25000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_59_2">
+		<text>50000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_59_3">
+		<text>100000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_60">
+		<text>我想拿回我的存款.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_61">
+		<text>你想拿走哪样?存款还是利息?</text>
+	</string>
+	<string id="pri_army_bankir_dialog_62">
+		<text>利息.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_63">
+		<text>这里.约定好的7%.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_64">
+		<text>谢谢.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_65">
+		<text>定期存款.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_66">
+		<text>这里,你存的所有钱.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_67">
+		<text>谢谢.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_68">
+		<text>让我看看我的利息.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_69">
+		<text>活期存款.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_70">
+		<text>你选择了活期存款.让我提醒你你的存款放到我这里,我有责任保管他们,你可以随时把它们拿走不过你需要给我10%,你说怎么样?</text>
+	</string>
+	<string id="pri_army_bankir_dialog_71">
+		<text>交换.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_72">
+		<text>你选择用电子货币交换现金卢布.你需要交换多少?</text>
+	</string>
+	<string id="pri_army_bankir_dialog_73">
+		<text>我总是很感到愉快.你需要交换多少电子货币?</text>
+	</string>
+	<string id="pri_army_bankir_dialog_74">
+		<text>我希望交换更多.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_75">
+		<text>感谢你的服务.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_76">
+		<text>我改变主意了.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_77">
+		<text>我没有电子货币,下次吧.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_78">
+		<text>所有的钱.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_79">
+		<text>我同意.  这是你的现金.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_80">
+		<text>1000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_81">
+		<text>2000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_82">
+		<text>3000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_83">
+		<text>4000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_84">
+		<text>5000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_85">
+		<text>6000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_86">
+		<text>7000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_87">
+		<text>8000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_88">
+		<text>9000.</text>
+	</string>
+	<string id="pri_army_bankir_dialog_89">
+		<text>10000.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_1">
+		<text>保重.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_2">
+		<text>不.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_3">
+		<text>我改变主意了.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_4">
+		<text>我没那么多钱了.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_5">
+		<text>我改变主意了.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_6">
+		<text>你好! 有什么让你感兴趣吗?</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_7">
+		<text>告诉我有关你自己.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_8">
+		<text>好的...我是个军队化学家.大家都叫我卡列夫琴科博士.我在这里主要是制造爆炸物,有的时候他们叫我修改神器.我对第一类,第二类,第三类的神器都有研究.你想听我告诉你有关改造神器的细节吗?</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_9">
+		<text>对.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_10">
+		<text>利用原子的化学反应,导致神器的原子结构发生变化,升级十分快速,在十秒钟之内就能完成,我们对神器有三种升级方式:\n1) Radiation.\n2) Weight.\n3) Restorative.\n 分别花费 26000,24500,30000.任何神器都能够升级,不过只能选择一样,不然的话,会崩溃掉.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_11">
+		<text>明白了,很有用的信息.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_12">
+		<text>你能给我改造一个神器吗?</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_13">
+		<text>啊,是你. 当然. 选出你要修改的神器,记住一个神器不能修改多次.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_14">
+		<text>"水母"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_15">
+		<text>神器你已经选了,选择你要修改的种类.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_16">
+		<text>辐射. 价格是 26000.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_17">
+		<text>现在给我26000卢布和神器.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_18">
+		<text>拿着.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_19">
+		<text>很好,等着.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_20">
+		<text>我会的.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_21">
+		<text>这就是了,升级完成,拿着它...</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_22">
+		<text>行了,把它给我.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_23">
+		<text>以后再来找我,我会尽我所能帮你的.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_24">
+		<text>当然!</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_25">
+		<text>重量,价格24500.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_26">
+		<text>现在给我24500卢布和神器.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_27">
+		<text>回复,价格30000.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_28">
+		<text>现在给我30000卢布和神器.</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_29">
+		<text>"石花"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_30">
+		<text>"夜星"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_31">
+		<text>"扳手"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_32">
+		<text>"重力"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_33">
+		<text>"金鱼"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_34">
+		<text>"水晶"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_35">
+		<text>"火球"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_36">
+		<text>"妈妈的项链"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_37">
+		<text>"眼睛"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_38">
+		<text>"火焰"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_39">
+		<text>"血石"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_40">
+		<text>"肉块"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_41">
+		<text>"灵魂"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_42">
+		<text>"Kolobok"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_43">
+		<text>"气泡"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_44">
+		<text>"萤火虫"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_45">
+		<text>"烟火"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_46">
+		<text>"闪光"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_47">
+		<text>"月光"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_48">
+		<text>"电池"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_49">
+		<text>"贝壳"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_50">
+		<text>"雪花"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_51">
+		<text>"黑石"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_52">
+		<text>"氦"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_53">
+		<text>"蜥蜴妖"</text>
+	</string>
+	<string id="pri_army_breeder_work_dialog_54">
+		<text>"龙眼"</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_1">
+		<text>你带来了什么?说话,黑石正在听.</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_2">
+		<text>哦,别管我,我正准备走.</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_3">
+		<text>我愿意加入你们,兄弟.</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_4">
+		<text>黑石已经告诉我们你的事,变异区标记了你,而且你有兴趣,说不定这是对你的一个测试.在黑石前净化,然后忠诚服务.</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_5">
+		<text>我已经准备号接受测试了,我需要干什么?</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_55">
+		<text>我还没准备好.</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_6">
+		<text>卡西洛夫,一个杀了我们很多兄弟的军人,侮辱黑石的荣耀,取笑我们死去的兄弟,扣押我们的武器仓库.他让我们虚弱而羞耻,他必须死.</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_7">
+		<text>我在哪里可以找到这个异教徒?</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_8">
+		<text>他们的基地在自动洗衣店,去那里找他.</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_9">
+		<text>我会服从黑石的意志..</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_10">
+		<text>不.</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_11">
+		<text>是, 这是卡西洛夫的PDA.</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_12">
+		<text>很好,黑石的意志执行了吗?</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_13">
+		<text>干得好!现在我们的兄弟会安息了.我同意你加入我们的队伍,这是你的奖励:</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_14">
+		<text>谢谢你.让黑石与我们同在!</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_15">
+		<text>永远.明天再来,黑石会指引你的道路.</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_16">
+		<text>好吧.晚点见你.</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_17">
+		<text>明天再来, 黑石会指引你的道路.</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_18">
+		<text>你好,兄弟,黑石等待着你的顺从.</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_19">
+		<text>黑石的意志会被执行.</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_20">
+		<text>和我们的新兄弟谈谈,他们有话要对你说.</text>
+	</string>
+	<string id="pri_monolit_base_leader_dialog_21">
+		<text>黑石说你赎回了你的罪恶.你可以休息了.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_1">
+		<text>你想要什么,勇士?</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_2">
+		<text>我想买新的装备来保护黑石远离不虔诚的人...</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_3">
+		<text>我知道了,那我们交易吧...</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_4">
+		<text>算了.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_5">
+		<text>我不需要什么.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_6">
+		<text>不, 我不会取消订单.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_7">
+		<text>就是这样! 货已经到了.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_8">
+		<text>我明白了.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_9">
+		<text>这不可能.兄弟,我告诉过你,你每次只能下一个订单.要重新下订单你需要赔我500.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_10">
+		<text>行,我会赔你的,拿着.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_11">
+		<text>我会取消上一个订单,同时,你可以选择下一个.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_12">
+		<text>我能重新下一个订单吗?</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_13">
+		<text>太贵了.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_14">
+		<text>我改变主意了.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_15">
+		<text>行. 拿着.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_16">
+		<text>好极了! 交易已经完成了,现在你只需要把钱给我拿货就行了.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_17">
+		<text>没问题,哪种货物,记住你每次只能下一个订单,你可以取消,但是要花钱.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_18">
+		<text>我想订购一些货物.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_19">
+		<text>好的.选择货物的类型.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_20">
+		<text>武器.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_21">
+		<text>装甲.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_22">
+		<text>FN-F2000 "暴風"</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_22_5">
+		<text>"眼镜蛇"</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_23">
+		<text>"先知" 装甲</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_24">
+		<text>我需要 456781 号盒子.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_25">
+		<text>我知道了,拿着你的报酬...</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_26">
+		<text>谢谢你.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_27">
+		<text>我需要458719 号盒子.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_28">
+		<text>我需要435239 号盒子.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_29">
+		<text>我需要437240 号盒子.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_30">
+		<text>"黑石" 外骨骼</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_31">
+		<text>机械人叫我来领报酬.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_32">
+		<text>我知道,这是你的报酬.</text>
+	</string>
+	<string id="pri_monolith_trader_dialog_33">
+		<text>谢谢.</text>
+	</string>
+	<string id="pri_monolit_base_chief_dialog_1">
+		<text>站住,你是谁,你在这里干什么?</text>
+	</string>
+	<string id="pri_monolit_base_chief_dialog_2">
+		<text>里昂叫我来的,我给机械人带来了一个箱子和一些消息.</text>
+	</string>
+	<string id="pri_monolit_base_chief_dialog_3">
+		<text>我知道了.里昂,我知道他已经离开了.真是个悲伤的消息,我们的同志在死亡...你现在不能捡首领,他有访客,你最好把那箱子交给我.</text>
+	</string>
+	<string id="pri_monolit_base_chief_dialog_4">
+		<text>对,他死了,我去晚了,他流了很多血,他没拿我的医疗包.他说最重要的是把箱子交给你.所以我拿来了.</text>
+	</string>
+	<string id="pri_monolit_base_chief_dialog_5">
+		<text>可怜的孩子...我们不会忘记他的,他是个好人.好了,把那个箱子给我.我会尽快把箱子交给机械人的,为了你做的这些事,我们会给你报仇的.去找我们的货商地铁爱好者,说你需要 456781 号盒子,它会适合你的.别把数字搞混了,不然你会拿到不一样的东西,明白?</text>
+	</string>
+	<string id="pri_monolit_base_chief_dialog_6">
+		<text>明白了,我会记住的, 谢谢你. 我走了.</text>
+	</string>
+	<string id="pri_monolit_base_leader_about_army_dialog_1">
+		<text>告诉我你怎么看军队.</text>
+	</string>
+	<string id="pri_monolit_base_leader_about_army_dialog_2">
+		<text>当黑石愤怒并化为净化的火焰穿越这片大地时,懦弱的战士们现出了他们的真实嘴脸：他们离开了以前的道路然后钻进了他们的基地,就像老鼠在洞里一样.胜利即将来临,兄弟！很开我们就能清理掉这个城市里的异教徒！</text>
+	</string>
+	<string id="pri_signaller_need_toolkits_dialog_dialog_1">
+		<text>我给你带来了工具.</text>
+	</string>
+	<string id="pri_signaller_need_toolkits_dialog_dialog_2">
+		<text>我很惊讶 ... 我想知道你带来了哪一个?</text>
+	</string>
+	<string id="pri_signaller_need_toolkits_dialog_dialog_3">
+		<text>军用 ORK-42.</text>
+	</string>
+	<string id="pri_signaller_need_toolkits_dialog_dialog_4">
+		<text>军用 RCB-86u.</text>
+	</string>
+	<string id="pri_signaller_need_toolkits_dialog_dialog_5">
+		<text>干得好,如果我们找到了 RCB-86u 工具的话...</text>
+	</string>
+	<string id="pri_signaller_need_toolkits_dialog_dialog_6">
+		<text>哇! ... 我很惊讶! 你怎么找到的?... 现在我有RCB工具箱了!...</text>
+	</string>
+	<string id="pri_signaller_need_toolkits_dialog_dialog_7">
+		<text>我知道.</text>
+	</string>
+	<string id="pri_signaller_need_toolkits_dialog_dialog_8">
+		<text>我会找到的.</text>
+	</string>
+	<string id="pri_signaller_need_toolkits_dialog_dialog_9">
+		<text>我觉得应该等等.</text>
+	</string>
+	<string id="pri_assault_squad_leader_dialog_1">
+		<text>你好,少校! 科瓦斯基报告说是时候走了,你和我们一起吗?</text>
+	</string>
+	<string id="pri_assault_squad_leader_dialog_2">
+		<text>是, 跟着你.</text>
+	</string>
+	<string id="pri_assault_squad_leader_dialog_3">
+		<text>很好, 让我们开始行动,跟着我的队伍.</text>
+	</string>
+	<string id="pri_assault_squad_leader_dialog_4">
+		<text>明白.</text>
+	</string>
+	<string id="pri_assault_squad_leader_dialog_5">
+		<text>我和你一起,但是我还没有准备好行动.</text>
+	</string>
+	<string id="pri_assault_squad_leader_dialog_6">
+		<text>不,我不会参加行动.</text>
+	</string>
+	<string id="pri_assault_squad_leader_dialog_7">
+		<text>干得好, 少校! 聚集起来的黑石被干掉了,回基地吗?</text>
+	</string>
+	<string id="pri_assault_squad_leader_dialog_8">
+		<text>对.</text>
+	</string>
+	<string id="pri_military_base_commander_assault_dialog_1">
+		<text>上校, 什么是 "火山" 行动? </text>
+	</string>
+	<string id="pri_military_base_commander_assault_dialog_2">
+		<text>行动的主要目标是消灭在撤离直升机降落区域附近聚集的敌人.我们组建了一个特遣队,然后把它们送到那些被焦脑的家伙那里.现在特遣队已经组织好了,正在等待命令.在这个高优先度的任务中,你的加入会很受欢迎.</text>
+	</string>
+	<string id="pri_military_base_commander_assault_dialog_3">
+		<text>我同意加入,特遣队里有多少人?</text>
+	</string>
+	<string id="pri_military_base_commander_assault_dialog_4">
+		<text>我还没有准备好行动.</text>
+	</string>
+	<string id="pri_military_base_commander_assault_dialog_5">
+		<text>太好了.现在特遣队里又五个人,少校赛加带头,他是这次行动指定的指挥官.现在特遣队在院子里,很快就要离开了.我会告诉赛加,你现在可以去院子
+</text>
+	</string>
+	<string id="pri_military_base_commander_assault_dialog_6">
+		<text>明白.</text>
+	</string>
+	<string id="pri_military_base_commander_assault_dialog_7">
+		<text>上校, "火山" 行动已经顺利完成.</text>
+	</string>
+	<string id="pri_military_base_commander_assault_dialog_8">
+		<text>这是个好消息,我们的士兵会很高兴的,赛加在哪里?</text>
+	</string>
+	<string id="pri_military_base_commander_assault_dialog_9">
+		<text>他没事,现在在上尉罗格维特斯那里包扎.</text>
+	</string>
+	<string id="pri_military_base_commander_assault_dialog_10">
+		<text>很好,这是你的报酬.</text>
+	</string>
+	<string id="pri_military_base_commander_assault_dialog_11">
+		<text>保重.</text>
+	</string>
+	<string id="pri_military_base_commander_assault_dialog_12">
+		<text>赛加少校完了.</text>
+	</string>
+	<string id="pri_military_base_commander_assault_dialog_13">
+		<text>太糟糕了,他是个好人... 好吧,这是你的报酬...</text>
+	</string>
+	<string id="pri_military_base_commander_assault_dialog_14">
+		<text>再见.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_1">
+		<text>我能帮你什么吗?</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_2">
+		<text>明天再来,黑石会指引你的道路.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_3">
+		<text>好吧.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_4">
+		<text>异教徒,黑石指示我你攻击了我们,你毁掉了我们的天线,我们用他交谈. 你还杀死了高等级的追随者.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_5">
+		<text>黑石弄错了,我没有杀任何人.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_6">
+		<text>我承认,我该怎么补偿我的错误?</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_7">
+		<text>执行黑石的意志,跟随指定的道路,帮助我们的兄弟,让他们复活你就会得到伟大的黑石的回报.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_8">
+		<text>我需要怎么做?</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_9">
+		<text>军队攻击了我们的仓库,拿走了里面的抗生素,带来是个抗生素和生命之水.赎回你的罪恶.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_10">
+		<text>你从里昂那里带来的箱子里有精神药剂.但是军队攻击了我们的仓库,拿走了里面的抗生素,带来是个抗生素和生命之水.赎回你的罪恶.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_11">
+		<text>我还没准备好.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_12">
+		<text>我可以带药来,但是 "生命之水" 在哪里?</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_13">
+		<text>只有里昂知道这个秘密.现在为了赎罪,你必须通过黑石的考验,重新找到 "生命之水" ,然后保证你有服务黑石的价值.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_14">
+		<text>我会执行黑石的意志,我得罪会被救赎.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_15">
+		<text>黑石已经指示了你,执行它的意志.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_16">
+		<text>当然.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_17">
+		<text>你执行了黑石的意志,给我们带来了十个抗生素和生命之水吗?</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_18">
+		<text>我找到了生命之水,但是抗生素还不够,我会继续找的.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_19">
+		<text>是, 我执行了黑石的意志.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_20">
+		<text>黑石很感谢你的帮助,兄弟.这个药会给他们新生然后变成我们的兄弟.你已经被黑石净化,你已经赎回了你的罪恶,你能成为我们的新兄弟了.拿着,黑石的工具会给你正确的力量.更有效的惩罚异教徒,杀戮我们的敌人.休息一下,在黑石指引你的路上还有很多事要做.去和我们的新兄弟谈谈,他们想见你.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_21">
+		<text>好的,我会去找他们的.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_22">
+		<text>我来是为了黑石的意志.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_23">
+		<text>黑市的意志执行了吗?</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_24">
+		<text>你准备好赎回你下一项罪恶了吗?</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_25">
+		<text>我还没有准备好.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_26">
+		<text>是, 我已经准备好跟随 "黑石" 的道路了.我需要什么? </text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_27">
+		<text>你应该补充你和军队掠夺的 "黑石" 的补给,把你偷走的武器,弹药和医疗包放进去.会让行动中的兄弟们恢复力量,在他们有困难的时候帮助他们.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_28">
+		<text>我怎么会知道这些补给在哪里? 还有我要放些什么进去?</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_29">
+		<text>补给被黑石标志指出, 只有我们的兄弟才能看见, 无知的人永远不会找到它.那里总是有一副原子和电子旋转的图片,对你来说应该很熟悉.把黑石主要武器高斯枪的弹药放进去,还有几种医疗包,有时候我们的兄弟有麻烦,还有耐用可靠地武器.每个补给方一把 AKM-74 或者 LR-300 或者 SPSA-12和一个相应的弹夹,不然我们的兄弟们会在艰难时期没有武装.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_30">
+		<text>我应该在哪里找高斯枪的电池呢?</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_31">
+		<text>我们的商人地铁爱好者有.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_32">
+		<text>明白了,我会执行"黑石"的意志.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_33">
+		<text>兄弟,黑石已经指引了你,去执行它的意志..</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_34">
+		<text>好吧.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_35">
+		<text>黑石的意志执行了吗?</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_36">
+		<text>我已经补充了几个补给,很快我就会把它们填满.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_37">
+		<text>是, 我执行了 "黑石" 的意志. 所有标记的补给都填满了.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_38">
+		<text>你干的很好,兄弟.同时,我们的兄弟也补充了一些我们的仓库.如果我们的兄弟有麻烦的话这些补给会帮大忙的.我们的补给逐渐恢复正常,不管我们的敌人怎样削弱我们.很快,我们就会恢复以前的力量.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_39">
+		<text>有些事情困扰着我：在任务中,我穿过一大队雇佣兵,他们在木星工厂里到处翻找.一定是雇佣兵的侦查先遣队.但是那里没有实验室,所以说他们在找别的东西,更重要的是他们完全不给我们一点和平,兄弟.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_40">
+		<text>对, 这真的很奇怪. 雇佣兵看起来不大对劲, 尤其是他们在我们眼皮下找东西. 好吧,我们晚点再谈,到商人那里拿报酬然后休息,你还有很多事要做.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_41">
+		<text>再见,兄弟.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_42">
+		<text>黑石还不需要你的帮助,等等.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_43">
+		<text>好吧.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_44">
+		<text>我恭喜你兄弟,你已经在黑石前赎回了你所有的罪恶.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_45">
+		<text>谢谢,兄弟.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_46">
+		<text>你准备好在 "黑石" 前赎罪了吗?</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_47">
+		<text>不,我还没准备好.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_48">
+		<text>是, 我准备好完成 "黑石" 指引我的道路了.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_49">
+		<text>是时候拿回我们从前的力量了,兄弟.让我们把变异区中央的异教徒再次清除.黑石沉寂太久了,我们的兄弟没有听到它.我们的追随者由于不忠被杀死了.他是被你杀死的！但是现在.我们的兄弟再也听不到它了,我想它遗弃了我们.愚蠢,黑石依然存在！而且很快,它就会再次说话！我们会修好你毁坏的天线,黑石会再次和我们一起！它会恢复我们的力量,我们的思想会更清楚更开明.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_50">
+		<text>我需要怎么做?</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_51">
+		<text>你帮军队的人毁掉了天线. 黑石通过它来和我们的兄弟们谈话. 你需要复原天线,找到它的核心, 转播发射器, 只有这个仪器能够传递黑石的意志.黑石会再次说话!</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_52">
+		<text>我要去哪里找这个仪器?</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_53">
+		<text>只有我们的精神领袖追随者,知道这个秘密.它传递黑石的意志给兄弟们. 但是他死了, 秘密也被他带进了坟墓.你和其他土人接触过,用他们来找到发射器.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_54">
+		<text>好吧,我会找到它的,希望 "黑石" 帮助我！</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_55">
+		<text>找到什么了吗,兄弟?</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_56">
+		<text>是,我找到了就在木星工厂的天桥下的一个容器里面,根据资料显示是有效地,但是设备太重了我没办法一个人把它搬过来.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_57">
+		<text>赞美黑石,你找到了！现在现在我们能恢复我们的力量把那些异教徒赶出普利皮亚了！至于交通,别担心,我会让一队我们的兄弟过去,他们会把设备带过来.你有更重要的任务:我们需要从异教徒那里重新占领一个天线.他们占领了书店,我们的教堂！他们必须付出代价.领导我们的兄弟到战场.惩罚他们,清除污浊重建我们的教堂！你准备好了就去找我们的兄弟魔鬼.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_58">
+		<text>愿黑石帮助我们!</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_59">
+		<text>兄弟,执行黑石的意志... 你为什么还在这里?去.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_60">
+		<text>知道了.</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_61">
+		<text>赞美黑石,你回来了,兄弟！这就是说,所有的异教徒都死了再也威胁不了我们了.很快,黑石会再次和我们的兄弟交谈.感谢你,我们每天都在变的更强.你为我们做出了巨大的贡献而且在我们困难时没有和变节者一样背弃我们的信仰.你的贡献我们不会忽视.从现在开始兄弟们会叫你追随者.你现在是我们新的精神领袖.为黑石服务,指引我们的兄弟向正确的道路并传递黑石的意志给他们.明天在塔里来找我们兄弟,他们会完成修理.黑石想自己和你交谈..</text>
+	</string>
+	<string id="pri_monolit_base_leader_jobs_dialog_62">
+		<text>我为黑石服务,再见,兄弟.</text>
+	</string>
+	<string id="pri_monolit_brother_leader_dialog_1">
+		<text>你好,兄弟</text>
+	</string>
+	<string id="pri_monolit_brother_leader_dialog_2">
+		<text>你想见我吗,兄弟?</text>
+	</string>
+	<string id="pri_monolit_brother_leader_dialog_3">
+		<text>是, 我们想谢谢你,兄弟. 你把我们从被脑波怪控制的僵尸的命运中拯救出来.</text>
+	</string>
+	<string id="pri_monolit_brother_leader_dialog_4">
+		<text>你记得发生了什么事吗?</text>
+	</string>
+	<string id="pri_monolit_brother_leader_dialog_5">
+		<text>我们不太记得以前发生了什么事.它就像做梦一样,我记得我们的团队很大.我们在工厂里搜查什么很有价值的东西,然后那里有个脑波怪,我记得一阵剧烈的的Psi碰撞,剧烈的疼痛...它能够让我们所有人屈服.然后电磁风暴开始了,我们中的四个人暴露在它下面,其他人被控制进入了一栋建筑.是黑石拯救了我们！我们听见了它的声音.当我们变成僵尸的时候,他成了我们的明灯,我们跟随着它.黑石和我们交谈,领导我们！河流和陆地凝固起来了,它看起来地平线上的空白通道和许多建筑.在路上没有生物攻击我们,黑石在我们去的路上保护我们！然后那里有一些被遗弃的房子,很多房子的窗户被木板封上了.普利皮亚！突然黑石的声音破碎了而我们不知道哪里去.我们被黑石的兄弟们找到了,然后他们保护了我们.他们照顾了我们,然后我们等待一个人拿来药物.然后你就帮我们重生,我们脑中的遮罩掉了下来.再次感谢你,兄弟.谢谢你我们找到了一个新家而且现在过得很欢乐.拿着我们以前的武器和装备,黑石给了我们所有我们需要的.这些东西对我们来说再也不是必须的了.</text>
+	</string>
+	<string id="pri_monolit_brother_leader_dialog_6">
+		<text>我很高兴能帮你,兄弟,保重.</text>
+	</string>
+	<string id="pri_monolit_brother_leader_dialog_7">
+		<text>别客气,兄弟.</text>
+	</string>
+	<string id="pri_monolit_brother_leader_dialog_8">
+		<text>你好.</text>
+	</string>
+	<string id="pri_monolit_brother_leader_dialog_9">
+		<text>我们正在等你,兄弟,我们准备好去惩罚异教徒了,你呢?</text>
+	</string>
+	<string id="pri_monolit_brother_leader_dialog_10">
+		<text>在这里等着我,我会很快回来的,兄弟.</text>
+	</string>
+	<string id="pri_monolit_brother_leader_dialog_11">
+		<text>黑石的勇士们,前进,杀死异教徒!</text>
+	</string>
+	<string id="pri_monolit_brother_leader_dialog_12">
+		<text>很好,兄弟,让我们冲.</text>
+	</string>
+	<string id="pri_monolit_brother_leader_dialog_13">
+		<text>前进.</text>
+	</string>
+	<string id="pri_monolith_trader_reward_dialog_1">
+		<text>机械人叫我来领报酬.</text>
+	</string>
+	<string id="pri_monolith_trader_reward_dialog_2">
+		<text>这是你的报酬,拿着</text>
+	</string>
+	<string id="pri_monolith_trader_reward_dialog_3">
+		<text>谢谢.</text>
+	</string>
+	<string id="pri_monolith_longshoremen_dialog_1">
+		<text>我们欢迎你,兄弟,我们带来了恢复黑石天线的设备.我们能开始安装了吗?</text>
+	</string>
+	<string id="pri_monolith_longshoremen_dialog_2">
+		<text>是, 所有异教徒都被灭了.开始安装天线.</text>
+	</string>
+	<string id="pri_monolith_longshoremen_dialog_3">
+		<text>安装会要一点时间,所有事应该在明天就办好了.现在,兄弟,我们要去工作了.</text>
+	</string>
+	<string id="pri_monolith_longshoremen_dialog_4">
+		<text>那么,明天再见,兄弟.</text>
+	</string>
+	<string id="pri_monolith_library_base_leader_dialog_1">
+		<text>欢迎兄弟,你带来了什么?</text>
+	</string>
+	<string id="pri_monolith_library_base_leader_dialog_2">
+		<text>兄弟,魔鬼在那里?</text>
+	</string>
+	<string id="pri_monolith_library_base_leader_dialog_3">
+		<text>保重.</text>
+	</string>
+	<string id="pri_monolith_library_base_leader_dialog_4">
+		<text>他和一些兄弟去了 NPP. 黑石说的.</text>
+	</string>
+	<string id="pri_monolith_library_base_leader_dialog_5">
+		<text>他在进攻仓库时死了,黑石说的.</text>
+	</string>
+	<string id="pri_monolith_library_base_leader_dialog_6">
+		<text>我知道了.</text>
+	</string>
+	<string id="pri_monolith_library_base_leader_dialog_7">
+		<text>黑石万岁!</text>
+	</string>
+	<string id="pri_monolith_library_base_leader_dialog_8">
+		<text>是. 保重.</text>
+	</string>
+	<string id="pri_monolith_bodyguard_dialog_1">
+		<text>欢迎兄弟. 如果你需要一个保镖, 使用我的服务吧... 只要 12000... 兄弟,你觉得怎么样?</text>
+	</string>
+	<string id="pri_monolith_bodyguard_dialog_2">
+		<text>呆在这里,攻击.</text>
+	</string>
+	<string id="pri_monolith_bodyguard_dialog_3">
+		<text>是, 跟我来.</text>
+	</string>
+	<string id="pri_monolith_bodyguard_dialog_4">
+		<text>不, 太贵了.</text>
+	</string>
+	<string id="pri_monolith_bodyguard_dialog_5">
+		<text>兄弟,你的命令是什么?</text>
+	</string>
+	<string id="pri_monolith_bodyguard_dialog_6">
+		<text>掩护我.</text>
+	</string>
+	<string id="pri_monolith_bodyguard_dialog_8">
+		<text>不要使用武器.</text>
+	</string>
+	<string id="pri_monolith_bodyguard_dialog_9">
+		<text>呆在这里.</text>
+	</string>
+	<string id="pri_monolith_bodyguard_dialog_10">
+		<text>你自由了,你可以走了.</text>
+	</string>
+	<string id="pri_monolit_base_chiefs_dialog_1">
+		<text>站住！你是谁!?</text>
+	</string>
+	<string id="pri_monolit_base_chiefs_dialog_2">
+		<text>我只是个潜行者.</text>
+	</string>
+	<string id="pri_monolit_base_chiefs_dialog_3">
+		<text>我是黑石猎人.</text>
+	</string>
+	<string id="pri_monolit_base_chiefs_dialog_4">
+		<text>潜行者,在你还是一块的时候赶快离远点.你怎么会来这里?只有被变异区标记的人才通过.</text>
+	</string>
+	<string id="pri_monolit_base_chiefs_dialog_5">
+		<text>保重.</text>
+	</string>
+	<string id="pri_signaller_radio_switch_dialog_1">
+		<text>上尉, 关掉收音机.</text>
+	</string>
+	<string id="pri_signaller_radio_switch_dialog_2">
+		<text>上尉, 打开收音机.</text>
+	</string>
+	<string id="pri_signaller_radio_switch_dialog_3">
+		<text>是, 少校同志.</text>
+	</string>
+	<string id="pri_signaller_radio_switch_dialog_4">
+		<text>我会的,少校同志.</text>
+	</string>
+
+
+
+	<string id="val_b2_assault_b1_commander_dialog_1">
+		<text>你好,潜行者.谢谢你消灭了那些史诺克,现在只需要等待大家集合好我们就可以安全过桥了.准备前进!</text>
+	</string>
+	<string id="val_b2_assault_b1_commander_dialog_2">
+		<text>让我们走吧.</text>
+	</string>
+	<string id="val_b2_accompany_guider_dialog_1">
+		<text>嗯,你好,我的名字叫沃尔特,在这里谋生.现在听我说,你得去农场.</text>
+	</string>
+	<string id="val_b2_accompany_guider_dialog_2">
+		<text>没问题,让我们走.</text>
+	</string>
+	<string id="val_b2_accompany_guider_dialog_3">
+		<text>我们到了.这是我们的农场.现在,环顾四周,同其他潜行者交谈,他们可能会有一些好的建议给你.而我们的领袖,Akulova就在东边,好了,我该回检查站了.祝你好运!</text>
+	</string>
+	<string id="val_b2_accompany_guider_dialog_4">
+		<text>也祝你好运!</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_1">
+		<text>你好,潜行者,我们遇到了一些新问题,你能帮帮我吗?</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_2">
+		<text>没问题,请告诉我详细情况.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_3">
+		<text>情况不太乐观,我们这里总有人会出事,首先因为这里有反叛者,而最近的变异怪物也增多了.现在我们计划干掉这些反叛者并夺取他们的工厂.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_4">
+		<text>这种情况很棘手,但是还可以解决.最主要的就是不要逗留过久.听着,我到这里来是想找一个叫巴尔萨泽的潜行者,你听说过吗?</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_5">
+		<text>我当然听说过,不过我们等会儿再谈这个事好吗.现在我们遇到了麻烦,我们需要一个勇敢且经验丰富的潜行者,而你是最好的人选,你能帮我寻找巴尔萨泽吗,完成后的奖励是很丰厚的.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_6">
+		<text>当然.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_7">
+		<text>很好.现在听着,昨天我的一个手下在'利爪'变异点发现了一只灰色的奇美拉,这非常罕见.一周前,它攻击了我们在桥边的一个营地.八个兄弟死了,但还是有一个幸存者逃了回来报告了情况.又过了几天,我们在同一座桥边发现了许多史诺克,还在桥上发现了一具尸体.这真的太奇怪了,因此我需要你去调查这个反常的现象.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_8">
+		<text>明白了.我想我没有任何问题,因为我已经遇到过奇美拉了.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_9">
+		<text>但是我还是希望你小心,虽然这对你来说是小菜一碟.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_10">
+		<text>它会很快下地狱的.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_11">
+		<text>好运.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_12">
+		<text>好了,我走了</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_13">
+		<text>再见.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_14">
+		<text>那么,你干掉奇美拉了吗?</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_15">
+		<text>没有,但是我发现它了,它奇迹般地逃离了那里.它太快了,我需要你的手下的帮助.我已经有了一个计划.我希望组织一次伏击,在东部的检查点.我会试着把它引诱过去,然后在那里和你的手下把它干掉.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_16">
+		<text>哦,该死.好吧,去找到狮子座,一个检查点的指挥官,并告诉他你的计划,他会帮助你的,我会在这之前提醒他你的到来.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_17">
+		<text>好吧,我去了.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_18">
+		<text>还没有.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_19">
+		<text>明白了,那么,祝你好运.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_20">
+		<text>谢谢,保重.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_21">
+		<text>怎么样了,奇美拉解决了吗?</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_22">
+		<text>还没有.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_23">
+		<text>是的.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_24">
+		<text>感谢上帝,来了你这么个好家伙.现在问题正在慢慢变少.你付出了努力,按约定,我该付给你这些...</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_25">
+		<text>谢谢.现在你能告诉我有关巴尔萨泽的情况吗?</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_26">
+		<text>我们会见了他几次.他告诉我们,他来自木星.上一次会面是他先等着我们,好像是,让我想想......噢,三个星期前.他告诉我,他要去南边的一处被称为藏身之处的控制室.此后,我就再也没见到他.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_27">
+		<text>显然,他去了那边的控制室.那该如何到达那里?</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_28">
+		<text>你所要到的控制室在一座加油站旁边的小楼.但是那里是被反叛者控制的中心地带.你一个人去是不可能活着回来的,不过我们正好有一个计划,我正忙着组织一支由最有经验的潜行者组成的小队.目的是夺取一座处于反叛者控制下的工厂,顺便打开通向控制室的路,不幸的是要到达工厂我们需要过一座桥,但是那座桥的附近有大量的史诺克,因此这段路并不安全.它们的数量接近一个部落,因此它们的狩猎范围极广.因此我需要你的帮助清理这些史诺克,这样我们拥有了工厂,而你也能安全地通过加油站.所以,你应该从现在开始准备.祝你好运!</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_29">
+		<text>不错的计划,我会解决掉这些史诺克的.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_30">
+		<text>非常好,现在这是我们的工厂了.感谢你的帮助,没有你,我们不会这么快就达成目标.你有没有从反叛者的尸体上找到什么数据呢?</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_31">
+		<text>是的,我搜索了反叛者指挥官和几个士兵的尸体,这是他们的PDA,拿着.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_32">
+		<text>啊,干得好.现在工厂是我们的了.一旦我们破解了他的数据,我敢肯定,我们会发现他们可能有的任何计划的细节.现在你可以去控制室找巴尔萨泽了.潜行者,希望你一切顺利.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_33">
+		<text>好的,再见</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_34">
+		<text>你好.你又一次回来了,这次我能帮你什么呢?</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_35">
+		<text>嗨,我不得不稍微改变一下我的计划和我想知道的信息,你知道有关工厂地下X18实验室的事吗?</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_36">
+		<text>好的,但是那里已经被封锁过一段时间了,我只知道巴尔萨泽曾经告诉我的情况和他自己的计划,有一次,他给我看了他的地图,他说他知道其中一个实验室的开门磁卡还没有人找到过,这大概是为什么他要去的原因.说实话我记不起太多了,对不起.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_37">
+		<text>你要知道,我上次进入控制室找到了巴尔萨泽.或者我应该说,我找到了他的尸体,他死了.就像我刚才所说的那样,他进去寻找磁卡,但是磁卡却不在他的身上.那就一定是在凶手那里了.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_38">
+		<text>如果你想找到磁卡,那么我认为你需要去在反叛者领袖的尸体上搜索,你明白我的意思吧.巴尔萨泽是被反叛者杀死的,他们保存任何有价值的东西,就像仓鼠一样.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_39">
+		<text>那么,我需要知道,我在哪里才能找到他们?</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_40">
+		<text>从这里向北走.大概就在被废弃的基地附近.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_41">
+		<text>谢谢.我会找到他们的.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_42">
+		<text>愿好运与你同在.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_43">
+		<text>你也一样.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_44">
+		<text>你好,潜行者.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_45">
+		<text>祝你好运.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_46">
+		<text>欢迎.是什么让你回到这儿的?</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_47">
+		<text>我打算向你提出一个需要重视的建议.我曾经去过军方仓库.那里曾经受到过猛烈的袭击,我帮助控制那个地区的黎明组织挫败了袭击,不幸的是他们牺牲了许多战士,而战斗留下的许多尸体的气味刺激了更多的变异怪物,这一次我们没有抵挡成功,除了我以外所有的战士都牺牲了.我想你需要派遣一些人员前去清理这个地区的所有变异怪物,并最终控制这个地区,你怎么认为的?</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_48">
+		<text>很好的计划,我同意.我的手下有许多勇敢的战士,而这片区域几乎处在我们的掌控之下.是时候开辟新的地盘了.我将和我的副手-莫滕讨论这件事.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_49">
+		<text>好的,我等一会儿再来.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_50">
+		<text>莫滕的一只小队已经进入了该地区,事实证明,他们遇到了很大的麻烦以至于不得不撤到军方仓库的附近.你应该去军方仓库协助他们,他们会在那里等你.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_51">
+		<text>好的,我马上就去.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_52">
+		<text>祝你好运.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_53">
+		<text>谢谢.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_54">
+		<text>所以,你去了吗?</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_55">
+		<text>是的,我会去.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_56">
+		<text>做得好.感谢你的帮助.现在你可以去军方仓库了.请同莫滕交谈.</text>
+	</string>
+	<string id="val_b2_base_leader_dialog_57">
+		<text>再见.</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_1">
+		<text>潜行者,今天天气真好,我们曾经见过面吗?</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_2">
+		<text>不,我想没有.你好,你是谁?</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_3">
+		<text>他们管我叫利维坦,我是暗夜潜行者的首席情报人员,我这里有些工作给你,如果你有兴趣的话.</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_4">
+		<text>不,谢谢.</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_5">
+		<text>是的.是什么样的工作?</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_6">
+		<text>没什么特别的,只是个普通的任务.我们需要你去消灭一些反叛者.最近他们在离我们的农场不远的地方建立了营地,这对我们来说是一个威胁.坐标已经标在了你的地图上.完成后你将会得到丰厚的回报.</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_7">
+		<text>我会的.</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_8">
+		<text>任务完成了?</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_9">
+		<text>是的.他们被解决了.现在没有任何人能见到这些反叛者了.</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_10">
+		<text>做得好.恭喜你.拿着,这些是你的.</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_11">
+		<text>谢谢你.幸运的是这不是很难.</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_12">
+		<text>还没有.</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_13">
+		<text>向你致敬,潜行者,过一会儿再来,我还有更多的任务给你.</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_14">
+		<text>好的.</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_15">
+		<text>祝你健康,潜行者.</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_16">
+		<text>你也一样.</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_17">
+		<text>哦,当然.</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_18">
+		<text>找到我需要的了吗?</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_19">
+		<text>完美.干得好.这是你的奖励.</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_20">
+		<text>我需要你帮我寻找一把由科学家研制的秘密的高斯武器.你可以在X18地下实验室找到它.如果你有磁卡,那你就可以进去找到它.就是这样.</text>
+	</string>
+	<string id="val_b2_leviafan_dialog_21">
+		<text>你好,潜行者.这你有给你的工作.想试试吗?</text>
+	</string>
+	<string id="val_b11_outpost_commander_dialog_1">
+		<text>你现在所在的地方不太适合闲逛!不过,欢迎你.我的名字是库利科夫.皮特</text>
+	</string>
+	<string id="val_b11_outpost_commander_dialog_2">
+		<text>我来自亚诺夫车站.有人告诉我在这里我需要找到并帮助一个叫阿库诺瓦的潜行者.你知道他吗?</text>
+	</string>
+	<string id="val_b11_outpost_commander_dialog_3">
+		<text>每一个在黑暗山谷的人都知道他,他是我们的领袖.那么又是因为什么让你不得不千里迢迢地从木星地区赶到这里呢?</text>
+	</string>
+	<string id="val_b11_outpost_commander_dialog_4">
+		<text>我需要一些信息,而这可以通过与阿库诺瓦谈话获得.因此,如果你不介意,能否告诉我我在哪里可以找到他?</text>
+	</string>
+	<string id="val_b11_outpost_commander_dialog_5">
+		<text>他现在在我们建在山谷北部的基地.所以,如果你没有迷路,或是走近一个变异点,那么我会让一个来自北面的士兵带你去农场.</text>
+	</string>
+	<string id="val_b11_outpost_commander_dialog_6">
+		<text>这太棒了.谢谢你的帮助.</text>
+	</string>
+	<string id="val_b11_outpost_commander_dialog_7">
+		<text>这附近几乎都是我们的人,因此只需等着他过来,然后你们就可以一起去农场了.</text>
+	</string>
+	<string id="val_b11_outpost_commander_dialog_8">
+		<text>我知道了.</text>
+	</string>
+	<string id="val_b11_outpost_chief_dialog_1">
+		<text>潜行者,看你这么不慌不忙的.请问你是谁,来这里做什么?</text>
+	</string>
+	<string id="val_b11_outpost_chief_dialog_2">
+		<text>我是一个潜行者.我来自木星地区.我在找一个叫做阿库诺瓦的潜行者.</text>
+	</string>
+	<string id="val_b11_outpost_chief_dialog_3">
+		<text>去那边找我们的指挥官,我想他会告诉你更多.</text>
+	</string>
+	<string id="val_b11_outpost_chief_dialog_4">
+		<text>明白了.谢谢.</text>
+	</string>
+	<string id="val_b14_outpost_commander_dialog_1">
+		<text>你好!我的名字叫狮子座,而你就一定是得格特雅里夫了!</text>
+	</string>
+	<string id="val_b14_outpost_commander_dialog_2">
+		<text>是的,我是.</text>
+	</string>
+	<string id="val_b14_outpost_commander_dialog_3">
+		<text>现在我们都做了自我介绍,那么告诉我,你找到奇美拉了吗?</text>
+	</string>
+	<string id="val_b14_outpost_commander_dialog_4">
+		<text>是的,我找到它了.它就在'利爪'变异区附近.我打算把它引诱到这里.让你的兄弟们做好准备,并在我把它引诱过来时准备战斗.</text>
+	</string>
+	<string id="val_b14_outpost_commander_dialog_5">
+		<text>没问题,我现在就开始组织并做好准备.</text>
+	</string>
+	<string id="val_b14_outpost_commander_dialog_6">
+		<text>很好.我得去引诱它了,我还会回来的.</text>
+	</string>
+	<string id="val_b14_outpost_commander_dialog_7">
+		<text>祝你好运!</text>
+	</string>
+	<string id="val_b14_outpost_commander_dialog_8">
+		<text>保重,再见.</text>
+	</string>
+
+
+
+	<string id="mil_b7_base_chief_dialog_1">
+		<text>站住,你是谁?你来这儿做什么?</text>
+	</string>
+	<string id="mil_b7_base_chief_dialog_2">
+		<text>只是一名潜行者而已.和Nazar很熟的,他是你们木星小队的队长.是过来帮你们的,顺便查清楚到底发生了什么事情.我需要和你们的头头见一面.</text>
+	</string>
+	<string id="mil_b7_base_chief_dialog_3">
+		<text>欢迎来到我们的基地.我们的队长叫Demiurge.你可以在主楼里找到他.过桥后直走然后经过坦克后右转就是了.</text>
+	</string>
+	<string id="mil_b7_base_chief_dialog_4">
+		<text>谢谢.</text>
+	</string>
+	<string id="mil_b7_base_leader_dialog_1">
+		<text>嗨,你好. Rex已经和我提到你了.</text>
+	</string>
+	<string id="mil_b7_base_leader_dialog_2">
+		<text>你好.我听说你需要帮手所以我过来搭把手.需要我做什么?</text>
+	</string>
+	<string id="mil_b7_base_leader_dialog_3">
+		<text>我们确实很需要帮手. 我已经指定了一个作战计划并准备实施,计划是我们将夺取整个地区的控制权,要想成功我们必须先占领几个关键的战略要地:村庄,农场,西部哨所,临时营地以及东部大门.我的部队已经整装待发.首先要拿下农场.到那里帮助我的部下占领它.在所有要地都被占领后,你将得到报酬, 你出力我破财,公平交易.祝你在战斗中无往不胜!</text>
+	</string>
+	<string id="mil_b7_base_leader_dialog_4">
+		<text>谢谢.我们会再见面的.</text>
+	</string>
+	<string id="mil_b7_base_leader_dialog_5">
+		<text>所有战略要地都占领了?</text>
+	</string>
+	<string id="mil_b7_base_leader_dialog_6">
+		<text>还没有.</text>
+	</string>
+	<string id="mil_b7_base_leader_dialog_7">
+		<text>是的.</text>
+	</string>
+	<string id="mil_b7_base_leader_dialog_8">
+		<text>太好了.所有战略要地都被攻下了,现在这里完全我们掌控之下了... 我刚才和一个占领农场的人聊天.他说黑暗山谷那儿有一波异变生物正在靠近.我们需要在那里建立一道稳固的防线.请立刻过去支援那里的战士并消灭所有异变生物.</text>
+	</string>
+	<string id="mil_b7_base_leader_dialog_9">
+		<text>好的,我马上过去帮忙..</text>
+	</string>
+	<string id="mil_b7_base_leader_dialog_10">
+		<text>天佑我们.</text>
+	</string>
+	<string id="mil_b7_base_leader_dialog_11">
+		<text>没错.</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_dialog_1">
+		<text>感谢你过来增援我们. 我们要确保此地万无一失.而你有更重要的任务. Akulov让我们把这个任务交给你.</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_dialog_2">
+		<text>什么任务?</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_dialog_3">
+		<text>我们的情报机构发现一个反叛者的'武装押送小队'在黑暗山谷附近出没.他们在押送一批极其贵重的货物 -一个塞满钱的箱子.我们要你去把这批钱抢过来,然后送给Akulova .</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_dialog_4">
+		<text>我马上动身赶过去.</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_name_dialog_1">
+		<text>你的绰号可真逗啊?</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_name_dialog_2">
+		<text>说来话长.</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_name_dialog_3">
+		<text>说说嘛,反正我又不赶时间.</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_name_dialog_4">
+		<text>那好吧,把耳朵竖起了仔细挺好了.那时我也就20-25岁吧, 在一个商人那做兼差,取东西,带东西,干些跑腿的活，赚些小钱.我们觉得如果想做些大买卖,就必须和潜行者们搞好关系，只有从事神器,武器，弹药这样的硬通货交易才有前途.从此我们就和潜行者们走得很近乎,渐渐地我们也掌握了市场规律,什么货物抢手我们就去寻觅什么,那可真不是个容易干的活 ...</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_name_dialog_5">
+		<text>继续讲...</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_name_dialog_6">
+		<text>嗯,有一次兄弟们出去完成任务无意中发现了一种非常稀有且值钱的神器,他们把它神器卖给了科学家,赚了个盆满钵满然后离开了特异区, 而我则留了下来接管了所有生意.</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_name_dialog_7">
+		<text>但这和你的绰号有什么关系, 它是怎么来的呢?</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_name_dialog_8">
+		<text>我曾经只对新武器感兴趣,有些是改造过的,有些则是雏形,我总是尽量去收集.由于我总是关注高品质的武器和护甲,总是费尽心机的想得到那些稀有的最好的东西,结果就以珍奇寻宝人而闻名了,因此那些家伙们就给我起了个绰号叫原型.</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_name_dialog_9">
+		<text>真是引人入胜的故事啊,谢谢你能把它讲完!</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_outfit_dialog_1">
+		<text>哇哦,你的防护服可真拉风!</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_outfit_dialog_2">
+		<text>确实是,谢谢,这可是特异区里面配备防弹装甲的最棒的重型防护服之一.</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_outfit_dialog_3">
+		<text>你是从哪个冤死鬼身上拔下来的?</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_outfit_dialog_4">
+		<text>啊哦,我捡了敌人的护甲,然后用那些个破烂自己缝了一个,呵呵, 开玩笑的,它实际上是由一件极品外骨骼,说白了就是一件未生产的军用版外骨骼加装了防弹装甲和其他一些设备.最初有三件. 有两个朋友因工作拿了两套, 虽然从此之后我再也没有见过他们,不过相信穿成这样他们能出什么意外.</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_outfit_dialog_5">
+		<text>没错,他们肯定没事, 四处溜达啊什么的,都是这样的.你还能告诉我些什么?</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_outfit_dialog_6">
+		<text>是这样,在军队撤出该区域之前,我和几个朋友搭伙去寻找神器.是很久以前的事情了,应该是2008年,在第二次大风暴之后, 变异点附近的神器多的都堆成了堆,尽管周围险象环生,但是为了那些稀有神器,冒这点险还是值得的.当时它们可是价比黄金啊,不过时过境迁,现在金子也不怎么值钱了.当年我们把神器卖给一个本地的商人,这家伙人很不错.到特异区的初代开拓者们,往往要在经历了千难万险之后才能找到他们的宝物.而现在那样的宝物已经所剩无几了,不过如果能够深入到特异区足够远的地方你还是会碰巧找到些和这些装备一样的好东西.</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_outfit_dialog_7">
+		<text>精彩绝伦的故事.你能告诉我现在我到哪儿才能找到如此之好的宝贝呢?我还能有这么好的运气么?</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_outfit_dialog_8">
+		<text>H呵呵呵.不可能了!</text>
+	</string>
+	<string id="mil_b7_colonizer_commander_about_outfit_dialog_9">
+		<text>真是太遗憾了啊.</text>
+	</string>
+	<string id="mil_b7_night_stalker_leader_dialog_1">
+		<text>你好. 我叫莫里腾Morten. 很高兴能认识你.非常感谢你帮助我们夺回了基地.</text>
+	</string>
+	<string id="mil_b7_night_stalker_leader_dialog_2">
+		<text>没事,小意思,那么既然基地已经占领了我们接下来做点什么?</text>
+	</string>
+	<string id="mil_b7_night_stalker_leader_dialog_3">
+		<text>我们这儿的阵地已经固若金汤了.异变生物正四散逃命呢.现在我们要攻占所有战略要地.首先要拿下农场.部队已经整装待发.你的任务就是帮助他们占领仓库内的所有战略要地.</text>
+	</string>
+	<string id="mil_b7_night_stalker_leader_dialog_4">
+		<text>明白了.我会全力以赴.</text>
+	</string>
+	<string id="mil_b7_night_stalker_leader_dialog_5">
+		<text>情况怎么样?</text>
+	</string>
+	<string id="mil_b7_night_stalker_leader_dialog_6">
+		<text>还没有完成.</text>
+	</string>
+	<string id="mil_b7_night_stalker_leader_dialog_7">
+		<text>太好了.任务完成了.我们已经完全控制了此地. 暗夜潜行者已经建立了足够的优势.</text>
+	</string>
+	<string id="mil_b7_night_stalker_leader_dialog_8">
+		<text>真是个好消息. 所有威胁都被消除了,剩下的已经不足畏惧了,我们的巡逻队就可以搞定,基地很快就会兴旺繁荣起来的.感谢你的帮助.这是你的报酬.</text>
+	</string>
+	<string id="mil_b7_night_stalker_leader_dialog_9">
+		<text>谢谢,保重,一路顺风.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_1">
+		<text>欢迎.你有何贵干?</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_2">
+		<text>我想交易.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_3">
+		<text>货真价实,来吧.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_4">
+		<text>没事.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_5">
+		<text>我不需要.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_6">
+		<text>不,我还不想取消订单.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_7">
+		<text>好的!一小时后来取货.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_8">
+		<text>还是下次吧.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_9">
+		<text>好吧,丑话说到前面,一次你只能订购一件物品.如果你反悔了,你得先取消之前的订单再付我500卢比赔偿金.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_10">
+		<text>没问题,我赔你就是了,给你钱.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_11">
+		<text>上次的订单已经成功取消了,现在你可以重新订购新物品了.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_12">
+		<text>我可以订货吗?</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_13">
+		<text>太贵了.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_14">
+		<text>我改主意了.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_15">
+		<text>好的.拿着.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_16">
+		<text>很好,货物已经预定,你现在要预支一下运费,然后交易就完成了.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_17">
+		<text>现在你对订货还有什么疑问么?记着:一次你只能订购一件物品. 你可以取消订单,但是这样造成的损失将由你承担.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_18">
+		<text>我想订购货物.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_19">
+		<text>没问题.请选择要订购的货物类型.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_20">
+		<text>武器.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_21">
+		<text>防护衣.</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_22">
+		<text>'高斯步枪''Gauss Rifle'</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_23">
+		<text>'防弹军用套装'</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_24">
+		<text>'防弹黎明防护服'</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_25">
+		<text>'撕裂者'散弹枪</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_26">
+		<text>DSA-58OSW</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_27">
+		<text>M-1000 Mik</text>
+	</string>
+	<string id="mil_night_stalker_trader_dialog_28">
+		<text>XM29 OICW</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_1">
+		<text>不,还是等下次把.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_2">
+		<text>我没有足够的钱,还是下次吧.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_3">
+		<text>好的,你目前的存款额度是:</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_4">
+		<text>我改主意了.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_5">
+		<text>谢谢.欢迎再来.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_6">
+		<text>好的.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_7">
+		<text>我再看看.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_8">
+		<text>感谢你提供的服务.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_9">
+		<text>欢迎你,潜行者! 友情提示:如果你要提走全部存款,你要支付10%的保证金.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_10">
+		<text>好的,回见.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_11">
+		<text>我能多存些吗?</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_12">
+		<text>别傻了,当然可以.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_13">
+		<text>好的.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_17">
+		<text>是的,想再存几千.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_18">
+		<text>你想存多少钱?</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_19">
+		<text>我要把身上所有的钱都存了.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_26">
+		<text>你好潜行者, 你来做什么?</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_27">
+		<text>我是来办业务的.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_28">
+		<text>你想办理哪项业务:存钱,还是兑换电子货币?</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_29">
+		<text>存钱.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_30">
+		<text>不用了.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_31">
+		<text>取钱.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_32">
+		<text>你想取多少?你当前帐户余额为:</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_33">
+		<text>好极了! 现在,我按照约定拿走我的10%,剩下的还给你.算下来这10%是100..</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_34">
+		<text>我知道了.拿走你的那份然后把我的给我.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_35">
+		<text>好极了! 现在,我按照约定拿走我的10%,剩下的还给你.算下来这10%是 200.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_36">
+		<text>好极了! 现在,我按照约定拿走我的10%,剩下的还给你.算下来这10%是 300.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_37">
+		<text>好极了! 现在,我按照约定拿走我的10%,剩下的还给你.算下来这10%是 400.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_38">
+		<text>好极了! 现在,我按照约定拿走我的10%,剩下的还给你.算下来这10%是 500.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_39">
+		<text>好极了! 现在,我按照约定拿走我的10%,剩下的还给你.算下来这10%是 1000.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_40">
+		<text>我要拿走我所有的钱.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_41">
+		<text>好极了! 现在,我按照约定拿走我的10%,剩下的还给你.算下来这10%是:</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_42">
+		<text>你的账号余额小于100了,所以说你不用给我10%了,把钱拿走吧..</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_43">
+		<text>谢谢</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_44">
+		<text>太棒了!你选择了定期存款.让我提醒你,这些钱经过我手里你不能随时拿走.你可以在20:00和20:45之间取回去,每天你可以拿到7%的利息.你觉得如何?</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_45">
+		<text>定期存款.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_46">
+		<text>没什么.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_47">
+		<text>我来存点钱.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_48">
+		<text>你的存款已经成功补充,从现在到明天20:00到20:45你就可以拿到你的利息.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_49">
+		<text>明白了.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_50">
+		<text>我想再存点钱.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_51">
+		<text>多少?</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_52">
+		<text>我没钱了.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_53">
+		<text>我把我所有的钱都存进去.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_54">
+		<text>1000.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_55">
+		<text>2000.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_56">
+		<text>3000 .</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_57">
+		<text>4000.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_58">
+		<text>5000.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_59">
+		<text>10,000 .</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_59_1">
+		<text>25,000.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_59_2">
+		<text>50,000.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_59_3">
+		<text>100,000.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_60">
+		<text>我想拿回我的存款.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_61">
+		<text>你想拿走哪样?存款还是利息?</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_62">
+		<text>利息.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_63">
+		<text>这里.约定好的7%..</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_64">
+		<text>谢谢.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_65">
+		<text>定期存款.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_66">
+		<text>这是你存的所有的钱,拿去吧.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_67">
+		<text>谢谢.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_68">
+		<text>让我看看我的利息.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_69">
+		<text>活期存款.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_70">
+		<text>你选择了活期存款.让我提醒你你的存款放到我这里,我有责任保管他们,你可以随时把它们拿走不过你需要给我10%,你说怎么样??</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_71">
+		<text>兑换.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_72">
+		<text>你选择用电子货币兑换现金卢布.你要兑换多少?</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_73">
+		<text>随时欢迎您. 你需要交换多少电子货币?</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_74">
+		<text>我还想兑换.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_75">
+		<text>T感谢你的服务.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_76">
+		<text>我改注意了.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_77">
+		<text>我没有电子货币,下次吧.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_78">
+		<text>所有的钱.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_79">
+		<text>好的.给你现金.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_80">
+		<text>1000.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_81">
+		<text>2000.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_82">
+		<text>3000.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_83">
+		<text>4000.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_84">
+		<text>5000.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_85">
+		<text>6000.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_86">
+		<text>7000.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_87">
+		<text>8000.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_88">
+		<text>9000.</text>
+	</string>
+	<string id="mil_night_stalker_bankir_dialog_89">
+		<text>10,000.</text>
+	</string>
+
+
+
+	<string id="agr_authorities_agent_dialog_1">
+		<text>你带来文件了吗?</text>
+	</string>
+	<string id="agr_authorities_agent_dialog_2">
+		<text>是的.这是你要的两份文件.</text>
+	</string>
+	<string id="agr_authorities_agent_dialog_3">
+		<text>好极了.谢谢.我得走了.回见.</text>
+	</string>
+	<string id="agr_authorities_agent_dialog_4">
+		<text>祝你好运.</text>
+	</string>
+
+
+
+	<string id="about_toolkits_bandit_0">
+		<text>我在附近哪里可以找到工具箱?</text>
+	</string>
+	<string id="about_toolkits_bandit_nothing1">
+		<text>我不知道.我接触的家伙们甚至都没用过工具...哈哈哈!..别在意,我开玩笑的.</text>
+	</string>
+	<string id="about_toolkits_bandit_nothing2">
+		<text>那我就和你聊聊吧.自从从走出技校后就再也没见过一把锤子了,更别提钉子什么的了.去找那些万事通吧,也许他们用水晶球能找到.</text>
+	</string>
+	<string id="about_toolkits_var1_zat_bandit_1">
+		<text>如果你需要手术工具, 你可以去医院或者急救站找找.如果你要找建筑工具, 那去废水处理站碰碰运气吧.如果你只是要一个小工具, 去旧工厂找找.</text>
+	</string>
+	<string id="about_toolkits_var2_zat_bandit_1">
+		<text>如果你需要手术工具, 你可以去医院或者急救站找找.如果你要找建筑工具, 那去翡翠碰碰运气吧.如果你只是要一个小工具,去旧工厂找找.</text>
+	</string>
+	<string id="about_toolkits_var3_zat_bandit_1">
+		<text>如果你需要手术工具,你可以去医院或者急救站找找.如果你要找建筑工具, 那去克鲁格雷达站碰碰运气吧.如果你只是要一个小工具,去旧工厂找找.</text>
+	</string>
+	<string id="about_toolkits_var1_jup_bandit_1">
+		<text>如果你需要手术工具, 你可以去医院或者急救站找找. 如果你要找建筑工具, 那去综合设施通风口碰碰运气吧.如果你只是要一个小工具, 去旧工厂找找.</text>
+	</string>
+	<string id="about_toolkits_var2_jup_bandit_1">
+		<text>如果你需要手术工具, 你可以去医院或者急救站找找. 如果你要找建筑工具, 那去木星工厂碰碰运气吧.如果你只是要一个小工具, 去旧工厂找找.</text>
+	</string>
+	<string id="about_toolkits_var3_jup_bandit_1">
+		<text>如果你需要手术工具, 你可以去医院或者急救站找找. 如果你要找建筑工具, 那去木星工厂碰碰运气吧.如果你只是要一个小工具, 去旧工厂找找.</text>
+	</string>
+	<string id="about_toolkits_var1_pri_bandit_1">
+		<text>如果你需要手术工具, 你可以去医院或者急救站找找. 如果你要找建筑工具, 那去河港碰碰运气吧.如果你只是要一个小工具, 去旧工厂找找.</text>
+	</string>
+	<string id="about_toolkits_var2_pri_bandit_1">
+		<text>如果你需要手术工具, 你可以去医院或者急救站找找. 如果你要找建筑工具, 那去学校碰碰运气吧.如果你只是要一个小工具, 去旧工厂找找.</text>
+	</string>
+	<string id="about_toolkits_var3_pri_bandit_1">
+		<text>如果你需要手术工具, 你可以去医院或者急救站找找. 如果你要找建筑工具, 那去复式公寓碰碰运气吧.如果你只是要一个小工具, 去旧工厂找找.</text>
+	</string>
+	<string id="about_toolkits_dolg_0">
+		<text>我在附近哪里可以找到工具箱?</text>
+	</string>
+	<string id="about_toolkits_dolg_nothing">
+		<text>哈, 这附近! 这里只有变异点和成群结队的怪物.如果我是你,我可不会到变异点去找什么工具.还有狂暴侏儒和脑波怪可能会给你点惊喜.</text>
+	</string>
+	<string id="about_toolkits_var1_zat_dolg_1">
+		<text>这附近有个完整的工厂. 当然, 可能现在已经被洗劫过了, 但如果我是你, 我会去那工厂里的仓库碰碰运气的.</text>
+	</string>
+	<string id="about_toolkits_var1_zat_dolg_2">
+		<text>去钢铁森林找找吧, 那过去曾经是工厂的仓库,也许会有什么工具留下来呢.</text>
+	</string>
+	<string id="about_toolkits_var1_zat_dolg_3">
+		<text>这附近有个完整的工厂. 当然, 可能现在已经被洗劫过了, 但如果我是你, 我会去那工厂里的仓库碰碰运气的.</text>
+	</string>
+	<string id="about_toolkits_var1_jup_dolg_1">
+		<text>这附近有个完整的工厂. 当然, 可能现在已经被洗劫过了, 但如果我是你, 我会去那工厂里的仓库碰碰运气的.</text>
+	</string>
+	<string id="about_toolkits_var1_jup_dolg_2">
+		<text>去沃尔库霍夫防空基地找找看.那过去有些车库,工具可能会在那里.</text>
+	</string>
+	<string id="about_toolkits_var1_jup_dolg_3">
+		<text>你知道有个地方能进入综合设施通风口吗?听说曾经有个技师在那里工作,工具可能在那里...</text>
+	</string>
+	<string id="about_toolkits_var1_pri_dolg_1">
+		<text>这附近有个完整的港口.当然,它已经废弃很久了, 说不定还被洗劫过了, 但如果我是你, 我会去那里碰碰运气的..</text>
+	</string>
+	<string id="about_toolkits_var1_pri_dolg_2">
+		<text>去超市找找看.过去曾经有个仓库在那, 也许会有什么工具留下来呢.</text>
+	</string>
+	<string id="about_toolkits_var1_pri_dolg_3">
+		<text>这附近有个完整的港口.当然,它已经废弃很久了, 说不定还被洗劫过了, 但如果我是你, 我会去那里碰碰运气的.</text>
+	</string>
+	<string id="about_toolkits_var2_zat_dolg_1">
+		<text>哈, 这附近! 这里只有变异点和成群结队的怪物.如果我是你,我可不会到变异点去找什么工具.还有狂暴侏儒和脑波怪可能会给你点惊喜.</text>
+	</string>
+	<string id="about_toolkits_var2_zat_dolg_2">
+		<text>去补给站找找看. 过去曾经有个仓库在那, 现在说不定那里已经被洗劫了,但是你还是可以去碰碰运气.</text>
+	</string>
+	<string id="about_toolkits_var2_zat_dolg_3">
+		<text>哈, 这附近! 这里只有变异点和成群结队的怪物.如果我是你,我可不会到变异点去找什么工具.还有狂暴侏儒和脑波怪可能会给你点惊喜.</text>
+	</string>
+	<string id="about_toolkits_var2_jup_dolg_1">
+		<text>这附近有个完整的工厂. 当然, 可能现在已经被洗劫过了, 但如果我是你, 我会去那工厂里的仓库碰碰运气的.</text>
+	</string>
+	<string id="about_toolkits_var2_jup_dolg_2">
+		<text>去水泥厂找找看.稍微用用脑子就会觉得那该有些什么才对.</text>
+	</string>
+	<string id="about_toolkits_var2_jup_dolg_3">
+		<text>你知道木星工厂吗?我敢说那肯定有工具...</text>
+	</string>
+	<string id="about_toolkits_var2_pri_dolg_1">
+		<text>附近有家医院.我觉得你该去碰碰运气.</text>
+	</string>
+	<string id="about_toolkits_var2_pri_dolg_2">
+		<text>去学校找找看,因为那是附近唯一还安全的地方.</text>
+	</string>
+	<string id="about_toolkits_var2_pri_dolg_3">
+		<text>哈, 这附近! 这里只有变异点和成群结队的怪物.如果我是你,我可不会到变异点去找什么工具.还有狂暴侏儒和脑波怪可能会给你点惊喜.</text>
+	</string>
+	<string id="about_toolkits_var3_zat_dolg_1">
+		<text>哈, 这附近! 这里只有变异点和成群结队的怪物.如果我是你,我可不会到变异点去找什么工具.还有狂暴侏儒和脑波怪可能会给你点惊喜.</text>
+	</string>
+	<string id="about_toolkits_var3_zat_dolg_2">
+		<text>去疏浚站找找看.工具应该就在那里.</text>
+	</string>
+	<string id="about_toolkits_var3_zat_dolg_3">
+		<text>你知道附近有个地方叫克鲁格雷达站吗?我觉得那肯定有工具...</text>
+	</string>
+	<string id="about_toolkits_var3_jup_dolg_1">
+		<text>这附近有个完整的工厂. 当然, 可能现在已经被洗劫过了, 但如果我是你, 我会去那工厂里的仓库碰碰运气的.</text>
+	</string>
+	<string id="about_toolkits_var3_jup_dolg_2">
+		<text>去水泥厂找找看.稍微用用脑子就会觉得那该有些什么才对.</text>
+	</string>
+	<string id="about_toolkits_var3_jup_dolg_3">
+		<text>你知道附近有个地方叫废墟变异区吗? 不久前我从那经过,看到有个大锤丢在那.说不定你要找的东西就在那里...</text>
+	</string>
+	<string id="about_toolkits_var3_pri_dolg_1">
+		<text>附近有个地方叫复式公寓.也许你该去碰碰运气.</text>
+	</string>
+	<string id="about_toolkits_var3_pri_dolg_2">
+		<text>去书店找找看,听说曾经有个工匠在那里开过铺子...</text>
+	</string>
+	<string id="about_toolkits_var3_pri_dolg_3">
+		<text>哈, 这附近! 这里只有变异点和成群结队的怪物.如果我是你,我可不会到变异点去找什么工具.还有狂暴侏儒和脑波怪可能会给你点惊喜.</text>
+	</string>
+	<string id="about_toolkits_freedom_0">
+		<text>我在附近哪里可以找到工具箱?</text>
+	</string>
+	<string id="about_toolkits_freedom_nothing">
+		<text>工具?我说,朋友,别痴人说梦了,问点正常问题吧.这又不是在巴比伦,不用说暗语...不过,你真的要找工具,好吧,我真的不知道...</text>
+	</string>
+	<string id="about_toolkits_var1_zat_freedom_1">
+		<text>显然,工厂附近肯定有,兄弟.不过我可警告你,那可真是个恐怖的地方... 说真的呢?虽然很危险,不过,那的确有个仓库.首先,那还不算太糟,其次,那确实有工具一类的东西出现过.还有,你还可以去沃尔库霍夫防空基地转转,那可能也有工具...</text>
+	</string>
+	<string id="about_toolkits_var1_zat_freedom_2">
+		<text>工具?我真不知道哪有,兄弟.</text>
+	</string>
+	<string id="about_toolkits_var1_zat_freedom_3">
+		<text>我知道,真的...有个家伙曾经去克鲁格雷达站找过工具.不过那到处都是吸血怪!最后,用他的话说,那确实有工具.</text>
+	</string>
+	<string id="about_toolkits_var1_jup_freedom_1">
+		<text>显然,沃尔库霍夫防空基地附近肯定有,兄弟.不过我可警告你,那可真是个恐怖的地方... 说真的呢?虽然很危险,不过,那的确有个仓库.首先,那还不算太糟,其次,那确实有工具一类的东西出现过..</text>
+	</string>
+	<string id="about_toolkits_var1_jup_freedom_2">
+		<text>你还真把我问住了,老弟!好吧,让我们开动脑筋好好分析分析.在特异区外面,哪里可以找到工具呢?没错,一般都是直接去商店买,如果你车库里面找不到的话.就算附近能找到工具,你还不是得去找能用工具的人啊.长话短说,你要去工厂才对.不是吗?这可是特异区啊,什么都一样.很简单,潜行者!</text>
+	</string>
+	<string id="about_toolkits_var1_jup_freedom_3">
+		<text>我知道,真的...有个家伙曾经去综合设施通风口找过工具.不过那到处都是僵尸!最后, 用他的话说, 他差点死在雷区了, 再加上成群结队的僵尸.我干嘛告诉你这些呢?他说,他好像在那看到工具了.</text>
+	</string>
+	<string id="about_toolkits_var1_pri_freedom_1">
+		<text>显然,就在工厂附近,老弟.尽管我都不记得普里皮亚季还有工厂.也许河港那就有.不过我可警告你,那可真是个恐怖的地方...到处都是黑石组织的士兵.</text>
+	</string>
+	<string id="about_toolkits_var1_pri_freedom_2">
+		<text>你还真把我问住了,老弟!好吧,让我们开动脑筋好好分析分析.在特异区外面,哪里可以找到工具呢?没错,一般都是直接去商店买,如果你车库里面找不到的话.就算附近能找到工具,你还不是得去找能用工具的人啊.长话短说,你要去工厂才对.不是吗?这可是特异区啊,什么都一样.很简单,潜行者!</text>
+	</string>
+	<string id="about_toolkits_var1_pri_freedom_3">
+		<text>工具?我真不知道哪有,兄弟...</text>
+	</string>
+	<string id="about_toolkits_var2_zat_freedom_1">
+		<text>补给站可能有,老弟.但是要小心啊,那可是强盗的老巢...</text>
+	</string>
+	<string id="about_toolkits_var2_zat_freedom_2">
+		<text>工具?我真不知道哪有,兄弟...</text>
+	</string>
+	<string id="about_toolkits_var2_zat_freedom_3">
+		<text>我知道哪有,真的...听说翡翠那就有.</text>
+	</string>
+	<string id="about_toolkits_var2_jup_freedom_1">
+		<text>显然,工厂附近肯定有,兄弟.不过我可警告你,那可真是个恐怖的地方... 说真的呢?虽然很危险,不过,那的确有个仓库.首先,那还不算太糟,其次,那确实有工具一类的东西出现过.还有,你还可以去沃尔库霍夫防空基地转转,那可能也有工具.</text>
+	</string>
+	<string id="about_toolkits_var2_jup_freedom_2">
+		<text>你还真把我问住了,老弟!好吧,让我们开动脑筋好好分析分析.在特异区外面,哪里可以找到工具呢?没错,一般都是直接去商店买,如果你车库里面找不到的话.就算附近能找到工具,你还不是得去找能用工具的人啊.长话短说,你要去工厂才对.不是吗?这可是特异区啊,什么都一样.很简单,潜行者!</text>
+	</string>
+	<string id="about_toolkits_var2_jup_freedom_3">
+		<text>去水泥厂找找看,你要找的东西在那儿呢.</text>
+	</string>
+	<string id="about_toolkits_var2_pri_freedom_1">
+		<text>如果要我说,我会先去学校附近找找,老弟.还记得上学的时候我们上的手工课吗...那肯定有一大堆工具.</text>
+	</string>
+	<string id="about_toolkits_var2_pri_freedom_2">
+		<text>你还真把我问住了,老弟!好吧,让我们开动脑筋好好分析分析.在特异区外面,哪里可以找到工具呢?没错,一般都是直接去商店买,如果你车库里面找不到的话.就算附近能找到工具,你还不是得去找能用工具的人啊.长话短说,你要去工厂才对.不是吗?这可是特异区啊,什么都一样.很简单,潜行者!</text>
+	</string>
+	<string id="about_toolkits_var2_pri_freedom_3">
+		<text>工具?我真不知道哪有,兄弟...</text>
+	</string>
+	<string id="about_toolkits_var3_zat_freedom_1">
+		<text>克鲁格雷达站可能有,老弟.但是要小心啊,那可是强盗的老巢...</text>
+	</string>
+	<string id="about_toolkits_var3_zat_freedom_2">
+		<text>工具?我真不知道哪有,兄弟...</text>
+	</string>
+	<string id="about_toolkits_var3_zat_freedom_3">
+		<text>我知道哪有,真的...听说翡翠那就有.</text>
+	</string>
+	<string id="about_toolkits_var3_jup_freedom_1">
+		<text>显然,工厂附近肯定有,兄弟.不过我可警告你,那可真是个恐怖的地方... 说真的呢?虽然很危险,不过,那的确有个仓库.首先,那还不算太糟,其次,那确实有工具一类的东西出现过.</text>
+	</string>
+	<string id="about_toolkits_var3_jup_freedom_2">
+		<text>你还真把我问住了,老弟!好吧,让我们开动脑筋好好分析分析.在特异区外面,哪里可以找到工具呢?没错,一般都是直接去商店买,如果你车库里面找不到的话.就算附近能找到工具,你还不是得去找能用工具的人啊.长话短说,你要去工厂才对.不是吗?这可是特异区啊,什么都一样.很简单,潜行者!!</text>
+	</string>
+	<string id="about_toolkits_var3_jup_freedom_3">
+		<text>去工厂找找看,你要找的东西在那儿呢.</text>
+	</string>
+	<string id="about_toolkits_var3_pri_freedom_1">
+		<text>要是我我会先去复式公寓找找看,老弟.</text>
+	</string>
+	<string id="about_toolkits_var3_pri_freedom_2">
+		<text>你还真把我问住了,老弟!好吧,让我们开动脑筋好好分析分析.在特异区外面,哪里可以找到工具呢?没错,一般都是直接去商店买,如果你车库里面找不到的话.就算附近能找到工具,你还不是得去找能用工具的人啊.长话短说,你要去工厂才对.不是吗?这可是特异区啊,什么都一样.很简单,潜行者!</text>
+	</string>
+	<string id="about_toolkits_var3_pri_freedom_3">
+		<text>工具?我真不知道哪有,兄弟...</text>
+	</string>
+	<string id="about_toolkits_stalkers_0">
+		<text>我在附近哪里可以找到工具箱?</text>
+	</string>
+	<string id="about_toolkits_stalkers_nothing1">
+		<text>说实话, 我最后一次看见工具的地方是在封锁线的西德洛维奇地下室. 你当然要付钱, 但是东西很新, 而且价格公道.</text>
+	</string>
+	<string id="about_toolkits_stalkers_nothing2">
+		<text>你知道, 老兄, 我不是来特异区找工具的. 你自己想想, 一把充满辐射的锤子到底有什么价值?</text>
+	</string>
+	<string id="about_toolkits_var1_zat_stalkers_1">
+		<text>一个潜行者告诉我说他家老爷子在废水处理站工作到86岁. 他说那里装备齐全, 我猜肯定也有工具. 估计现在都已经锈成渣了, 但还是值得去碰碰运气?</text>
+	</string>
+	<string id="about_toolkits_var1_zat_stalkers_2">
+		<text>你知道山丘上的桥边有个工厂吗?用脑子分析的话,工具肯定是在那儿.不过想进去可不容易,走水路是相当危险的,到处都是野生动物出没,而走大桥的话会碰到很多变异点...我可不想死在那,我说真的那!更别提无处不在的辐射区.如果你去钢铁森林变异区找找,兴许能找到些. 很久以前,我们的技师去那找过工具,不过现在那里是吵闹鬼的故乡.</text>
+	</string>
+	<string id="about_toolkits_var1_zat_stalkers_3">
+		<text>你知道山丘上的桥边有个工厂吗?用脑子分析的话,工具肯定是在那儿.不过想进去可不容易,走水路是相当危险的,到处都是野生动物出没,而走大桥的话会碰到很多变异点...我可不想死在那,我说真的那!更别提无处不在的辐射区.如果你去钢铁森林变异区找找,兴许能找到些. 很久以前,我们的技师去那找过工具,不过现在那里是吵闹鬼的故乡.</text>
+	</string>
+	<string id="about_toolkits_var1_jup_stalkers_1">
+		<text>听着,附近有个废弃的雷区.工具可能就在那,但是说老实话我没去过那 -那太危险了!</text>
+	</string>
+	<string id="about_toolkits_var1_jup_stalkers_2">
+		<text>问得好!如果我是你的话,我会去沃尔库霍夫防空基地附近找找看...别问我为什么?!直觉告诉我那肯定有货.</text>
+	</string>
+	<string id="about_toolkits_var1_jup_stalkers_3">
+		<text>问得好!如果我是你的话,我会去沃尔库霍夫防空基地附近找找看...别问我为什么?!直觉告诉我那肯定有货.</text>
+	</string>
+	<string id="about_toolkits_var1_pri_stalkers_1">
+		<text>我听说在普里皮亚季有好几个地方都能让你找到各种技工的垃圾.其中一个可能就在河港?</text>
+	</string>
+	<string id="about_toolkits_var1_pri_stalkers_2">
+		<text>我真不知道哪有!...到旧工厂,或者是超市找找,兴许你能找到什么.</text>
+	</string>
+	<string id="about_toolkits_var1_pri_stalkers_3">
+		<text>我真不知道哪有!...到旧工厂,或者是超市找找,兴许你能找到什么.</text>
+	</string>
+	<string id="about_toolkits_var2_zat_stalkers_1">
+		<text>一个潜行者告诉我说他家老爷子在补给站工作到86岁. 他说那里装备齐全, 我猜肯定也有工具. 估计现在都已经锈成渣了, 但还是值得去碰碰运气?</text>
+	</string>
+	<string id="about_toolkits_var2_zat_stalkers_2">
+		<text>知道翡翠吗,就是山上的那个?听说,有人在那看到过工具.</text>
+	</string>
+	<string id="about_toolkits_var2_zat_stalkers_3">
+		<text>知道翡翠吗,就是山上的那个?听说,有人在那看到过工具.</text>
+	</string>
+	<string id="about_toolkits_var2_jup_stalkers_1">
+		<text>听着,附近有个工厂.工具可能就在那,但是说老实话我没去过那 -那太危险了!</text>
+	</string>
+	<string id="about_toolkits_var2_jup_stalkers_2">
+		<text>问得好!如果我是你的话,我会去水泥厂附近找找看...别问我为什么?!直觉告诉我那肯定有货.</text>
+	</string>
+	<string id="about_toolkits_var2_jup_stalkers_3">
+		<text>问得好!如果我是你的话,我会去沃尔库霍夫防空基地附近找找看...别问我为什么?!直觉告诉我那肯定有货.</text>
+	</string>
+	<string id="about_toolkits_var2_pri_stalkers_1">
+		<text>我听说在普里皮亚季有好几个地方都能让你找到各种技工的垃圾.其中一个可能就在学校.</text>
+	</string>
+	<string id="about_toolkits_var2_pri_stalkers_2">
+		<text>人们都说医院可以找到这样那样的零件,你何不去碰碰运气呢.说不定能找到工具呢</text>
+	</string>
+	<string id="about_toolkits_var2_pri_stalkers_3">
+		<text>人们都说医院可以找到这样那样的零件,你何不去碰碰运气呢.说不定能找到工具呢?</text>
+	</string>
+	<string id="about_toolkits_var3_zat_stalkers_1">
+		<text>一个潜行者告诉我说他兄弟在疏浚站工作过一段日子. 他说那里装备齐全, 我猜肯定也有工具. 估计现在都已经锈成渣了, 但还是值得去碰碰运气?</text>
+	</string>
+	<string id="about_toolkits_var3_zat_stalkers_2">
+		<text>知道克鲁格雷达站吗,就是西边的那个?听说,有人在那看到过工具.</text>
+	</string>
+	<string id="about_toolkits_var3_zat_stalkers_3">
+		<text>知道克鲁格雷达站吗,就是西边的那个?听说,有人在那看到过工具.</text>
+	</string>
+	<string id="about_toolkits_var3_jup_stalkers_1">
+		<text>听着,附近有个工厂.工具可能就在那,但是说老实话我没去过那 -那太危险了!</text>
+	</string>
+	<string id="about_toolkits_var3_jup_stalkers_2">
+		<text>问得好!如果我是你的话,我会去废墟变异区附近找找看...别问我为什么?!直觉告诉我那肯定有货.</text>
+	</string>
+	<string id="about_toolkits_var3_jup_stalkers_3">
+		<text>听着,附近有个工厂.工具可能就在那,但是说老实话我没去过那 -那太危险了!</text>
+	</string>
+	<string id="about_toolkits_var3_pri_stalkers_1">
+		<text>我听说在普里皮亚季有好几个地方都能让你找到各种技工的垃圾.其中一个可能就在复式公寓.</text>
+	</string>
+	<string id="about_toolkits_var3_pri_stalkers_2">
+		<text>人们都说书店可以找到这样那样的零件,你何不去碰碰运气呢.说不定能找到工具呢?</text>
+	</string>
+	<string id="about_toolkits_var3_pri_stalkers_3">
+		<text>人们都说医院可以找到这样那样的零件,你何不去碰碰运气呢.说不定能找到工具呢?</text>
+	</string>
+	<string id="zat_b22_barmen_b5_daring_quest_stalkers_2">
+		<text>不,目前还不行.只要那地方还在强盗手里,任何进攻都是无意义的,因为他们也有自己的头,那家伙可能也会对斯卡多夫斯克发起进攻 ...</text>
+	</string>
+	<string id="zat_b22_barmen_b5_daring_quest_stalkers_3">
+		<text>再见.</text>
+	</string>
+	<string id="zat_b22_barmen_b5_daring_quest_stalkers_4">
+		<text>好的.</text>
+	</string>
+	<string id="zat_b103_merc_dialog_find_supplies_099">
+		<text>不客气.</text>
+	</string>
+	<string id="zat_b103_merc_dialog_start_22">
+		<text>不打扰你了.</text>
+	</string>
+	<string id="zat_b103_merc_dialog_about_supplies_101">
+		<text>那就这样吧.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_031">
+		<text>啊,兄弟.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_001">
+		<text>Well, 'Midsummer' I will bring you, and then try to negotiate with the pilot, that he brought you to the Creek ... Once all this is, you know, when the release is complete.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_002">
+		<text>Well, 'Midsummer', I will bring you, and then try to negotiate with the pilot, that he brought you to the Creek. As an option?</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_1118">
+		<text>我是不会付你钱的.你要想要去找切别耶夫要吧?</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_11181">
+		<text>冷静点,兄弟 ...这简直就是大水冲了龙王庙,一家人不认识一家人了!我完全搞错了...我实在是不知道,你是我那河湾兄弟的手下.这样吧,告诉瓦诺,他的帐一笔勾销了,顺便请给Chapaev至上我诚挚的问候.</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_11182">
+		<text>我会的,那么我们就这样说定了.</text>
+	</string>
+	<string id="shustriy_available_find_1_title">
+		<text>找到丢失的 "Ingram Mac-10"</text>
+	</string>
+	<string id="shustriy_available_find_2_title">
+		<text>找到丢失的 "AK-47"</text>
+	</string>
+	<string id="shustriy_available_find_3_title">
+		<text>找到丢失的 "Mossberg 590Mk.L"</text>
+	</string>
+	<string id="shustriy_available_find_4_title">
+		<text>找到丢失的 "Steyr AUG SS190"</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_1">
+		<text>谢了,保重~</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_2">
+		<text>没什么大不了的,我没生气.</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_3">
+		<text>我对你的工作不感兴趣.</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_4">
+		<text>行,随你便.</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_5">
+		<text>有工作吗?</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_6">
+		<text>好消息,我有一些有价值的工作,大部分是寻找丢失的物品,我给你坐标,你给我东西,就这样,我现在有这些任务给你：</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_7">
+		<text>我接寻找 "Ingram M10"</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_8">
+		<text>我接寻找 "AK-47"</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_9">
+		<text>我接寻找 "Mossberg 590Mk.L"</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_10">
+		<text>我接寻找 "Steyr AUG SS190"</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_11">
+		<text>对,我带来了丢失的 "Ingram M10".</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_12">
+		<text>对,我带来了丢失的 "AK-47".</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_13">
+		<text>对,我带来了丢失的 "Mossberg 590Mk.L".</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_14">
+		<text>对,我带来了丢失的 "Steyr AUG SS190".</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_15">
+		<text>现在没有任务,明天再来吧,我明天想要一把像样的枪...</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_16">
+		<text>我还在找.</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_17">
+		<text>很好！你需要更多的任务吗?</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_18">
+		<text>祝你好运,找到武器了就带到我这里来.</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_19">
+		<text>嗯, 这里有这么些任务:</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_20">
+		<text>你终于找到这把枪了,干得好！潜行者,我很满意,你的报酬在这里,如果你仍然需要帮助,直接找我.</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_21">
+		<text>我的订单来的真及时！...兄弟,谢谢,我欠你的.</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_22">
+		<text>这就是我要的枪！好极了！买家就要到了,我欠你的潜行者.</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_23">
+		<text>我的订单来的真及时！潜行者,谢谢,我欠你的.</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_24">
+		<text>已经找到了?</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_25">
+		<text>不,我改变主意了.</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_26">
+		<text>知道了,我走了.</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_27">
+		<text>好的,现在挺清楚我说的话：你需要带给我的是一件完美的物品,如果它遭受到破坏或者磨损了,记得到最近的技师处把它修好,而且你不允许组装和使用这些武器,如果你回来是我不在,说明我在做生意,很可能一个小时之后就会后来,最后,坐标给你,去普利皮亚找...</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_28">
+		<text>好的,现在挺清楚我说的话：你需要带给我的是一件完美的物品,如果它遭受到破坏或者磨损了,记得到最近的技师处把它修好,而且你不允许组装和使用这些武器,如果你回来是我不在,说明我在做生意,很可能一个小时之后就会后来,最后,坐标给你,去木星找...</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_29">
+		<text>好的,现在挺清楚我说的话：你需要带给我的是一件完美的物品,如果它遭受到破坏或者磨损了,记得到最近的技师处把它修好,而且你不允许组装和使用这些武器,如果你回来是我不在,说明我在做生意,很可能一个小时之后就会后来,最后,坐标给你,去木星找...</text>
+	</string>
+	<string id="shustriy_available_finds_dialog_30">
+		<text>好的,现在挺清楚我说的话：你需要带给我的是一件完美的物品,如果它遭受到破坏或者磨损了,记得到最近的技师处把它修好,而且你不允许组装和使用这些武器,如果你回来是我不在,说明我在做生意,很可能一个小时之后就会后来,最后,坐标给你.</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_1">
+		<text>谢了,给你.</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_2">
+		<text>算了.</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_3">
+		<text>谢了,保重.</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_4">
+		<text>我想多卖点.</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_5">
+		<text>我有些怪物的战利品,你有兴趣吗?</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_6">
+		<text>当然,让我看看你有什么.</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_7">
+		<text>看...</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_8">
+		<text>很好,让我看看</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_9">
+		<text>没问题,让我看看你还有什么.</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_10">
+		<text>史诺克的脚</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_11">
+		<text>地狱犬的尾巴</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_12">
+		<text>吸血怪的触须</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_13">
+		<text>野猪蹄</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_14">
+		<text>盲犬的尾巴</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_15">
+		<text>豚兽的眼睛</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_16">
+		<text>巨型地狱犬的眼睛</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_17">
+		<text>奇美拉的利爪</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_18">
+		<text>脑波怪的手</text>
+	</string>
+	<string id="trapper_booty_trade_dialog_19">
+		<text>狂暴侏儒的手</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_1">
+		<text>没什么.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_2">
+		<text>下一次吧.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_3">
+		<text>谢了.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_4">
+		<text>我来改造探测器.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_5">
+		<text>我知道了,你想要改造哪种?</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_6">
+		<text>我知道了,你想要改造哪种?</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_7">
+		<text>情况怎么样? 你拿到工具了吗?</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_8">
+		<text>还没.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_9">
+		<text>我会一直等着,直到你从工厂里拿到工具,它一等在那里.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_10">
+		<text>明白了</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_11">
+		<text>拿到了.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_12">
+		<text>太好了! 现在让我看看你的探测器.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_13">
+		<text>谢了,下次吧.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_14">
+		<text>也好.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_15">
+		<text>很好！让我看看你有什么.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_16">
+		<text>不幸的是我没有适合的工具,探测器结构可不简单, 需要专用的工具.我可以给你工具大概的坐标,如果你有兴趣.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_17">
+		<text>我同意去,把坐标给我.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_18">
+		<text>好极了！正在上传...好了,去吧！</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_19">
+		<text>晚点见.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_20">
+		<text>我想改进我的探测器.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_21">
+		<text>没问题,我现在有了合适的工具,让我看看你有什么...</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_22">
+		<text>"回声"  探测器 </text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_23">
+		<text>"熊式"  探测器 </text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_24">
+		<text>"维尔斯"  探测器 </text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_25">
+		<text>"火龙"  探测器 </text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_26">
+		<text>"Omega" 探测器</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_27">
+		<text>哈,探测器的改造需要一些材料费,我想2400正合适.要让我继续吗?\nAfter upgrading:\n%c[255,238,153,26]?%c[default]探测半径增加5米.\n%c[255,238,153,26]?%c[default]能够探测到以前无法探测到的神器和变异点.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_28">
+		<text>让我看看,看看...线圈...电容器...电晶体...嗯...少了4500我不做,我们开始吗?</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_29">
+		<text>哇 - 你从哪里搞到这个探测器的?不管怎样,那是你的事,给我8100我就帮你修改.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_30">
+		<text>哈,探测器的改造需要一些材料费,我想7000正合适.要让我继续吗??\nAfter upgrading:\n%c[255,238,153,26]?%c[default]探测半径增加10米.\n%c[255,238,153,26]?%c[default]能够探测到以前无法探测到的神器和变异点.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_31">
+		<text>哈,探测器的改造需要一些材料费,我想7000正合适.要让我继续吗??\nAfter upgrading:\n%c[255,238,153,26]?%c[default]探测半径增加50米.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_32">
+		<text>太贵了.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_33">
+		<text>很好,让我看你选了哪一个,好...非常好,快完成了...上好螺丝就行了...好了,完成了,拿好.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_34">
+		<text>对.</text>
+	</string>
+	<string id="novikov_detectors_modify_dialog_35">
+		<text>不.</text>
+	</string>
+	<string id="bodyguard_equipment_dialog_1">
+		<text>让我看看你的装备.</text>
+	</string>
+	<string id="bodyguard_equipment_dialog_2">
+		<text>检查,很好.</text>
+	</string>
+	<string id="bodyguard_equipment_dialog_3">
+		<text>谢谢你.</text>
+	</string>
+	<string id="bodyguard_equipment_dialog_4">
+		<text>看.</text>
+	</string>
+	<string id="bodyguard_equipment_dialog_5">
+		<text>拿着我的医疗包.</text>
+	</string>
+	<string id="bodyguard_equipment_dialog_6">
+		<text>拿着我的手枪.</text>
+	</string>
+	<string id="bodyguard_equipment_dialog_7">
+		<text>拿着我的步枪.</text>
+	</string>
+	<string id="bodyguard_equipment_dialog_8">
+		<text>没问题,你准备把哪把枪交给我?</text>
+	</string>
+	<string id="bodyguard_equipment_dialog_9">
+		<text>算了,我不能给你任何有用的物品.</text>
+	</string>
+	<string id="bodyguard_equipment_dialog_10">
+		<text>对我真照顾！我真高兴,你要给我哪种医疗包?</text>
+	</string>
+	<string id="bodyguard_equipment_dialog_11">
+		<text>我要留着自己用.</text>
+	</string>
+	<string id="bodyguard_release_dialog_1">
+		<text>你确定吗?</text>
+	</string>
+	<string id="bodyguard_release_dialog_2">
+		<text>是.</text>
+	</string>
+	<string id="bodyguard_release_dialog_3">
+		<text>否.</text>
+	</string>
+	<string id="german_sample_trade_dialog_1">
+		<text>我是为那个未知样本的事情而来的.</text>
+	</string>
+	<string id="german_sample_trade_dialog_2">
+		<text>你找到了?</text>
+	</string>
+	<string id="german_sample_trade_dialog_3">
+		<text>找到了.给你.</text>
+	</string>
+	<string id="german_sample_trade_dialog_4">
+		<text>少校, 你找到了一个与众不同的样本,这正是我要找的.拿着,这是你的报酬.</text>
+	</string>
+	<string id="german_sample_trade_dialog_5">
+		<text>找到了几个.都给你.</text>
+	</string>
+	<string id="german_sample_trade_dialog_6">
+		<text>少校, 你找到了很多神奇的样本,它们正是我苦寻不着的.拿着,这是你的报酬.</text>
+	</string>
+	<string id="employer_dialog_1">
+		<text>欢迎你.想找份工作么?</text>
+	</string>
+	<string id="employer_dialog_2">
+		<text>不.</text>
+	</string>
+	<string id="employer_dialog_3">
+		<text>是的.</text>
+	</string>
+	<string id="employer_dialog_5">
+		<text>太好了.这是我要找的东西的资料.找到他-你就可以拿到报酬.你找到的越快,酬劳就越丰厚.你现在可以走了.</text>
+	</string>
+	<string id="employer_dialog_6">
+		<text>总算找到了.</text>
+	</string>
+	<string id="employer_dialog_7">
+		<text>那么,你找到我需要的东西了么?</text>
+	</string>
+	<string id="employer_dialog_8">
+		<text>还没有.</text>
+	</string>
+	<string id="employer_dialog_9">
+		<text>找到了.</text>
+	</string>
+	<string id="employer_dialog_10">
+		<text>太好了.你可真棒.这是你的报酬,拿着.</text>
+	</string>
+	<string id="employer_dialog_11">
+		<text>谢谢你.</text>
+	</string>
+	<string id="employer_dialog_12">
+		<text>你好.目前没有什么工作.晚点再来.</text>
+	</string>
+	<string id="employer_dialog_13">
+		<text>好的.回见.</text>
+	</string>
+	<string id="employer_dialog_14">
+		<text>目标被消灭了?</text>
+	</string>
+	<string id="employer_dialog_15">
+		<text>很好.这是资料.你越快完成任务酬劳就越丰厚.你可以走了.</text>
+	</string>
+</string_table>

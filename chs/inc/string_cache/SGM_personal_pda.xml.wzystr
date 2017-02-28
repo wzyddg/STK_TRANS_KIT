@@ -1,0 +1,342 @@
+﻿      <string id="st_advices_text">
+		<text>%c[default]小贴士: 
+%c[255,238,153,26]?%c[default] 当你选择使用一件武器的时候,你要注意很多重要的参数, 其中最重要的是武器的伤害值. 以前的潜行者是无法知道武器的具体伤害值的,但现在可以了.如果想知道武器的伤害值的.可以通过 1) 阅读武器说明,从武器的说明中可以看到. 2) 从屏幕的右上角指示器了解. \n
+%c[255,238,153,26]?%c[default] 你在游戏中可能会遇到具备特殊能力的NPC, 他们有很多特殊的技能, 比如说能改进你的武器和防具, 甚至能升级你的神器. 这些NPC还交易以一些特殊的物品, 你在晚上更容易找到他们,你可以从他们那里购买一些特殊的装备. \n
+%c[255,238,153,26]?%c[default] 当你离开营地的时候,记得带上必须的装备, 比如说修理箱, 你可以使用修理箱修理相应的装备,使用过的修理箱需要消耗相应的备用零件. \n
+%c[255,238,153,26]?%c[default] 当你拥有战术手册的时候,记得马上阅读它们.学习书本上的技巧能增加你使用特定武器时造成的伤害. \n
+%c[255,238,153,26]?%c[default] 尝试搜索每一具尸体, 你能从他们身上得到一笔可观的金钱和信息. 而且, 当你搜索特定角色的尸体时,你还能找到存储了私人隐藏点坐标的闪存卡.\n
+                </text>
+      </string>
+      <string id="st_enciclopedia_text">
+		<text>百科全书:</text>
+      </string>
+      <string id="st_mod_pda_tab_statistic">
+		<text>统计数据</text>
+      </string>
+      <string id="st_mod_pda_tab_advices">
+		<text>提示</text>
+      </string>
+      <string id="st_mod_pda_tab_tutorial">
+		<text>百科全书</text>
+      </string>
+      <string id="st_mod_pda_tab_achievements">
+		<text>成就</text>
+      </string>
+      <string id="st_mod_pda_tab_diplomatia">
+		<text>外交关系</text>
+      </string>
+      <string id="st_mod_pda_tab_library">
+		<text>书籍</text>
+      </string>
+      <string id="st_mod_pda_tab_equipments">
+		<text>装备</text>
+      </string>
+      <string id="st_statistic_no_slot_item">
+		<text>这个栏里面没有物品.</text>
+      </string>
+      <string id="st_statistic_actor_health">
+		<text>当前生命</text>
+      </string>
+      <string id="st_statistic_actor_psi">
+		<text>当前精神状态</text>
+      </string>
+      <string id="st_statistic_actor_toxicity">
+		<text>血液中毒素百分比</text>
+      </string>
+      <string id="st_statistic_actor_outfit">
+		<text>防护服状态</text>
+      </string>
+      <string id="st_statistic_actor_helm">
+		<text>头盔状态</text>
+      </string>
+      <string id="st_statistic_actor_slot1_cond">
+		<text>武器状态(装备栏1)</text>
+      </string>
+      <string id="st_statistic_actor_slot2_cond">
+		<text>武器状态(装备栏2)</text>
+      </string>
+      <string id="st_statistic_actor_rank">
+		<text>经验值</text>
+      </string>
+      <string id="st_statistic_weapon_shots">
+		<text>开火次数</text>
+      </string>
+      <string id="st_statistic_head_shots">
+		<text>爆头数</text>
+      </string>
+      <string id="st_statistic_peregito_zatmeniy">
+		<text>经历日蚀次数</text>
+      </string>
+      <string id="st_statistic_naydeno_taynikov">
+		<text>SGM隐藏点已发现</text>
+      </string>
+      <string id="st_statistic_vipolneno_kvestov">
+		<text>SGM任务已完成</text>
+      </string>
+      <string id="st_statistic_polucheno_dostigeniy">
+		<text>SGM成就已解锁</text>
+      </string>
+      <string id="st_statistic_polucheno_medaley">
+		<text>SGM奖牌已获得</text>
+      </string>
+      <string id="st_statistic_gruppirovka">
+		<text>小队</text>
+      </string>
+      <string id="st_statistic_knig_viucheno">
+		<text>战术手册已学习</text>
+      </string>
+      <string id="st_statistic_habara_naydeno">
+		<text>私人隐藏点已发现</text>
+      </string>
+      <string id="st_statistic_sobral_s_trupov">
+		<text>从杀死的生物中获得金钱</text>
+      </string>
+      <string id="st_statistic_ubito_bossov">
+		<text>已杀死指挥官</text>
+      </string>
+      <string id="st_statistic_ispolzoval_gps_provodnikov">
+		<text>使用GPS-conductor次数</text>
+      </string>
+      <string id="st_statistic_dengi_na_deposite">
+		<text>存储在银行的金额</text>
+      </string>
+      <string id="st_statistic_okazano_pomosch_ranenim">
+		<text>帮助受伤潜行者的次数</text>
+      </string>
+      <string id="st_statistic_zarabotano_web_money">
+		<text>电子卢布数量</text>
+      </string>
+      <string id="st_statistic_oformleno_zakazov">
+		<text>订购次数</text>
+      </string>
+      <string id="st_statistic_naydeno_pda_alfa">
+		<text>找到阿尔法指挥官PDA</text>
+      </string>
+      <string id="st_statistic_killed_s_title">
+		<text>%c[110,0,128,64]杀死潜行者:</text>
+      </string>
+      <string id="st_statistic_killed_m_title">
+		<text>%c[110,0,128,64]杀死变异怪物:</text>
+      </string>
+      <string id="st_statistic_killed_s_count">
+		<text>人.</text>
+      </string>
+      <string id="st_statistic_killed_m_count">
+		<text>只.</text>
+      </string>
+      <string id="st_statistic_killed_s_1_name">
+		<text>阿尔法</text>
+      </string>
+      <string id="st_statistic_killed_s_2_name">
+		<text>军人</text>
+      </string>
+      <string id="st_statistic_killed_s_3_name">
+		<text>强盗</text>
+      </string>
+      <string id="st_statistic_killed_s_4_name">
+		<text>纪律团</text>
+      </string>
+      <string id="st_statistic_killed_s_5_name">
+		<text>科学家</text>
+      </string>
+      <string id="st_statistic_killed_s_6_name">
+		<text>自由团</text>
+      </string>
+      <string id="st_statistic_killed_s_7_name">
+		<text>雇佣兵</text>
+      </string>
+      <string id="st_statistic_killed_s_8_name">
+		<text>黑石</text>
+      </string>
+      <string id="st_statistic_killed_s_9_name">
+		<text>潜行者</text>
+      </string>
+      <string id="st_statistic_killed_s_10_name">
+		<text>黎明</text>
+      </string>
+      <string id="st_statistic_killed_s_11_name">
+		<text>叛徒</text>
+      </string>
+      <string id="st_statistic_killed_s_12_name">
+		<text>僵尸</text>
+      </string>
+      <string id="st_statistic_killed_m_1_name">
+		<text>吸血怪</text>
+      </string>
+      <string id="st_statistic_killed_m_2_name">
+		<text>野猪</text>
+      </string>
+      <string id="st_statistic_killed_m_3_name">
+		<text>狂暴侏儒</text>
+      </string>
+      <string id="st_statistic_killed_m_4_name">
+		<text>奇美拉</text>
+      </string>
+      <string id="st_statistic_killed_m_5_name">
+		<text>脑波怪</text>
+      </string>
+      <string id="st_statistic_killed_m_6_name">
+		<text>盲犬</text>
+      </string>
+      <string id="st_statistic_killed_m_7_name">
+		<text>豚兽</text>
+      </string>
+      <string id="st_statistic_killed_m_8_name">
+		<text>巨型地狱犬</text>
+      </string>
+      <string id="st_statistic_killed_m_9_name">
+		<text>吵闹鬼</text>
+      </string>
+      <string id="st_statistic_killed_m_10_name">
+		<text>地狱犬</text>
+      </string>
+      <string id="st_statistic_killed_m_11_name">
+		<text>史诺克</text>
+      </string>
+      <string id="st_statistic_killed_m_12_name">
+		<text>老鼠</text>
+      </string>
+      <string id="st_library_yes_studies">
+		<text>%c[110,0,128,64]已学习</text>
+      </string>
+      <string id="st_library_no_studies">
+		<text>%c[110,128,32,22]未学习</text>
+      </string>
+      <string id="st_achievements_dalee">
+		<text>前进</text>
+      </string>
+      <string id="st_achievements_nazad">
+		<text>返回</text>
+      </string>
+      <string id="st_achievements_status_a">
+		<text>成就状态</text>
+      </string>
+      <string id="st_achievements_status_b_true">
+		<text>%c[110,0,128,64]已解锁</text>
+      </string>
+      <string id="st_achievements_status_b_false">
+		<text>%c[110,200,32,22]未解锁</text>
+      </string>
+      <string id="st_achievements_need_title">
+		<text>需要:</text>
+      </string>
+      <string id="st_achievements_bonus_title">
+		<text>奖励:</text>
+      </string>
+      <string id="st_achievements_name_sniper">
+		<text>«神射手»</text>
+      </string>
+      <string id="st_achievements_need_sniper">
+		<text>爆头数达到300./n杀死指挥官数达到1.</text>
+      </string>
+      <string id="st_achievements_bonus_sniper">
+		<text>提高所有武器20%的伤害.</text>
+      </string>
+      <string id="st_achievements_name_client">
+		<text>«常客»</text>
+      </string>
+      <string id="st_achievements_need_client">
+		<text>从商人处订购货物 - 10.\n等级 - 50.</text>
+      </string>
+      <string id="st_achievements_bonus_client">
+		<text>所有商品的价格都会改变,在晚上更是会降价.</text>
+      </string>
+      <string id="st_achievements_name_pathfinder">
+		<text>«熟练的探索者»</text>
+      </string>
+      <string id="st_achievements_need_pathfinder">
+		<text>发现85个SMG隐藏点.</text>
+      </string>
+      <string id="st_achievements_bonus_pathfinder">
+		<text>当玩家150米以内有隐藏点时,隐藏点就能被发现.</text>
+      </string>
+      <string id="st_achievements_name_guidebook">
+		<text>«变异区向导»</text>
+      </string>
+      <string id="st_achievements_need_guidebook">
+		<text>GPS-传送器使用次数达到12次.</text>
+      </string>
+      <string id="st_achievements_bonus_guidebook">
+		<text>得到高级GPS传送器.</text>
+      </string>
+      <string id="st_achievements_name_marauder">
+		<text>«掠夺者»</text>
+      </string>
+      <string id="st_achievements_need_marauder">
+		<text>从尸体的PDA黑到18000电子货币.</text>
+      </string>
+      <string id="st_achievements_bonus_marauder">
+		<text>你能从尸体上再得到额外40%的金钱.</text>
+      </string>
+      <string id="st_achievements_name_magnate">
+		<text>«电子巨头»</text>
+      </string>
+      <string id="st_achievements_need_magnate">
+		<text>收集到20,000电子卢布.</text>
+      </string>
+      <string id="st_achievements_bonus_magnate">
+		<text>能够更有效的换取电子卢布，二十一点游戏最高赌注上升到2000.</text>
+      </string>
+      <string id="st_achievements_name_assistant">
+		<text>«技师助手»</text>
+      </string>
+      <string id="st_achievements_need_assistant">
+		<text>带给技师超过60个修理零件箱.</text>
+      </string>
+      <string id="st_achievements_bonus_assistant">
+		<text>当你修理和改造装备时能得到技师的打折.</text>
+      </string>
+      <string id="st_achievements_name_lifeguard">
+		<text>«菜鸟天使»</text>
+      </string>
+      <string id="st_achievements_need_lifeguard">
+		<text>帮助受伤的潜行者次数达到8次.</text>
+      </string>
+      <string id="st_achievements_bonus_lifeguard">
+		<text>当你每救一个潜行者,能得到一笔报酬.</text>
+      </string>
+      <string id="st_diplomatia_need_title">
+		<text>需要:</text>
+      </string>
+      <string id="st_diplomatia_community_stalkers">
+		<text>«潜行者»</text>
+      </string>
+      <string id="st_diplomatia_need_stalkers">
+		<text>需要金钱- 25000 RU.</text>
+      </string>
+      <string id="st_diplomatia_community_bandits">
+		<text>«强盗»</text>
+      </string>
+      <string id="st_diplomatia_need_bandits">
+		<text>需要金钱- 28000 RU.</text>
+      </string>
+      <string id="st_diplomatia_community_dolgs">
+		<text>«纪律团»</text>
+      </string>
+      <string id="st_diplomatia_need_dolgs">
+		<text>需要金钱- 30000 RU.</text>
+      </string>
+      <string id="st_diplomatia_community_freedoms">
+		<text>«自由团»</text>
+      </string>
+      <string id="st_diplomatia_need_freedoms">
+		<text>需要金钱- 30000 RU.</text>
+      </string>
+      <string id="st_diplomatia_community_killers">
+		<text>«雇佣兵»</text>
+      </string>
+      <string id="st_diplomatia_need_killers">
+		<text>需要金钱- 35000 RU.</text>
+      </string>
+      <string id="st_diplomatia_community_rasvets">
+		<text>«黎明»</text>
+      </string>
+      <string id="st_diplomatia_need_rasvets">
+		<text>需要金钱- 10000 RU.</text>
+      </string>
+      <string id="st_agreement_check_friend_hint">
+		<text>打破和平约定.</text>
+      </string>
+      <string id="st_agreement_check_enemy_hint">
+		<text>结束战争.</text>
+      </string>
