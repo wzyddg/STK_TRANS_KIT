@@ -1,0 +1,129 @@
+	<string id="st_about_agroprom_underground_danger_text">
+		<text>'警告:危险区'</text>
+	</string>
+	<string id="st_about_unique_treasure_offline_text">
+		<text>通行卡不能在这启用.</text>
+	</string>
+	<string id="st_about_critical_toxicity_text">
+		<text>发现血液中毒素的临界含量.需要服用药物Psi复合剂或访问医生.</text>
+	</string>
+	<string id="st_about_critical_pstor_text">
+		<text>警告！致命错误发生.你的存档已经损坏,无法继续游戏.青葱早些时候的存档继续.</text>
+	</string>
+	<string id="st_about_remote_limit_text">
+		<text>不能放置四个炸药包,因为遥控器不能控制这么多炸药包同时引爆.</text>
+	</string>
+	<string id="st_about_actor_is_sleep_text">
+		<text>现在不能睡觉,你已经睡过了.</text>
+	</string>
+	<string id="st_about_actor_no_sleep_text">
+		<text>现在不能睡觉,因为你还不累,睡眠时间: 从  21:00 到 6:00</text>
+	</string>
+	<string id="st_about_dont_sleep_place_text">
+		<text>不能在这里过夜,这个地方太危险了.要找个好点的地方睡觉.</text>
+	</string>
+	<string id="st_about_utilizator_box_text">
+		<text>你看到了回收箱没.你可以把你不要的东西放进去,有的潜行者会去看看里面的东西.如果他们看上了里面的东西,他们会拿走然后把钱放在里面.</text>
+	</string>
+	<string id="st_about_mechanic_stripping_text">
+		<text>要增加维修零件,你需要把武器,装甲,或者神器放在里面然后找技师对话.物体的耐久没有太大影响,不过如果你放进去的物品的耐久超过90%技师会得到更多的零件.</text>
+	</string>
+	<string id="st_about_guidebook_no_use_text">
+		<text>GPS-在这个区域里面不能使用.</text>
+	</string>
+	<string id="st_about_capture_meal_used_text">
+		<text>你已经用过X8P25了.</text>
+	</string>
+	<string id="st_storyline_no_heli_key_text">
+		<text>电子线路损坏 - 门失去控制.我需要钥匙.</text>
+	</string>
+	<string id="st_jup_night_runner_armor_text">
+		<text>这杂种穿着防弹衣,靠近点.</text>
+	</string>
+	<string id="st_pri_monolith_use_temple_text">
+		<text>和黑石说话 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_inventory_box_is_locked">
+		<text>箱子锁着.</text>
+	</string>
+	<string id="st_taynik_check_descr">
+		<text>检查箱子 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_taynik_check2_descr">
+		<text>搜索 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_taynik_installed_descr">
+		<text>箱子装好了</text>
+	</string>
+	<string id="st_take_retranslator">
+		<text>拿起信号传输器 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_retranslator_is_heavy">
+		<text>信号传输器太重了</text>
+	</string>
+	<string id="st_safe_check_descr">
+		<text>检查保险箱 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_safe_is_locked_need_key">
+		<text>保险箱锁着,需要钥匙.</text>
+	</string>
+	<string id="st_setup_bomb_descr">
+		<text>放置炸药包 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_kran_press_descr">
+		<text>调整数值 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_utilizator_box_check_descr">
+		<text>检查回收箱 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_mechanic_box_check_descr">
+		<text>检查技师箱子 ($$ACTION_USE$$)</text>
+	</string>
+        <string id="st_shron_check_descr">
+		<text>检查储物箱($$ACTION_USE$$)</text>
+	</string>
+        <string id="st_shron_installed_descr">
+		<text>储物箱放下</text>
+	</string>
+	<string id="st_hiding_check_descr">
+		<text>检查藏物</text>
+	</string>
+	<string id="st_use_chicken_rabua">
+		<text>使用小鸡</text>
+	</string>
+	<string id="val_lucas_quest_antenner_tips">
+		<text>冻结信号 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_a6_azot_quest_cheked">
+		<text>解锁电子模块</text>
+	</string>
+	<string id="st_ph_universal_default">
+		<text>使用</text>
+	</string>
+	<string id="st_set_radio_on">
+		<text>开启收音机</text>
+	</string>
+	<string id="st_set_radio_off">
+		<text>关闭收音机</text>
+	</string>
+	<string id="st_esc_trader_door_tip">
+		<text>尝试F打开门</text>
+	</string>
+	<string id="st_examine_object_tip">
+		<text>检查 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_render_innocuous_tip">
+		<text>消除 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_explosive_object_activate_tip">
+		<text>在物品栏双击引爆</text>
+	</string>
+	<string id="st_script_object_code_tip">
+		<text>输入密码</text>
+	</string>
+	<string id="st_treasure_object_use_tip">
+		<text>检查藏物</text>
+	</string>
+	<string id="st_treasure_object_code_tip">
+		<text>输入密码</text>
+	</string>

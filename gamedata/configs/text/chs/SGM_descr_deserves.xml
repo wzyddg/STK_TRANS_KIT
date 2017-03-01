@@ -1,0 +1,540 @@
+      <string id="st_bandit_kastet_case_title">
+		<text>'铜指虎的闪存驱动器'</text>
+	</string>
+      <string id="st_bandit_kastet_case_descr">
+		<text>装着的个人藏物点信息的闪存驱动器.-铜指虎</text>
+	</string>
+      <string id="st_bandit_kastet_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 铜指虎的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_bandit_kastet_unpack_descr">
+		<text>%c[255,238,153,26] 铜指虎的财产 \n %c[default] 来自闪存驱动器的信息:CPR西南方.</text>
+	</string>
+      <string id="st_bandit_port_leader_case_title">
+		<text>'无名枪手的闪存驱动器'</text>
+	</string>
+      <string id="st_bandit_port_leader_case_descr">
+		<text>装着无名枪手的个人藏物点信息的闪存驱动器.-无名枪手</text>
+	</string>
+      <string id="st_bandit_port_leader_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 无名枪手的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_bandit_port_leader_unpack_descr">
+		<text>%c[255,238,153,26] 无名枪手的财产 \n %c[default] 来自闪存驱动器的信息:烧毁农场中间.</text>
+	</string>
+      <string id="st_bandit_chapaev_case_title">
+		<text>'恰帕耶夫的闪存驱动器'</text>
+	</string>
+      <string id="st_bandit_chapaev_case_descr">
+		<text>装着强盗教父的个人藏物点信息的闪存驱动器.-恰帕耶夫.</text>
+	</string>
+      <string id="st_bandit_chapaev_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 恰帕耶夫的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_bandit_chapaev_unpack_descr">
+		<text>%c[255,238,153,26] 恰帕耶夫的财产 \n %c[default] 来自闪存驱动器的信息:港口起重机的箱子.</text>
+	</string>
+      <string id="st_bandit_valet_case_title">
+		<text>'钻石的闪存驱动器'</text>
+	</string>
+      <string id="st_bandit_valet_case_descr">
+		<text>装着钻石的个人藏物点信息的闪存驱动器.-钻石</text>
+	</string>
+      <string id="st_bandit_valet_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 钻石的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_bandit_valet_unpack_descr">
+		<text>%c[255,238,153,26] 钻石的财产 \n %c[default] 来自闪存驱动器的信息:靠近亚诺夫车站的树丛里.</text>
+	</string>
+      <string id="st_bandit_shishak_case_title">
+		<text>'什沙克的闪存驱动器'</text>
+	</string>
+      <string id="st_bandit_shishak_case_descr">
+		<text>装着的什沙克个人藏物点信息的闪存驱动器.-什沙克</text>
+	</string>
+      <string id="st_bandit_shishak_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 什沙克的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_bandit_shishak_unpack_descr">
+		<text>%c[255,238,153,26] 什沙克的财产 \n %c[default] 来自闪存驱动器的信息:管道.</text>
+	</string>
+      <string id="st_bandit_gnom_case_title">
+		<text>'侏儒的闪存驱动器'</text>
+	</string>
+      <string id="st_bandit_gnom_case_descr">
+		<text>装着我的个人藏物点的闪存驱动器.-侏儒</text>
+	</string>
+      <string id="st_bandit_gnom_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 侏儒的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_bandit_gnom_unpack_descr">
+		<text>%c[255,238,153,26] 侏儒的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
+	</string>
+      <string id="st_stalker_barga_case_title">
+		<text>'巴基斯的闪存驱动器'</text>
+	</string>
+      <string id="st_stalker_barga_case_descr">
+		<text>装着巴基斯的个人藏物点信息的闪存驱动器.-巴基斯</text>
+	</string>
+      <string id="st_stalker_barga_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 巴基斯的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_stalker_barga_unpack_descr">
+		<text>%c[255,238,153,26] 巴基斯的财产 \n %c[default] 来自闪存驱动器的信息:桥下靠近中间的某处.</text>
+	</string>
+      <string id="st_stalker_noy_case_title">
+		<text>'诺亚的闪存驱动器'</text>
+	</string>
+      <string id="st_stalker_noy_case_descr">
+		<text>装着疯子的个人藏物点信息的闪存驱动器.-诺亚</text>
+	</string>
+      <string id="st_stalker_noy_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 诺亚的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_stalker_noy_unpack_descr">
+		<text>%c[255,238,153,26] 诺亚的财产 \n %c[default] 来自闪存驱动器的信息:火焰变异点东北边.</text>
+	</string>
+      <string id="st_stalker_petruha_case_title">
+		<text>'佩楚卡的闪存驱动器'</text>
+	</string>
+      <string id="st_stalker_petruha_case_descr">
+		<text>装着ATP之战英雄的个人藏物点信息的闪存驱动器.-佩楚卡</text>
+	</string>
+      <string id="st_stalker_petruha_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 佩楚卡的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_stalker_petruha_unpack_descr">
+		<text>%c[255,238,153,26] 佩楚卡的财产 \n %c[default] 来自闪存驱动器的信息:毁坏的村庄的中间.</text>
+	</string>
+      <string id="st_stalker_spartak_case_title">
+		<text>'斯巴达克斯的闪存驱动器'</text>
+	</string>
+      <string id="st_stalker_spartak_case_descr">
+		<text>装着指挥官的个人藏物点信息的闪存驱动器.-斯巴达克斯</text>
+	</string>
+      <string id="st_stalker_spartak_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 斯巴达克斯的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_stalker_spartak_unpack_descr">
+		<text>%c[255,238,153,26] 斯巴达克斯的财产 \n %c[default] 来自闪存驱动器的信息:流水线上.</text>
+	</string>
+      <string id="st_stalker_mayron_case_title">
+		<text>'米隆的闪存驱动器'</text>
+	</string>
+      <string id="st_stalker_mayron_case_descr">
+		<text>装着米隆的个人藏物点信息的闪存驱动器.-米隆</text>
+	</string>
+      <string id="st_stalker_mayron_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 米隆的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_stalker_mayron_unpack_descr">
+		<text>%c[255,238,153,26] 米隆的财产 \n %c[default] 来自闪存驱动器的信息:西变电室.</text>
+	</string>
+      <string id="st_stalker_crab_case_title">
+		<text>'螃蟹的闪存驱动器'</text>
+	</string>
+      <string id="st_stalker_crab_case_descr">
+		<text>装着螃蟹的个人藏物点信息的闪存驱动器.-螃蟹</text>
+	</string>
+      <string id="st_stalker_crab_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 螃蟹的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_stalker_crab_unpack_descr">
+		<text>%c[255,238,153,26] 螃蟹的财产 \n %c[default] 来自闪存驱动器的信息:佣兵基地南边.</text>
+	</string>
+      <string id="st_stalker_gluhar_case_title">
+		<text>'松鸡的闪存驱动器'</text>
+	</string>
+      <string id="st_stalker_gluhar_case_descr">
+		<text>装着勇者的个人藏物点信息的闪存驱动器.-松鸡</text>
+	</string>
+      <string id="st_stalker_gluhar_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 松鸡的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_stalker_gluhar_unpack_descr">
+		<text>%c[255,238,153,26] 松鸡的财产 \n %c[default] 来自闪存驱动器的信息:破烂停车场的南边.</text>
+	</string>
+      <string id="st_stalker_commander_case_title">
+		<text>'指挥官的闪存驱动器'</text>
+	</string>
+      <string id="st_stalker_commander_case_descr">
+		<text>装着指挥官的个人藏物点信息的闪存驱动器.-指挥官</text>
+	</string>
+      <string id="st_stalker_commander_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 指挥官的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_stalker_commander_unpack_descr">
+		<text>%c[255,238,153,26] 指挥官的财产 \n %c[default] 来自闪存驱动器的信息:在某处中心.</text>
+	</string>
+      <string id="st_stalker_vano_case_title">
+		<text>'瓦诺的闪存驱动器'</text>
+	</string>
+      <string id="st_stalker_vano_case_descr">
+		<text>装着美食鉴赏家的个人藏物点信息的闪存驱动器.-瓦诺</text>
+	</string>
+      <string id="st_stalker_vano_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 瓦诺的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_stalker_vano_unpack_descr">
+		<text>%c[, 255 238,153,26] 瓦诺的财产 \n %c[default] 来自闪存驱动器的信息:藏在变异点里,不好拿.</text>
+	</string>
+      <string id="st_stalker_zulus_case_title">
+		<text>'祖鲁的闪存驱动器'</text>
+	</string>
+      <string id="st_stalker_zulus_case_descr">
+		<text>装着传奇潜行者的个人藏物点信息的闪存驱动器.-祖鲁</text>
+	</string>
+      <string id="st_stalker_zulus_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 祖鲁的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_stalker_zulus_unpack_descr">
+		<text>%c[255,238,153,26] 祖鲁的财产 \n %c[default] 来自闪存驱动器的信息:老建筑的东南边.</text>
+	</string>
+      <string id="st_stalker_koriaga_case_title">
+		<text>'斯纳戈的闪存驱动器'</text>
+	</string>
+      <string id="st_stalker_koriaga_case_descr">
+		<text>装着斯纳戈的个人藏物点信息的闪存驱动器.-斯纳戈</text>
+	</string>
+      <string id="st_stalker_koriaga_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 斯纳戈的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_stalker_koriaga_unpack_descr">
+		<text>%c[255,238,153,26] 斯纳戈的财产 \n %c[default] 来自闪存驱动器的信息:CPR,一楼.</text>
+	</string>
+      <string id="st_stalker_elbrus_case_title">
+		<text>'厄尔布鲁士的闪存驱动器'</text>
+	</string>
+      <string id="st_stalker_elbrus_case_descr">
+		<text>装着河湾英雄的个人藏物点信息的闪存驱动器.-厄尔布鲁士</text>
+	</string>
+      <string id="st_stalker_elbrus_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 厄尔布鲁士的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_stalker_elbrus_unpack_descr">
+		<text>%c[255,238,153,26] 厄尔布鲁士的财产 \n %c[default] 来自闪存驱动器的信息:变电站的工作室内.</text>
+	</string>
+      <string id="st_stalker_vobla_case_title">
+		<text>'蟑螂的闪存驱动器'</text>
+	</string>
+      <string id="st_stalker_vobla_case_descr">
+		<text>装着傲慢的混蛋的个人藏物点信息的闪存驱动器.-蟑螂</text>
+	</string>
+      <string id="st_stalker_vobla_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 蟑螂的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_stalker_vobla_unpack_descr">
+		<text>%c[255,238,153,26] 蟑螂的财产 \n %c[default] 来自闪存驱动器的信息:UAZ的变电站车间里.</text>
+	</string>
+      <string id="st_freedom_gaiduk_case_title">
+		<text>'海杜克的闪存驱动器'</text>
+	</string>
+      <string id="st_freedom_gaiduk_case_descr">
+		<text>装着自由团领导人塞米的个人藏物点信息的闪存驱动器.-海杜克.</text>
+	</string>
+      <string id="st_freedom_gaiduk_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 海杜克的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_freedom_gaiduk_unpack_descr">
+		<text>%c[255,238,153,26] 海杜克的财产 \n %c[default] 来自闪存驱动器的信息:水泥厂房顶.</text>
+	</string>
+      <string id="st_duty_kanevskiy_case_title">
+		<text>'卡涅夫的闪存驱动器'</text>
+	</string>
+      <string id="st_duty_kanevskiy_case_descr">
+		<text>装着卡涅夫的个人藏物点信息的闪存驱动器.-卡涅夫</text>
+	</string>
+      <string id="st_duty_kanevskiy_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 卡涅夫的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_duty_kanevskiy_unpack_descr">
+		<text>%c[255,238,153,26] 卡涅夫的财产 \n %c[default] 来自闪存驱动器的信息:锯子.</text>
+	</string>
+      <string id="st_dolg_morgan_case_title">
+		<text>'摩根的闪存驱动器'</text>
+	</string>
+      <string id="st_dolg_morgan_case_descr">
+		<text>装着摩根的个人藏物点信息的闪存驱动器.-摩根.</text>
+	</string>
+      <string id="st_dolg_morgan_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 摩根的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_dolg_morgan_unpack_descr">
+		<text>%c[255,238,153,26] 摩根的财产 \n %c[default] 来自闪存驱动器的信息:靠近直升飞机的中央部位.</text>
+	</string>
+      <string id="st_killer_kruk_case_title">
+		<text>'钩子的闪存驱动器'</text>
+	</string>
+      <string id="st_killer_kruk_case_descr">
+		<text>装着钩子的个人藏物点信息的闪存驱动器.-钩子</text>
+	</string>
+      <string id="st_killer_kruk_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 钩子的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_killer_kruk_unpack_descr">
+		<text>%c[255,238,153,26] 钩子的财产 \n %c[default] 来自闪存驱动器的信息:指南周围,西南方.</text>
+	</string>
+      <string id="st_killer_tesak_case_title">
+		<text>'特沙科瓦的闪存驱动器'</text>
+	</string>
+      <string id="st_killer_tesak_case_descr">
+		<text>装着佣兵指挥官的个人藏物点信息的闪存驱动器.-特沙科瓦</text>
+	</string>
+      <string id="st_killer_tesak_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 特沙科瓦的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_killer_tesak_unpack_descr">
+		<text>%c[255,238,153,26] 特沙科瓦的财产 \n %c[default] 来自闪存驱动器的信息:挖泥船西北方.</text>
+	</string>
+      <string id="st_killer_grif_case_title">
+		<text>'秃鹰的闪存驱动器'</text>
+	</string>
+      <string id="st_killer_grif_case_descr">
+		<text>装着秃鹰的个人藏物点信息的闪存驱动器.-秃鹰</text>
+	</string>
+      <string id="st_killer_grif_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 秃鹰的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_killer_grif_unpack_descr">
+		<text>%c[255,238,153,26] 秃鹰的财产 \n %c[default] 来自闪存驱动器的信息:变异点附近的树丛.</text>
+	</string>
+      <string id="st_killer_cherep_case_title">
+		<text>'骷髅的闪存驱动器'骷髅</text>
+	</string>
+      <string id="st_killer_cherep_case_descr">
+		<text>装着骷髅的个人藏物点信息的闪存驱动器.-骷髅</text>
+	</string>
+      <string id="st_killer_cherep_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 骷髅的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_killer_cherep_unpack_descr">
+		<text>%c[255,238,153,26] 骷髅的财产 \n %c[default] 来自闪存驱动器的信息:被闪电变异点包围.</text>
+	</string>
+      <string id="st_killer_molfar_case_title">
+		<text>'莫法拉的闪存驱动器'</text>
+	</string>
+      <string id="st_killer_molfar_case_descr">
+		<text>装着佣兵队长的个人藏物点信息的闪存驱动器.-莫法拉</text>
+	</string>
+      <string id="st_killer_molfar_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 莫法拉的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_killer_molfar_unpack_descr">
+		<text>%c[255,238,153,26] 莫法拉的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
+	</string>
+      <string id="st_army_smoliak_case_title">
+		<text>'斯莫亚克的闪存驱动器'</text>
+	</string>
+      <string id="st_army_smoliak_case_descr">
+		<text>装着中尉的个人藏物点信息的闪存驱动器.-斯莫亚克</text>
+	</string>
+      <string id="st_army_smoliak_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 斯莫亚克的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_army_smoliak_unpack_descr">
+		<text>%c[255,238,153,26]斯莫亚克的财产 \n %c[default] 来自闪存驱动器的信息:东南方,加工厂.</text>
+	</string>
+      <string id="st_monolit_brodiaga_case_title">
+		<text>'滚石的闪存驱动器'</text>
+	</string>
+      <string id="st_monolit_brodiaga_case_descr">
+		<text>装着前黑石成员的个人藏物点信息的闪存驱动器.-滚石</text>
+	</string>
+      <string id="st_monolit_brodiaga_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 滚石的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_monolit_brodiaga_unpack_descr">
+		<text>%c[255,238,153,26] 滚石的财产 \n %c[default] 来自闪存驱动器的信息:东部区域.</text>
+	</string>
+      <string id="st_monolit_kiborg_case_title">
+		<text>'机器人的闪存驱动器'</text>
+	</string>
+      <string id="st_monolit_kiborg_case_descr">
+		<text>装着黑石指挥官的个人藏物点信息的闪存驱动器.-机器人</text>
+	</string>
+      <string id="st_monolit_kiborg_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 机器人的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_monolit_kiborg_unpack_descr">
+		<text>%c[255,238,153,26] 机器人的财产 \n %c[default] 来自闪存驱动器的信息:港口的上层.</text>
+	</string>
+      <string id="st_monolit_voland_case_title">
+		<text>'沃兰的闪存驱动器'</text>
+	</string>
+      <string id="st_monolit_voland_case_descr">
+		<text>装着黑石派系领导人的个人藏物点信息的闪存驱动器.-沃兰</text>
+	</string>
+      <string id="st_monolit_voland_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 沃兰的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_monolit_voland_unpack_descr">
+		<text>%c[255,238,153,26] 沃兰的财产 \n %c[default] 来自闪存驱动器的信息:医院的桌面上.</text>
+	</string>
+      <string id="st_rasvet_nazar_case_title">
+		<text>'纳扎尔的闪存驱动器'</text>
+	</string>
+      <string id="st_rasvet_nazar_case_descr">
+		<text>装着黎明组织的个人藏物点信息的闪存驱动器.-纳扎尔</text>
+	</string>
+      <string id="st_rasvet_nazar_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 纳扎尔的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_rasvet_nazar_unpack_descr">
+		<text>%c[255,238,153,26] 纳扎尔的财产 \n %c[default] 来自闪存驱动器的信息:东部仓库.</text>
+	</string>
+      <string id="st_monolith_inquisitor_case_title">
+		<text>'砂锅的闪存驱动器'</text>
+	</string>
+      <string id="st_monolith_inquisitor_case_descr">
+		<text>装着黑石大主教的个人藏物点信息的闪存驱动器.-砂锅</text>
+	</string>
+      <string id="st_monolith_inquisitor_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 砂锅的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_monolith_inquisitor_unpack_descr">
+		<text>%c[255,238,153,26] 砂锅的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
+	</string>
+      <string id="st_killer_revizor_case_title">
+		<text>'判官的闪存驱动器'</text>
+	</string>
+      <string id="st_killer_revizor_case_descr">
+		<text>装着判官的个人藏物点信息的闪存驱动器.-判官</text>
+	</string>
+      <string id="st_killer_revizor_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 判官的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_killer_revizor_unpack_descr">
+		<text>%c[255,238,153,26] 判官的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
+	</string>
+      <string id="st_killer_warlord_case_title">
+		<text>'军阀的闪存驱动器'</text>
+	</string>
+      <string id="st_killer_warlord_case_descr">
+		<text>装着佣兵的个人藏物点信息的闪存驱动器.-军阀</text>
+	</string>
+      <string id="st_killer_warlord_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 军阀的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_killer_warlord_unpack_descr">
+		<text>%c[255,238,153,26] 军阀的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
+	</string>
+      <string id="st_mercenary_suvorov_case_title">
+		<text>'苏沃洛夫队长的闪存驱动器'</text>
+	</string>
+      <string id="st_mercenary_suvorov_case_descr">
+		<text>装着佣兵指挥官的个人藏物点信息的闪存驱动器.-苏沃洛夫队长</text>
+	</string>
+      <string id="st_mercenary_suvorov_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 苏沃洛夫队长的财产  %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_mercenary_suvorov_unpack_descr">
+		<text>%c[255,238,153,26] 苏沃洛夫队长的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
+	</string>
+      <string id="st_mercenary_tverdohlebov_case_title">
+		<text>'特沃多列波瓦少校的闪存驱动器'</text>
+	</string>
+      <string id="st_mercenary_tverdohlebov_case_descr">
+		<text>装着佣兵指挥官的个人藏物点信息的闪存驱动器.-特沃多列波瓦少校</text>
+	</string>
+      <string id="st_mercenary_tverdohlebov_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 特沃多列波瓦少校的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_mercenary_tverdohlebov_unpack_descr">
+		<text>%c[255,238,153,26] 特沃多列波瓦少校的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
+	</string>
+      <string id="st_bandit_bulava_case_title">
+		<text>'梅斯的闪存驱动器'</text>
+	</string>
+      <string id="st_bandit_bulava_case_descr">
+		<text>装着梅斯的个人藏物点信息的闪存驱动器.-梅斯</text>
+	</string>
+      <string id="st_bandit_bulava_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 梅斯的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_bandit_bulava_unpack_descr">
+		<text>%c[255,238,153,26] 梅斯的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
+	</string>
+      <string id="st_bandit_rogach_case_title">
+		<text>'洛迦克的闪存驱动器'</text>
+	</string>
+      <string id="st_bandit_rogach_case_descr">
+		<text>装着洛迦克的个人藏物点信息的闪存驱动器.-洛迦克</text>
+	</string>
+      <string id="st_bandit_rogach_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 洛迦克的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_bandit_rogach_unpack_descr">
+		<text>%c[255,238,153,26] 洛迦克的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
+	</string>
+      <string id="st_bandit_mazay_case_title">
+		<text>'莫扎亚的闪存驱动器'</text>
+	</string>
+      <string id="st_bandit_mazay_case_descr">
+		<text>装着莫扎亚的个人藏物点信息的闪存驱动器.-莫扎亚.</text>
+	</string>
+      <string id="st_bandit_mazay_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 莫扎亚的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_bandit_mazay_unpack_descr">
+		<text>%c[255,238,153,26] 莫扎亚的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
+	</string>
+      <string id="st_bandit_dinozavr_case_title">
+		<text>'恐龙的闪存驱动器'</text>
+	</string>
+      <string id="st_bandit_dinozavr_case_descr">
+		<text>装着恐龙的个人藏物点信息的闪存驱动器.-恐龙</text>
+	</string>
+      <string id="st_bandit_dinozavr_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 恐龙的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_bandit_dinozavr_unpack_descr">
+		<text>%c[255,238,153,26] 恐龙的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
+	</string>
+      <string id="st_stalker_magomet_case_title">
+		<text>'穆罕默德的闪存驱动器'</text>
+	</string>
+      <string id="st_stalker_magomet_case_descr">
+		<text>装着自由潜行者的个人藏物点信息的闪存驱动器.-穆罕默德</text>
+	</string>
+      <string id="st_stalker_magomet_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 穆罕默德的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_stalker_magomet_unpack_descr">
+		<text>%c[255,238,153,26] 穆罕默德的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
+	</string>
+      <string id="st_stalker_tamerlan_case_title">
+		<text>'铁木尔的闪存驱动器'</text>
+	</string>
+      <string id="st_stalker_tamerlan_case_descr">
+		<text>装着潜行者的个人藏物点信息的闪存驱动器.-铁木尔</text>
+	</string>
+      <string id="st_stalker_tamerlan_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 铁木尔的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_stalker_tamerlan_unpack_descr">
+		<text>%c[255,238,153,26] 铁木尔的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
+	</string>
+      <string id="st_bandit_karas_case_title">
+		<text>'卡普的闪存驱动器'</text>
+	</string>
+      <string id="st_bandit_karas_case_descr">
+		<text>装着卡普的个人藏物点信息的闪存驱动器.-卡普</text>
+	</string>
+      <string id="st_bandit_karas_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 卡普的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_bandit_karas_unpack_descr">
+		<text>%c[255,238,153,26] 卡普的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
+	</string>
+      <string id="st_bandit_kaschey_case_title">
+		<text>'卡斯钦的闪存驱动器'</text>
+	</string>
+      <string id="st_bandit_kaschey_case_descr">
+		<text>装着卡斯钦的个人藏物点信息的闪存驱动器.-卡斯钦</text>
+	</string>
+      <string id="st_bandit_kaschey_unpack_title">
+		<text>%c[110,128,128,255] ' %c[110,200,128,0] 卡斯钦的财产 %c[110,128,128,255]'</text>
+	</string>
+      <string id="st_bandit_kaschey_unpack_descr">
+		<text>%c[255,238,153,26] 卡斯钦的财产 \n %c[default] 来自闪存驱动器的信息:无.</text>
+	</string>

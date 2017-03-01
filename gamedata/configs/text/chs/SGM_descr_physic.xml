@@ -1,0 +1,18 @@
+        <string id="st_demolution_barrel_name">
+		<text>燃料桶</text>
+	</string>
+        <string id="st_demolution_kanistra_name">
+		<text>燃料罐</text>
+	</string>
+        <string id="st_demolution_ballon_name">
+		<text>燃气瓶 </text>
+	</string>
+        <string id="st_demolution_barrel_descr">
+		<text>一桶燃料,航空煤油.</text>
+	</string>
+        <string id="st_demolution_kanistra_descr">
+		<text>一公升未知类型的燃料.闻起来像柴油.</text>
+	</string>
+        <string id="st_demolution_ballon_descr">
+		<text>一个装有未知气体空泡.还没有打开,所以属性未知.</text>
+	</string>
