@@ -43,7 +43,7 @@ public class MainTrans {
 	static ArrayList<String> keyList = new ArrayList<String>();
 	static public String yandexKey = "";
 	static int errorSleepMilliSecond = 2000;
-	static boolean verbose = true; 
+	static boolean verbose = false; 
 	static HashMap<String, String> existingSentence = new HashMap<>();
 
 	public static void main(String[] args) throws Exception {
@@ -201,25 +201,9 @@ public class MainTrans {
 		}
 		verbose("ori:"+oriSentence.size());
 		verbose("exi:"+existingSentence.size());
-//		for (String string : existingSentence.keySet()) {
-//			oriSentence.remove(string);
-//		}
-		
-		
-		
-		
-		
-		for (String string : oriSentence.keySet()) {
-			existingSentence.remove(string);
+		for (String string : existingSentence.keySet()) {
+			oriSentence.remove(string);
 		}
-		oriSentence = existingSentence;
-		
-		
-		
-		
-		
-		
-		
 		verbose(""+oriSentence.size());
 		String resString = "";
 		LinkedList<String> keys = new LinkedList<>();
