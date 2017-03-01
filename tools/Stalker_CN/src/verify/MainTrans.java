@@ -33,13 +33,12 @@ import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
 public class MainTrans {
-	static int lackFileNum = 0;
-	// static String localDirSeparater ="\\";
-	static String localDirSeparater = "/";
+	static String localDirSeparater = File.separator;
 	static long currentTimeMillis = System.currentTimeMillis();
-	static String transAPI = "baidu";
-	static String oriLang = "auto";
-	static int sleepMilliSecond = 0;
+	static String transAPI = "bingn";
+	static String oriLang = "ru";
+	static String targetLang = "zh";
+	static int sleepMilliSecond = 100;
 	static ArrayList<String> keyList = new ArrayList<String>();
 	static public String yandexKey = "";
 	static int errorSleepMilliSecond = 2000;
@@ -47,82 +46,196 @@ public class MainTrans {
 	static HashMap<String, String> existingSentence = new HashMap<>();
 
 	public static void main(String[] args) throws Exception {
-		if (args.length > 0) {
-			transAPI = args[0].substring(1).toLowerCase();
-		}
-		if (args.length > 1) {
-			int sleep = 0;
-			try {
-				sleep = Integer.parseInt(args[1].substring(1));
-			} catch (Exception e) {
-				// TODO Auto-generated catch block
-				sleep = 300;
-			}
-			sleepMilliSecond = sleep;
-		}
 		Class.forName("com.lsj.trans.BaiduDispatch");
 		Class.forName("com.lsj.trans.GoogleDispatch");
 		Class.forName("com.lsj.trans.YandexDispatch");
 		Class.forName("com.lsj.trans.BingNeuralDispatch");
-
-		// System.out.println(Dispatch.Instance("Yandex").Trans("ru", "zh",
-		// "Внатуре, спасибо тебе, братан. Короче, приходил сюда один такой
-		// сталкер, ну... мы с ним ничего не делали, честно. Он спустился к нам
-		// на базу к трубам вниз, так тут откуда-то кровосос взялся, да напал на
-		// наших людей, уволок двоих туда в логово двоих, включая его. Братана
-		// моего покоцало, я его сюда вытащил, кровь никак не остановить. Если
-		// ищешь его, спускайся вниз, только будь осторожен, опасайся той
-		// твари."));
-		// TODO Auto-generated method stub
-		// File rusDir = new File("D:\\AZMtext\\gameplay");
-		String existingFolderAddress = "C:\\Users\\i335877\\Desktop\\SGM2.2_LostSoul_CNPack_Complete\\chs\\not_used_now";
-		String oriAddress = "C:\\Users\\i335877\\Desktop\\SGM2.2_LostSoul_CNPack_Complete\\rus";
-		String chsAddress = "D:\\SGM2.2_LostSoul_CNPack_Complete\\chs";
-		File chsDir = new File(chsAddress);
-		File oriDir = new File(oriAddress);
-		mapExistingFile(existingFolderAddress);
-		existingFolderAddress = "C:\\Users\\i335877\\Desktop\\SGM2.2_LostSoul_CNPack_Complete\\chs\\inc";
-		mapExistingFile(existingFolderAddress);
-		existingFolderAddress = "C:\\Users\\i335877\\Desktop\\SGM2.2_LostSoul_CNPack_Complete\\chs";
-		mapExistingFile(existingFolderAddress);
-		// File chsDir = new
-		// File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
-		ArrayList<String> finishedFiles = new ArrayList<String>();
-		File transedDir = new File(oriDir.getPath() + localDirSeparater + "translated_" + transAPI);
-		if (transedDir.exists()) {
-			File[] transed = transedDir.listFiles();
-			for (int i = 0; i < transed.length; i++) {
-				finishedFiles.add(transed[i].getName());
-			}
-		}
-
-		String filesString = "";
 		
-		File[] oriXMLs = oriDir.listFiles();
-		for (int i = 0; i < oriXMLs.length; i++) {
-			if (oriXMLs[i].isFile() && !finishedFiles.contains(oriXMLs[i].getName())) {
-				// File chs = new File(chsDir.getPath() + localDirSeparater +
-				// rusXMLs[i].getName());
-				// System.out.println(chs.getName()+" : ");
-				// if (keyToKey(chs, rusXMLs[i])) {
-				// return;
-				// }
-				// Thread.sleep(100);
-//				translateTextFile(oriXMLs[i]);
-			}
-			if (oriXMLs[i].isFile())
-				filesString = filesString+oriXMLs[i].getName().split("[. ]")[0]+", ";
+		String oriAddress = "";
+		File oriDir = null;
+		
+		if (args.length == 0) {
+			printHelp();
 		}
-//		System.out.println(filesString);
-		generateLackSentenceFile(oriAddress);
-//		generateLackSentenceFile("D:\\HoMtext\\rus");
-		System.out.println("lackFileNum:" + lackFileNum);
+		if (args[0].equals("-transT")) {
+//			-transT api orilang targlang oridir [exdir [sleep [verb]]]
+			if (args.length<5) {
+				System.err.println("too few parameters. use -h to see help.");
+				return;
+			}
+			transAPI = args[1].toLowerCase();
+			oriLang = args[2];
+			targetLang = args[3];
+			oriAddress = args[4];
+			
+			if(args.length>5){
+				String[] exists = args[5].split(Pattern.quote("|"));
+				for (int i = 0; i < exists.length; i++) {
+					mapExistingFile(exists[i]);
+				}
+			}
+			
+			if(args.length>6){
+				int sleep = 0;
+				try {
+					sleep = Integer.parseInt(args[6]);
+				} catch (Exception e) {
+					sleep = 100;
+				}
+				sleepMilliSecond = sleep;
+			}
+			
+			if(args.length>7){
+				verbose = true;
+			}
+			
+			ArrayList<String> finishedFiles = new ArrayList<String>();
+			oriDir = new File(oriAddress);
+			File transedDir = new File(oriDir.getPath() + localDirSeparater + "translated_" + transAPI);
+			if (transedDir.exists()) {
+				File[] transed = transedDir.listFiles();
+				for (int i = 0; i < transed.length; i++) {
+					finishedFiles.add(transed[i].getName());
+				}
+			}
+			File[] oriXMLs = oriDir.listFiles();
+			for (int i = 0; i < oriXMLs.length; i++) {
+				if (oriXMLs[i].isFile() && !finishedFiles.contains(oriXMLs[i].getName())) {
+					translateTextFile(oriXMLs[i]);
+				}
+			}
+			System.out.println("all done! the translated files are in "+oriAddress + localDirSeparater + "translated_" + transAPI);
+		}else if (args[0].equals("-transG")) {
+//			-transG api orilang targlang oridir [sleep [verb]]
+			if (args.length<5) {
+				System.err.println("too few parameters. use -h to see help.");
+				return;
+			}
+			transAPI = args[1].toLowerCase();
+			oriLang = args[2];
+			targetLang = args[3];
+			oriAddress = args[4];
+			
+			if(args.length>5){
+				int sleep = 0;
+				try {
+					sleep = Integer.parseInt(args[5]);
+				} catch (Exception e) {
+					sleep = 100;
+				}
+				sleepMilliSecond = sleep;
+			}
+			
+			if(args.length>6){
+				verbose = true;
+			}
+			
+			ArrayList<String> finishedFiles = new ArrayList<String>();
+			oriDir = new File(oriAddress);
+			File transedDir = new File(oriDir.getPath() + localDirSeparater + "translated_" + transAPI);
+			if (transedDir.exists()) {
+				File[] transed = transedDir.listFiles();
+				for (int i = 0; i < transed.length; i++) {
+					finishedFiles.add(transed[i].getName());
+				}
+			}
+			File[] oriXMLs = oriDir.listFiles();
+			for (int i = 0; i < oriXMLs.length; i++) {
+				if (oriXMLs[i].isFile() && !finishedFiles.contains(oriXMLs[i].getName())) {
+					translateGamePlayFile(oriXMLs[i]);
+				}
+			}
+			System.out.println("all done! the translated files are in "+oriAddress + localDirSeparater + "translated_" + transAPI);
+		}else if (args[0].equals("-lack")) {
+//			-lack oridir exdir [verb]
+			if (args.length<3) {
+				System.err.println("too few parameters. use -h to see help.");
+				return;
+			}
+			oriAddress = args[1];
+			String[] exists = args[2].split(Pattern.quote("|"));
+			for (int i = 0; i < exists.length; i++) {
+				mapExistingFile(exists[i]);
+			}
+			if(args.length>3){
+				verbose = true;
+			}
+			generateLackSentenceFile(oriAddress);
+			System.out.println("all done! thegenerated file is "+oriAddress+localDirSeparater+"lackSentences.txt");
+		}else if (args[0].equals("-list")) {
+//			-list filedir
+			if (args.length<2) {
+				System.err.println("too few parameters. use -h to see help.");
+				return;
+			}
+			String filesString = "";
+			File[] oriXMLs = new File(args[1]).listFiles();
+			for (int i = 0; i < oriXMLs.length; i++) {
+				if (oriXMLs[i].isFile()&&oriXMLs[i].getName().toLowerCase().endsWith(".xml")){
+					filesString = filesString+oriXMLs[i].getName().substring(0, oriXMLs[i].getName().length()-4);
+					if (i<oriXMLs.length-1) {
+						filesString = filesString+",";
+					}
+				}
+			}
+			System.out.println(filesString);
+		}else{
+			printHelp();
+		}
+	}
+	
+	public static void printHelp() {
+		System.out.println("\tSTALKER Automatic Machine-Translation System");
+		System.out.println("\t\t\tby wzyddg");
+		System.out.println();
+		System.out.println("this software can do 5 things for the localization of the GSC STALKER series:");
+		System.out.println("1.translate the text .xml files in gamedata\\config(s)\\text\\languageName.");
+		System.out.println("2.translate the gameplay .xml files in gamedata\\config(s)\\gameplay in case there are some sentences which aren't in gamedata\\config(s)\\text\\languageName.");
+		System.out.println("3.generate a file containing those sentences you haven't translated from the original files yet.");
+		System.out.println("4.show a formatted string containing the names of .xml files in a folder so that you can paste the string to the localization.ltx (for the mods for Shadow of Chernobyl).");
+		System.out.println("5.call for help.");
+		System.out.println();
+		System.out.println("here are the instructions for the functions");
+		System.out.println();
+		System.out.println("1.-transT api orilang targlang oridir [exdir [sleep [verb]]]");
+		System.out.println("2.-transG api orilang targlang oridir [sleep [verb]]");
+		System.out.println("3.-lack oridir exdir [verb]");
+		System.out.println("4.-list filedir");
+		System.out.println("5.-h");
+		System.out.println();
+		System.out.println("Deatails for the parameter:");
+		System.out.println("\t*parameters in [] is optional.");
+		System.out.println("\t*the first parameter of the instruction is the name of function, just type as it is.");
+		System.out.println("\t*api:which machine-translation engine you want to use, now we have:");
+		System.out.println("\t\tbaidu\tas Baidu translation.");
+		System.out.println("\t\tgoogle\tas Google translation.");
+		System.out.println("\t\tyandex\tas Yandex translation.");
+		System.out.println("\t\tbingn\tas Microsoft Neural translation.");
+		System.out.println("\t*oriLang and targLang:original text language and target text language, now we have:");
+		System.out.println("\t\ten as English.");
+		System.out.println("\t\tru as Russian.");
+		System.out.println("\t\tzh as Chinese Simplified.(for targLang only)");
+		System.out.println("\t\tfr as French.(for targLang only)");
+		System.out.println("\t*filedir:address of the folder containing the .xml files you want to get list of.");
+		System.out.println("\t*oridir:address of the folder containing the original .xml text files.");
+		System.out.println("\t*exdir:address of the folders containing the translated .xml text files.");
+		System.out.println("\t\tusing this parameter can save you from redoing the works you've done before.");
+		System.out.println("\t\tthis parameter supports multiple folder address, seperated by the single character |.");
+		System.out.println("\t\tcontents from latter folder will overwrite contents with same id before it, so you may wanna sort them from low priority to high priority.");
+		System.out.println("\t*sleep:the time (in millisecond) you want to pause between the translation of two sentences.");
+		System.out.println("\t\tlonger pause time is more likely to keep you from triggering machine-human detection.");
+		System.out.println("\t*verb:any word at this place will enable verbose mode, you can see more details of processing now.");
+		System.out.println();
+		System.out.println("NOTE: ");
+		System.out.println("\tyou'll need to escape all the spaces in every folder address by yourself, I'm not doing that for you.");
+		System.out.println("\tevery original file needs to be saved in encoding windows-1251.");
+		
 	}
 	
 	public static void mapExistingFile(String existingFolderAddress) throws ClassNotFoundException, IOException {
 		if (!existingFolderAddress.equals("")) {
-			File existingChsDir = new File(existingFolderAddress);
-			File[] eFiles = existingChsDir.listFiles();
+			File existingDir = new File(existingFolderAddress);
+			File[] eFiles = existingDir.listFiles();
 			for (int i = 0; eFiles!=null && i < eFiles.length; i++) {
 				if (eFiles[i].isFile()) {
 					existingSentence.putAll(getTextFileMap(existingFolderAddress + localDirSeparater + eFiles[i].getName()));
@@ -131,59 +244,6 @@ public class MainTrans {
 
 			}
 		}
-	}
-
-	public static boolean keyToKey(File chs, File rus) throws Exception {
-		// String checkKeyword = "尼特罗";
-
-		String chsString = getFileContentString(chs.getParent() + localDirSeparater + chs.getName(), "utf-8");
-		String rusString = getFileContentString(chs.getParent() + localDirSeparater + rus.getName());
-
-		// if (chsString.contains(checkKeyword)) {
-		// throw new Exception(checkKeyword + " exists in " + chs.getName());
-		// }
-		ArrayList<String> rusIDs = new ArrayList<>();
-		ArrayList<String> chsIDs = new ArrayList<>();
-
-		boolean flag = false;
-		Pattern p = Pattern.compile("id=\"(.*?)\"");
-		Matcher m = p.matcher(rusString);
-		while (m.find()) {
-			rusIDs.add(m.group(1));
-		}
-		m = p.matcher(chsString);
-		while (m.find()) {
-			String found = m.group(1);
-			if (chsIDs.contains(found)) {
-				throw new Exception("chsID: " + found + " duplicated in " + chs.getName());
-			}
-			chsIDs.add(found);
-			rusIDs.remove(m.group(1));
-		}
-		m = p.matcher(rusString);
-		while (m.find()) {
-			chsIDs.remove(m.group(1));
-		}
-
-		for (Iterator<String> iterator = rusIDs.iterator(); iterator.hasNext();) {
-			if (!flag) {
-				System.out.println(chs.getName() + ":");
-				flag = true;
-				lackFileNum++;
-			}
-			String string = (String) iterator.next();
-			System.err.println(string);
-		}
-		for (Iterator<String> iterator = chsIDs.iterator(); iterator.hasNext();) {
-			if (!flag) {
-				System.out.println(rus.getName() + ":");
-				flag = true;
-			}
-			String string = iterator.next();
-			System.out.println(string);
-		}
-
-		return flag;
 	}
 
 	public static void generateLackSentenceFile(String oriAddr) throws ClassNotFoundException, IOException {
@@ -199,12 +259,12 @@ public class MainTrans {
 				}
 			}
 		}
-		verbose("ori:"+oriSentence.size());
-		verbose("exi:"+existingSentence.size());
+		verbose("origin:"+oriSentence.size());
+		verbose("exists:"+existingSentence.size());
 		for (String string : existingSentence.keySet()) {
 			oriSentence.remove(string);
 		}
-		verbose(""+oriSentence.size());
+		verbose("lack:"+oriSentence.size());
 		String resString = "";
 		LinkedList<String> keys = new LinkedList<>();
 		for (String key : oriSentence.keySet()) {
@@ -251,7 +311,7 @@ public class MainTrans {
 			failFlag = false;
 			try {
 				String oriLine = string;
-				String transtedLine = transToCN(oriLine);
+				String transtedLine = transToTarget(oriLine, targetLang);
 				transtedLine = clearString(transtedLine);
 				chsString = chsString.replaceAll(Pattern.quote(string), transtedLine);
 			} catch (Exception e) {
@@ -304,7 +364,7 @@ public class MainTrans {
 
 			if (transtedLine!=null&&!"".equals(transtedLine)) {
 				transtedLine = clearString(transtedLine);
-				verbose("this one get quick.");
+				verbose(key+" get quick.");
 			}else {
 				transtedLine = "";
 				Pattern p1 = Pattern
@@ -316,10 +376,10 @@ public class MainTrans {
 				}
 				String[] pieces = string
 						.split("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?)");
-				verbose("this sentence get "+pieces.length+" pieces.");
+				verbose(key + " get "+pieces.length+" pieces.");
 				try {
 					for (int j = 0; j < pieces.length; j++) {
-						transtedLine = transtedLine + transToCN(pieces[j]);
+						transtedLine = transtedLine + transToTarget(pieces[j], targetLang);
 						if (!colorOrAction.isEmpty()) {
 							transtedLine = transtedLine + colorOrAction.get(0);
 							colorOrAction.remove(0);
@@ -379,7 +439,6 @@ public class MainTrans {
 	}
 	
 	public static String getFileContentString(String fileAddress, String encodingName) throws IOException {
-		HashMap<String, String> map = null;
 		File textFile = new File(fileAddress);
 		File cachedFile = new File(textFile.getParent()+localDirSeparater+"string_cache"+localDirSeparater+textFile.getName()+".wzystr");
 		cachedFile.getParentFile().mkdirs();
@@ -418,6 +477,7 @@ public class MainTrans {
 		return str;
 	}
 	
+	@SuppressWarnings("unchecked")
 	public static HashMap<String, String> getTextFileMap(String fileAddress, String encodingName) throws IOException, ClassNotFoundException {
 		HashMap<String, String> map = null;
 		File textFile = new File(fileAddress);
@@ -472,14 +532,6 @@ public class MainTrans {
 	
 	public static HashMap<String, String> getTextFileMap(String fileAddress) throws IOException, ClassNotFoundException {
 		return getTextFileMap(fileAddress, "UTF-8");
-	}
-
-	public static String transToEN(String sentence) throws Exception {
-		return transToTarget(sentence, "en");
-	}
-
-	public static String transToCN(String sentence) throws Exception {
-		return transToTarget(sentence, "zh");
 	}
 
 	public static String transToTarget(String sentence, String targ) throws Exception {

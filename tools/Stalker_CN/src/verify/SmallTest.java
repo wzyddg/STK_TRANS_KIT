@@ -41,22 +41,23 @@ public class SmallTest {
 			String string = (String) iterator.next();
 			System.err.println(string);
 		}
-		System.out.println("22"+Dispatch.Instance("bingn").Trans("zh", "en", kk)+"33");
+//		System.out.println("22"+Dispatch.Instance("bingn").Trans("zh", "en", kk)+"33");
 //		System.out.println(chsString.split("[.]").length);
 //		chsString = "日记页, 段落读: \\ n \"什么总是运行 \\ nbut 从不行走, \\ noften 杂音, \\ nnever 会谈, \\ nhas 一张床, 但从不睡觉, \\ nhas 嘴, 但从不吃?";
 //		System.out.println(MainTrans.isSentence("dwadwa_dad4352., "));
 //		chsString = chsString.replaceAll("(?:\\\\n|\\s)+", Matcher.quoteReplacement("\n"));
 //		System.err.println(chsString);
 		System.out.println(MainTrans.clearString(chsString));
-		File dir = new File("D:\\sgmfind");
-		File[] files = dir.listFiles();
-		for (int i = 0; i < files.length; i++) {
-			if (files[i].isFile()) {
-				String content = MainTrans.readStringFromFile(files[i].getPath(), "windows-1251");
-				MainTrans.writeToFile(content, files[i].getParent()+"\\utf\\"+files[i].getName(), "utf-8");
-				System.out.println(files[i].getName()+" done!");
-			}
-		}
+//		File dir = new File("D:\\sgmfind");
+//		File[] files = dir.listFiles();
+//		for (int i = 0; i < files.length; i++) {
+//			if (files[i].isFile()) {
+//				String content = MainTrans.readStringFromFile(files[i].getPath(), "windows-1251");
+//				MainTrans.writeToFile(content, files[i].getParent()+"\\utf\\"+files[i].getName(), "utf-8");
+//				System.out.println(files[i].getName()+" done!");
+//			}
+//		}
+		System.out.println("dwadasfawafdrgd".split("7")[0]);
 		// String aString = "sadadwag\nQWQQWEEEQWE";
 		//// System.out.println(aString);
 		// System.out.println(aString.split("\n")[0]);

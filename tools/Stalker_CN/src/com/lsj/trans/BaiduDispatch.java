@@ -17,6 +17,8 @@ public class BaiduDispatch extends Dispatch {
 	private BaiduDispatch() {
 		langMap.put("en", "en");
 		langMap.put("zh", "zh");
+		langMap.put("ru", "ru");
+		langMap.put("fr", "fra");
 	}
 
 	@Override

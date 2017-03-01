@@ -22,13 +22,14 @@ public class GoogleDispatch extends Dispatch {
 		langMap.put("en", "en");
 		langMap.put("zh", "zh-CN");
 		langMap.put("ru", "ru");
+		langMap.put("fr", "fr");
 	}
 
 	@Override
 	public String Trans(String from, String targ, String query) throws Exception {
 
 		HttpParams params = null;
-		params = new HttpPostParams(); // 统一采用post，若字符长度小于999用get也可以的
+		params = new HttpPostParams();
 		String tk = tk(query);
 
 		params.put("client", "t").put("sl", langMap.get(from)).put("tl", langMap.get(targ)).put("hl", "zh-CN")

@@ -21,6 +21,7 @@ public class YandexDispatch extends Dispatch {
 		langMap.put("en", "en");
 		langMap.put("zh", "zh");
 		langMap.put("ru", "ru");
+		langMap.put("fr", "fr");
 	}
 
 	@Override
@@ -49,7 +50,7 @@ public class YandexDispatch extends Dispatch {
 					// .put("lang", from+"-"+targ)
 					.put("text", string);
 			String jsonString = params.Send("https://translate.yandex.net/api/v1.5/tr.json/translate?key="
-					+ MainTrans.yandexKey + "&lang=" + from + "-" + targ);
+					+ MainTrans.yandexKey + "&lang=" + langMap.get(from) + "-" + langMap.get(targ));
 			tmp = ParseString(jsonString);
 			all = all + "." + tmp;
 			posts.remove(0);
