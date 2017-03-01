@@ -23,52 +23,52 @@
 		<text>向雇主汇报情况并拿取报酬.</text>
 	</string>
 	<string id="shustriy_find_1_title0">
-		<text> 搜寻丢失的武器 'Ingram M10'</text>
+		<text>搜寻丢失的武器 'Ingram M10'</text>
 	</string>
 	<string id="shustriy_find_1_text0">
-		<text> 明眼叫你去找丢了的武器,坐标已上传.</text>
+		<text>机灵鬼叫你去找丢了的武器,坐标已上传.</text>
 	</string>
 	<string id="shustriy_find_1_title1">
-		<text> 把物品带给明眼: 丢失的武器 'Ingram M10' </text>
+		<text>把物品带给机灵鬼: 丢失的武器 'Ingram M10'</text>
 	</string>
 	<string id="shustriy_find_1_text1">
-		<text> 把丢失的武器还给明眼,这把武器用不了,如果他不在斯卡多夫斯就要等到他回来.</text>
+		<text>把丢失的武器还给机灵鬼,这把武器用不了,如果他不在斯卡多夫斯就要等到他回来.</text>
 	</string>
 	<string id="shustriy_find_2_title0">
-		<text> 搜寻丢失的武器 'AK-47'</text>
+		<text>搜寻丢失的武器 'AK-47'</text>
 	</string>
 	<string id="shustriy_find_2_text0">
-		<text> 明眼叫你去找丢了的武器,坐标已上传.</text>
+		<text>机灵鬼叫你去找丢了的武器,坐标已上传.</text>
 	</string>
 	<string id="shustriy_find_2_title1">
-		<text> 把物品带给明眼: 丢失的武器 'AK-47'</text>
+		<text>把物品带给机灵鬼: 丢失的武器 'AK-47'</text>
 	</string>
 	<string id="shustriy_find_2_text1">
-		<text> 把丢失的武器还给明眼,这把武器用不了,如果他不在斯卡多夫斯就要等到他回来.</text>
+		<text>把丢失的武器还给机灵鬼,这把武器用不了,如果他不在斯卡多夫斯就要等到他回来.</text>
 	</string>
 	<string id="shustriy_find_3_title0">
-		<text> 搜寻丢失的武器 'Mossberg 590Mk.L' </text>
+		<text>搜寻丢失的武器 'Mossberg 590Mk.L'</text>
 	</string>
 	<string id="shustriy_find_3_text0">
-		<text> 明眼叫你去找丢了的武器,坐标已上传.</text>
+		<text>机灵鬼叫你去找丢了的武器,坐标已上传.</text>
 	</string>
 	<string id="shustriy_find_3_title1">
-		<text> 把物品带给明眼: 丢失的武器 'Mossberg 590Mk.L'</text>
+		<text>把物品带给机灵鬼: 丢失的武器 'Mossberg 590Mk.L'</text>
 	</string>
 	<string id="shustriy_find_3_text1">
-		<text> 把丢失的武器还给明眼,这把武器用不了,如果他不在斯卡多夫斯克就要等到他回来.</text>
+		<text>把丢失的武器还给机灵鬼,这把武器用不了,如果他不在斯卡多夫斯克就要等到他回来.</text>
 	</string>
 	<string id="shustriy_find_4_title0">
-		<text> 搜寻丢失的武器 'Steyr AUG SS190'</text>
+		<text>搜寻丢失的武器 'Steyr AUG SS190'</text>
 	</string>
 	<string id="shustriy_find_4_text0">
-		<text> 明眼叫你去找丢了的武器,坐标已上传.</text>
+		<text>机灵鬼叫你去找丢了的武器,坐标已上传.</text>
 	</string>
 	<string id="shustriy_find_4_title1">
-		<text> 把物品带给明眼: 丢失的武器 'Steyr AUG SS190'</text>
+		<text>把物品带给机灵鬼: 丢失的武器 'Steyr AUG SS190'</text>
 	</string>
 	<string id="shustriy_find_4_text1">
-		<text> 把丢失的武器还给明眼,这把武器用不了,如果他不在斯卡多夫斯就要等到他回来.</text>
+		<text>把丢失的武器还给机灵鬼,这把武器用不了,如果他不在斯卡多夫斯就要等到他回来.</text>
 	</string>
 	<string id="zat_danger_parcel_title0">
 		<text>重要的承诺: 找到凯恩夫斯基</text>
@@ -86,13 +86,13 @@
 		<text>帮助: 把包裹送给马克洛维奇</text>
 	</string>
 	<string id="zat_refer_parcel_text0">
-		<text> 我碰到了一个叫皮特卡 雷兹曼德,他叫我把这个装有可疑牌照的包裹送给斯卡多夫斯克的Markovich.他说Markovich会付路费.</text>
+		<text>我碰到了一个叫皮特卡 雷兹曼德,他叫我把这个装有可疑牌照的包裹送给斯卡多夫斯克的Markovich.他说Markovich会付路费.</text>
 	</string>
 	<string id="zat_refer_parcel2_title0">
 		<text>搜寻信息:和当地银行员工谈话.</text>
 	</string>
 	<string id="zat_refer_parcel2_text0">
-		<text> 有什么东西告诉我银行员工知道被撞击的直升机,我需要找到是什么.</text>
+		<text>有什么东西告诉我银行员工知道被撞击的直升机,我需要找到是什么.</text>
 	</string>
 	<string id="zat_breeder_talk_and_job_title0">
 		<text>重要信息: 和马克维特斯基谈话.</text>
@@ -101,7 +101,7 @@
 		<text>和马克洛维奇的谈话中清楚地得知直升机飞行员还活着,但是还不清楚飞行员在哪里,我需要去找当地神器商人谈话.</text>
 	</string>
 	<string id="zat_breeder_talk_and_job_title1">
-		<text>重要信息: 在锯木厂寻找未知神器. </text>
+		<text>重要信息: 在锯木厂寻找未知神器.</text>
 	</string>
 	<string id="zat_breeder_talk_and_job_text1">
 		<text>据传说,锯木厂里有一个未知的神器,要知道是不是真的,你要去锯木厂确认一下.</text>
@@ -113,16 +113,16 @@
 		<text>在锯木厂周围确实找到了一个未知的神器,应该带给马克维特斯基博士,交换关于飞行员的重要信息.</text>
 	</string>
 	<string id="zat_will_leave_jupiter_title0">
-		<text>冒险: 和比尔德谈话</text>
+		<text>冒险: 和大胡子谈话</text>
 	</string>
 	<string id="zat_will_leave_jupiter_text0">
-		<text>我很可能需要去木星,但是怎么去....神器商人叫我和当地酒吧主人比尔德说谈谈.</text>
+		<text>我很可能需要去木星,但是怎么去....神器商人叫我和当地酒吧主人大胡子说谈谈.</text>
 	</string>
 	<string id="zat_will_leave_jupiter_title1">
 		<text>冒险: 去木星</text>
 	</string>
 	<string id="zat_will_leave_jupiter_text1">
-		<text>据比尔德说,那个向导知道怎样快速安全的从斯卡多夫斯克去木星,需要给钱.</text>
+		<text>据大胡子说,那个向导知道怎样快速安全的从斯卡多夫斯克去木星,需要给钱.</text>
 	</string>
 	<string id="zat_accompany_to_boat_title0">
 		<text>旅行: 和潜行者一起到斯卡多夫斯克</text>
@@ -191,7 +191,7 @@
 		<text>在那个受伤的黑石士兵死之前,他托付我把这个箱子送给他们的首领机械人,他们的基地在普利皮亚.</text>
 	</string>
 	<string id="zat_deliver_monolith_case_title2">
-		<text>快递: 去普罗米修斯剧院 </text>
+		<text>快递: 去普罗米修斯剧院</text>
 	</string>
 	<string id="zat_deliver_monolith_case_text2">
 		<text>里昂告诉了我黑石基地的坐标,如果资料正确,基地正在普罗米修斯剧院.</text>
@@ -260,19 +260,19 @@
 		<text>卡丹的生日: 和祖雅比斯基谈谈.</text>
 	</string>
 	<string id="zat_bring_drink_beylis_text0">
-		<text>据比尔德说,祖雅比斯基有关于珍贵的酒的信息,我必须和他谈谈并找到一瓶百利甜.</text>
+		<text>据大胡子说,祖雅比斯基有关于珍贵的酒的信息,我必须和他谈谈并找到一瓶百利甜.</text>
 	</string>
 	<string id="zat_bring_drink_beylis_title1">
 		<text>卡丹的生日: 找到那瓶珍贵的百利甜.</text>
 	</string>
 	<string id="zat_bring_drink_beylis_text1">
-		<text>卡丹的生日不就了,比尔德希望代表斯卡斯多夫的人给他一个礼物,但是它却不能去找,所以就让我去.</text>
+		<text>卡丹的生日不就了,大胡子希望代表斯卡斯多夫的人给他一个礼物,但是它却不能去找,所以就让我去.</text>
 	</string>
 	<string id="zat_bring_drink_beylis_title2">
-		<text>卡丹的生日:回到比尔德那里</text>
+		<text>卡丹的生日:回到大胡子那里</text>
 	</string>
 	<string id="zat_bring_drink_beylis_text2">
-		<text>把百利甜给比尔德,让他把这个礼物送给卡丹作为他出色的工作的奖励, 比尔德承诺过给我报酬.</text>
+		<text>把百利甜给大胡子,让他把这个礼物送给卡丹作为他出色的工作的奖励, 大胡子承诺过给我报酬.</text>
 	</string>
 	<string id="zat_bring_sharpshooter_bino_title0">
 		<text>紧急任务: 和哈弗雷谈话</text>
@@ -980,7 +980,7 @@
 		<text>调查报告: 把秘密文件送到联络员处.</text>
 	</string>
 	<string id="pri_find_science_briefing_text1">
-		<text>得到了信息, 现在我需要回到联络员那里去. </text>
+		<text>得到了信息, 现在我需要回到联络员那里去.</text>
 	</string>
 	<string id="pri_find_science_briefing_title2">
 		<text>调查报告: 检查箱子里的报酬</text>
@@ -1040,7 +1040,7 @@
 		<text>'火山行动': 占领开火位置</text>
 	</string>
 	<string id="pri_assault_monolith_base_text2">
-		<text>在二楼占领开火位置 [KBO]. </text>
+		<text>在二楼占领开火位置 [KBO].</text>
 	</string>
 	<string id="pri_assault_monolith_base_title3">
 		<text>'火山行动': 消灭黑石团队</text>
@@ -1064,7 +1064,7 @@
 		<text>'吸血怪疫苗': 向奥泽斯基打听 NG-7 疫苗</text>
 	</string>
 	<string id="pri_bloodsucker_vaccine_text0">
-		<text>在普利皮亚的一所公寓里,我被吸血怪攻击了.很奇怪 - 我醒来的时候没看到人.我找到了一个留言条,它提到了一种吸血怪的疫苗,叫做 NG-7 看来是因为这个它没碰我.我如果想帮忙的话需要去问奥泽斯基有关这个疫苗. </text>
+		<text>在普利皮亚的一所公寓里,我被吸血怪攻击了.很奇怪 - 我醒来的时候没看到人.我找到了一个留言条,它提到了一种吸血怪的疫苗,叫做 NG-7 看来是因为这个它没碰我.我如果想帮忙的话需要去问奥泽斯基有关这个疫苗.</text>
 	</string>
 	<string id="pri_bloodsucker_vaccine_title1">
 		<text>'吸血怪疫苗':从奥泽斯基那里拿到 NG-7</text>
@@ -1244,7 +1244,7 @@
 		<text>'赎罪': 找到转播发射器的位置</text>
 	</string>
 	<string id="pri_expiation_sin_3_text0">
-		<text>黑石部队想维修天线,和 '黑石' 沟通.天线的主要部件,一个转播发射机已经被摧毁了.在黑石部队的精神领袖的死亡后,转播发射器的位置成了秘密.我需要不计代价去找到转播发射机的消息. </text>
+		<text>黑石部队想维修天线,和 '黑石' 沟通.天线的主要部件,一个转播发射机已经被摧毁了.在黑石部队的精神领袖的死亡后,转播发射器的位置成了秘密.我需要不计代价去找到转播发射机的消息.</text>
 	</string>
 	<string id="pri_expiation_sin_3_title1">
 		<text>'赎罪':找到转播发射器的更多消息</text>

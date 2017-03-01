@@ -1,21 +1,21 @@
 	<string id="ammo_box_10_vog">
-		<text> VOG-25榴弹箱 </text>
+		<text>VOG-25榴弹箱</text>
 	</string>
 	<string id="ammo_box_10_vog_descr">
-		<text> 内容: VOG-25x10 榴弹用于榴弹发射器. </text>
+		<text>内容: VOG-25x10 榴弹用于榴弹发射器.</text>
 	</string>
 	<string id="ammo_box_10_m209">
-		<text> M209 Grenade box </text>
+		<text>M209 Grenade box</text>
 	</string>
 	<string id="ammo_box_10_m209_descr">
-		<text>  内容: M209x10 榴弹用于榴弹发射器. </text>
+		<text>内容: M209x10 榴弹用于榴弹发射器.</text>
 	</string>
 	<string id="ammo-dumdum">
-		<text> Charges 9mm M72-DD '达姆弹' </text>
+		<text>Charges 9mm M72-DD '达姆弹'</text>
 	</string>
 	<string id="ammo-dumdum_s">
-		<text> 9 M72-DD 达姆弹 </text>
+		<text>9 M72-DD 达姆弹</text>
 	</string>
 	<string id="ammo-dumdum_descr">
-		<text> 新式的九毫米爆炸子弹,为替换9x39子弹而设计,但当地技师改造了这些子弹,能够实用于任何口径.子弹中有'扳手'神器和压缩炸药提供动能,这种子弹经常能在佣兵身上找到,这种子弹也同时能够用于瑞典的南极冲突,L96A1. </text>
+		<text>新式的九毫米爆炸子弹,为替换9x39子弹而设计,但当地技师改造了这些子弹,能够实用于任何口径.子弹中有'扳手'神器和压缩炸药提供动能,这种子弹经常能在佣兵身上找到,这种子弹也同时能够用于瑞典的南极冲突,L96A1.</text>
 	</string>

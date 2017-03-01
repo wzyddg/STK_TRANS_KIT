@@ -137,7 +137,7 @@
 		<text>Object to the logic</text>
 	</string>
         <string id="st_allspawn_editor_check_another_mode_hint">
-		<text>Activate another debugging method. Template: create ('object', x, y, z, lv, gv) </text>
+		<text>Activate another debugging method. Template: create ('object', x, y, z, lv, gv)</text>
 	</string>
         <string id="st_allspawn_editor_check_another_mode_spawn_hint">
 		<text>In another method of debugging - parallel to spawn an object.</text>

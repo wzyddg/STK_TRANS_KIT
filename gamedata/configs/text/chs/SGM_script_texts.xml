@@ -143,10 +143,10 @@
 		<text>服务花费:</text>
 	</string>
 	<string id="st_bankir_deposit_title">
-		<text>存款数量: </text>
+		<text>存款数量:</text>
 	</string>
 	<string id="st_bankir_percent_title">
-		<text>存款利息: </text>
+		<text>存款利息:</text>
 	</string>
 	<string id="st_bankir_money">
 		<text>你背包里的钱 =</text>
@@ -173,7 +173,7 @@
 		<text>今天总的利息:</text>
 	</string>
 	<string id="st_trader_order_count">
-		<text>条数: </text>
+		<text>条数:</text>
 	</string>
 	<string id="st_order_cost">
 		<text>订购价格:</text>

@@ -2,37 +2,37 @@
 		<text>史诺克的脚</text>
 	</string>
 	<string id="st_mutant_snork_booty_description">
-		<text> 史诺克的脚和人类的不一样, 它们的腿部有大量的肌肉,而且关节具有不可思议的灵活性. 这很好地解释了为什么它们总能跳那么高. </text>
+		<text>史诺克的脚和人类的不一样, 它们的腿部有大量的肌肉,而且关节具有不可思议的灵活性. 这很好地解释了为什么它们总能跳那么高.</text>
 	</string>
 	<string id="st_mutant_psevdodog_booty_name">
 		<text>地狱犬的尾巴</text>
 	</string>
 	<string id="st_mutant_psevdodog_booty_description">
-		<text> 地狱犬的皮肤能有效的抵抗化学腐蚀和闪电冲击,特异区里的科学家一直对此疑惑不解. 由于地狱犬尾巴部分的脂肪比较少, 所以这是最适合用于实验研究的身体结构.</text>
+		<text>地狱犬的皮肤能有效的抵抗化学腐蚀和闪电冲击,特异区里的科学家一直对此疑惑不解. 由于地狱犬尾巴部分的脂肪比较少, 所以这是最适合用于实验研究的身体结构.</text>
 	</string>
 	<string id="st_mutant_krovosos_booty_name">
-		<text> 吸血怪的触须 </text>
+		<text>吸血怪的触须</text>
 	</string>
 	<string id="st_mutant_krovosos_booty_description">
-		<text> 吸血怪的触须有很特别的功能: 它能分泌一种特殊的酶来腐蚀掉猎物的皮肤,还能阻止他们的血液凝结.如果研究者能够下决定分析这种酶的分子结构,它一定能在医疗方面造成突破性的进展. </text>
+		<text>吸血怪的触须有很特别的功能: 它能分泌一种特殊的酶来腐蚀掉猎物的皮肤,还能阻止他们的血液凝结.如果研究者能够下决定分析这种酶的分子结构,它一定能在医疗方面造成突破性的进展.</text>
 	</string>
 	<string id="st_mutant_boar_booty_name">
-		<text>野猪蹄 </text>
+		<text>野猪蹄</text>
 	</string>
 	<string id="st_mutant_boar_booty_description">
-		<text> 野猪蹄被科学家们拿来制造一种药物, 最常见的一种是抗辐射血清. </text>
+		<text>野猪蹄被科学家们拿来制造一种药物, 最常见的一种是抗辐射血清.</text>
 	</string>
 	<string id="st_mutant_dog_booty_name">
-		<text>盲犬的尾巴 </text>
+		<text>盲犬的尾巴</text>
 	</string>
 	<string id="st_mutant_dog_booty_description">
-		<text>变异犬的皮肤能有效的抵抗化学腐蚀和闪电冲击,特异区里的科学家一直对此疑惑不解. 由于变异犬尾巴部分的脂肪比较少, 所以这是最适合用于实验研究的身体结构.. </text>
+		<text>变异犬的皮肤能有效的抵抗化学腐蚀和闪电冲击,特异区里的科学家一直对此疑惑不解. 由于变异犬尾巴部分的脂肪比较少, 所以这是最适合用于实验研究的身体结构..</text>
 	</string>
 	<string id="st_mutant_flesh_booty_name">
 		<text>豚兽的眼睛</text>
 	</string>
 	<string id="st_mutant_flesh_booty_description">
-		<text> 当特异区的野猪变异后, 它们的右眼变得格外大, 这个特殊的器官具有不平常的功能, 最值得注意的是, 它能以极快的速度再生. 而它的生物学原理没人知道, 如果有人能发现它的原理,它一定能在医疗方面造成突破性的进展.</text>
+		<text>当特异区的野猪变异后, 它们的右眼变得格外大, 这个特殊的器官具有不平常的功能, 最值得注意的是, 它能以极快的速度再生. 而它的生物学原理没人知道, 如果有人能发现它的原理,它一定能在医疗方面造成突破性的进展.</text>
 	</string>
         <string id="st_mutant_giant_booty_name">
 		<text>巨型地狱犬的眼睛</text>
@@ -44,17 +44,17 @@
 		<text>奇美拉的利爪</text>
 	</string>
 	<string id="st_mutant_chimera_booty_description">
-		<text>一件出色的纪念品, 它的主人带着它无论走到哪里都能得到羡慕的目光. 商人和医生都对它们的爪子十分感兴趣, 虽然不知道为什么. </text>
+		<text>一件出色的纪念品, 它的主人带着它无论走到哪里都能得到羡慕的目光. 商人和医生都对它们的爪子十分感兴趣, 虽然不知道为什么.</text>
 	</string>
         <string id="st_mutant_controler_booty_name">
 		<text>脑波怪的手</text>
 	</string>
 	<string id="st_mutant_controler_booty_description">
-		<text> 从脑波怪身上截取的肢体. 它的手虽然已经从身体上分离下来, 但是依然发出着强大的焦脑辐射. </text>
+		<text>从脑波怪身上截取的肢体. 它的手虽然已经从身体上分离下来, 但是依然发出着强大的焦脑辐射.</text>
 	</string>
         <string id="st_mutant_burer_booty_name">
 		<text>狂暴侏儒的手</text>
 	</string>
 	<string id="st_mutant_burer_booty_description">
-		<text> 狂暴侏儒的手具有特殊的功能,对人类来说,最有用的一点是它能极好地抵抗辐射.原理未知 . 如果你能把它们的手卖给科学家,科学家们一定很乐意购买 . </text>
+		<text>狂暴侏儒的手具有特殊的功能,对人类来说,最有用的一点是它能极好地抵抗辐射.原理未知 . 如果你能把它们的手卖给科学家,科学家们一定很乐意购买 .</text>
 	</string>

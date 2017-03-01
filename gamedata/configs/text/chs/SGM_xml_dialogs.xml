@@ -1,4 +1,4 @@
-        <string id="zat_stalker_medic_job_dialog_1">
+	<string id="zat_stalker_medic_job_dialog_1">
 		<text>Hi,你需要帮忙吗?</text>
 	</string>
         <string id="zat_stalker_medic_job_dialog_2">
@@ -299,7 +299,7 @@
 		<text>行,我这就去找些垃圾.</text>
 	</string>
         <string id="zat_barmen_radio_switch_dialog_1">
-		<text>比尔德,关掉收音机.</text>
+		<text>大胡子,关掉收音机.</text>
 	</string>
         <string id="zat_barmen_radio_switch_dialog_2">
 		<text>当然.</text>
@@ -308,7 +308,7 @@
 		<text>谢了</text>
 	</string>
         <string id="zat_barmen_radio_switch_dialog_4">
-		<text>比尔德,打开收音机.</text>
+		<text>大胡子,打开收音机.</text>
 	</string>
         <string id="zat_barmen_radio_switch_dialog_5">
 		<text>我会打开的.</text>
@@ -323,37 +323,37 @@
 		<text>没问题,问吧.</text>
 	</string>
         <string id="zat_stalker_medic_expiation_sin_dialog_2">
-		<text> 嘿,你听到过 '生命之水'吗? </text>
+		<text>嘿,你听到过 '生命之水'吗?</text>
 	</string>
         <string id="zat_stalker_medic_expiation_sin_dialog_3">
-		<text> 你从没听到过 '生命之水'? </text>
+		<text>你从没听到过 '生命之水'?</text>
 	</string>
         <string id="zat_stalker_medic_expiation_sin_dialog_4">
-		<text> 信息不是免费的,变异区的消息是要花很多钱的. </text>
+		<text>信息不是免费的,变异区的消息是要花很多钱的.</text>
 	</string>
         <string id="zat_stalker_medic_expiation_sin_dialog_5">
-		<text> 这个信息你开价多少? </text>
+		<text>这个信息你开价多少?</text>
 	</string>
         <string id="zat_stalker_medic_expiation_sin_dialog_6">
-		<text> 有一个我对我来说很特别的医疗包,坐标我是不会给每个人的. </text>
+		<text>有一个我对我来说很特别的医疗包,坐标我是不会给每个人的.</text>
 	</string>
         <string id="zat_stalker_medic_expiation_sin_dialog_7">
-		<text> 我会帮你的. </text>
+		<text>我会帮你的.</text>
 	</string>
         <string id="zat_stalker_medic_expiation_sin_dialog_8">
-		<text> 那么坐标就是这这里,去找吧. </text>
+		<text>那么坐标就是这这里,去找吧.</text>
 	</string>
         <string id="zat_stalker_medic_expiation_sin_dialog_9">
-		<text> 明白.</text>
+		<text>明白.</text>
 	</string>
         <string id="zat_stalker_medic_expiation_sin_dialog_10">
-		<text> 你好啊...你找到我要你带来的东西了吗?</text>
+		<text>你好啊...你找到我要你带来的东西了吗?</text>
 	</string>
         <string id="zat_stalker_medic_expiation_sin_dialog_11">
-		<text> 我能拿到,不过我还在找.</text>
+		<text>我能拿到,不过我还在找.</text>
 	</string>
         <string id="zat_stalker_medic_expiation_sin_dialog_12">
-		<text> 当然,这里... 那么你知道有什么关于'生命之水'的消息?</text>
+		<text>当然,这里... 那么你知道有什么关于'生命之水'的消息?</text>
 	</string>
         <string id="zat_stalker_medic_expiation_sin_dialog_13">
 		<text>科学家的碉堡里面的的Ozersky提到过,它看起来是水,不过据早期潜行者传说,它能够复活死人.Ozersky比我知道更多,去问他吧.</text>
@@ -365,7 +365,7 @@
 		<text>我会回来找你要更多任务的.</text>
 	</string>
         <string id="zat_b18_noah_monsters_wave_dialog_1">
-		<text>你要去哪里?变异怪兽要来了,我们没有狙击手！你有狙击步枪吗? </text>
+		<text>你要去哪里?变异怪兽要来了,我们没有狙击手！你有狙击步枪吗?</text>
 	</string>
         <string id="zat_b18_noah_monsters_wave_dialog_2">
 		<text>有,下面要做什么?</text>
@@ -383,10 +383,10 @@
 		<text>我准备好了,我这就去部署到阵地.</text>
 	</string>
         <string id="zat_b18_noah_monsters_wave_dialog_7">
-		<text>那就快去. </text>
+		<text>那就快去.</text>
 	</string>
         <string id="zat_b18_noah_monsters_wave_dialog_8">
-		<text> 明白. </text>
+		<text>明白.</text>
 	</string>
         <string id="zat_b18_noah_monsters_wave_dialog_9">
 		<text>我需要一些时间准备,我会回来的.</text>
@@ -425,16 +425,16 @@
 		<text>那是你的损失,去帮我们抵挡怪物.</text>
 	</string>
         <string id="zat_b18_noah_monsters_wave_dialog_21">
-		<text> 我知道. </text>
+		<text>我知道.</text>
 	</string>
         <string id="zat_b18_noah_monsters_wave_dialog_22">
-		<text> 感谢你杀死了脑波怪,干得好,潜行者,这里是你的奖金,再见.. </text>
+		<text>感谢你杀死了脑波怪,干得好,潜行者,这里是你的奖金,再见..</text>
 	</string>
         <string id="zat_b18_noah_monsters_wave_dialog_23">
-		<text> 行. </text>
+		<text>行.</text>
 	</string>
         <string id="zat_b18_noah_monsters_wave_dialog_24">
-		<text>我叫你去找个甲板,你却还在这里！快去！ </text>
+		<text>我叫你去找个甲板,你却还在这里！快去！</text>
 	</string>
         <string id="zat_b18_noah_monsters_wave_dialog_25">
 		<text>好吧.</text>
@@ -446,7 +446,7 @@
 		<text>我还在找.</text>
 	</string>
         <string id="zat_b30_barmen_monsters_wave_dialog_1">
-		<text>欢迎你,潜行者,我有一封诺瓦给你的紧急口信. </text>
+		<text>欢迎你,潜行者,我有一封诺瓦给你的紧急口信.</text>
 	</string>
         <string id="zat_b30_barmen_monsters_wave_dialog_2">
 		<text>对,干得好去像以前一样解决问题.</text>
@@ -467,7 +467,7 @@
 		<text>我在附近的哪里可以找到一些工具?</text>
 	</string>
         <string id="zat_sich_about_instruments_2">
-		<text>我知道一些地方,你要找哪种? </text>
+		<text>我知道一些地方,你要找哪种?</text>
 	</string>
         <string id="zat_sich_about_instruments_3">
 		<text>你需要什么其他的工具吗?</text>
@@ -506,7 +506,7 @@
 		<text>这个消息值40 000卢布</text>
 	</string>
         <string id="zat_sich_about_instruments_15">
-		<text>我不会再给你提供这种工具的信息了. </text>
+		<text>我不会再给你提供这种工具的信息了.</text>
 	</string>
         <string id="zat_sich_about_instruments_16">
 		<text>我的渠道告诉我这个地方没有更多这种工具了.</text>
@@ -785,13 +785,13 @@
 		<text>很有价值的情报,我很高兴.那么,他们都到木星了?</text>
 	</string>
         <string id="zat_stalker_breeder_storyline_dialog_18">
-		<text>当然,如果他们朝木星去了的话最可能的地方就是亚诺夫车站,因为普利皮亚似乎不太可能,去和比尔德说吧,他可能知道什么可以告诉你.</text>
+		<text>当然,如果他们朝木星去了的话最可能的地方就是亚诺夫车站,因为普利皮亚似乎不太可能,去和大胡子说吧,他可能知道什么可以告诉你.</text>
 	</string>
         <string id="zat_stalker_breeder_storyline_dialog_19">
 		<text>谢谢你的消息,保重.</text>
 	</string>
         <string id="zat_boroda_storyline_dialog_1">
-		<text>嘿,比尔德！我来谈正事,你知道有关坠毁的直升机的消息吗?</text>
+		<text>嘿,大胡子！我来谈正事,你知道有关坠毁的直升机的消息吗?</text>
 	</string>
         <string id="zat_boroda_storyline_dialog_2">
 		<text>我知道,潜行者硝基曾经来过这里,把卡在驾驶舱的飞行员救了出来带到了这里...只是现在他不在这里了,他们都去了木星.</text>
@@ -1970,7 +1970,7 @@
 		<text>什么事?</text>
 	</string>
         <string id="zat_stalker_trader_beylis_dialog_3">
-		<text>比尔德说你知道哪里有'百利甜'是真的吗?</text>
+		<text>大胡子说你知道哪里有'百利甜'是真的吗?</text>
 	</string>
         <string id="zat_stalker_trader_beylis_dialog_4">
 		<text>我也不知道是不是真的,我还没有检查过,但是我知道土匪也喝那种饮料,我给了一个潜行者一点东西,他喝醉的时候给我说了地点,不过却不太准确,我有大概的坐标,如果你觉得有帮助,我就把他给你.</text>
@@ -3530,7 +3530,7 @@
 		<text>当然,我要怎么做?</text>
 	</string>
         <string id="jup_stalker_gromoboy_dialog_4">
-		<text>很久以前,我把我的枪丢在这个地区的什么地方了,几乎是在普里皮亚特的边境吧,我在科帕奇村庄,那个土坡比房子还多的地方,僵尸还是那么可爱,我正在找神器,接着有人用铲子把我拍晕了,我不知道是谁,接着我醒来了,我的枪也不见了,我很吃惊,还不知道到底是怎么回事.我记得我在那附近找过...不过看起来那个狗日的给藏起来了.但至少我还活着.</text>
+		<text>很久以前,我把我的枪丢在这个地区的什么地方了,几乎是在普里皮亚季的边境吧,我在科帕奇村庄,那个土坡比房子还多的地方,僵尸还是那么可爱,我正在找神器,接着有人用铲子把我拍晕了,我不知道是谁,接着我醒来了,我的枪也不见了,我很吃惊,还不知道到底是怎么回事.我记得我在那附近找过...不过看起来那个狗日的给藏起来了.但至少我还活着.</text>
 	</string>
         <string id="jup_stalker_gromoboy_dialog_5">
 		<text>你真幸运,那又有什么事发生了?</text>
@@ -4361,7 +4361,7 @@
 		<text>还没.</text>
 	</string>
         <string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_1">
-		<text>听着,你知道谁有NG7吗? </text>
+		<text>听着,你知道谁有NG7吗?</text>
 	</string>
         <string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_2">
 		<text>对,我知道,你为什么感兴趣?</text>
@@ -4370,7 +4370,7 @@
 		<text>我能从你这里买吗?别问为什么...</text>
 	</string>
         <string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_4">
-		<text>如果你想要的话我可以卖给你,不过这不是生化武器. </text>
+		<text>如果你想要的话我可以卖给你,不过这不是生化武器.</text>
 	</string>
         <string id="jup_scientist_biochemist_bloodsucker_vaccine_dialog_5">
 		<text>告诉我你要这个做什么?</text>
@@ -5393,7 +5393,7 @@
 		<text>对.</text>
 	</string>
         <string id="pri_military_base_commander_assault_dialog_1">
-		<text>上校, 什么是 '火山' 行动? </text>
+		<text>上校, 什么是 '火山' 行动?</text>
 	</string>
         <string id="pri_military_base_commander_assault_dialog_2">
 		<text>行动的主要目标是消灭在撤离直升机降落区域附近聚集的敌人.我们组建了一个特遣队,然后把它们送到那些被焦脑的家伙那里.现在特遣队已经组织好了,正在等待命令.在这个高优先度的任务中,你的加入会很受欢迎.</text>
@@ -5405,8 +5405,7 @@
 		<text>我还没有准备好行动.</text>
 	</string>
         <string id="pri_military_base_commander_assault_dialog_5">
-		<text>太好了.现在特遣队里又五个人,少校赛加带头,他是这次行动指定的指挥官.现在特遣队在院子里,很快就要离开了.我会告诉赛加,你现在可以去院子
-</text>
+		<text>太好了.现在特遣队里又五个人,少校赛加带头,他是这次行动指定的指挥官.现在特遣队在院子里,很快就要离开了.我会告诉赛加,你现在可以去院子</text>
 	</string>
         <string id="pri_military_base_commander_assault_dialog_6">
 		<text>明白.</text>
@@ -5511,7 +5510,7 @@
 		<text>我还没有准备好.</text>
 	</string>
         <string id="pri_monolit_base_leader_jobs_dialog_26">
-		<text>是, 我已经准备好跟随 '黑石' 的道路了.我需要什么? </text>
+		<text>是, 我已经准备好跟随 '黑石' 的道路了.我需要什么?</text>
 	</string>
         <string id="pri_monolit_base_leader_jobs_dialog_27">
 		<text>你应该补充你和军队掠夺的 '黑石' 的补给,把你偷走的武器,弹药和医疗包放进去.会让行动中的兄弟们恢复力量,在他们有困难的时候帮助他们.</text>
@@ -6918,7 +6917,7 @@
 		<text>同意.我付500卢布取消费订购其它货物.</text>
 	</string>
         <string id="esc_stalker_trader_dialog_9">
-		<text>好吧. </text>
+		<text>好吧.</text>
 	</string>
         <string id="esc_stalker_trader_dialog_10">
 		<text>给,拿着.</text>
@@ -7698,16 +7697,16 @@
 		<text>没问题,我现在有了合适的工具,让我看看你有什么...</text>
 	</string>
 	<string id="novikov_detectors_modify_dialog_22">
-		<text>'回声'  探测器 </text>
+		<text>'回声'  探测器</text>
 	</string>
 	<string id="novikov_detectors_modify_dialog_23">
-		<text>'熊式'  探测器 </text>
+		<text>'熊式'  探测器</text>
 	</string>
 	<string id="novikov_detectors_modify_dialog_24">
-		<text>'维尔斯'  探测器 </text>
+		<text>'维尔斯'  探测器</text>
 	</string>
 	<string id="novikov_detectors_modify_dialog_25">
-		<text>'火龙'  探测器 </text>
+		<text>'火龙'  探测器</text>
 	</string>
 	<string id="novikov_detectors_modify_dialog_26">
 		<text>'Omega' 探测器</text>

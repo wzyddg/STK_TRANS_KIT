@@ -43,7 +43,7 @@ public class MainTrans {
 	static ArrayList<String> keyList = new ArrayList<String>();
 	static public String yandexKey = "";
 	static int errorSleepMilliSecond = 2000;
-	static boolean verbose = false; 
+	static boolean verbose = true; 
 	static HashMap<String, String> existingSentence = new HashMap<>();
 
 	public static void main(String[] args) throws Exception {
@@ -75,16 +75,16 @@ public class MainTrans {
 		// твари."));
 		// TODO Auto-generated method stub
 		// File rusDir = new File("D:\\AZMtext\\gameplay");
-		String existingFolderAddress = "D:\\SGM2.2_LostSoul_CNPack_Complete\\chs\\not_used_ssssnow";
-		String oriAddress = "D:\\SGM2.2_LostSoul_CNPack_Complete\\lack";
+		String existingFolderAddress = "C:\\Users\\i335877\\Desktop\\SGM2.2_LostSoul_CNPack_Complete\\chs\\not_used_now";
+		String oriAddress = "C:\\Users\\i335877\\Desktop\\SGM2.2_LostSoul_CNPack_Complete\\rus";
 		String chsAddress = "D:\\SGM2.2_LostSoul_CNPack_Complete\\chs";
 		File chsDir = new File(chsAddress);
 		File oriDir = new File(oriAddress);
-//		mapExistingFile(existingFolderAddress);
-//		existingFolderAddress = "D:\\SGM2.2_LostSoul_CNPack_Complete\\chs\\inc";
-//		mapExistingFile(existingFolderAddress);
-//		existingFolderAddress = "D:\\SGM2.2_LostSoul_CNPack_Complete\\chs";
-//		mapExistingFile(existingFolderAddress);
+		mapExistingFile(existingFolderAddress);
+		existingFolderAddress = "C:\\Users\\i335877\\Desktop\\SGM2.2_LostSoul_CNPack_Complete\\chs\\inc";
+		mapExistingFile(existingFolderAddress);
+		existingFolderAddress = "C:\\Users\\i335877\\Desktop\\SGM2.2_LostSoul_CNPack_Complete\\chs";
+		mapExistingFile(existingFolderAddress);
 		// File chsDir = new
 		// File("/Users/wzy/Desktop/SGM2.2_LostSoul_CNPack_Complete/chs");
 		ArrayList<String> finishedFiles = new ArrayList<String>();
@@ -108,13 +108,13 @@ public class MainTrans {
 				// return;
 				// }
 				// Thread.sleep(100);
-				translateTextFile(oriXMLs[i]);
+//				translateTextFile(oriXMLs[i]);
 			}
 			if (oriXMLs[i].isFile())
 				filesString = filesString+oriXMLs[i].getName().split("[. ]")[0]+", ";
 		}
 //		System.out.println(filesString);
-//		generateLackSentenceFile(oriAddress);
+		generateLackSentenceFile(oriAddress);
 //		generateLackSentenceFile("D:\\HoMtext\\rus");
 		System.out.println("lackFileNum:" + lackFileNum);
 	}
@@ -201,9 +201,25 @@ public class MainTrans {
 		}
 		verbose("ori:"+oriSentence.size());
 		verbose("exi:"+existingSentence.size());
-		for (String string : existingSentence.keySet()) {
-			oriSentence.remove(string);
+//		for (String string : existingSentence.keySet()) {
+//			oriSentence.remove(string);
+//		}
+		
+		
+		
+		
+		
+		for (String string : oriSentence.keySet()) {
+			existingSentence.remove(string);
 		}
+		oriSentence = existingSentence;
+		
+		
+		
+		
+		
+		
+		
 		verbose(""+oriSentence.size());
 		String resString = "";
 		LinkedList<String> keys = new LinkedList<>();

@@ -1,44 +1,44 @@
 	<string id="st_psy_complex">
-		<text> Psi复合剂 </text>
+		<text>Psi复合剂</text>
 	</string>
 	<string id="st_psy_complex_descr">
-		<text>能够有效减少psy辐射对身体的伤害, 阻止Psy对人脑的造成精神影响. </text>
+		<text>能够有效减少psy辐射对身体的伤害, 阻止Psy对人脑的造成精神影响.</text>
 	</string>
 	<string id="st_medkit_elite">
-		<text> 特制医疗箱 </text>
+		<text>特制医疗箱</text>
 	</string>
 	<string id="st_medkit_elite_descr">
-		<text> 特制急救医疗箱, 专门针对特异区设计. 里面包括了特制的医疗药物,能够迅速阻止伤口流血,提高人体对辐射的抵抗能力.防止辐射病的恶化,减小体内辐射量并回复耐力. </text>
+		<text>特制急救医疗箱, 专门针对特异区设计. 里面包括了特制的医疗药物,能够迅速阻止伤口流血,提高人体对辐射的抵抗能力.防止辐射病的恶化,减小体内辐射量并回复耐力.</text>
 	</string>
 	<string id="st_bio_bandage">
-		<text> 特制绷带 </text>
+		<text>特制绷带</text>
 	</string>
 	<string id="st_bio_bandage_descr">
-		<text>强力的止血绷带. 能止血并降低体内的辐射量. </text>
+		<text>强力的止血绷带. 能止血并降低体内的辐射量.</text>
 	</string>
 	<string id="st_medkit_used">
 		<text>急救箱(已被使用过)</text>
 	</string>
 	<string id="st_medkit_used_descr">
-		<text>通用的一次性急救箱. 可用来治疗数种不同类型的伤害--创伤、烧伤, 中毒等等. 非常受潜行者欢迎.由于已经被使用过了, 所以它的效果没有新的好. </text>
+		<text>通用的一次性急救箱. 可用来治疗数种不同类型的伤害--创伤、烧伤, 中毒等等. 非常受潜行者欢迎.由于已经被使用过了, 所以它的效果没有新的好.</text>
 	</string>
 	<string id="st_medkit_army_used">
-		<text>军用急救箱(已被使用过) </text>
+		<text>军用急救箱(已被使用过)</text>
 	</string>
 	<string id="st_medkit_army_used_descr">
-		<text> 一种专门的急救箱用来在战场上进行急救. 里面包含有维生素K制作的凝血剂、止痛药、抗生素, 免疫素. 还有简单的外科工具来拔出弹片和子弹.由于已经被使用过了, 所以它的效果没有新的好.  </text>
+		<text>一种专门的急救箱用来在战场上进行急救. 里面包含有维生素K制作的凝血剂、止痛药、抗生素, 免疫素. 还有简单的外科工具来拔出弹片和子弹.由于已经被使用过了, 所以它的效果没有新的好.</text>
 	</string>
 	<string id="st_medkit_science_used">
 		<text>科学家急救箱(已被使用过)</text>
 	</string>
 	<string id="st_medkit_science_used_descr">
-		<text> 这种急救箱专门针对变异区设计. 这个急救箱包含了处理伤口和阻止辐射中毒发展以及降低辐射体内残留的药物.由于已经被使用过了, 所以它的效果没有新的好. </text>
+		<text>这种急救箱专门针对变异区设计. 这个急救箱包含了处理伤口和阻止辐射中毒发展以及降低辐射体内残留的药物.由于已经被使用过了, 所以它的效果没有新的好.</text>
 	</string>
 	<string id="st_medkit_elite_used">
-		<text>特制医疗箱 (已被使用过) </text>
+		<text>特制医疗箱 (已被使用过)</text>
 	</string>
 	<string id="st_medkit_elite_used_descr">
-		<text> 特制急救医疗箱, 专门针对特异区设计. 里面包括了特制的医疗药物,能够迅速阻止伤口流血,提高人体对辐射的抵抗能力.防止辐射病的恶化,减小体内辐射量并回复耐力.由于已经被使用过了, 所以它的效果没有新的好. </text>
+		<text>特制急救医疗箱, 专门针对特异区设计. 里面包括了特制的医疗药物,能够迅速阻止伤口流血,提高人体对辐射的抵抗能力.防止辐射病的恶化,减小体内辐射量并回复耐力.由于已经被使用过了, 所以它的效果没有新的好.</text>
 	</string>
 	<string id="st_drug_engine">
 		<text>抗毒剂</text>

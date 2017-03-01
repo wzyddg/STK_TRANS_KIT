@@ -2,7 +2,7 @@
 		<text>主要结构重置</text>
 	</string>
 	<string id="st_up_change_components_descr">
-		<text>把武器所有的主要结构零件替换成针对变异区环境的零件,能够大幅提高枪支的战斗力. </text>
+		<text>把武器所有的主要结构零件替换成针对变异区环境的零件,能够大幅提高枪支的战斗力.</text>
 	</string>
 	<string id="st_up_technological_fortification_name">
 		<text>高科技合金替换</text>
@@ -44,25 +44,25 @@
 		<text>内装燃气罐</text>
 	</string>
 	<string id="st_upgrade_demo_kanistra_descr">
-		<text>通过增加一个小型的燃气罐用来释放燃气,并在气体达到点燃装之前完全燃烧以用于增加战斗时的火力. </text>
+		<text>通过增加一个小型的燃气罐用来释放燃气,并在气体达到点燃装之前完全燃烧以用于增加战斗时的火力.</text>
 	</string>
 	<string id="st_upgrade_demo_ballon_name">
 		<text>相同的气体罐</text>
 	</string>
 	<string id="st_upgrade_demo_ballon_descr">
-		<text>有了这个旧式的相同的气体罐,同一时间之内你就能放出更多可燃气体增强更多的火力. </text>
+		<text>有了这个旧式的相同的气体罐,同一时间之内你就能放出更多可燃气体增强更多的火力.</text>
 	</string>
 	<string id="st_upgrade_demo_barrel_name">
 		<text>相同的燃料桶</text>
 	</string>
 	<string id="st_upgrade_demo_barrel_descr">
-		<text>有了这个燃料桶,同一时间之内你就能放出更多可燃气体增强更多的火力. </text>
+		<text>有了这个燃料桶,同一时间之内你就能放出更多可燃气体增强更多的火力.</text>
 	</string>
 	<string id="st_upgr_signaller_toolkit_1">
-		<text>修改装备需要军用工具 ORK-42 </text>
+		<text>修改装备需要军用工具 ORK-42</text>
 	</string>
 	<string id="st_upgr_signaller_toolkit_2">
-		<text>修改装备需要军用工具 RCH-86u </text>
+		<text>修改装备需要军用工具 RCH-86u</text>
 	</string>
 	<string id="st_upgr_need_completing">
 		<text>需要工具/升级</text>

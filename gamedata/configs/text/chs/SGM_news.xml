@@ -56,7 +56,7 @@
 		<text>修理失败,\n 你没有相同的零件</text>
 	</string>
 	<string id="st_revealled_area">
-		<text> 地名:</text>
+		<text>地名:</text>
 	</string>
 	<string id="st_loot_entry">
 		<text>增加电子货币:</text>
@@ -104,7 +104,7 @@
 		<text>'潜行者'</text>
 	</string>
         <string id="st_medal_tip_text4">
-		<text>'老手' </text>
+		<text>'老手'</text>
 	</string>
         <string id="st_medal_tip_text5">
 		<text>'老兵'</text>
@@ -113,13 +113,13 @@
 		<text>'大师'</text>
 	</string>
         <string id="st_medal_tip_text7">
-		<text>'精英' </text>
+		<text>'精英'</text>
 	</string>
         <string id="st_medal_tip_text8">
-		<text>'变异区英雄' </text>
+		<text>'变异区英雄'</text>
 	</string>
         <string id="st_medal_tip_text9">
-		<text>'传奇的潜行者' </text>
+		<text>'传奇的潜行者'</text>
 	</string>
         <string id="st_medal_tip_text10">
 		<text>'普利皮亚的召唤'</text>
@@ -443,7 +443,7 @@
 		<text>很好. 这个据点现在是我们的了. 返回临时营地.</text>
 	</string>
 	<string id="mil_bolted_influence_target_b5_captured_text">
-		<text>我们几乎就要完全控制这一地区了. 下一步就是西部哨所. </text>
+		<text>我们几乎就要完全控制这一地区了. 下一步就是西部哨所.</text>
 	</string>
 	<string id="mil_bolted_influence_target_b6_captured_text">
 		<text>我们做到了! 我们已经完全控制这一地区了!</text>
