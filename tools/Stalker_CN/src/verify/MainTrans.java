@@ -56,8 +56,7 @@ public class MainTrans {
 		
 		if (args.length == 0) {
 			printHelp();
-		}
-		if (args[0].equals("-transT")) {
+		}else if (args[0].equals("-transT")) {
 //			-transT api orilang targlang oridir [exdir [sleep [verb]]]
 			if (args.length<5) {
 				System.err.println("too few parameters. use -h to see help.");
@@ -229,7 +228,7 @@ public class MainTrans {
 		System.out.println("NOTE: ");
 		System.out.println("\tyou'll need to escape all the spaces in every folder address by yourself, I'm not doing that for you.");
 		System.out.println("\tevery original file needs to be saved in encoding windows-1251.");
-		
+		System.out.println("\tI worked a lot on robust, but I won't guarantee a instant usable collection of translated .xml file, you may need to make a little adjustment yourself.");
 	}
 	
 	public static void mapExistingFile(String existingFolderAddress) throws ClassNotFoundException, IOException {
