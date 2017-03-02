@@ -430,7 +430,7 @@
 		<text>如果枪管作出异常动作它会立即的修复相应的位置,附加的补偿孔会立即打开.</text>
 	</string>
 	<string id="st_up_auto_c6_name">
-		<text>安装一个"智能补偿器"装置</text>
+		<text>安装一个'智能补偿器'装置</text>
 	</string>
 	<string id="st_up_auts_a1_descr">
 		<text>一种现代化的扳机组件,能让枪机运动更顺利,这对狙击手来说非常的重要.</text>
@@ -490,7 +490,7 @@
 		<text>改进型短导气管和增长型枪管,并且改进了包裹枪管的护木用以增加射击精确度</text>
 	</string>
 	<string id="st_up_bar_a2_name">
-		<text>安装一个"自由浮置"式枪管</text>
+		<text>安装一个'自由浮置'式枪管</text>
 	</string>
 	<string id="st_up_bar_a3_descr">
 		<text>这项改装是为了减少因为武器过高的射速而对枪管造成的伤害.</text>
@@ -1435,7 +1435,7 @@
 		<text>这种第一代注射器是基辅的一个研究机构研发的,它会给人体的血液中注射小量的肾上腺素,这可能对人体有些伤害,但在紧急情况下可以挽救人的生命.</text>
 	</string>
 	<string id="st_up_tch_a1_name">
-		<text>"暴君"肾上腺注射器</text>
+		<text>'暴君'肾上腺注射器</text>
 	</string>
 	<string id="st_up_tch_a2_descr">
 		<text>净化或冷冻有毒物质的净化呼吸过滤系统.</text>
@@ -1459,7 +1459,7 @@
 		<text>B型注射器,当穿戴者的血压显著下降时它会为其注射凝血剂在其血液中.</text>
 	</string>
 	<string id="st_up_tch_b1_name">
-		<text>"水螅"血红蛋白注射器</text>
+		<text>'水螅'血红蛋白注射器</text>
 	</string>
 	<string id="st_up_tch_b2_descr">
 		<text>这个系统可以防止使用者体力虚脱,让其一直在保持最佳的身体温度.</text>
@@ -1471,7 +1471,7 @@
 		<text>这种微波发射器安装在使用者的胸部位置,它可以显著的提高伤口的愈合速度和使用者的免疫系统,但是长期使用之后一旦使用者停止使用时,可能会有些不适.</text>
 	</string>
 	<string id="st_up_tch_b3_name">
-		<text>"太阳神"生物刺激仪</text>
+		<text>'太阳神'生物刺激仪</text>
 	</string>
 	<string id="st_up_tch_b4_descr">
 		<text>这种科学波段设备是为在PSY风暴异常区工作而专门研制的.</text>
@@ -1483,7 +1483,7 @@
 		<text>C型注射器可以干掉一切进入到使用者血液里的可以物质,改善受损组织的再生并且能够消除疼痛感.</text>
 	</string>
 	<string id="st_up_tch_c1_name">
-		<text>"凤凰"复苏系统</text>
+		<text>'凤凰'复苏系统</text>
 	</string>
 	<string id="st_up_tch_c2_descr">
 		<text>这是一种可以监测穿戴者的健康状况,维生素供应和肾上腺素以及合成代谢物质需求量的综合系统.</text>
@@ -1591,7 +1591,7 @@
 		<text>这种新技术改装可以让击发机构更加的简单,以此改善武器的射击模式——让武器向更人性化的方向改进,校准武器也更加的简单.</text>
 	</string>
 	<string id="st_up_usmp_c2_name">
-		<text>"双发点射"模式</text>
+		<text>'双发点射'模式</text>
 	</string>
 	<string id="st_up_usmp_c3_descr">
 		<text>一旦开火后,接下来只要扣下一半的扳机行程武器就会射击.</text>
@@ -1657,7 +1657,7 @@
 		<text>这个系统是一个特殊的电场屏蔽装置,它可以瞬间产生和特异点相同的电力来减少其对穿戴者造成的伤害.</text>
 	</string>
 	<string id="st_up_uti_b5_name">
-		<text>"电鳐"静电反制系统</text>
+		<text>'电鳐'静电反制系统</text>
 	</string>
 	<string id="st_up_uti_b6_descr">
 		<text>药物内衬可以防止穿戴者化学中毒.</text>
@@ -1687,7 +1687,7 @@
 		<text>安装在作战服里的战斗支援系统.它主要装备给特种部队使用.它内部预装的有肾上腺素和凝血系统.</text>
 	</string>
 	<string id="st_up_uti_c2_name">
-		<text>"瓦戈"战斗支援系统</text>
+		<text>'瓦戈'战斗支援系统</text>
 	</string>
 	<string id="st_up_uti_c3_descr">
 		<text>这是战斗支援系统的原型样式,设计者放弃了对人体有害的肾上腺素注射器,替换上了带有药物愈合型的凝血系统.</text>
@@ -2008,7 +2008,7 @@
 		<text>需要先前部分的修改</text>
 	</string>
 	<string id="st_up_arm_c9_name">
-		<text>基于蓝宝石晶体的"犰狳"保护覆盖层</text>
+		<text>基于蓝宝石晶体的'犰狳'保护覆盖层</text>
 	</string>
 	<string id="st_up_arm_c5_name">
 		<text>增强型钛铍合金</text>

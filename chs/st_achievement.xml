@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <string_table>
 	<string id="st_achievement_10_descr">
 		<text>你的敌人被你连续杀死十次,但是他却没能杀掉你一次!他们一定感到非常的丢脸!你并不是残忍的刽子手,你只是给了他们一个理由让他们继续练习.</text>
@@ -169,7 +169,7 @@
 		<text>暴走战士</text>
 	</string>
 	<string id="st_achievement_8_descr">
-		<text>就算最强大的对手也有他的弱点.你找到了他的"致命弱点",并用手枪直接击爆了他们的头.</text>
+		<text>就算最强大的对手也有他的弱点.你找到了他的'致命弱点',并用手枪直接击爆了他们的头.</text>
 	</string>
 	<string id="st_achievement_8_name">
 		<text>阿喀琉斯之踵</text>
@@ -199,7 +199,7 @@
 		<text>潜行者们对你心怀感激.\n为了对你表示尊重,潜行者们在你的个人物品箱中留下药物补给(斯卡多夫斯克)</text>
 	</string>
 	<string id="st_sp_achievement_3_descr">
-		<text>你把"斯卡多夫斯克"潜行者消失的秘密告诉了其他潜行者:幕后真凶并不是变异怪物,而是更加危险的敌人——人类.你追求事情真相的精神赢得了潜行者们对你的尊重</text>
+		<text>你把'斯卡多夫斯克'潜行者消失的秘密告诉了其他潜行者:幕后真凶并不是变异怪物,而是更加危险的敌人——人类.你追求事情真相的精神赢得了潜行者们对你的尊重</text>
 	</string>
 	<string id="st_sp_achievement_3_name">
 		<text>侦探</text>

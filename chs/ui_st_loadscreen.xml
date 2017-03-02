@@ -1,55 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <string_table>
 	<string id="ls_header">
 		<text>特异区生存法则100条</text>
-	</string>
-	<string id="ls_mp_tip_16">
-		<text>向敌人的眼部射击能快速杀死对方,无论他们的装甲有多厚.</text>
-	</string>
-	<string id="ls_mp_tip_19">
-		<text>AN-94具有独特的高速两发点射模式.在这种模式下,连续发射的两枚子弹几乎可以打到同一个点上.</text>
-	</string>
-	<string id="ls_mp_tip_21">
-		<text>双管猎枪的两根枪管几乎可以同时开枪.</text>
-	</string>
-	<string id="ls_mp_tip_25">
-		<text>不要低估手枪.它们提供的停止作用相当强大,子弹的伤害并不低.对付装甲薄弱的目标非常有效.</text>
-	</string>
-	<string id="ls_mp_tip_32">
-		<text>狙击步枪是远距离消灭敌人的理想武器,它们发射的子弹拥有相当平直的弹道和高准确性.它们在近距离作战则没有什么优势.</text>
-	</string>
-	<string id="ls_mp_tip_33">
-		<text>原地站着不动或者蹲下开枪的命中率比移动的时候要高得多.</text>
-	</string>
-	<string id="ls_mp_tip_34">
-		<text>特异区恶劣的环境会加速武器和防具的损耗.损耗过度的武器容易发生失准和卡壳的现象,损耗过度的防具其保护作用则会大打折扣.</text>
-	</string>
-	<string id="ls_mp_tip_54">
-		<text>截屏请按"$$ACTION_SCREENSHOT$$".</text>
-	</string>
-	<string id="ls_mp_tip_9">
-		<text>神器或它的携带者会在迷你地图上显示.如果神器离你很远,在迷你地图上会有箭头指向它的位置.</text>
-	</string>
-	<string id="ls_tip_37">
-		<text>AN-94具有独特的高速两发点射模式.在这种模式下,连续发射的两枚子弹几乎可以打到同一个点上.</text>
-	</string>
-	<string id="ls_tip_39">
-		<text>双管猎枪的两根枪管几乎可以同时开枪.</text>
-	</string>
-	<string id="ls_tip_43">
-		<text>不要低估手枪.它们提供的停止作用相当强大,子弹的伤害并不低,对付装甲薄弱的目标非常有效.</text>
-	</string>
-	<string id="ls_tip_50">
-		<text>狙击步枪是远距离消灭敌人的理想武器,它们发射的子弹拥有相当平直的弹道和高准确性.它们在近距离作战则没有什么优势.</text>
-	</string>
-	<string id="ls_tip_52">
-		<text>特异区恶劣的环境会加速武器和防具的损耗.损耗过度的武器容易发生失准和卡壳的现象,而损坏的防具则会降低保护作用.</text>
-	</string>
-	<string id="ls_tip_56">
-		<text>每一种医用药品都有独特的功能.例如类固醇能让你暂时背负更多的重量,PSY抗剂能帮助你抵御PSY辐射.</text>
-	</string>
-	<string id="ls_tip_83">
-		<text>截屏请按"$$ACTION_SCREENSHOT$$".</text>
 	</string>
 	<string id="ls_tip_number">
 		<text>提示 #</text>
@@ -58,16 +10,16 @@
 		<text>伏特加是抗辐射药的廉价替代品,饮用伏特加是减少人体辐射量的最简单的方法.</text>
 	</string>
 	<string id="ls_tip_10">
-		<text>你可以按住"$$ACTION_SCORES$$"键来查看当前任务的详细信息.</text>
+		<text>你可以按住'$$ACTION_SCORES$$'键来查看当前任务的详细信息.</text>
 	</string>
 	<string id="ls_tip_13">
 		<text>你需要一个探测器来搜寻神器.最好的探测器不仅可以更容易地搜索神器,而且可以探测到更珍贵的神器.</text>
 	</string>
 	<string id="ls_tip_14">
-		<text>潜行者们不允许别人持枪进入营地.按对应的按键收起你的武器("$$ACTION_WPN_1$$","$$ACTION_WPN_2$$","$$ACTION_WPN_3$$","$$ACTION_WPN_4$$").</text>
+		<text>潜行者们不允许别人持枪进入营地.按对应的按键收起你的武器('$$ACTION_WPN_1$$','$$ACTION_WPN_2$$','$$ACTION_WPN_3$$','$$ACTION_WPN_4$$').</text>
 	</string>
 	<string id="ls_tip_15">
-		<text>你可以通过扔螺栓来估算变异点的位置.按下"$$ACTION_WPN_6$$"取出螺栓.</text>
+		<text>你可以通过扔螺栓来估算变异点的位置.按下'$$ACTION_WPN_6$$'取出螺栓.</text>
 	</string>
 	<string id="ls_tip_17">
 		<text>食物不仅可以用来充饥,还能少量地恢复你的健康.</text>
@@ -121,7 +73,7 @@
 		<text>要拆卸消音器,瞄准镜和榴弹发射器,在背包中右键点击武器,并选择相应的动作.</text>
 	</string>
 	<string id="ls_tip_40">
-		<text>如果想要用最小的声音移动,按下"$$ACTION_ACCEL$$"行走或者"$$ACTION_CROUCH$$"蹲下行走.</text>
+		<text>如果想要用最小的声音移动,按下'$$ACTION_ACCEL$$'行走或者'$$ACTION_CROUCH$$'蹲下行走.</text>
 	</string>
 	<string id="ls_tip_41">
 		<text>霰弹枪是近战武器.你离敌人越远,它们的作用越小.</text>
@@ -136,7 +88,7 @@
 		<text>每种变异生物都有独特的战斗方式.如果你知道到这些,你将更容易生存下来.</text>
 	</string>
 	<string id="ls_tip_46">
-		<text>你可以通过按住"$$ACTION_WPN_ZOOM$$"来控制手雷的抛掷距离.</text>
+		<text>你可以通过按住'$$ACTION_WPN_ZOOM$$'来控制手雷的抛掷距离.</text>
 	</string>
 	<string id="ls_tip_47">
 		<text>敌人的手雷使得出神入化.当你看见手雷指标的时候,请立即离开它的杀伤范围.</text>
@@ -169,7 +121,7 @@
 		<text>你可以将你的东西放在营地中的私人储物箱里,避免过多的负重影响行动.</text>
 	</string>
 	<string id="ls_tip_64">
-		<text>如果你想打发时间,你可以在营地打个盹.先找张床,按"$$ACTION_USE$$",然后选择你想起床的时间.</text>
+		<text>如果你想打发时间,你可以在营地打个盹.先找张床,按'$$ACTION_USE$$',然后选择你想起床的时间.</text>
 	</string>
 	<string id="ls_tip_65">
 		<text>你的夜视仪可以升级,这将极大地扩展它的视野范围.</text>
@@ -211,61 +163,61 @@
 		<text>你可以使用绷带、军用医药包或者止血剂来止血.如果不迅速处理好伤口,你会流血致死.</text>
 	</string>
 	<string id="ls_tip_80">
-		<text>某些武器允许你安装可变焦高倍瞄准镜.要调节倍数,按"$$ACTION_NEXT_SLOT$$"或"$$ACTION_PREV_SLOT$$".</text>
+		<text>某些武器允许你安装可变焦高倍瞄准镜.要调节倍数,按'$$ACTION_NEXT_SLOT$$'或'$$ACTION_PREV_SLOT$$'.</text>
 	</string>
 	<string id="ls_tip_82">
-		<text>有些地方即使蹲下也无法通过.为了蹲得更低,你要同时按住"$$ACTION_CROUCH$$"和"$$ACTION_ACCEL$$".</text>
+		<text>有些地方即使蹲下也无法通过.为了蹲得更低,你要同时按住'$$ACTION_CROUCH$$'和'$$ACTION_ACCEL$$'.</text>
 	</string>
 	<string id="ls_tip_84">
-		<text>为了减少你被子弹打中的几率,你可以躲在掩体后面探出身子还击.要探出身体,请按住"$$ACTION_LLOOKOUT$$"或"$$ACTION_RLOOKOUT$$".</text>
+		<text>为了减少你被子弹打中的几率,你可以躲在掩体后面探出身子还击.要探出身体,请按住'$$ACTION_LLOOKOUT$$'或'$$ACTION_RLOOKOUT$$'.</text>
 	</string>
 	<string id="ls_tip_85">
-		<text>由于望远镜内置定位系统,你不但可以看清远处的物体,还可以看到隐藏的敌人,要拿出望远镜,请按"$$ACTION_WPN_5$$".</text>
+		<text>由于望远镜内置定位系统,你不但可以看清远处的物体,还可以看到隐藏的敌人,要拿出望远镜,请按'$$ACTION_WPN_5$$'.</text>
 	</string>
 	<string id="ls_tip_86">
-		<text>要打开或关闭你的手电筒,请按"$$ACTION_TORCH$$".</text>
+		<text>要打开或关闭你的手电筒,请按'$$ACTION_TORCH$$'.</text>
 	</string>
 	<string id="ls_tip_87">
-		<text>要拿出螺栓,请按"$$ACTION_WPN_6$$".</text>
+		<text>要拿出螺栓,请按'$$ACTION_WPN_6$$'.</text>
 	</string>
 	<string id="ls_tip_88">
-		<text>如果你的头盔上装有夜视设备,按"$$ACTION_NIGHT_VISION$$"开启或者停用它.</text>
+		<text>如果你的头盔上装有夜视设备,按'$$ACTION_NIGHT_VISION$$'开启或者停用它.</text>
 	</string>
 	<string id="ls_tip_89">
-		<text>按"$$ACTION_QUICK_USE_1$$","$$ACTION_QUICK_USE_2$$","$$ACTION_QUICK_USE_3$$","$$ACTION_QUICK_USE_4$$"使用快捷面板中相应的物品.</text>
+		<text>按'$$ACTION_QUICK_USE_1$$','$$ACTION_QUICK_USE_2$$','$$ACTION_QUICK_USE_3$$','$$ACTION_QUICK_USE_4$$'使用快捷面板中相应的物品.</text>
 	</string>
 	<string id="ls_tip_9">
 		<text>有些药物不会立即起效,而是在一段时间内持续发挥药效.</text>
 	</string>
 	<string id="ls_tip_90">
-		<text>你的PDA有地区地图,当前任务信息,你的个人数据和消息日志.要打开PDA,请按"$$ACTION_ACTIVE_JOBS$$".</text>
+		<text>你的PDA有地区地图,当前任务信息,你的个人数据和消息日志.要打开PDA,请按'$$ACTION_ACTIVE_JOBS$$'.</text>
 	</string>
 	<string id="ls_tip_91">
-		<text>你需要拿着探测器来搜寻神器.要拿出探测器,请按"$$ACTION_SHOW_DETECTOR$$".</text>
+		<text>你需要拿着探测器来搜寻神器.要拿出探测器,请按'$$ACTION_SHOW_DETECTOR$$'.</text>
 	</string>
 	<string id="ls_tip_92">
-		<text>要暂停游戏,请按"$$ACTION_PAUSE$$".</text>
+		<text>要暂停游戏,请按'$$ACTION_PAUSE$$'.</text>
 	</string>
 	<string id="ls_tip_93">
-		<text>要快速保存,请按"$$ACTION_QUICK_SAVE$$".按"$$ACTION_QUICK_LOAD$$"可以快速载入最近一次快速保存的游戏.</text>
+		<text>要快速保存,请按'$$ACTION_QUICK_SAVE$$'.按'$$ACTION_QUICK_LOAD$$'可以快速载入最近一次快速保存的游戏.</text>
 	</string>
 	<string id="ls_tip_94">
-		<text>奔跑是最快的移动方式,当然,也是最累的.按"$$ACTION_SPRINT_TOGGLE$$"奔跑.</text>
+		<text>奔跑是最快的移动方式,当然,也是最累的.按'$$ACTION_SPRINT_TOGGLE$$'奔跑.</text>
 	</string>
 	<string id="ls_tip_95">
-		<text>瞄准射击要比拿着枪乱扫好的多.要瞄准,按"$$ACTION_WPN_ZOOM$$".</text>
+		<text>瞄准射击要比拿着枪乱扫好的多.要瞄准,按'$$ACTION_WPN_ZOOM$$'.</text>
 	</string>
 	<string id="ls_tip_96">
-		<text>如果你的步枪装有榴弹发射器,你可以按"$$ACTION_WPN_FUNC$$"在榴弹发射模式和普通射击模式之间切换.</text>
+		<text>如果你的步枪装有榴弹发射器,你可以按'$$ACTION_WPN_FUNC$$'在榴弹发射模式和普通射击模式之间切换.</text>
 	</string>
 	<string id="ls_tip_97">
-		<text>如果你目前装备的武器可以使用不同类型的弹药,你可以按"$$ACTION_WPN_NEXT$$"切换弹药类型.</text>
+		<text>如果你目前装备的武器可以使用不同类型的弹药,你可以按'$$ACTION_WPN_NEXT$$'切换弹药类型.</text>
 	</string>
 	<string id="ls_tip_98">
-		<text>如果想要在弹匣打空之前换弹匣,请按"$$ACTION_WPN_RELOAD$$".</text>
+		<text>如果想要在弹匣打空之前换弹匣,请按'$$ACTION_WPN_RELOAD$$'.</text>
 	</string>
 	<string id="ls_tip_99">
-		<text>要丢弃当前的武器,请按"$$ACTION_DROP$$".</text>
+		<text>要丢弃当前的武器,请按'$$ACTION_DROP$$'.</text>
 	</string>
 	<string id="ls_tip_6">
 		<text>躲避电磁风暴,需要找到可靠的掩体建筑物或地下设施.电磁风暴爆发时,最近的避难所会显示在PDA上.</text>
@@ -298,13 +250,94 @@
 		<text>潜行者营地中的技师可以为你的武器、装甲和头盔提供升级服务.</text>
 	</string>
 	<string id="ls_tip_66">
-		<text>如果你想在特异区活下来,要时刻注意盖革计数器发出的"噼噼"声,它能提醒你附近是否有辐射,另外异常信号也能提醒你附近有危险的变异点.</text>
+		<text>如果你想在特异区活下来,要时刻注意盖革计数器发出的'噼噼'声,它能提醒你附近是否有辐射,另外异常信号也能提醒你附近有危险的变异点.</text>
 	</string>
 	<string id="ls_tip_26">
 		<text>你和别人的关系会直接影响到商品价格和服务费用.如果你们的关系不好,别指望他会给你打折.如果你和商人的关系很好,他们甚至可能会为你提供一些稀有的物品.</text>
 	</string>
 	<string id="ls_tip_11">
 		<text>你可以将武器中的弹药卸下来.你可以在背包中右键单击武器,然后选择相应的动作.</text>
+	</string>
+	<string id="ls_tip_100">
+		<text>要查看你的背包,请按'$$ACTION_INVENTORY$$'.</text>
+	</string>
+	<string id="ls_tip_36">
+		<text>要维修物品,你需要找到一位技师,当你从屏幕中选择了要维修的物品时,点击维修按钮.你也可以在这个窗口中右键点击要维修的物品并选择相应的动作.</text>
+	</string>
+	<string id="ls_tip_81">
+		<text>大多数武器都有数种射击模式.按'$$ACTION_WPN_FIREMODE_NEXT$$'或'$$ACTION_WPN_FIREMODE_PREV$$'可以在不同的模式之间切换.</text>
+	</string>
+	<string id="ls_tip_7">
+		<text>平直度会影响子弹的轨迹,在射击前应该提前预测弹头的弹着点.</text>
+	</string>
+	<string id="ls_tip_5">
+		<text>有些防护服和头盔是一体式的,装备这样的防具时无法再装备其他的头盔.</text>
+	</string>
+	<string id="ls_tip_76">
+		<text>每一件武器都有不同的准确性、操作性、伤害以及射速,你可以从中选择最适合你的那一种.</text>
+	</string>
+	<string id="ls_tip_19">
+		<text>如果要外出很长时间,记得带上食物.你饥饿的时候,耐力回复将变得十分缓慢.</text>
+	</string>
+	<string id="ls_tip_51">
+		<text>当你移动时,射击精度会大大下降.保持站立或下蹲的姿势以提高命中率.</text>
+	</string>
+	<string id="ls_tip_16">
+		<text>在特异区,辐射是最常见的威胁之一.被大剂量辐射照射对你的健康危害极大,如果不及时医治,将有生命危险.</text>
+	</string>
+	<string id="ls_mp_tip_10">
+		<text>抗疲劳饮料能暂时提高耐力的回复速度,让你冲刺更长的时间.</text>
+	</string>
+	<string id="ls_mp_tip_12">
+		<text>在死亡竞赛模式下弹药无限.</text>
+	</string>
+	<string id="ls_mp_tip_16">
+		<text>向敌人的眼部射击能快速杀死对方,无论他们的装甲有多厚.</text>
+	</string>
+	<string id="ls_mp_tip_19">
+		<text>AN-94具有独特的高速两发点射模式.在这种模式下,连续发射的两枚子弹几乎可以打到同一个点上.</text>
+	</string>
+	<string id="ls_mp_tip_21">
+		<text>双管猎枪的两根枪管几乎可以同时开枪.</text>
+	</string>
+	<string id="ls_mp_tip_25">
+		<text>不要低估手枪.它们提供的停止作用相当强大,子弹的伤害并不低.对付装甲薄弱的目标非常有效.</text>
+	</string>
+	<string id="ls_mp_tip_32">
+		<text>狙击步枪是远距离消灭敌人的理想武器,它们发射的子弹拥有相当平直的弹道和高准确性.它们在近距离作战则没有什么优势.</text>
+	</string>
+	<string id="ls_mp_tip_33">
+		<text>原地站着不动或者蹲下开枪的命中率比移动的时候要高得多.</text>
+	</string>
+	<string id="ls_mp_tip_34">
+		<text>特异区恶劣的环境会加速武器和防具的损耗.损耗过度的武器容易发生失准和卡壳的现象,损耗过度的防具其保护作用则会大打折扣.</text>
+	</string>
+	<string id="ls_mp_tip_54">
+		<text>截屏请按'$$ACTION_SCREENSHOT$$'.</text>
+	</string>
+	<string id="ls_mp_tip_9">
+		<text>神器或它的携带者会在迷你地图上显示.如果神器离你很远,在迷你地图上会有箭头指向它的位置.</text>
+	</string>
+	<string id="ls_tip_37">
+		<text>AN-94具有独特的高速两发点射模式.在这种模式下,连续发射的两枚子弹几乎可以打到同一个点上.</text>
+	</string>
+	<string id="ls_tip_39">
+		<text>双管猎枪的两根枪管几乎可以同时开枪.</text>
+	</string>
+	<string id="ls_tip_43">
+		<text>不要低估手枪.它们提供的停止作用相当强大,子弹的伤害并不低,对付装甲薄弱的目标非常有效.</text>
+	</string>
+	<string id="ls_tip_50">
+		<text>狙击步枪是远距离消灭敌人的理想武器,它们发射的子弹拥有相当平直的弹道和高准确性.它们在近距离作战则没有什么优势.</text>
+	</string>
+	<string id="ls_tip_52">
+		<text>特异区恶劣的环境会加速武器和防具的损耗.损耗过度的武器容易发生失准和卡壳的现象,而损坏的防具则会降低保护作用.</text>
+	</string>
+	<string id="ls_tip_56">
+		<text>每一种医用药品都有独特的功能.例如类固醇能让你暂时背负更多的重量,PSY抗剂能帮助你抵御PSY辐射.</text>
+	</string>
+	<string id="ls_tip_83">
+		<text>截屏请按'$$ACTION_SCREENSHOT$$'.</text>
 	</string>
 	<string id="ls_mp_tip_1">
 		<text>杀死敌人或者成功夺取神器的时候可以提升你的等级.当你的等级提升时,你将可以装备新的武器和装备.</text>
@@ -319,10 +352,10 @@
 		<text>购买菜单的右侧部分包含四个快速购物栏.按磁盘图标可以保存购物清单,当按对应数字时则可以载入对应的清单.第四个将自动保存最近购买的物品种类.</text>
 	</string>
 	<string id="ls_mp_tip_15">
-		<text>如果你有一个以上的武器,你可以通过按"$$ACTION_WPN_3$$"在它们之间切换.</text>
+		<text>如果你有一个以上的武器,你可以通过按'$$ACTION_WPN_3$$'在它们之间切换.</text>
 	</string>
 	<string id="ls_mp_tip_17">
-		<text>神器可以用来制造变异点.你需要按"$$ACTION_ARTEFACT$$"拿出神器并按住"$$ACTION_WPN_FIRE$$"来制造变异点.这个变异点对于敌人和创造它的人来说是同样危险的.</text>
+		<text>神器可以用来制造变异点.你需要按'$$ACTION_ARTEFACT$$'拿出神器并按住'$$ACTION_WPN_FIRE$$'来制造变异点.这个变异点对于敌人和创造它的人来说是同样危险的.</text>
 	</string>
 	<string id="ls_mp_tip_18">
 		<text>当你身处变异点或辐射区时,科学家防护服能让你生存下去.</text>
@@ -334,7 +367,7 @@
 		<text>要拆卸消音器,瞄准镜和榴弹发射器,在背包中右键点击武器,并选择相应的动作.</text>
 	</string>
 	<string id="ls_mp_tip_22">
-		<text>如果想要用最小的声音移动,按下"$$ACTION_ACCEL$$"行走或者"$$ACTION_CROUCH$$"蹲下行走.</text>
+		<text>如果想要用最小的声音移动,按下'$$ACTION_ACCEL$$'行走或者'$$ACTION_CROUCH$$'蹲下行走.</text>
 	</string>
 	<string id="ls_mp_tip_23">
 		<text>霰弹枪是近战武器.你离敌人越远,它们越不能发挥作用.</text>
@@ -349,7 +382,7 @@
 		<text>加速移动、跳跃或是受伤会大大减少你的耐力.</text>
 	</string>
 	<string id="ls_mp_tip_28">
-		<text>你可以通过按住"$$ACTION_WPN_ZOOM$$"来调整把手雷扔多远.</text>
+		<text>你可以通过按住'$$ACTION_WPN_ZOOM$$'来调整把手雷扔多远.</text>
 	</string>
 	<string id="ls_mp_tip_29">
 		<text>敌人的手雷使得出神入化.当你看见手雷指标的时候,请立即离开它的杀伤范围.</text>
@@ -376,99 +409,66 @@
 		<text>请使用手雷攻击掩体后的敌人.你需要考虑到它的杀伤范围,避免误伤战友.</text>
 	</string>
 	<string id="ls_mp_tip_39">
-		<text>你可以与你的队伍成员之间使用语音信息.按"$$ACTION_SPEECH_MENU_0$$"或"$$ACTION_SPEECH_MENU_1$$"打开语音信息菜单.</text>
+		<text>你可以与你的队伍成员之间使用语音信息.按'$$ACTION_SPEECH_MENU_0$$'或'$$ACTION_SPEECH_MENU_1$$'打开语音信息菜单.</text>
 	</string>
 	<string id="ls_mp_tip_4">
 		<text>团队死亡竞赛:想要胜利,你的队伍需要取得比对方更多的分数.</text>
 	</string>
 	<string id="ls_mp_tip_40">
-		<text>可以通过按下"$$ACTION_VOTE_BEGIN$$"来发动投票.</text>
+		<text>可以通过按下'$$ACTION_VOTE_BEGIN$$'来发动投票.</text>
 	</string>
 	<string id="ls_mp_tip_41">
-		<text>按"$$ACTION_SCORES$$"查看游戏分数.</text>
+		<text>按'$$ACTION_SCORES$$'查看游戏分数.</text>
 	</string>
 	<string id="ls_mp_tip_42">
-		<text>当等待时间结束时按"$$ACTION_JUMP$$"重生.</text>
+		<text>当等待时间结束时按'$$ACTION_JUMP$$'重生.</text>
 	</string>
 	<string id="ls_mp_tip_43">
-		<text>在基地中,按"$$ACTION_BUY_MENU$$"打开购买菜单.</text>
+		<text>在基地中,按'$$ACTION_BUY_MENU$$'打开购买菜单.</text>
 	</string>
 	<string id="ls_mp_tip_44">
-		<text>你可以按"$$ACTION_CHAT$$"开启全体聊天.想只和队友聊天,按"$$ACTION_CHAT_TEAM$$"键.</text>
+		<text>你可以按'$$ACTION_CHAT$$'开启全体聊天.想只和队友聊天,按'$$ACTION_CHAT_TEAM$$'键.</text>
 	</string>
 	<string id="ls_mp_tip_45">
-		<text>奔跑是最快的移动方式,当然,也是最累的.按"$$ACTION_SPRINT_TOGGLE$$"奔跑.</text>
+		<text>奔跑是最快的移动方式,当然,也是最累的.按'$$ACTION_SPRINT_TOGGLE$$'奔跑.</text>
 	</string>
 	<string id="ls_mp_tip_46">
-		<text>瞄准射击要比拿着枪乱扫好的多.要瞄准,按"$$ACTION_WPN_ZOOM$$".</text>
+		<text>瞄准射击要比拿着枪乱扫好的多.要瞄准,按'$$ACTION_WPN_ZOOM$$'.</text>
 	</string>
 	<string id="ls_mp_tip_47">
-		<text>如果你的枪装有榴弹发射器,你可以按"$$ACTION_WPN_FUNC$$"在榴弹发射模式和普通射击模式之间切换.</text>
+		<text>如果你的枪装有榴弹发射器,你可以按'$$ACTION_WPN_FUNC$$'在榴弹发射模式和普通射击模式之间切换.</text>
 	</string>
 	<string id="ls_mp_tip_48">
-		<text>如果你目前装备的武器可以使用背包中不同类型的弹药,你可以按"$$ACTION_WPN_NEXT$$"切换弹药类型.</text>
+		<text>如果你目前装备的武器可以使用背包中不同类型的弹药,你可以按'$$ACTION_WPN_NEXT$$'切换弹药类型.</text>
 	</string>
 	<string id="ls_mp_tip_49">
-		<text>如果想要在弹匣打空之前换弹匣,请按"$$ACTION_WPN_RELOAD$$".</text>
+		<text>如果想要在弹匣打空之前换弹匣,请按'$$ACTION_WPN_RELOAD$$'.</text>
 	</string>
 	<string id="ls_mp_tip_5">
 		<text>神器争夺战:要想获胜,你必须从敌人那里夺得一定数量的神器带回你的基地.</text>
 	</string>
 	<string id="ls_mp_tip_50">
-		<text>要丢弃当前的武器,请按"$$ACTION_DROP$$".</text>
+		<text>要丢弃当前的武器,请按'$$ACTION_DROP$$'.</text>
 	</string>
 	<string id="ls_mp_tip_51">
-		<text>要查看你的背包,请按"$$ACTION_INVENTORY$$".</text>
+		<text>要查看你的背包,请按'$$ACTION_INVENTORY$$'.</text>
 	</string>
 	<string id="ls_mp_tip_52">
-		<text>大多数武器都有数种射击模式.按"$$ACTION_WPN_FIREMODE_NEXT$$"或"$$ACTION_WPN_FIREMODE_PREV$$"可以在不同的模式之间切换.</text>
+		<text>大多数武器都有数种射击模式.按'$$ACTION_WPN_FIREMODE_NEXT$$'或'$$ACTION_WPN_FIREMODE_PREV$$'可以在不同的模式之间切换.</text>
 	</string>
 	<string id="ls_mp_tip_53">
-		<text>有些地方即使蹲下也无法通过.尽可能地降低姿势,同时按住"$$ACTION_CROUCH$$"和"$$ACTION_ACCEL$$".</text>
+		<text>有些地方即使蹲下也无法通过.尽可能地降低姿势,同时按住'$$ACTION_CROUCH$$'和'$$ACTION_ACCEL$$'.</text>
 	</string>
 	<string id="ls_mp_tip_55">
-		<text>在角落里可以环顾四周,按"$$ACTION_LLOOKOUT$$"或"$$ACTION_RLOOKOUT$$".在环顾四周时你无法开火.</text>
+		<text>在角落里可以环顾四周,按'$$ACTION_LLOOKOUT$$'或'$$ACTION_RLOOKOUT$$'.在环顾四周时你无法开火.</text>
 	</string>
 	<string id="ls_mp_tip_6">
-		<text>神器争夺战:杀死偷神器的敌人,并按"$$ACTION_USE$$"捡起神器,把被偷的神器送回基地.</text>
+		<text>神器争夺战:杀死偷神器的敌人,并按'$$ACTION_USE$$'捡起神器,把被偷的神器送回基地.</text>
 	</string>
 	<string id="ls_mp_tip_7">
-		<text>神器猎手:你可以激活神器来毁灭它.按"$$ACTION_ARTEFACT$$"拿出神器并按住"$$ACTION_WPN_FIRE$$"激活它.</text>
+		<text>神器猎手:你可以激活神器来毁灭它.按'$$ACTION_ARTEFACT$$'拿出神器并按住'$$ACTION_WPN_FIRE$$'激活它.</text>
 	</string>
 	<string id="ls_mp_tip_8">
 		<text>当你拥有神器的时候你无法奔跑.</text>
-	</string>
-	<string id="ls_tip_100">
-		<text>要查看你的背包,请按"$$ACTION_INVENTORY$$".</text>
-	</string>
-	<string id="ls_tip_36">
-		<text>要维修物品,你需要找到一位技师,当你从屏幕中选择了要维修的物品时,点击维修按钮.你也可以在这个窗口中右键点击要维修的物品并选择相应的动作.</text>
-	</string>
-	<string id="ls_tip_81">
-		<text>大多数武器都有数种射击模式.按"$$ACTION_WPN_FIREMODE_NEXT$$"或"$$ACTION_WPN_FIREMODE_PREV$$"可以在不同的模式之间切换.</text>
-	</string>
-	<string id="ls_tip_7">
-		<text>平直度会影响子弹的轨迹,在射击前应该提前预测弹头的弹着点.</text>
-	</string>
-	<string id="ls_tip_5">
-		<text>有些防护服和头盔是一体式的,装备这样的防具时无法再装备其他的头盔.</text>
-	</string>
-	<string id="ls_tip_76">
-		<text>每一件武器都有不同的准确性、操作性、伤害以及射速,你可以从中选择最适合你的那一种.</text>
-	</string>
-	<string id="ls_tip_51">
-		<text>当你移动时,射击精度会大大下降.保持站立或下蹲的姿势以提高命中率.</text>
-	</string>
-	<string id="ls_mp_tip_10">
-		<text>抗疲劳饮料能暂时提高耐力的回复速度,让你冲刺更长的时间.</text>
-	</string>
-	<string id="ls_mp_tip_12">
-		<text>在死亡竞赛模式下弹药无限.</text>
-	</string>
-	<string id="ls_tip_16">
-		<text>在特异区,辐射是最常见的威胁之一.被大剂量辐射照射对你的健康危害极大,如果不及时医治,将有生命危险.</text>
-	</string>
-	<string id="ls_tip_19">
-		<text>如果要外出很长时间,记得带上食物.你饥饿的时候,耐力回复将变得十分缓慢.</text>
 	</string>
 </string_table>

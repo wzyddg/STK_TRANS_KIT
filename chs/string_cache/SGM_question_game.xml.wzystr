@@ -1,0 +1,768 @@
+	<string id="st_q_z_cell_1_descr">
+		<text>哪个事件发生的更频繁?新年还是三月八号?</text>
+	</string>
+	<string id="st_q_z_cell_1_a">
+		<text>新年</text>
+	</string>
+	<string id="st_q_z_cell_1_b">
+		<text>三月八号</text>
+	</string>
+	<string id="st_q_z_cell_1_c">
+		<text>同一天</text>
+	</string>
+	<string id="st_q_z_cell_1_d">
+		<text>同样</text>
+	</string>
+	<string id="st_q_z_cell_2_descr">
+		<text>在回答问题时, 游戏的名字通常与一个共同的主题结合在一起?.</text>
+	</string>
+	<string id="st_q_z_cell_2_a">
+		<text>igorina.</text>
+	</string>
+	<string id="st_q_z_cell_2_b">
+		<text>测验.</text>
+	</string>
+	<string id="st_q_z_cell_2_c">
+		<text>dmitrovina.</text>
+	</string>
+	<string id="st_q_z_cell_2_d">
+		<text>大丽花.</text>
+	</string>
+	<string id="st_q_z_cell_3_descr">
+		<text>哪些车辆有停车起重机?.</text>
+	</string>
+	<string id="st_q_z_cell_3_a">
+		<text>飞机.</text>
+	</string>
+	<string id="st_q_z_cell_3_b">
+		<text>直升机.</text>
+	</string>
+	<string id="st_q_z_cell_3_c">
+		<text>巴士.</text>
+	</string>
+	<string id="st_q_z_cell_3_d">
+		<text>火车.</text>
+	</string>
+	<string id="st_q_z_cell_4_descr">
+		<text>一个参加者会因为眉毛而脱下比赛的哪种运动?.</text>
+	</string>
+	<string id="st_q_z_cell_4_a">
+		<text>滑雪.</text>
+	</string>
+	<string id="st_q_z_cell_4_b">
+		<text>游泳.</text>
+	</string>
+	<string id="st_q_z_cell_4_c">
+		<text>击剑.</text>
+	</string>
+	<string id="st_q_z_cell_4_d">
+		<text>拳击.</text>
+	</string>
+	<string id="st_q_z_cell_5_descr">
+		<text>在美国, 什么游戏诞生了?.</text>
+	</string>
+	<string id="st_q_z_cell_5_a">
+		<text>篮球.</text>
+	</string>
+	<string id="st_q_z_cell_5_b">
+		<text>排球.</text>
+	</string>
+	<string id="st_q_z_cell_5_c">
+		<text>棒球.</text>
+	</string>
+	<string id="st_q_z_cell_5_d">
+		<text>足球.</text>
+	</string>
+	<string id="st_q_z_cell_6_descr">
+		<text>在旧的运输和食盐的销售中涉及到什么样的职业?.</text>
+	</string>
+	<string id="st_q_z_cell_6_a">
+		<text>bortnik.</text>
+	</string>
+	<string id="st_q_z_cell_6_b">
+		<text>雷.</text>
+	</string>
+	<string id="st_q_z_cell_6_c">
+		<text>bondar.</text>
+	</string>
+	<string id="st_q_z_cell_6_d">
+		<text>朱马克.</text>
+	</string>
+	<string id="st_q_z_cell_7_descr">
+		<text>这九名是 '直到' 吗?.</text>
+	</string>
+	<string id="st_q_z_cell_7_a">
+		<text>罗纳尔多.</text>
+	</string>
+	<string id="st_q_z_cell_7_b">
+		<text>齐达内.</text>
+	</string>
+	<string id="st_q_z_cell_7_c">
+		<text>罗纳尔迪尼奥.</text>
+	</string>
+	<string id="st_q_z_cell_7_d">
+		<text>劳尔.</text>
+	</string>
+	<string id="st_q_z_cell_8_descr">
+		<text>字母 's' 的序号是什么?.</text>
+	</string>
+	<string id="st_q_z_cell_8_a">
+		<text>25</text>
+	</string>
+	<string id="st_q_z_cell_8_b">
+		<text>27</text>
+	</string>
+	<string id="st_q_z_cell_8_c">
+		<text>29</text>
+	</string>
+	<string id="st_q_z_cell_8_d">
+		<text>31</text>
+	</string>
+	<string id="st_q_z_cell_9_descr">
+		<text>这些兄弟被认为是第一架飞机的创造者吗?.</text>
+	</string>
+	<string id="st_q_z_cell_9_a">
+		<text>格林.</text>
+	</string>
+	<string id="st_q_z_cell_9_b">
+		<text>相同.</text>
+	</string>
+	<string id="st_q_z_cell_9_c">
+		<text>赖特.</text>
+	</string>
+	<string id="st_q_z_cell_9_d">
+		<text>白色.</text>
+	</string>
+	<string id="st_q_z_cell_10_descr">
+		<text>国家的首都是以飞机的形状建成的吗?</text>
+	</string>
+	<string id="st_q_z_cell_10_a">
+		<text>巴西</text>
+	</string>
+	<string id="st_q_z_cell_10_b">
+		<text>蒙古</text>
+	</string>
+	<string id="st_q_z_cell_10_c">
+		<text>英格兰</text>
+	</string>
+	<string id="st_q_z_cell_10_d">
+		<text>美国</text>
+	</string>
+	<string id="st_q_z_cell_11_descr">
+		<text>你怎么称呼中国官员?</text>
+	</string>
+	<string id="st_q_z_cell_11_a">
+		<text>桃子</text>
+	</string>
+	<string id="st_q_z_cell_11_b">
+		<text>李子</text>
+	</string>
+	<string id="st_q_z_cell_11_c">
+		<text>橙子</text>
+	</string>
+	<string id="st_q_z_cell_11_d">
+		<text>橘子</text>
+	</string>
+	<string id="st_q_z_cell_12_descr">
+		<text>哪一个乐队的队长是Fred Mercury?</text>
+	</string>
+	<string id="st_q_z_cell_12_a">
+		<text>深紫色</text>
+	</string>
+	<string id="st_q_z_cell_12_b">
+		<text>滚石乐队</text>
+	</string>
+	<string id="st_q_z_cell_12_c">
+		<text>女王</text>
+	</string>
+	<string id="st_q_z_cell_12_d">
+		<text>BAC-Dee-Sea</text>
+	</string>
+	<string id="st_q_z_cell_13_descr">
+		<text>有十只羊,除了九都死了.还剩几只羊?</text>
+	</string>
+	<string id="st_q_z_cell_13_a">
+		<text>1</text>
+	</string>
+	<string id="st_q_z_cell_13_b">
+		<text>9</text>
+	</string>
+	<string id="st_q_z_cell_13_c">
+		<text>10</text>
+	</string>
+	<string id="st_q_z_cell_13_d">
+		<text>11</text>
+	</string>
+	<string id="st_q_z_cell_14_descr">
+		<text>第一班火车从基辅到顿涅茨克,第二班车从顿涅茨克到基辅.他们俩同时出发, 但第一班的速度是第二班的三倍.在相遇的时候,下一趟到基辅的火车将会发生什么?</text>
+	</string>
+	<string id="st_q_z_cell_14_a">
+		<text>第一个</text>
+	</string>
+	<string id="st_q_z_cell_14_b">
+		<text>第二个</text>
+	</string>
+	<string id="st_q_z_cell_14_c">
+		<text>第三个</text>
+	</string>
+	<string id="st_q_z_cell_14_d">
+		<text>相同</text>
+	</string>
+	<string id="st_q_z_cell_15_descr">
+		<text>从'1'到'100'有多少个'7'?</text>
+	</string>
+	<string id="st_q_z_cell_15_a">
+		<text>11</text>
+	</string>
+	<string id="st_q_z_cell_15_b">
+		<text>10</text>
+	</string>
+	<string id="st_q_z_cell_15_c">
+		<text>21</text>
+	</string>
+	<string id="st_q_z_cell_15_d">
+		<text>20</text>
+	</string>
+	<string id="st_q_z_cell_16_descr">
+		<text>14根点燃的蜡烛,灭掉八根,还剩几根蜡烛?</text>
+	</string>
+	<string id="st_q_z_cell_16_a">
+		<text>6</text>
+	</string>
+	<string id="st_q_z_cell_16_b">
+		<text>7</text>
+	</string>
+	<string id="st_q_z_cell_16_c">
+		<text>8</text>
+	</string>
+	<string id="st_q_z_cell_16_d">
+		<text>14</text>
+	</string>
+	<string id="st_q_z_cell_17_descr">
+		<text>一块砖与一公斤加半块砖一样重,一块砖多重?</text>
+	</string>
+	<string id="st_q_z_cell_17_a">
+		<text>1 kg</text>
+	</string>
+	<string id="st_q_z_cell_17_b">
+		<text>1.5 kg</text>
+	</string>
+	<string id="st_q_z_cell_17_c">
+		<text>2 kg</text>
+	</string>
+	<string id="st_q_z_cell_17_d">
+		<text>2.5 kg</text>
+	</string>
+	<string id="st_q_z_cell_18_descr">
+		<text>哪个国家在什么时候第一个登上月球?</text>
+	</string>
+	<string id="st_q_z_cell_18_a">
+		<text>苏联,在1961年.</text>
+	</string>
+	<string id="st_q_z_cell_18_b">
+		<text>美国,在1957年.</text>
+	</string>
+	<string id="st_q_z_cell_18_c">
+		<text>苏联,在1945年.</text>
+	</string>
+	<string id="st_q_z_cell_18_d">
+		<text>美国,在1969年.</text>
+	</string>
+	<string id="st_q_z_cell_19_descr">
+		<text>苏联的哪个足球运动员第一次赢得了金球讲?</text>
+	</string>
+	<string id="st_q_z_cell_19_a">
+		<text>布洛欣</text>
+	</string>
+	<string id="st_q_z_cell_19_b">
+		<text>别拉诺夫</text>
+	</string>
+	<string id="st_q_z_cell_19_c">
+		<text>别索诺夫</text>
+	</string>
+	<string id="st_q_z_cell_19_d">
+		<text>雅辛</text>
+	</string>
+	<string id="st_q_z_cell_20_descr">
+		<text>在我们星球的哪个疆土我们能看见太阳在地平线的北部?.</text>
+	</string>
+	<string id="st_q_z_cell_20_a">
+		<text>无处.</text>
+	</string>
+	<string id="st_q_z_cell_20_b">
+		<text>夏天在俄国.</text>
+	</string>
+	<string id="st_q_z_cell_20_c">
+		<text>在赤道.</text>
+	</string>
+	<string id="st_q_z_cell_20_d">
+		<text>南半球.</text>
+	</string>
+	<string id="st_q_z_cell_21_descr">
+		<text>什么时间滞后是从地球到月球和背部的距离?.</text>
+	</string>
+	<string id="st_q_z_cell_21_a">
+		<text>三秒钟.</text>
+	</string>
+	<string id="st_q_z_cell_21_b">
+		<text>每小时.</text>
+	</string>
+	<string id="st_q_z_cell_21_c">
+		<text>八分钟.</text>
+	</string>
+	<string id="st_q_z_cell_21_d">
+		<text>三纳秒.</text>
+	</string>
+	<string id="st_q_z_cell_22_descr">
+		<text>你认为蛋黄酱在哪里?.</text>
+	</string>
+	<string id="st_q_z_cell_22_a">
+		<text>在瑞士.</text>
+	</string>
+	<string id="st_q_z_cell_22_b">
+		<text>在法国.</text>
+	</string>
+	<string id="st_q_z_cell_22_c">
+		<text>在意大利.</text>
+	</string>
+	<string id="st_q_z_cell_22_d">
+		<text>在西班牙.</text>
+	</string>
+	<string id="st_q_z_cell_23_descr">
+		<text>四面体有多少角?.</text>
+	</string>
+	<string id="st_q_z_cell_23_a">
+		<text>2</text>
+	</string>
+	<string id="st_q_z_cell_23_b">
+		<text>3</text>
+	</string>
+	<string id="st_q_z_cell_23_c">
+		<text>4</text>
+	</string>
+	<string id="st_q_z_cell_23_d">
+		<text>5</text>
+	</string>
+	<string id="st_q_z_cell_24_descr">
+		<text>那个有名的暴君的名字是什么?.</text>
+	</string>
+	<string id="st_q_z_cell_24_a">
+		<text>阿提拉.</text>
+	</string>
+	<string id="st_q_z_cell_24_b">
+		<text>亚里士多德.</text>
+	</string>
+	<string id="st_q_z_cell_24_c">
+		<text>康德.</text>
+	</string>
+	<string id="st_q_z_cell_24_d">
+		<text>johannesen.</text>
+	</string>
+	<string id="st_q_z_cell_25_descr">
+		<text>切尔诺贝利核电站事故发生时?.</text>
+	</string>
+	<string id="st_q_z_cell_25_a">
+		<text>三月.</text>
+	</string>
+	<string id="st_q_z_cell_25_b">
+		<text>30, 本年.</text>
+	</string>
+	<string id="st_q_z_cell_25_c">
+		<text>五月.</text>
+	</string>
+	<string id="st_q_z_cell_25_d">
+		<text>四月.</text>
+	</string>
+	<string id="st_q_z_cell_26_descr">
+		<text>猎户座星云是什么时候在天空中可见的?.</text>
+	</string>
+	<string id="st_q_z_cell_26_a">
+		<text>在冬天在下诺夫哥罗德区域.</text>
+	</string>
+	<string id="st_q_z_cell_26_b">
+		<text>在夏天在下诺夫哥罗德区域.</text>
+	</string>
+	<string id="st_q_z_cell_26_c">
+		<text>南半球.</text>
+	</string>
+	<string id="st_q_z_cell_26_d">
+		<text>在北极.</text>
+	</string>
+	<string id="st_q_z_cell_27_descr">
+		<text>成年人体内有多少骨头?.</text>
+	</string>
+	<string id="st_q_z_cell_27_a">
+		<text>206</text>
+	</string>
+	<string id="st_q_z_cell_27_b">
+		<text>350</text>
+	</string>
+	<string id="st_q_z_cell_27_c">
+		<text>244</text>
+	</string>
+	<string id="st_q_z_cell_27_d">
+		<text>254</text>
+	</string>
+	<string id="st_q_z_cell_28_descr">
+		<text>什么年份是彩电?.</text>
+	</string>
+	<string id="st_q_z_cell_28_a">
+		<text>1939</text>
+	</string>
+	<string id="st_q_z_cell_28_b">
+		<text>1928</text>
+	</string>
+	<string id="st_q_z_cell_28_c">
+		<text>1925</text>
+	</string>
+	<string id="st_q_z_cell_28_d">
+		<text>1947</text>
+	</string>
+	<string id="st_q_z_cell_29_descr">
+		<text>猎豹在两秒钟内的起始速度是多少?.</text>
+	</string>
+	<string id="st_q_z_cell_29_a">
+		<text>70 km/h.</text>
+	</string>
+	<string id="st_q_z_cell_29_b">
+		<text>65 km/h.</text>
+	</string>
+	<string id="st_q_z_cell_29_c">
+		<text>56 km/小时.</text>
+	</string>
+	<string id="st_q_z_cell_29_d">
+		<text>85/小时.</text>
+	</string>
+	<string id="st_q_z_cell_30_descr">
+		<text>人类以前创造了什么乐器?.</text>
+	</string>
+	<string id="st_q_z_cell_30_a">
+		<text>风.</text>
+	</string>
+	<string id="st_q_z_cell_30_b">
+		<text>键盘.</text>
+	</string>
+	<string id="st_q_z_cell_30_c">
+		<text>鼓.</text>
+	</string>
+	<string id="st_q_z_cell_30_d">
+		<text>字符串.</text>
+	</string>
+	<string id="st_q_z_cell_31_descr">
+		<text>狗跑到什么速度, 不听她的尾巴绑在煎锅?.</text>
+	</string>
+	<string id="st_q_z_cell_31_a">
+		<text>100 km/h.</text>
+	</string>
+	<string id="st_q_z_cell_31_b">
+		<text>50 km/h.</text>
+	</string>
+	<string id="st_q_z_cell_31_c">
+		<text>一公里/小时.</text>
+	</string>
+	<string id="st_q_z_cell_31_d">
+		<text>零 km/h.</text>
+	</string>
+	<string id="st_q_z_cell_32_descr">
+		<text>一级方程式车手在第一位获得多少分?.</text>
+	</string>
+	<string id="st_q_z_cell_32_a">
+		<text>10</text>
+	</string>
+	<string id="st_q_z_cell_32_b">
+		<text>15</text>
+	</string>
+	<string id="st_q_z_cell_32_c">
+		<text>20</text>
+	</string>
+	<string id="st_q_z_cell_32_d">
+		<text>25</text>
+	</string>
+	<string id="st_q_z_cell_33_descr">
+		<text>什么时候上网?.</text>
+	</string>
+	<string id="st_q_z_cell_33_a">
+		<text>一月.</text>
+	</string>
+	<string id="st_q_z_cell_33_b">
+		<text>30,.</text>
+	</string>
+	<string id="st_q_z_cell_33_c">
+		<text>第一一月.</text>
+	</string>
+	<string id="st_q_z_cell_33_d">
+		<text>月 21,.</text>
+	</string>
+	<string id="st_q_z_cell_34_descr">
+		<text>在哪里发明的通心粉产品?.</text>
+	</string>
+	<string id="st_q_z_cell_34_a">
+		<text>法国.</text>
+	</string>
+	<string id="st_q_z_cell_34_b">
+		<text>意大利.</text>
+	</string>
+	<string id="st_q_z_cell_34_c">
+		<text>西班牙.</text>
+	</string>
+	<string id="st_q_z_cell_34_d">
+		<text>中国.</text>
+	</string>
+	<string id="st_q_z_cell_35_descr">
+		<text>水壶里的水煮什么温度?.</text>
+	</string>
+	<string id="st_q_z_cell_35_a">
+		<text>70° c.</text>
+	</string>
+	<string id="st_q_z_cell_35_b">
+		<text>85° c.</text>
+	</string>
+	<string id="st_q_z_cell_35_c">
+		<text>100° c.</text>
+	</string>
+	<string id="st_q_z_cell_35_d">
+		<text>120° c.</text>
+	</string>
+	<string id="st_q_z_cell_36_descr">
+		<text>第一次世界大战是哪一年开始的?.</text>
+	</string>
+	<string id="st_q_z_cell_36_a">
+		<text>1912</text>
+	</string>
+	<string id="st_q_z_cell_36_b">
+		<text>1913</text>
+	</string>
+	<string id="st_q_z_cell_36_c">
+		<text>1914</text>
+	</string>
+	<string id="st_q_z_cell_36_d">
+		<text>1915</text>
+	</string>
+	<string id="st_q_z_cell_37_descr">
+		<text>第二次世界大战是哪一年开始的?.</text>
+	</string>
+	<string id="st_q_z_cell_37_a">
+		<text>1941</text>
+	</string>
+	<string id="st_q_z_cell_37_b">
+		<text>1939</text>
+	</string>
+	<string id="st_q_z_cell_37_c">
+		<text>1945</text>
+	</string>
+	<string id="st_q_z_cell_37_d">
+		<text>1914</text>
+	</string>
+	<string id="st_q_z_cell_38_descr">
+		<text>八 + 八 =?.</text>
+	</string>
+	<string id="st_q_z_cell_38_a">
+		<text>54</text>
+	</string>
+	<string id="st_q_z_cell_38_b">
+		<text>64</text>
+	</string>
+	<string id="st_q_z_cell_38_c">
+		<text>72</text>
+	</string>
+	<string id="st_q_z_cell_38_d">
+		<text>128</text>
+	</string>
+	<string id="st_q_z_cell_39_descr">
+		<text>苏联是什么时候正式分裂的?.</text>
+	</string>
+	<string id="st_q_z_cell_39_a">
+		<text>21六月.</text>
+	</string>
+	<string id="st_q_z_cell_39_b">
+		<text>年.</text>
+	</string>
+	<string id="st_q_z_cell_39_c">
+		<text>年.</text>
+	</string>
+	<string id="st_q_z_cell_39_d">
+		<text>21年.</text>
+	</string>
+	<string id="st_q_z_cell_40_descr">
+		<text>俄国君主把阿拉斯加卖给美利坚合众国的是什么?.</text>
+	</string>
+	<string id="st_q_z_cell_40_a">
+		<text>彼得 i.</text>
+	</string>
+	<string id="st_q_z_cell_40_b">
+		<text>凯瑟琳二世.</text>
+	</string>
+	<string id="st_q_z_cell_40_c">
+		<text>尼古拉斯 i.</text>
+	</string>
+	<string id="st_q_z_cell_40_d">
+		<text>亚历山大 ii.</text>
+	</string>
+	<string id="st_q_z_cell_41_descr">
+		<text>它曾经回响过什么样的生物?.</text>
+	</string>
+	<string id="st_q_z_cell_41_a">
+		<text>狼.</text>
+	</string>
+	<string id="st_q_z_cell_41_b">
+		<text>河马.</text>
+	</string>
+	<string id="st_q_z_cell_41_c">
+		<text>鸭.</text>
+	</string>
+	<string id="st_q_z_cell_41_d">
+		<text>猎人.</text>
+	</string>
+	<string id="st_q_z_cell_42_descr">
+		<text>《圣经》中从未提到过哪种宠物?.</text>
+	</string>
+	<string id="st_q_z_cell_42_a">
+		<text>马.</text>
+	</string>
+	<string id="st_q_z_cell_42_b">
+		<text>羊.</text>
+	</string>
+	<string id="st_q_z_cell_42_c">
+		<text>猫.</text>
+	</string>
+	<string id="st_q_z_cell_42_d">
+		<text>牛.</text>
+	</string>
+	<string id="st_q_z_cell_43_descr">
+		<text>在一个人的一生中, 什么身体生长?.</text>
+	</string>
+	<string id="st_q_z_cell_43_a">
+		<text>耳朵.</text>
+	</string>
+	<string id="st_q_z_cell_43_b">
+		<text>鼻子.</text>
+	</string>
+	<string id="st_q_z_cell_43_c">
+		<text>嘴.</text>
+	</string>
+	<string id="st_q_z_cell_43_d">
+		<text>附录.</text>
+	</string>
+	<string id="st_q_z_cell_44_descr">
+		<text>赌场里什么建筑元素从来没有?.</text>
+	</string>
+	<string id="st_q_z_cell_44_a">
+		<text>windows.</text>
+	</string>
+	<string id="st_q_z_cell_44_b">
+		<text>门.</text>
+	</string>
+	<string id="st_q_z_cell_44_c">
+		<text>壁柱.</text>
+	</string>
+	<string id="st_q_z_cell_44_d">
+		<text>栏杆.</text>
+	</string>
+	<string id="st_q_z_cell_45_descr">
+		<text>俄语字母表中有多少字母?.</text>
+	</string>
+	<string id="st_q_z_cell_45_a">
+		<text>31</text>
+	</string>
+	<string id="st_q_z_cell_45_b">
+		<text>32</text>
+	</string>
+	<string id="st_q_z_cell_45_c">
+		<text>33</text>
+	</string>
+	<string id="st_q_z_cell_45_d">
+		<text>34</text>
+	</string>
+	<string id="st_q_z_cell_46_descr">
+		<text>睁开眼不能做什么?.</text>
+	</string>
+	<string id="st_q_z_cell_46_a">
+		<text>iknut.</text>
+	</string>
+	<string id="st_q_z_cell_46_b">
+		<text>打喷嚏.</text>
+	</string>
+	<string id="st_q_z_cell_46_c">
+		<text>打哈欠.</text>
+	</string>
+	<string id="st_q_z_cell_46_d">
+		<text>睡眠.</text>
+	</string>
+	<string id="st_q_z_cell_47_descr">
+		<text>人体最强壮的肌肉是什么?.</text>
+	</string>
+	<string id="st_q_z_cell_47_a">
+		<text>心.</text>
+	</string>
+	<string id="st_q_z_cell_47_b">
+		<text>二头肌.</text>
+	</string>
+	<string id="st_q_z_cell_47_c">
+		<text>三头肌.</text>
+	</string>
+	<string id="st_q_z_cell_47_d">
+		<text>语言.</text>
+	</string>
+	<string id="st_q_z_cell_48_descr">
+		<text>汉语中的单词与 '开朗' 这个词的性格相同?.</text>
+	</string>
+	<string id="st_q_z_cell_48_a">
+		<text>咖啡.</text>
+	</string>
+	<string id="st_q_z_cell_48_b">
+		<text>交易.</text>
+	</string>
+	<string id="st_q_z_cell_48_c">
+		<text>茶.</text>
+	</string>
+	<string id="st_q_z_cell_48_d">
+		<text>小岛屿发展中国家.</text>
+	</string>
+	<string id="st_q_z_cell_49_descr">
+		<text>罗斯没有吃饭?.</text>
+	</string>
+	<string id="st_q_z_cell_49_a">
+		<text>面包.</text>
+	</string>
+	<string id="st_q_z_cell_49_b">
+		<text>土豆.</text>
+	</string>
+	<string id="st_q_z_cell_49_c">
+		<text>罗宋汤.</text>
+	</string>
+	<string id="st_q_z_cell_49_d">
+		<text>饺子.</text>
+	</string>
+	<string id="st_q_z_cell_50_descr">
+		<text>ak102 有多少弹药?.</text>
+	</string>
+	<string id="st_q_z_cell_50_a">
+		<text>29</text>
+	</string>
+	<string id="st_q_z_cell_50_b">
+		<text>30</text>
+	</string>
+	<string id="st_q_z_cell_50_c">
+		<text>31</text>
+	</string>
+	<string id="st_q_z_cell_50_d">
+		<text>32</text>
+	</string>
+	<string id="st_a_z_cell_1_descr">
+		<text>藏匿点:斯卡多夫斯克.附加信息:酒吧后的浮木.</text>
+	</string>
+	<string id="st_a_z_cell_2_descr">
+		<text>藏匿点:斯卡多夫斯克.附加信息:复仇者后面.</text>
+	</string>
+	<string id="st_a_z_cell_3_descr">
+		<text>藏匿点:斯卡多夫斯克.附加信息:在屋里,保镖的对面.</text>
+	</string>
+	<string id="st_a_z_cell_4_descr">
+		<text>藏匿点:舍甫琴科号.附加信息:在容器中.</text>
+	</string>
+	<string id="st_a_z_cell_5_descr">
+		<text>藏匿点:钢铁森林变异区.附加信息:ZIL后面.</text>
+	</string>
+	<string id="st_a_z_cell_6_descr">
+		<text>藏匿点:港口起重机.附加信息:ZIL后面.</text>
+	</string>

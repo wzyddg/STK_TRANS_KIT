@@ -1,5 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <string_table>
+	<string id="zat_homsa_find_quest_main_title0">
+		<text>私人调查: 斯卡多夫斯克居民的问题</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text0">
+		<text>冈塔指示你找到一个由号角想到领导的失踪的追踪小组.在继续搜查之前,在营地居民间搜集更多有关号角的信息.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title1">
+		<text>私人调查: 检查三个可能的位置</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text1">
+		<text>斯卡多夫斯克的居民给了你三个号角集团可能会在的点,都去检查一下.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title2">
+		<text>私人调查: 和你的雇主交谈</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text2">
+		<text>告诉冈塔搜索结果并决定下一步做什么.</text>
+	</string>
+	<string id="zat_homsa_find_quest_1_title0">
+		<text>私人调查: 检查一个地方</text>
+	</string>
+	<string id="zat_homsa_find_quest_1_text0">
+		<text>检查集装箱仓库附近逗留的潜行者.</text>
+	</string>
+	<string id="zat_homsa_find_quest_2_title0">
+		<text>私人调查: 检查一个地方</text>
+	</string>
+	<string id="zat_homsa_find_quest_2_text0">
+		<text>你必须检查一个营地,靠近钢铁森林特异点.</text>
+	</string>
+	<string id="zat_homsa_find_quest_3_title0">
+		<text>私人调查: 检查一个地方</text>
+	</string>
+	<string id="zat_homsa_find_quest_3_text0">
+		<text>你必须检查庇护所,靠近火烧农场.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title3">
+		<text>私人调查: 等待更多消息</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text3">
+		<text>号角小队的潜行者与斯卡多夫斯克的居民取得了联系.他们失踪的情况变得更加明朗.等待他们的进一步联络.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title4">
+		<text>私人调查: 和你的雇主交谈</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text4">
+		<text>问问冈塔关于拉斯维托的失踪他又知道了些什么.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title5">
+		<text>私人调查: 会见失踪小队首领</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text5">
+		<text>冈塔没能和黎明组织小队取得联系,向导等人的命运变得更加扑朔迷离.找到拉斯维托来查明真相.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title6">
+		<text>私人调查: 护送他到指定的区域</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text6">
+		<text>这件事发生了意想不到的转折.向潜行人员提供协助,以便能够进行进一步的调查.黎明队队长必须活着.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title7">
+		<text>私人调查: 击退突变体</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text7">
+		<text>费尽千辛万苦才在河湾找到了拉斯维托,但看起来他们的阵容却陷入了困境.帮助潜行者和变异怪物战斗.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title8">
+		<text>私人调查: 跟着PDA的信号</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text8">
+		<text>你设法从号角的PDA上下载到了拉斯维托的信息,找到这个假向导.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title9">
+		<text>私人调查: 杀死号角</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text9">
+		<text>号角,假扮了这么久的向导,竟然是间谍.他拒绝合作,杀了他.</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_title10">
+		<text>私人调查: 返回斯卡多夫斯克</text>
+	</string>
+	<string id="zat_homsa_find_quest_main_text10">
+		<text>告诉冈塔关于'封闭'的调查结果的报告.</text>
+	</string>
 	<string id="zat_a2_reach_base_name">
 		<text>安全点:抵达斯卡多夫斯克</text>
 	</string>
@@ -115,7 +199,7 @@
 		<text>撤离点:抵达B28</text>
 	</string>
 	<string id="zat_b107_evacuation_pripyat_3_text">
-		<text>军方指定的集合点位于普里皮亚特内.找到前往普里皮季亚的路.</text>
+		<text>军方指定的集合点位于普里皮亚季内.找到前往普里皮亚季的路.</text>
 	</string>
 	<string id="zat_b107_evacuation_zaton_name">
 		<text>撤离点:调查B2</text>
@@ -163,7 +247,7 @@
 		<text>前往高地:寻找诺亚的秘密通道</text>
 	</string>
 	<string id="zat_b20_find_the_teleport_text">
-		<text>诺亚的PDA提到他有条通往高地的"私人"秘密通道.找到它.</text>
+		<text>诺亚的PDA提到他有条通往高地的'私人'秘密通道.找到它.</text>
 	</string>
 	<string id="zat_b20_plato_talk_to_noah_name">
 		<text>前往高地:向诺亚询问前往高地的方法</text>
@@ -776,5 +860,197 @@
 	</string>
 	<string id="zat_b30_compass_to_barmen_task_give_text">
 		<text>你从诺亚那儿获得的神器就正是大胡子所要的指南针.</text>
+	</string>
+	<string id="zat_killer_spez_operation_title0">
+		<text>秘密反对: 决定做什么</text>
+	</string>
+	<string id="zat_killer_spez_operation_text0">
+		<text>雇佣军密谋用一场冒险打击纪律团和自由团双方.你也承担了整件事中的主要的角色.决定你要做什么:选择纪律团、或者自由团..</text>
+	</string>
+	<string id="zat_killer_spez_1_title0">
+		<text>秘密反对: 说服洛基与你方对话.</text>
+	</string>
+	<string id="zat_killer_spez_1_text0">
+		<text>为了协助解决纪律团可能的冲突,有必要在这趟行动中把自由团牵连进来.说服洛基派遣一支小队为纪律团可能起的冲突做准备.</text>
+	</string>
+	<string id="zat_killer_spez_1_title1">
+		<text>秘密反对: 等待自由团到达河湾</text>
+	</string>
+	<string id="zat_killer_spez_1_text1">
+		<text>你必须等到约定的时刻开始行动.在这段时间里做好准备.</text>
+	</string>
+	<string id="zat_killer_spez_1_title2">
+		<text>秘密反对: 消灭自由团破坏者</text>
+	</string>
+	<string id="zat_killer_spez_1_text2">
+		<text>决定帮助纪律团完成任务.而不是联合行动打击纪律团,杀死自由团的破坏分子.</text>
+	</string>
+	<string id="zat_killer_spez_1_title3">
+		<text>秘密反对: 检查纪律团保护的科学家小组</text>
+	</string>
+	<string id="zat_killer_spez_1_text3">
+		<text>舒尔加发来一个意想不到的讯息.守卫科学家的士兵的支队失去了联络.弄清发生了什么.</text>
+	</string>
+	<string id="zat_killer_spez_1_title4">
+		<text>秘密反对: 查问受伤的佣兵发生了什么</text>
+	</string>
+	<string id="zat_killer_spez_1_text4">
+		<text>纪律团与科学家们都死了.附近躺着一个扔下同伴的受伤的雇佣军.从他身上问出发生了什么事.</text>
+	</string>
+        <string id="zat_killer_spez_1_title5">
+		<text>秘密反对: 杀佣兵.</text>
+	</string>
+	<string id="zat_killer_spez_1_text5">
+		<text>佣兵算计了你,来实现他们的无耻目的.现在纪律团和自由团都觉得是你策划了这场阴谋.把那个伤员杀了然后想想这种两难境地应该怎么办.</text>
+	</string>
+        <string id="zat_killer_spez_1_title6">
+		<text>秘密反对: 对话你方卷进了什么事</text>
+	</string>
+	<string id="zat_killer_spez_1_text6">
+		<text>与斧头交谈,决定你如何处理:与雇佣军达成协议或返回其他中立阵营.</text>
+	</string>
+        <string id="zat_killer_spez_1_title7">
+		<text>秘密反对: 对话洛基</text>
+	</string>
+	<string id="zat_killer_spez_1_text7">
+		<text>说服自由团领导人在这件事情中是无辜的.</text>
+	</string>
+       <string id="zat_killer_spez_1_title8">
+		<text>秘密反对: 与舒尔加中校会面</text>
+	</string>
+	<string id="zat_killer_spez_1_text8">
+		<text>说服纪律团领导人在这件事情中是无辜的并且没跟佣兵达成交易.</text>
+	</string>
+	<string id="zat_killer_spez_2_title0">
+		<text>秘密反对: 让舒尔加中校知道对科学家可能的攻击</text>
+	</string>
+	<string id="zat_killer_spez_2_text0">
+		<text>为了'帮助'自由团制造阴谋,需要说服舒尔加调给你一组听你指挥的战士来处理河湾地区可能的路线变动.</text>
+	</string>
+        <string id="zat_killer_spez_2_title1">
+		<text>秘密反对:等待自由团的人到河湾.</text>
+	</string>
+	<string id="zat_killer_spez_2_text1">
+		<text>自由团的破坏小队已经被派去了河湾,等待他们到达.</text>
+	</string>
+        <string id="zat_killer_spez_2_title2">
+		<text>秘密反对:与自由团的队长会面.</text>
+	</string>
+	<string id="zat_killer_spez_2_text2">
+		<text>与自由团小队指挥官谈谈即将开始的行动.</text>
+	</string>
+        <string id="zat_killer_spez_2_title3">
+		<text>秘密反对: 选好位置</text>
+	</string>
+	<string id="zat_killer_spez_2_text3">
+		<text>准备等待一批科学家和一支纪律团小队,占据有利位置.</text>
+	</string>
+        <string id="zat_killer_spez_2_title4">
+		<text>秘密反对: 消灭科学家.</text>
+	</string>
+	<string id="zat_killer_spez_2_text4">
+		<text>杀掉所有科学家和陪同的纪律团.</text>
+	</string>
+        <string id="zat_killer_spez_2_title5">
+		<text>秘密反对: 搜科学家的箱子.</text>
+	</string>
+	<string id="zat_killer_spez_2_text5">
+		<text>在格鲁吉亚科学家尸体旁拿走装着宝贵的信息的箱子.</text>
+	</string>
+        <string id="zat_killer_spez_2_title6">
+		<text>秘密反对: 消灭支队的领导.</text>
+	</string>
+	<string id="zat_killer_spez_2_text6">
+		<text>雇佣兵奉命对两个阵营进行蓄意破坏.因此把自由团也杀了.</text>
+	</string>
+        <string id="zat_killer_spez_2_title7">
+		<text>秘密反对: 和不明佣兵交谈.</text>
+	</string>
+	<string id="zat_killer_spez_2_text7">
+		<text>雇佣军派出他们的人围观整场行动...我们需要与他讨论进一步的行动.</text>
+	</string>
+        <string id="zat_killer_spez_2_title8">
+		<text>秘密反对:向舒尔加说明是无辜的.</text>
+	</string>
+	<string id="zat_killer_spez_2_text8">
+		<text>说服纪律团的上校这件事中他是无辜的.这样可能和纪律团能保持中立.</text>
+	</string>	
+	<string id="zat_killer_spez_2_title9">
+		<text>秘密反对:向洛基说明自由团小队的死无他无关.</text>
+	</string>
+	<string id="zat_killer_spez_2_text9">
+		<text>说服自由团的领导这件事中他是无辜的.这样可能和自由团能保持中立.</text>
+	</string>
+	<string id="zat_sultan_kontr_title0">
+		<text>优先选择: 对话巴吉尔</text>
+	</string>
+	<string id="zat_sultan_kontr_text0">
+		<text>苏丹要求你进行一次特别调查,找到以雅库特的名义欺骗他的人.首先,我们需要从自由团 的'线人'巴吉尔那得到所有关于雅库特的可能的信息.</text>
+	</string>
+	<string id="zat_sultan_kontr_title1">
+		<text>优先选择: 会见红鱼</text>
+	</string>
+	<string id="zat_sultan_kontr_text1">
+		<text>巴吉尔说雅库特被位于河湾的恰帕耶夫的强盗组织里的红鱼抓住了.去那检验他说的是不是真的.</text>
+	</string>
+	<string id="zat_sultan_kontr_title2">
+		<text>优先选择: 询问雅库特</text>
+	</string>
+	<string id="zat_sultan_kontr_text2">
+		<text>红鱼答应说只要您能获得雅库特被盗的文档里的信息,就可能组织一场强盗帮派之间的协商.</text>
+	</string>
+	<string id="zat_sultan_kontr_title3">
+		<text>优先选择: 等待处理</text>
+	</string>
+	<string id="zat_sultan_kontr_text3">
+		<text>雅库特死了.但无论如何他没存着.等到它结束后,开始搜索藏匿物.</text>
+	</string>
+	<string id="zat_sultan_kontr_title4">
+		<text>优先选择: 寻找雅库特三个文件</text>
+	</string>
+	<string id="zat_sultan_kontr_text4">
+		<text>在死亡前雅库特告诉了你关于所有被盗的苏丹的文件位置,他隐藏在河湾和木星.我们必须根据他的提示找到他们: '...有三个缓存.河湾有两个,在废水站和BIS附近的下水道...亚诺夫...采石场...铁...'.</text>
+	</string>
+	<string id="zat_sultan_kontr_title5">
+		<text>优先选择: 决定做什么</text>
+	</string>
+	<string id="zat_sultan_kontr_text5">
+		<text>苏丹所有的文件都拿到了,决定带去给谁:苏丹或红鱼.</text>
+	</string>
+	<string id="zat_sultan_kontr_title_1_0">
+		<text>优先选择: 告诉洛基巴吉尔不可靠.</text>
+	</string>
+	<string id="zat_sultan_kontr_text_1_0">
+		<text>你把文件都给了红鱼,现在你需要编一个合适的接口给苏丹听.尝试把所有的责任都推到自由团的线人巴吉尔头上.</text>
+	</string>
+	<string id="zat_sultan_kontr_title_1_1">
+		<text>优先选择: 消灭巴吉尔</text>
+	</string>
+	<string id="zat_sultan_kontr_text_1_1">
+		<text>洛基相信了巴吉尔是个两面三刀的家伙,默许了杀掉他.干掉巴吉尔.</text>
+	</string>
+	<string id="zat_sultan_kontr_title_1_2">
+		<text>优先选择: 欺骗苏丹</text>
+	</string>
+	<string id="zat_sultan_kontr_text_1_2">
+		<text>去见苏丹然后把所有的责任都推到巴吉尔头上.</text>
+	</string>
+        <string id="zat_sultan_kontr_title_2_0">
+		<text>优先选择: 等待红鱼</text>
+	</string>
+	<string id="zat_sultan_kontr_text_2_0">
+		<text>所有文件都已退回给客户.现在苏丹已经指示你干掉他在走私生意上的竞争者红鱼.根据巴吉尔的数据,红鱼预计不久就要离开基地前往木星.等待他出现.</text>
+	</string>
+        <string id="zat_sultan_kontr_title_2_1">
+		<text>优先选择: 杀红鱼和他的人</text>
+	</string>
+	<string id="zat_sultan_kontr_text_2_1">
+		<text>杀掉苏丹的竞争对手.</text>
+	</string>
+        <string id="zat_sultan_kontr_title_2_2">
+		<text>优先选择: 向苏丹报告成功</text>
+	</string>
+	<string id="zat_sultan_kontr_text_2_2">
+		<text>卢西恩死了.回去拿你的报酬.</text>
 	</string>
 </string_table>

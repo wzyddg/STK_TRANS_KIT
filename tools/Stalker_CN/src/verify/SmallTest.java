@@ -1,6 +1,7 @@
 package verify;
 
 import java.io.File;
+import java.io.IOException;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -31,17 +32,22 @@ public class SmallTest {
 		bHashMap.put("b", "MMM");
 //		aHashMap.putAll(bHashMap);
 		System.err.println(aHashMap.get("b"));
-		String chsString = "我真不 是&lt; 俺们0.0那噶都 Q. Q是东北</人.跟 \\n你>吹";
+		String chsString = "我真不 是&lt; 俺们0.0那噶都 Q. Q是东北</人.跟 \\n你>吹    |||是的。我想我能帮你。我不得不面对这种毒药, 但我需要一.。....个神器, 只能在黑..暗谷找到。.";
 		LinkedList<String> keys = new LinkedList<>();
 		keys.add("abc");
-		keys.add("lmn");
-		keys.add("123");
-		Collections.sort(keys);
+		keys.add("123333");
+
+		keys.add("lmn2");
+		
+		Collections.sort(keys,new MainTrans().new ShorterLatterComparator());
+
+		
+		
 		for (Iterator iterator = keys.iterator(); iterator.hasNext();) {
 			String string = (String) iterator.next();
 			System.err.println(string);
 		}
-//		System.out.println("22"+Dispatch.Instance("bingn").Trans("zh", "en", kk)+"33");
+//		System.out.println(Dispatch.Instance("bingn").Trans("en", "zh", "five penny"));
 //		System.out.println(chsString.split("[.]").length);
 //		chsString = "日记页, 段落读: \\ n \"什么总是运行 \\ nbut 从不行走, \\ noften 杂音, \\ nnever 会谈, \\ nhas 一张床, 但从不睡觉, \\ nhas 嘴, 但从不吃?";
 //		System.out.println(MainTrans.isSentence("dwadwa_dad4352., "));

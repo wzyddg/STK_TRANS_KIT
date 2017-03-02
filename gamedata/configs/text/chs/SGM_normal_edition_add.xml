@@ -22,7 +22,7 @@
 		<text>弹药TP-5, 45x39 mm</text>
 	</string>
 	<string id="ammo-5.45x39-hm_descr">
-		<text>为华沙公约枪支准备的高科技子弹,因为有特种合金,子弹改进了弹道（开火速度）,并能穿透金属表面.</text>
+		<text>为华沙公约枪支准备的高科技子弹,因为有特种合金,子弹改进了弹道(开火速度),并能穿透金属表面.</text>
 	</string>
 	<string id="ammo-5.45x39-hm_s">
 		<text>TP-5, 45x39 mm</text>
@@ -31,7 +31,7 @@
 		<text>弹药TR-5, 45x39 mm</text>
 	</string>
 	<string id="ammo-5.45x39-hr_descr">
-		<text>为华沙公约准备枪支准备的特种子弹,应用了塑料合金工业技术让这些子弹改善了弹道（开火速度）更能够穿透金属表面,是政府给特种部队的子弹.</text>
+		<text>为华沙公约准备枪支准备的特种子弹,应用了塑料合金工业技术让这些子弹改善了弹道(开火速度)更能够穿透金属表面,是政府给特种部队的子弹.</text>
 	</string>
 	<string id="ammo-5.45x39-hr_s">
 		<text>TS-5, 45x39 mm</text>
@@ -448,19 +448,19 @@
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 温切斯特 1887. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_1887_title">
-		<text>战术手册：温切斯特 1887</text>
+		<text>战术手册:温切斯特 1887</text>
 	</string>
 	<string id="st_book_for_aek919k_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 AEK-919K 板栗. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_aek919k_title">
-		<text>战术手册：AEK-919K 板栗</text>
+		<text>战术手册:AEK-919K 板栗</text>
 	</string>
 	<string id="st_book_for_aek971_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 АЕК-971. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_aek971_title">
-		<text>战术手册：АЕК-971</text>
+		<text>战术手册:АЕК-971</text>
 	</string>
 	<string id="st_book_for_ak101_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 适用于AK-101m . 阅读它能够提高你对该武器的熟练度.</text>
@@ -502,31 +502,31 @@
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 开膛手. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_destroyer_title">
-		<text>战术手册：开膛手</text>
+		<text>战术手册:开膛手</text>
 	</string>
 	<string id="st_book_for_fal_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 DSA-58OSW. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_fal_title">
-		<text>战术手册：DSA-58OSW</text>
+		<text>战术手册:DSA-58OSW</text>
 	</string>
 	<string id="st_book_for_fanfall_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 FAN FALL . 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_fanfall_title">
-		<text>战术手册：FAN FALL</text>
+		<text>战术手册:FAN FALL</text>
 	</string>
 	<string id="st_book_for_fnfal_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 FAL "伞兵" . 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_fnfal_title">
-		<text>战术手册：FAL "伞兵"</text>
+		<text>战术手册:FAL "伞兵"</text>
 	</string>
 	<string id="st_book_for_g43_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 G43 "Gewehr" . 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_g43_title">
-		<text>战术手册：G43 "Gewehr"</text>
+		<text>战术手册:G43 "Gewehr"</text>
 	</string>
 	<string id="st_book_for_grom_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 Thunder Breakwater . 阅读它能够提高你对该武器的熟练度.</text>
@@ -538,31 +538,31 @@
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 HK417. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_hk417_title">
-		<text>战术手册：HK417</text>
+		<text>战术手册:HK417</text>
 	</string>
 	<string id="st_book_for_kar98k_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 Karabiner 98k. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_kar98k_title">
-		<text>战术手册：Karabiner 98k</text>
+		<text>战术手册:Karabiner 98k</text>
 	</string>
 	<string id="st_book_for_ks23_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 23MM 特制卡宾枪. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_ks23_title">
-		<text>战术手册：23MM 特制卡宾枪</text>
+		<text>战术手册:23MM 特制卡宾枪</text>
 	</string>
 	<string id="st_book_for_l85_tactical_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 L85 "战术型" . 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_l85_tactical_title">
-		<text>战术手册：L85 "战术型"</text>
+		<text>战术手册:L85 "战术型"</text>
 	</string>
 	<string id="st_book_for_m1000_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 M-1000 Mik. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_m1000_title">
-		<text>战术手册：M-1000 Mik</text>
+		<text>战术手册:M-1000 Mik</text>
 	</string>
 	<string id="st_book_for_m14_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 M14 . 阅读它能够提高你对该武器的熟练度.</text>
@@ -574,7 +574,7 @@
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 M-249. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_m249_title">
-		<text>战术手册：M-249</text>
+		<text>战术手册:M-249</text>
 	</string>
 	<string id="st_book_for_m4a1_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于M4A1-雄驹 . 阅读它能够提高你对该武器的熟练度.</text>
@@ -592,7 +592,7 @@
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 掠夺者. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_marauder_title">
-		<text>战术手册：掠夺者</text>
+		<text>战术手册:掠夺者</text>
 	</string>
 	<string id="st_book_for_mosina_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 莫辛纳甘 M1891 . 阅读它能够提高你对该武器的熟练度.</text>
@@ -610,19 +610,19 @@
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 MP7A1 PDW. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_mp7_title">
-		<text>战术手册：MP7A1 PDW</text>
+		<text>战术手册:MP7A1 PDW</text>
 	</string>
 	<string id="st_book_for_oc33_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 OC-33 Пернач. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_oc33_title">
-		<text>战术手册：OC-33 Пернач</text>
+		<text>战术手册:OC-33 Пернач</text>
 	</string>
 	<string id="st_book_for_oicw_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 XM29 OICW. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_oicw_title">
-		<text>战术手册：XM29 OICW</text>
+		<text>战术手册:XM29 OICW</text>
 	</string>
 	<string id="st_book_for_p90_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 P90 . 阅读它能够提高你对该武器的熟练度.</text>
@@ -640,43 +640,43 @@
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 PPK 74 龙卷风. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_rpk74_title">
-		<text>战术手册：RPK 74 龙卷风</text>
+		<text>战术手册:RPK 74 龙卷风</text>
 	</string>
 	<string id="st_book_for_saiga_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 Saiga 12 K. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_saiga_title">
-		<text>战术手册：Saiga12 K</text>
+		<text>战术手册:Saiga12 K</text>
 	</string>
 	<string id="st_book_for_sks_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 СКС-45. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_sks_title">
-		<text>战术手册：SKS-45</text>
+		<text>战术手册:SKS-45</text>
 	</string>
 	<string id="st_book_for_trg42_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 Sako TRG-42. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_trg42_title">
-		<text>战术手册：Sako TRG-42</text>
+		<text>战术手册:Sako TRG-42</text>
 	</string>
 	<string id="st_book_for_tt33_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 TT-33. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_tt33_title">
-		<text>战术手册：TT-33</text>
+		<text>战术手册:TT-33</text>
 	</string>
 	<string id="st_book_for_ump45_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 UMP45. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_ump45_title">
-		<text>战术手册：UMP45</text>
+		<text>战术手册:UMP45</text>
 	</string>
 	<string id="st_book_for_usas12_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 USAS-12. 阅读它能够提高你对该武器的熟练度.</text>
 	</string>
 	<string id="st_book_for_usas12_title">
-		<text>战术手册：USAS-12</text>
+		<text>战术手册:USAS-12</text>
 	</string>
 	<string id="st_book_for_xm8_descr">
 		<text>本书能教会你各种正确使用武器战斗的技巧,以及保养武器的方法.适用于 XM8 . 阅读它能够提高你对该武器的熟练度.</text>
@@ -925,37 +925,37 @@
 		<text>短</text>
 	</string>
 	<string id="st_medal_150_descr">
-		<text>新等级的奖金，当你经验到达150时就会自动颁发，使用即可转换成资产。</text>
+		<text>新等级的奖金,当你经验到达150时就会自动颁发,使用即可转换成资产.</text>
 	</string>
 	<string id="st_medal_150_title">
 		<text>成就: 潜行者</text>
 	</string>
 	<string id="st_medal_200_descr">
-		<text>新等级的奖金，当你经验到达200时就会自动颁发，使用即可转换成资产。</text>
+		<text>新等级的奖金,当你经验到达200时就会自动颁发,使用即可转换成资产.</text>
 	</string>
 	<string id="st_medal_200_title">
 		<text>成就: 老兵</text>
 	</string>
 	<string id="st_medal_300_descr">
-		<text>新等级的奖金，当你经验到达300时就会自动颁发，使用即可转换成资产。</text>
+		<text>新等级的奖金,当你经验到达300时就会自动颁发,使用即可转换成资产.</text>
 	</string>
 	<string id="st_medal_300_title">
 		<text>成就: 精英</text>
 	</string>
 	<string id="st_medal_400_descr">
-		<text>新等级的奖金，当你经验到达400时就会自动颁发，使用即可转换成资产。</text>
+		<text>新等级的奖金,当你经验到达400时就会自动颁发,使用即可转换成资产.</text>
 	</string>
 	<string id="st_medal_400_title">
 		<text>成就: 大师</text>
 	</string>
 	<string id="st_medal_600_descr">
-		<text>新等级的奖金，当你经验到达600时就会自动颁发，使用即可转换成资产。</text>
+		<text>新等级的奖金,当你经验到达600时就会自动颁发,使用即可转换成资产.</text>
 	</string>
 	<string id="st_medal_600_title">
 		<text>成就: 变异区英雄</text>
 	</string>
 	<string id="st_medal_800_descr">
-		<text>新等级的奖金，当你经验到达800时就会自动颁发，使用即可转换成资产。</text>
+		<text>新等级的奖金,当你经验到达800时就会自动颁发,使用即可转换成资产.</text>
 	</string>
 	<string id="st_medal_800_title">
 		<text>成就: 最伟大的潜行者</text>
@@ -964,13 +964,13 @@
 		<text>探测器用电</text>
 	</string>
 	<string id="st_mod_option_detector_need_accum_descr">
-		<text>没有电池探测器无法使用。</text>
+		<text>没有电池探测器无法使用.</text>
 	</string>
 	<string id="st_mod_option_sleepbag_prohibition">
 		<text>关闭睡袋模式</text>
 	</string>
 	<string id="st_mod_option_sleepbag_prohibition_descr">
-		<text>睡袋被永久移除。</text>
+		<text>睡袋被永久移除.</text>
 	</string>
 	<string id="st_mp3_player_stalker">
 		<text>潜行者</text>
@@ -1030,7 +1030,7 @@
 		<text>温彻斯特1887</text>
 	</string>
 	<string id="st_wpn_1887_descr">
-		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 96\n%c[255,238,153,26]• %c[default]开火速度 = 50 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 100 米\n%c[255,238,153,26]• %c[default]子弹速度 = 245 米/秒\n%c[default]这把枪是由著名的枪械设计师约翰.勃朗宁设计，由温彻斯特连发轻武器公司(Winchester Repeating Arms Company)生产的. 虽然勃朗宁主张采用泵动式原理, 但温彻斯特公司则认为该枪最好采用杠杆动作原理, 因为在当时这是温彻斯特公司的招牌设计. 后来, 温彻斯特公司把1887型霰弹枪重新设计成适合无烟发射药霰弹型号.</text>
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 96\n%c[255,238,153,26]• %c[default]开火速度 = 50 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 100 米\n%c[255,238,153,26]• %c[default]子弹速度 = 245 米/秒\n%c[default]这把枪是由著名的枪械设计师约翰.勃朗宁设计,由温彻斯特连发轻武器公司(Winchester Repeating Arms Company)生产的. 虽然勃朗宁主张采用泵动式原理, 但温彻斯特公司则认为该枪最好采用杠杆动作原理, 因为在当时这是温彻斯特公司的招牌设计. 后来, 温彻斯特公司把1887型霰弹枪重新设计成适合无烟发射药霰弹型号.</text>
 	</string>
 	<string id="st_wpn_aek919k">
 		<text>AEK-919K 卡什坦</text>
@@ -1102,7 +1102,7 @@
 		<text>FN-F2000 暴風</text>
 	</string>
 	<string id="st_wpn_fn2000_hurricane_descr">
-		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 64, 附消声器 = 63\n%c[255,238,153,26]• %c[default]开火速度 = 670 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 500 米, с глушителем 400\n%c[255,238,153,26]• %c[default]子弹速度 = 900 米/秒, 附消声器 700\n%c[default]F2000模块化突击武器系统的基础是一个紧凑型5.56毫米无托步枪 瞄具为1.6倍的光学瞄具,即使是在阴暗的天气里,目标影像也很清晰.40毫米榴弹发射器作为F2000的一部分来设计,而且还专门为榴弹发射器设计了一个简单可行的火控系统（FCS）</text>
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 64, 附消声器 = 63\n%c[255,238,153,26]• %c[default]开火速度 = 670 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 500 米, с глушителем 400\n%c[255,238,153,26]• %c[default]子弹速度 = 900 米/秒, 附消声器 700\n%c[default]F2000模块化突击武器系统的基础是一个紧凑型5.56毫米无托步枪 瞄具为1.6倍的光学瞄具,即使是在阴暗的天气里,目标影像也很清晰.40毫米榴弹发射器作为F2000的一部分来设计,而且还专门为榴弹发射器设计了一个简单可行的火控系统(FCS)</text>
 	</string>
 	<string id="st_wpn_fnfal">
 		<text>FAL 伞兵</text>
@@ -1114,7 +1114,7 @@
 		<text>HK-G36K 狙击型</text>
 	</string>
 	<string id="st_wpn_g36_sniper_descr">
-		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 65, 附消声器 = 62\n%c[255,238,153,26]• %c[default]开火速度 = 450 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 500 米, с глушителем 400\n%c[255,238,153,26]• %c[default]子弹速度 = 900 米/秒, 附消声器 800\n%c[default]外部的模组的自动武器的发展趋势是：机械结构在也不再基于半自动自由枪机而是小型的气体活塞.我必须说这种改进明显的有好处,这把突击步枪是第一种现代武器的代表 - 轻便,耐用以及包含人体工程学.能够使用9mm达姆弹.</text>
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 65, 附消声器 = 62\n%c[255,238,153,26]• %c[default]开火速度 = 450 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 500 米, с глушителем 400\n%c[255,238,153,26]• %c[default]子弹速度 = 900 米/秒, 附消声器 800\n%c[default]外部的模组的自动武器的发展趋势是:机械结构在也不再基于半自动自由枪机而是小型的气体活塞.我必须说这种改进明显的有好处,这把突击步枪是第一种现代武器的代表 - 轻便,耐用以及包含人体工程学.能够使用9mm达姆弹.</text>
 	</string>
 	<string id="st_wpn_g36_tactical">
 		<text>H&K-G36c 战术型</text>
@@ -1132,7 +1132,7 @@
 		<text>Glock-17</text>
 	</string>
 	<string id="st_wpn_glock_descr">
-		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 40, 附消声器 = 39\n%c[255,238,153,26]• %c[default]开火速度 = 1200 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 100 米, с глушителем 60\n%c[255,238,153,26]• %c[default]子弹速度 = 560 米/秒, 附消声器 400\n%c[default]Glock-17是由奥地利格洛克公司应奥地利军方要求开发的, 此外该枪也是该系列的开山鼻祖. 其拥有的设计理念独特、材料新颖、突性能出、操作性和维护性良好、容弹量大、价格适宜等优势，使得G17一经推出便赢得满堂喝彩. 此后, Glock 17, 及其后续枪型陆续成为各国军队和警察的流行装备.</text>
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 40, 附消声器 = 39\n%c[255,238,153,26]• %c[default]开火速度 = 1200 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 100 米, с глушителем 60\n%c[255,238,153,26]• %c[default]子弹速度 = 560 米/秒, 附消声器 400\n%c[default]Glock-17是由奥地利格洛克公司应奥地利军方要求开发的, 此外该枪也是该系列的开山鼻祖. 其拥有的设计理念独特、材料新颖、突性能出、操作性和维护性良好、容弹量大、价格适宜等优势,使得G17一经推出便赢得满堂喝彩. 此后, Glock 17, 及其后续枪型陆续成为各国军队和警察的流行装备.</text>
 	</string>
 	<string id="st_wpn_gp100">
 		<text>鲁格GP100</text>
@@ -1144,7 +1144,7 @@
 		<text>旱天雷 破水</text>
 	</string>
 	<string id="st_wpn_grom_descr">
-		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 80\n%c[255,238,153,26]• %c[default]开火速度 = 700 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 400 米\n%c[255,238,153,26]• %c[default]子弹速度 = 700 米/秒\n%c[default]轻便,可靠同时具有强大力量的榴弹发射器挂件,包含了一个1.6倍瞄准镜,弹药： 5.45x39和VOG-25 榴弹.能够使用9mm达姆弹.</text>
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 80\n%c[255,238,153,26]• %c[default]开火速度 = 700 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 400 米\n%c[255,238,153,26]• %c[default]子弹速度 = 700 米/秒\n%c[default]轻便,可靠同时具有强大力量的榴弹发射器挂件,包含了一个1.6倍瞄准镜,弹药: 5.45x39和VOG-25 榴弹.能够使用9mm达姆弹.</text>
 	</string>
 	<string id="st_wpn_groza_nimble">
 		<text>风暴</text>
@@ -1168,13 +1168,13 @@
 		<text>HK417</text>
 	</string>
 	<string id="st_wpn_hk417_descr">
-		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 93\n%c[255,238,153,26]• %c[default]开火速度 = 70 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 950 米\n%c[255,238,153,26]• %c[default]子弹速度 = 830 米/秒\n%c[default]该步枪特点 - 模块化设计，类似于自动步枪M16，但使用了不同的短冲程活塞传动式系统，和HK G36是一样的.枪管是通过7个旋转锁定螺栓固定.这种武器是由高耐用的冷锻技术制造.能够发射9mm达姆弹.</text>
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 93\n%c[255,238,153,26]• %c[default]开火速度 = 70 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 950 米\n%c[255,238,153,26]• %c[default]子弹速度 = 830 米/秒\n%c[default]该步枪特点 - 模块化设计,类似于自动步枪M16,但使用了不同的短冲程活塞传动式系统,和HK G36是一样的.枪管是通过7个旋转锁定螺栓固定.这种武器是由高耐用的冷锻技术制造.能够发射9mm达姆弹.</text>
 	</string>
 	<string id="st_wpn_kar98k">
 		<text>Kar.98k</text>
 	</string>
 	<string id="st_wpn_kar98k_descr">
-		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 100\n%c[255,238,153,26]• %c[default]开火速度 = 25 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 600 米\n%c[255,238,153,26]• %c[default]子弹速度 = 820 米/秒\n%c[default]一种德制步枪, 于1898年由“毛瑟”设计. 毛瑟系列步枪从1898年开始在德军服役一直到二战结束，并赢得了“简单而可靠”的良好声誉. 98式步枪是一种弹夹供弹的旋转后拉枪机步枪, 供弹系统与枪机是它最有特点的两个设计, 而枪机部分的设计, 更是已经成为世界手动步枪的经典设计而名留青史.Kar.98k作为一种经典的武器, 仍然受到枪械爱好者的欢迎, 并用于收藏, 射击运动或狩猎. 能够发射9mm达姆弹.</text>
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 100\n%c[255,238,153,26]• %c[default]开火速度 = 25 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 600 米\n%c[255,238,153,26]• %c[default]子弹速度 = 820 米/秒\n%c[default]一种德制步枪, 于1898年由'毛瑟'设计. 毛瑟系列步枪从1898年开始在德军服役一直到二战结束,并赢得了'简单而可靠'的良好声誉. 98式步枪是一种弹夹供弹的旋转后拉枪机步枪, 供弹系统与枪机是它最有特点的两个设计, 而枪机部分的设计, 更是已经成为世界手动步枪的经典设计而名留青史.Kar.98k作为一种经典的武器, 仍然受到枪械爱好者的欢迎, 并用于收藏, 射击运动或狩猎. 能够发射9mm达姆弹.</text>
 	</string>
 	<string id="st_wpn_ks23">
 		<text>Ks-23</text>
@@ -1264,7 +1264,7 @@
 		<text>MP-5 章鱼</text>
 	</string>
 	<string id="st_wpn_mp5_octopus_descr">
-		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 48, 附消声器 = 45\n%c[255,238,153,26]• %c[default]开火速度 = 716 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 150 米, с глушителем 150\n%c[255,238,153,26]• %c[default]子弹速度 = 344 米/秒, 附消声器 260\n%c[default]改造过的MP-5微型冲锋枪,改造者想做一把新型近距离武器：大口径,高速发射,标准准确度.</text>
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 48, 附消声器 = 45\n%c[255,238,153,26]• %c[default]开火速度 = 716 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 150 米, с глушителем 150\n%c[255,238,153,26]• %c[default]子弹速度 = 344 米/秒, 附消声器 260\n%c[default]改造过的MP-5微型冲锋枪,改造者想做一把新型近距离武器:大口径,高速发射,标准准确度.</text>
 	</string>
 	<string id="st_wpn_mp7">
 		<text>MP7A1 PDW</text>
@@ -1276,7 +1276,7 @@
 		<text>OTs-33 彼尔纳哈</text>
 	</string>
 	<string id="st_wpn_oc33_descr">
-		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 47, 附消声器 = 46\n%c[255,238,153,26]• %c[default]开火速度 = 760 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 180 米, 加消音器 = 120米\n%c[255,238,153,26]• %c[default]子弹速度 = 210 米/秒, 加消音器 = 200米/秒\n%c[default]OTs-33手枪是以OTs-27手枪为基础改进的一种自动手枪，能进行半自动和全自动射击. 该枪主要用于取代斯捷奇金APS装备OMON、SOBR等特种部队和执法机构.</text>
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]伤害 = 47, 附消声器 = 46\n%c[255,238,153,26]• %c[default]开火速度 = 760 发/分钟\n%c[255,238,153,26]• %c[default]有效距离 = 180 米, 加消音器 = 120米\n%c[255,238,153,26]• %c[default]子弹速度 = 210 米/秒, 加消音器 = 200米/秒\n%c[default]OTs-33手枪是以OTs-27手枪为基础改进的一种自动手枪,能进行半自动和全自动射击. 该枪主要用于取代斯捷奇金APS装备OMON、SOBR等特种部队和执法机构.</text>
 	</string>
 	<string id="st_wpn_oicw">
 		<text>XM29 OICW</text>
@@ -1297,7 +1297,7 @@
 		<text>马卡洛夫PMM</text>
 	</string>
 	<string id="st_wpn_pm_actor_descr">
-		<text>一把过时了的马卡洛夫手枪，在极度危险的国情下被成功的生产出来。'奖给加廖夫,以及他英勇的表现和责任心.'</text>
+		<text>一把过时了的马卡洛夫手枪,在极度危险的国情下被成功的生产出来.'奖给加廖夫,以及他英勇的表现和责任心.'</text>
 	</string>
 	<string id="st_wpn_ppsh41">
 		<text>PPSh-41</text>
@@ -1530,4 +1530,15 @@
 	<string id="zat_stalker_elrbus_dialog_2">
 		<text>我明白了,剑刃说让我来指挥这支团队.</text>
 	</string>
+
+	<string id="st_addon_scope_susat_detector">
+		<text>SUSAT '探测器'瞄准镜</text>
+	</string>
+	<string id="st_addon_scope_susat_detector_descr">
+		<text>一种光学5.0x放大倍数的SUSAT瞄准镜,内置热能成像仪,用于探测来自哺乳动物体内的热源.通过北约标准的皮卡汀尼导轨附挂在武器上.</text>
+	</string>
+	<string id="st_search_helicopter_done">
+		<text>直升飞机已检查 ($$ACTION_USE$$)</text>
+	</string>
+
 </string_table>

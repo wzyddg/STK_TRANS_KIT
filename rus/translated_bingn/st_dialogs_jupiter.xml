@@ -40,7 +40,7 @@
 		<text>我很愿意去,但是我可不喜欢被电磁风暴打倒在地.我们等一会再走也不迟.</text>
 	</string>
 	<string id="jup_a10_stalker_vano_need_outfit_0">
-		<text>我们需要一套拥有封闭式循环呼吸系统的防护服来帮助我们到达普里皮亚特.</text>
+		<text>我们需要一套拥有封闭式循环呼吸系统的防护服来帮助我们到达普里皮亚季.</text>
 	</string>
 	<string id="jup_a10_stalker_vano_need_outfit_1">
 		<text>兄弟,那实在太糟了!我的防护服有那东西——你可以把脑袋伸进呼吸罩里尽情呼吸,但是我在哈瓦伊恩那把它典当出去了.真希望我们能把它拿回来——我们需要5000,但我现在身无分文...</text>
@@ -73,7 +73,7 @@
 		<text>那么,你是打算把它直接给我,还是?</text>
 	</string>
 	<string id="jup_a10_stalker_vano_pripyat_group_0">
-		<text>我想组织一个队伍进入普里皮亚特.想加入吗?</text>
+		<text>我想组织一个队伍进入普里皮亚季.想加入吗?</text>
 	</string>
 	<string id="jup_a10_stalker_vano_pripyat_group_1">
 		<text>你帮了我,朋友,所以我也会帮助你的.</text>
@@ -82,7 +82,7 @@
 		<text>我也想,兄弟,但是我欠下了一笔债,我不能离开.那样不好,而且如果我们在路上碰见他们了,他们会像杀条狗一样杀了我的.那些混蛋根本不在乎杀了谁.</text>
 	</string>
 	<string id="jup_a10_stalker_vano_pripyat_ready_0">
-		<text>那么,你准备好去普里皮亚特了?</text>
+		<text>那么,你准备好去普里皮亚季了?</text>
 	</string>
 	<string id="jup_a10_stalker_vano_pripyat_ready_1">
 		<text>我已经准备得不能再好了.</text>
@@ -250,7 +250,7 @@
 		<text>明白!</text>
 	</string>
 	<string id="jup_a12_stalker_assaulter_after_scene_actor_dialog_0">
-		<text>和我一起去普里皮亚特吧.</text>
+		<text>和我一起去普里皮亚季吧.</text>
 	</string>
 	<string id="jup_a12_stalker_assaulter_after_scene_actor_dialog_1">
 		<text>我现在最好留在这,我要确保米泰没有麻烦.</text>
@@ -295,7 +295,7 @@
 		<text>你能做什么?</text>
 	</string>
 	<string id="jup_a12_stalker_diplomat_after_scene_actor_dialog_0">
-		<text>和我一起去普里皮亚特吧.</text>
+		<text>和我一起去普里皮亚季吧.</text>
 	</string>
 	<string id="jup_a12_stalker_diplomat_after_scene_actor_dialog_1">
 		<text>我只是来和我的朋友们待在一起的,所以我要和他们一起留在这.</text>
@@ -337,7 +337,7 @@
 		<text>等等,让我想想.</text>
 	</string>
 	<string id="jup_a12_stalker_prisoner_come_with_me_0">
-		<text>你想不想和我一起去一趟普里皮亚特呢,米泰?</text>
+		<text>你想不想和我一起去一趟普里皮亚季呢,米泰?</text>
 	</string>
 	<string id="jup_a12_stalker_prisoner_employ_stalkers_0">
 		<text>科学家们正依靠雇佣一些人来工作,去帮他们工作怎么样?</text>
@@ -730,7 +730,7 @@
 		<text>我乐意效劳,但是他们已经雇佣了自由团了.把我们的小队派过去只会加剧已经非常紧张的局势.</text>
 	</string>
 	<string id="jup_a6_duty_leader_pripyat_group_0">
-		<text>我正计划前往普里皮亚特.你愿意给我几名战士去执行任务吗?</text>
+		<text>我正计划前往普里皮亚季.你愿意给我几名战士去执行任务吗?</text>
 	</string>
 	<string id="jup_a6_duty_leader_pripyat_group_1">
 		<text>我们现在缺人手!和神行客谈谈——看起来他一点都没有把纪律团当家来看待,所以他也许会发现,他要找的人就是你.</text>
@@ -937,7 +937,7 @@
 		<text>我乐意效劳,但是已经有纪律团在那了.我们在亚诺夫车站和那些混蛋们待在一起的时间够多了,所以我们不去,谢谢.</text>
 	</string>
 	<string id="jup_a6_freedom_leader_pripyat_group_0">
-		<text>你能给我一支小队和我一起去普里皮亚特吗?</text>
+		<text>你能给我一支小队和我一起去普里皮亚季吗?</text>
 	</string>
 	<string id="jup_a6_freedom_leader_pripyat_group_1">
 		<text>和我们的新兵,神行客谈谈吧.他在这里不快乐,也许你能给他想要的.</text>
@@ -1009,13 +1009,13 @@
 		<text>没兴趣?那要过八百年后才会发生在我身上.我知道哪里能买到廉价的物品.除了这个之外,没有什么比那个PDA还要让我更感兴趣了.</text>
 	</string>
 	<string id="jup_a6_stalker_barmen_pripyat_group_0">
-		<text>谁能和我一起去普里皮亚特?</text>
+		<text>谁能和我一起去普里皮亚季?</text>
 	</string>
 	<string id="jup_a6_stalker_barmen_pripyat_group_1">
-		<text>普里皮亚特?哇!好吧,我真想丢下一切和你去,但是我现在真的很忙......</text>
+		<text>普里皮亚季?哇!好吧,我真想丢下一切和你去,但是我现在真的很忙......</text>
 	</string>
 	<string id="jup_a6_stalker_barmen_pripyat_group_2">
-		<text>普里皮亚特?哇!你应该向洛基要人.我想他不会拒绝像你这样的好人.</text>
+		<text>普里皮亚季?哇!你应该向洛基要人.我想他不会拒绝像你这样的好人.</text>
 	</string>
 	<string id="jup_a6_stalker_barmen_start_dialog_12">
 		<text>你来放松的吗?我的酒吧没什么特别的,但是这是个友好而又温馨的地方!</text>
@@ -1075,7 +1075,7 @@
 		<text>好多了.</text>
 	</string>
 	<string id="jup_a6_stalker_medik_pripyat_group_0">
-		<text>谁会和我一起去普里皮亚特?</text>
+		<text>谁会和我一起去普里皮亚季?</text>
 	</string>
 	<string id="jup_a6_stalker_medik_pripyat_group_1">
 		<text>和瓦诺,一个潜行者谈谈吧.他很豪爽,不过那可给他带来了不少麻烦.</text>
@@ -1114,10 +1114,10 @@
 		<text>那么,你说的是什么事?</text>
 	</string>
 	<string id="jup_b15_zulus_about_dialog_121">
-		<text>我计划从木星工业区地下的地下通道中前往普里皮亚特.硝基能打开入口.</text>
+		<text>我计划从木星工业区地下的地下通道中前往普里皮亚季.硝基能打开入口.</text>
 	</string>
 	<string id="jup_b15_zulus_about_dialog_1211">
-		<text>唔...从地下去普里皮亚特...是个好主意...那么我们再来一杯吧.</text>
+		<text>唔...从地下去普里皮亚季...是个好主意...那么我们再来一杯吧.</text>
 	</string>
 	<string id="jup_b15_zulus_about_dialog_12111">
 		<text>干杯.</text>
@@ -1216,7 +1216,7 @@
 		<text>哈,放松兄弟...我有天发现了绿洲...又是个没有人能到达的地方...</text>
 	</string>
 	<string id="jup_b15_zulus_about_dialog_1521">
-		<text>哇,你是一个真正的探险者,兄弟.有你在身边,我们能立刻找到去普里皮亚特的路.干杯.</text>
+		<text>哇,你是一个真正的探险者,兄弟.有你在身边,我们能立刻找到去普里皮亚季的路.干杯.</text>
 	</string>
 	<string id="jup_b15_zulus_about_dialog_15211">
 		<text>干杯.</text>
@@ -1255,7 +1255,7 @@
 		<text>我到哪可以找到能加入我们小队的战士?</text>
 	</string>
 	<string id="jup_b15_zulus_group_fighters_1">
-		<text>问问木星附近的家伙...那些待在河湾的家伙肯定不会去普里皮亚特的.我们需要无所畏惧的家伙...这样的人会非常愿意加入基本上是拼命的任务.你记得曾经和那样的人见过面吗?也许有人会记得你的恩情或者你知道哪些并不安于现状的人...</text>
+		<text>问问木星附近的家伙...那些待在河湾的家伙肯定不会去普里皮亚季的.我们需要无所畏惧的家伙...这样的人会非常愿意加入基本上是拼命的任务.你记得曾经和那样的人见过面吗?也许有人会记得你的恩情或者你知道哪些并不安于现状的人...</text>
 	</string>
 	<string id="jup_b15_zulus_group_fighters_2">
 		<text>我们现在有足够的人手了.没有必要分成几个部分...我们用的是小队策略.</text>
@@ -1444,7 +1444,7 @@
 		<text>我不想让这件事麻烦他们...我们俩就可以处理了,没问题.</text>
 	</string>
 	<string id="jup_b19_freedom_yar_come_with_me_0">
-		<text>你会和我一起去普里皮亚特吗?</text>
+		<text>你会和我一起去普里皮亚季吗?</text>
 	</string>
 	<string id="jup_b19_freedom_yar_come_with_me_1">
 		<text>不...如果我年轻一点就好了...我曾经走着去西伯利亚并且走着回来,但是这些日子以来我却只能尽可能地少走些路...我猜,我老了.</text>
@@ -1474,7 +1474,7 @@
 		<text>这里究竟发生了什么事?</text>
 	</string>
 	<string id="jup_b19_freedom_yar_done_why_mercs_1">
-		<text>有几个小家伙来这里袭击我...你知道,当那队雇佣兵出现时,我正躲在灌木丛中思考我自己的事情.他们的领队对着PDA大喊着关于普里皮亚特的中心实验室的事情,一个紧急命令,或是之类的东西...然后我踩到了一个该死的树枝,让他们发觉到我在那.所以我抓紧我的步枪,然后逃掉了,但是我总觉得他们会跟上我.所以这些日子以来东躲西藏就是我们为偷听付出的代价.</text>
+		<text>有几个小家伙来这里袭击我...你知道,当那队雇佣兵出现时,我正躲在灌木丛中思考我自己的事情.他们的领队对着PDA大喊着关于普里皮亚季的中心实验室的事情,一个紧急命令,或是之类的东西...然后我踩到了一个该死的树枝,让他们发觉到我在那.所以我抓紧我的步枪,然后逃掉了,但是我总觉得他们会跟上我.所以这些日子以来东躲西藏就是我们为偷听付出的代价.</text>
 	</string>
 	<string id="jup_b19_freedom_yar_prepare_start_11">
 		<text>最主要的事情是不要瞎想任何东西.安静地跟着我...如果我们一直保持安静不要移动的话,事情会变得漂亮而又简单.</text>
@@ -1489,7 +1489,7 @@
 		<text>好吧.</text>
 	</string>
 	<string id="jup_b1_stalker_1_come_with_me_0">
-		<text>我正在组织一个小队一起前往普里皮亚特.想加入我吗?</text>
+		<text>我正在组织一个小队一起前往普里皮亚季.想加入我吗?</text>
 	</string>
 	<string id="jup_b1_stalker_1_come_with_me_1">
 		<text>很吸引人...但是还是不了,谢谢.科学家们给了我一个承诺,我可以待在特异区内,而且他们给的报酬也不错.对不起,我还是要待在这.</text>
@@ -2053,10 +2053,10 @@
 		<text>纪律团商人的PDA?别开玩笑了...把PDA给舒尔加,然后他会处理它的.千万别对自由团的人提起,明白吗?他们会用一张臭嘴蓄意破坏整个派系的名声...</text>
 	</string>
 	<string id="jup_b217_stalker_tech_main_info_0">
-		<text>我找到了一些文件.里面描述的是前往普里皮亚特的方式.</text>
+		<text>我找到了一些文件.里面描述的是前往普里皮亚季的方式.</text>
 	</string>
 	<string id="jup_b217_stalker_tech_main_info_1">
-		<text>我们来看看...哦,哦,哦...那么,大概是说,有一个标记为普里皮亚特1号的地下通道,贯穿了普里皮亚特城的下方,它有一部分连接到已经被关闭的木星工业区运输通道.真叫人印象深刻!根据这些被封存起来的讯息推断,它里面应该充满了毒气,它的电力也被切断了.我想我们应该重新启动发电机,然后打开封锁.只要...</text>
+		<text>我们来看看...哦,哦,哦...那么,大概是说,有一个标记为普里皮亚季1号的地下通道,贯穿了普里皮亚季城的下方,它有一部分连接到已经被关闭的木星工业区运输通道.真叫人印象深刻!根据这些被封存起来的讯息推断,它里面应该充满了毒气,它的电力也被切断了.我想我们应该重新启动发电机,然后打开封锁.只要...</text>
 	</string>
 	<string id="jup_b217_stalker_tech_main_info_3">
 		<text>...只要我们不是毫无防护措施就穿过木星,而且我建议你连想都不要想你能自己一个人穿越地下.至少,你需要找几个家伙跟你一起去.你们都还需要拥有封闭式循环呼吸系统的防护服,否则你在那里可撑不了几分钟...听着,祖鲁住在离这不远的塔里——试试和他谈谈.如果你们这些家伙合得来的话,他会告诉你怎么组建一个小队.</text>
@@ -2509,7 +2509,7 @@
 		<text>谢谢.科学家的酬劳很好,但我更关心许可的事情.</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_artefacts_112">
-		<text>真的感谢,朋友!现在我终于可以去普里皮亚特了——我只需要想一个去那的方式.</text>
+		<text>真的感谢,朋友!现在我终于可以去普里皮亚季了——我只需要想一个去那的方式.</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_artefacts_12">
 		<text>一个海胆神器,这儿,拿着.</text>
@@ -2518,13 +2518,13 @@
 		<text>谢谢.科学家的酬劳很好,但我更关心许可的事情.</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_artefacts_122">
-		<text>真的感谢,朋友!现在我终于可以去普里皮亚特了——我只需要想一个去那的方式.</text>
+		<text>真的感谢,朋友!现在我终于可以去普里皮亚季了——我只需要想一个去那的方式.</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_artefacts_13">
 		<text>一个肉块神器和一个海胆神器,这儿,拿着.</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_artefacts_131">
-		<text>真的感谢,朋友!现在我终于可以去普里皮亚特了——我只需要想一个去那的方式.</text>
+		<text>真的感谢,朋友!现在我终于可以去普里皮亚季了——我只需要想一个去那的方式.</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_artefacts_14">
 		<text>没什么.</text>
@@ -2539,7 +2539,7 @@
 		<text>是的,我和科学家签订了一些任务的合约,我以为那些任务会很简单.但是我很失败地发现,合约只有在任务被完成的时候才会起作用.科学家们承诺当任务完成的时候会给我进入特异区的官方许可.</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_contract_111">
-		<text>除了一件小事情之外,我完成了合约上所有该死的条款.我需要找到所有已知存在的化学神器.谁知道这里根本拿不到肉块神器或者海胆神器.如果我能拿到这两样,我很久以前就能到普里皮亚特去了,但是我没有!</text>
+		<text>除了一件小事情之外,我完成了合约上所有该死的条款.我需要找到所有已知存在的化学神器.谁知道这里根本拿不到肉块神器或者海胆神器.如果我能拿到这两样,我很久以前就能到普里皮亚季去了,但是我没有!</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_contract_1111">
 		<text>我可能可以帮你找到这些神器.</text>
@@ -2548,31 +2548,31 @@
 		<text>真遗憾.</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_contract_2">
-		<text>是啊...只要一个肉块神器和一个海胆神器我就能离开去普里皮亚特了!</text>
+		<text>是啊...只要一个肉块神器和一个海胆神器我就能离开去普里皮亚季了!</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_pripyat_0">
-		<text>普里皮亚特有什么特殊的吗?</text>
+		<text>普里皮亚季有什么特殊的吗?</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_pripyat_1">
-		<text>没有人知道怎么到那儿...毕竟,我们在特异区,因此你不可能直接走过去.他们说那里有很多没有人得到的珍贵的神器...另外,还有很多围绕着普里皮亚特的传奇,而我只是简单的好奇而已.</text>
+		<text>没有人知道怎么到那儿...毕竟,我们在特异区,因此你不可能直接走过去.他们说那里有很多没有人得到的珍贵的神器...另外,还有很多围绕着普里皮亚季的传奇,而我只是简单的好奇而已.</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_pripyat_group_0">
-		<text>我正在组建一个去普里皮亚特的小队.要加入我们吗?</text>
+		<text>我正在组建一个去普里皮亚季的小队.要加入我们吗?</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_pripyat_group_1">
 		<text>实际上,我自己一直想去那...但是只会是我一个人.没什么原因,我只是习惯一个人...</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_pripyat_group_2">
-		<text>哈,实际上我很快就会启程前往普里皮亚特...但是只会是我一个人.没什么原因,我只是习惯一个人...</text>
+		<text>哈,实际上我很快就会启程前往普里皮亚季...但是只会是我一个人.没什么原因,我只是习惯一个人...</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_start_11">
 		<text>欢迎来到无聊的地方.</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_start_12">
-		<text>兄弟,我真想去普里皮亚特!</text>
+		<text>兄弟,我真想去普里皮亚季!</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_start_13">
-		<text>我只要找到一个去普里皮亚特的路,然后我马上就能到那.</text>
+		<text>我只要找到一个去普里皮亚季的路,然后我马上就能到那.</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_start_14">
 		<text>能在这真好!生活的意义好像就是要生生地活着!</text>
@@ -2584,7 +2584,7 @@
 		<text>我可能可以帮你拿到那些神器.</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_way_0">
-		<text>你知道去普里皮亚特的路吗?</text>
+		<text>你知道去普里皮亚季的路吗?</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_way_1">
 		<text>我不知道,但是如果它真的像人们所说的那样满地神器的话,我准备立刻就去拿一个回来.我的意思是,我不像其它人——我是第一个找到去木星的路的人之一.但是我总是一个人工作——我没时间帮其它人注意他们背后.</text>
@@ -2605,7 +2605,7 @@
 		<text>不要在电磁风暴中出行.</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_guide_to_pripyat_0">
-		<text>你能带我去普里皮亚特吗?</text>
+		<text>你能带我去普里皮亚季吗?</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_guide_to_pripyat_1">
 		<text>给我5000我就设法带你去.我喜欢那里!</text>
@@ -2770,22 +2770,22 @@
 		<text>对不起,我帮不了你.</text>
 	</string>
 	<string id="jup_b4_monolith_squad_leader_need_outfit_0">
-		<text>你需要一个拥有封闭式循环呼吸系统的防护服好前往普里皮亚特.</text>
+		<text>你需要一个拥有封闭式循环呼吸系统的防护服好前往普里皮亚季.</text>
 	</string>
 	<string id="jup_b4_monolith_squad_leader_need_outfit_1">
 		<text>好吧——我确实留着我的黑石装甲,而且实际上事实就是这样.问题是在亚诺夫车站我可不能被其它人看见我穿着这东西.</text>
 	</string>
 	<string id="jup_b4_monolith_squad_leader_pripyat_group_0">
-		<text>我正在组建一个小队和我一起前往普里皮亚特.你愿意加入我们吗?</text>
+		<text>我正在组建一个小队和我一起前往普里皮亚季.你愿意加入我们吗?</text>
 	</string>
 	<string id="jup_b4_monolith_squad_leader_pripyat_group_1">
 		<text>我会去...我的意思是,我更好奇我们在那会发生什么.但是我现在不能去.我不可能把我的兄弟们留在这.如果这样他们的一切都会结束的.</text>
 	</string>
 	<string id="jup_b4_monolith_squad_leader_pripyat_group_2">
-		<text>是的,我会和你一起去.我想知道我们会发生什么.我期待我们会在普里皮亚特找到那个问题的答案.我只要通知一下洛基,但我怀疑他会反对.</text>
+		<text>是的,我会和你一起去.我想知道我们会发生什么.我期待我们会在普里皮亚季找到那个问题的答案.我只要通知一下洛基,但我怀疑他会反对.</text>
 	</string>
 	<string id="jup_b4_monolith_squad_leader_pripyat_group_3">
-		<text>是的,我会和你一起去.我想知道我们会发生什么.我期待我们会在普里皮亚特找到那个问题的答案.我只要通知一下舒尔加,但我怀疑他会反对.</text>
+		<text>是的,我会和你一起去.我想知道我们会发生什么.我期待我们会在普里皮亚季找到那个问题的答案.我只要通知一下舒尔加,但我怀疑他会反对.</text>
 	</string>
 	<string id="jup_b4_monolith_squad_leader_pripyat_ready_0">
 		<text>你准备好出发了吗?</text>
@@ -3763,7 +3763,7 @@
 		<text>既然你在这儿,我能帮你做点什么?</text>
 	</string>
 	<string id="jup_b19_freedom_yar_pripyat_about_0">
-		<text>你怎么去的普里皮亚特?</text>
+		<text>你怎么去的普里皮亚季?</text>
 	</string>
 	<string id="jup_b19_freedom_yar_pripyat_about_1">
 		<text>加里为我指点了路线.那帮潜行者家伙们早就想来这儿了,不过他们可不喜欢跟军队打交道.一听加里说军队飞走了,我就再也不必多想了.别怕,雅大叔来了!哈!</text>
@@ -3868,7 +3868,7 @@
 		<text>你找到了神器?</text>
 	</string>
 	<string id="jup_b43_stalker_assistant_bunker_boredom_1">
-		<text>一点儿没错!这里无所事事——这块西洋双陆棋就是我们所有的娱乐了.这里不是普里皮亚特...兄弟,但愿我能完成这份该死的合同,那就是我要做的!</text>
+		<text>一点儿没错!这里无所事事——这块西洋双陆棋就是我们所有的娱乐了.这里不是普里皮亚季...兄弟,但愿我能完成这份该死的合同,那就是我要做的!</text>
 	</string>
 	<string id="jup_b217_stalker_tech_main_info_2">
 		<text>[继续...]</text>
@@ -4147,7 +4147,7 @@
 		<text>你还知道点什么?他属于某个组织吗?还是一个自由潜行者?</text>
 	</string>
 	<string id="jup_a6_stalker_gavaetc_quest_art_dyavola_dialog_5">
-		<text>在我看来,完全是扯淡.如果真有这样的神器,为什么只有传言?而且还没有细节.你最好还是去找比尔德领些普通神器的订单.至于那个叫黄鼠狼的潜行者,跟纪律团和自由团的老大们谈谈...</text>
+		<text>在我看来,完全是扯淡.如果真有这样的神器,为什么只有传言?而且还没有细节.你最好还是去找大胡子领些普通神器的订单.至于那个叫黄鼠狼的潜行者,跟纪律团和自由团的老大们谈谈...</text>
 	</string>
 	<string id="jup_a6_stalker_gavaetc_quest_art_dyavola_dialog_6">
 		<text>好的,可以了,谢谢,祝你好运.</text>

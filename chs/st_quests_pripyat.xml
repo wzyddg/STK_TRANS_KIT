@@ -1,69 +1,53 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <string_table>
 	<string id="pri_alf_informs_title0">
-		<text>阿尔法指令：找到三份文件</text>
+		<text>阿尔法指令:找到三份文件</text>
 	</string>
-	 
 	<string id="pri_alf_informs_text0">
-		<text>黑石技师阿尔法要求你找到所有关于使用可能留在普里皮亚记的旧CCD机械设备的信息。据他所说那应该是在第二次爆发中死去很久的科学家的研究成果。总共应该有三份文件。</text>
+		<text>黑石技师阿尔法要求你找到所有关于使用可能留在普里皮亚记的旧CCD机械设备的信息.据他所说那应该是在第二次爆发中死去很久的科学家的研究成果.总共应该有三份文件.</text>
 	</string>
-	 
 	<string id="pri_alf_informs_title1">
-		<text>阿尔法指令：找到剩下的两份文件</text>
+		<text>阿尔法指令:找到剩下的两份文件</text>
 	</string>
-	 
 	<string id="pri_alf_informs_text1">
-		<text>三份里的一份找到了，接着找另外两份。</text>
+		<text>三份里的一份找到了,接着找另外两份.</text>
 	</string>
-	 
 	<string id="pri_alf_informs_title2">
-		<text>阿尔法指令：找到剩下的两份文件</text>
+		<text>阿尔法指令:找到剩下的两份文件</text>
 	</string>
-	 
 	<string id="pri_alf_informs_text2">
-		<text>三份里的一份找到了，接着找另外两份。</text>
+		<text>三份里的一份找到了,接着找另外两份.</text>
 	</string>
-	 
 	<string id="pri_alf_informs_title3">
-		<text>阿尔法指令：找到剩下的两份文件</text>
+		<text>阿尔法指令:找到剩下的两份文件</text>
 	</string>
-	 
 	<string id="pri_alf_informs_text3">
-		<text>三份里的一份找到了，接着找另外两份。</text>
+		<text>三份里的一份找到了,接着找另外两份.</text>
 	</string>
-	 
 	<string id="pri_alf_informs_title4">
-		<text>阿尔法指令：找到剩下的一份文件</text>
+		<text>阿尔法指令:找到剩下的一份文件</text>
 	</string>
-	 
 	<string id="pri_alf_informs_text4">
-		<text>三份里的两份找到了，接着找另外一份。</text>
+		<text>三份里的两份找到了,接着找另外一份.</text>
 	</string>
-	 
 	<string id="pri_alf_informs_title5">
-		<text>阿尔法指令：找到剩下的一份文件</text>
+		<text>阿尔法指令:找到剩下的一份文件</text>
 	</string>
-	 
 	<string id="pri_alf_informs_text5">
-		<text>三份里的两份找到了，接着找另外一份。</text>
+		<text>三份里的两份找到了,接着找另外一份.</text>
 	</string>
-	 
 	<string id="pri_alf_informs_title6">
-		<text>阿尔法指令：找到剩下的一份文件</text>
+		<text>阿尔法指令:找到剩下的一份文件</text>
 	</string>
-	 
 	<string id="pri_alf_informs_text6">
-		<text>三份里的两份找到了，接着找另外一份。</text>
+		<text>三份里的两份找到了,接着找另外一份.</text>
 	</string>
-	 
 	<string id="pri_alf_informs_title7">
-		<text>阿尔法指令：文件收集完毕</text>
+		<text>阿尔法指令:文件收集完毕</text>
 	</string>
-	 
 	<string id="pri_alf_informs_text7">
 		<text>阿尔法要求的CCD文件收集完毕</text>
 	</string>
-
 	<string id="pri_a17_get_gauss_rifle_documentation_name">
 		<text>62号物品:在测试车间找到相关文件</text>
 	</string>

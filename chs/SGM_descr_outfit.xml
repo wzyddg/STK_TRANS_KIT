@@ -1,0 +1,222 @@
+	<string id="reduce_novice_stalker_outfit_name">
+		<text>皮夹克 (损坏)</text>
+	</string>
+	<string id="reduce_novice_bandit_outfit_name">
+		<text>强盗夹克 (损坏)</text>
+	</string>
+	<string id="reduce_cs_heavy_outfit_name">
+		<text>CS-3a防弹衣 (损坏)</text>
+	</string>
+	<string id="reduce_dolg_heavy_outfit_name">
+		<text>PSZ-9d纪律团装甲 (损坏)</text>
+	</string>
+	<string id="reduce_dolg_outfit_name">
+		<text>PS5-M全方位防弹衣 (损坏)</text>
+	</string>
+	<string id="reduce_exo_outfit_name">
+		<text>外骨骼 (损坏)</text>
+	</string>
+	<string id="reduce_military_outfit_name">
+		<text>军用战斗服(损坏)</text>
+	</string>
+	<string id="reduce_novice_outfit_name">
+		<text>皮质军用短上衣 (损坏)</text>
+	</string>
+	<string id="reduce_scientific_outfit_name">
+		<text>SEVA防护服 (损坏)</text>
+	</string>
+	<string id="reduce_specops_outfit_name">
+		<text>'Berill-5M' 战斗服 (损坏)</text>
+	</string>
+	<string id="reduce_stalker_outfit_name">
+		<text>黎明防护服 (损坏)</text>
+	</string>
+	<string id="reduce_svoboda_heavy_outfit_name">
+		<text>自由团防护服 (损坏)</text>
+	</string>
+	<string id="reduce_svoboda_light_outfit_name">
+		<text>风魂自由团防护服 (损坏)</text>
+	</string>
+	<string id="reduce_heavy_stalker_outfit_name">
+		<text>大师防护服 (损坏)</text>
+	</string>
+	<string id="reduce_bandit_raid_outfit_name">
+		<text>强盗战斗服 (损坏)</text>
+	</string>
+	<string id="reduce_svoboda_army_outfit_name">
+		<text>指挥官战斗服 (损坏)</text>
+	</string>
+	<string id="reduce_bandit_prikid_outfit_name">
+		<text>S12强盗夹克 (损坏)</text>
+	</string>
+	<string id="reduce_csky_specnaz_outfit_name">
+		<text>RS-5阿尔法小组防弹衣 (损坏)</text>
+	</string>
+	<string id="reduce_ecolog_regular_outfit_name">
+		<text>SSP-99 '生态学者' (损坏)</text>
+	</string>
+	<string id="reduce_ecolog_military_outfit_name">
+		<text>SS-99M防护服 (损坏)</text>
+	</string>
+	<string id="reduce_killer_outfit_name">
+		<text>雇佣兵防护服 (损坏)</text>
+	</string>
+	<string id="reduce_csky_exo_outfit_name">
+		<text>黎明外骨骼 (损坏)</text>
+	</string>
+	<string id="reduce_freedom_exo_outfit_name">
+		<text>自由团外骨骼 (损坏)</text>
+	</string>
+	<string id="reduce_monolit_exo_outfit_name">
+		<text>黑石外骨骼 (损坏)</text>
+	</string>
+	<string id="reduce_dolg_exo_outfit_name">
+		<text>纪律团外骨骼 (损坏)</text>
+	</string>
+	<string id="reduce_army_exo_outfit_name">
+		<text>军方外骨骼 (损坏)</text>
+	</string>
+	<string id="reduce_bandit_exo_outfit_name">
+		<text>强盗外骨骼 (损坏)</text>
+	</string>
+	<string id="reduce_killer_exo_outfit_name">
+		<text>雇佣兵外骨骼 (损坏)</text>
+	</string>
+	<string id="st_helm_spectacles">
+		<text>德格特雅里夫的太阳镜</text>
+	</string>
+	<string id="st_helm_spectacles_descr">
+		<text>%c[default]防御属性:\n%c[255,238,153,26]?%c[default]头部保护 = 0%\n%c[default]内置第三代夜视功能的眼镜</text>
+	</string>
+	<string id="st_helm_piranhas">
+		<text>水虎鱼头盔</text>
+	</string>
+	<string id="st_helm_piranhas_descr">
+		<text>%c[default]防御属性:\n%c[255,238,153,26]?%c[default]头部保护 = 23%\n%c[default]轻型重量的头盔内置封闭呼吸装置,设计为保护变异点伤害.研究所采用了与SEVA防护服采用了同样的设计,可能也含有军方防护服的成分.</text>
+	</string>
+	<string id="st_helm_mercenary">
+		<text>弹簧头盔</text>
+	</string>
+	<string id="st_helm_mercenary_descr">
+		<text>%c[default]防御属性:\n%c[255,238,153,26]?%c[default]头部保护 = 38%\n%c[default]采用了缓冲技术和封闭呼吸装置,设计为保护变异点伤害.基于雇佣兵防护服的技术.</text>
+	</string>
+	<string id="st_novice_stalker_outfit_name">
+		<text>皮夹克</text>
+	</string>
+	<string id="st_novice_stalker_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 50 kg\n%c[255,238,153,26]?%c[default]最大携带重量 = 60 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 5%\n%c[default]比其它的皮夹克更加厚实.对子弹和撕裂伤害有略微防护,但对变异点起不到任何防护作用.</text>
+	</string>
+	<string id="st_novice_bandit_outfit_name">
+		<text>强盗夹克</text>
+	</string>
+	<string id="st_novice_bandit_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 50 kg\n%c[255,238,153,26]?%c[default]最大携带重量 = 60 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 7%\n%c[default]强盗们的传统服装,皮夹克与缝制的铠甲能够为你提供一些保护,但几乎没有任何能力在恶劣的环境下成为你可靠的伙伴.与S12强盗夹克有一定区别.</text>
+	</string>
+	<string id="st_killer_outfit_name">
+		<text>佣兵防护服</text>
+	</string>
+	<string id="st_killer_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 63 kg\n%c[255,238,153,26]?%c[default]最大携带重量 = 73 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 24%\n%c[default]以西方特种部队的标准打造的防护服.由于使用了特殊面料,这件防护服的防护性能已经得到了很大的加强.略微超过PSZ-7系列军用装甲背心.</text>
+	</string>
+	<string id="st_ecolog_regular_outfit_name">
+		<text>SSP-99 '生态学家'</text>
+	</string>
+	<string id="st_ecolog_regular_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 70 kg\n%c[255,238,153,26]?%c[default]最大携带重量 = 80 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 35%\n%c[default]高科技化学防护服.它的特殊设计让穿着者能够在环境恶劣的特异区工作.主要装备给在特异区工作的科学家和与他们合作的潜行者,并非用于作战.内置空气过滤器和空调系统.</text>
+	</string>
+	<string id="st_ecolog_military_outfit_name">
+		<text>SS-99M 防护服</text>
+	</string>
+	<string id="st_ecolog_military_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 78 kg\n%c[255,238,153,26]?%c[default]最大携带重量  = 88 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 50%\n%c[default]经过高度修改的SSP-99防护服.增加了保护躯干免受子弹伤害的防护层.用于装备进行科学考察的科研人员.能够有效保护穿着者免受各种变异点的有害影响.</text>
+	</string>
+	<string id="st_monolith_outfit_name">
+		<text>先知装甲</text>
+	</string>
+	<string id="st_monolith_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 77 kg\n%c[255,238,153,26]?%c[default]最大携带重量 = 87 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 40%\n%c[default]黑石勇士的连身防护服.没有任何人知道它是由谁打造的.先知装甲能提供出色的防护,从小中口径的武器到特殊的变异点都可以轻松抵挡.内置现代化的神器插槽.</text>
+	</string>
+	<string id="st_heavy_stalker_outfit_name">
+		<text>大师防护服</text>
+	</string>
+	<string id="st_heavy_stalker_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 68 kg\n%c[255,238,153,26]?%c[default]最大携带重量  = 78 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 22%\n%c[default]由特异区工匠打造,嵌有双层有机玻璃和橡胶垫,内置一件装甲背心.尽管事实上,连手枪子弹都可以穿透装甲背心.但是它依然非常受欢迎,因为它价格实惠且支持各种升级.内置神器插槽.</text>
+	</string>
+	<string id="st_bandit_raid_outfit_name">
+		<text>强盗装甲</text>
+	</string>
+	<string id="st_bandit_raid_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 72 kg\n%c[255,238,153,26]?%c[default]最大携带重量= 82 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 40%\n%c[default]这件装甲套装是由强盗工匠打造的.他们将它打造得像'布拉特'装甲服一样,但是它们还是有些许不同,这就是为什么这件装甲能够提供的保护较少的原因.强盗装甲主要在突袭的时候使用.没有神器插槽.</text>
+	</string>
+	<string id="st_svoboda_army_outfit_name">
+		<text>指挥官装甲</text>
+	</string>
+	<string id="st_svoboda_army_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 76 kg\n%c[255,238,153,26]?%c[default]最大携带重量 = 86 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 55%\n%c[default]自由团战士的标准配备,由自由团工匠打造.指挥官装甲是对枪击和变异点保护的完美结合.内置的凯夫拉装甲背心能够抵挡住普通的手枪子弹.为了加强对变异点的防护,组成这件装甲的面料曾经被技师们浸泡在某种特殊溶液中.内置一个神器插槽.</text>
+	</string>
+	<string id="st_bandit_prikid_outfit_name">
+		<text>S12 强盗夹克</text>
+	</string>
+	<string id="st_bandit_prikid_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 50 kg\n%c[255,238,153,26]?%c[default]最大携带重量 = 60 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 5%\n%c[default]强盗们的传统服装,皮夹克与缝制的铠甲能够为你提供一些保护,但几乎没有任何能力在恶劣的环境下成为你可靠的伙伴.</text>
+	</string>
+	<string id="st_csky_specnaz_outfit_name">
+		<text>RS-5 晴空防弹衣</text>
+	</string>
+	<string id="st_csky_specnaz_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 80 kg\n%c[255,238,153,26]?%c[default]最大携带重量 = 90 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 55%\n%c[default]这件防护服曾经是晴空的标准装备.它不仅可以阻挡手枪子弹,而且还能提供对变异点的良好防护.内置额外的神器插槽.</text>
+	</string>
+	<string id="st_csky_exo_outfit_name">
+		<text>黎明外骨骼</text>
+	</string>
+	<string id="st_csky_exo_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 150 kg\n%c[255,238,153,26]?%c[default]最大携带重量 = 160 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 80%\n%c[default]由标准外骨骼升级而来.黎明组织的技师使用更轻便的材料减轻了外骨骼的重量.而新的运动系统让穿着者能够获得冲刺的能力.它的负重能力是其它所有外骨骼所无法比拟的,达到了惊人的150kg.</text>
+	</string>
+	<string id="st_freedom_exo_outfit_name">
+		<text>自由团外骨骼</text>
+	</string>
+	<string id="st_freedom_exo_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 100 kg\n%c[255,238,153,26]?%c[default]最大携带重量 = 110 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 80%\n%c[default]由标准外骨骼升级而来.自由团的技师使用更轻便的材料减轻了外骨骼的重量.而新的运动系统让穿着者能够获得冲刺的能力.此外,这件外骨骼拥有一个独特的呼吸系统,该系统可以显著增加穿着者的耐力.</text>
+	</string>
+	<string id="st_dolg_exo_outfit_name">
+		<text>纪律团外骨骼</text>
+	</string>
+	<string id="st_dolg_exo_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 90 kg\n%c[255,238,153,26]?%c[default]最大携带重量 = 100 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 90%\n%c[default]由标准外骨骼升级而来.纪律团的技师使用更轻便的材料减轻了外骨骼的重量.而新的运动系统让穿着者能够获得冲刺的能力.额外的凯芙拉装甲增强了该外骨骼的防弹能力.</text>
+	</string>
+	<string id="st_monolit_exo_outfit_name">
+		<text>黑石外骨骼</text>
+	</string>
+	<string id="st_monolit_exo_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 110 kg\n%c[255,238,153,26]?%c[default]最大携带重量 = 120 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 85%\n%c[default]由标准外骨骼升级而来.黑石的技师使用更轻便的材料减轻了外骨骼的重量.而新的运动系统让穿着者能够获得冲刺的能力.增加了额外的神器插槽.</text>
+	</string>
+	<string id="st_bandit_exo_outfit_name">
+		<text>强盗外骨骼</text>
+	</string>
+	<string id="st_bandit_exo_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 80 kg\n%c[255,238,153,26]?%c[default]最大携带重量 = 90 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 60%\n%c[default]由标准外骨骼升级而来.强盗的技师使用更轻便的材料减轻了外骨骼的重量.而新的运动系统让穿着者能够获得冲刺的能力.</text>
+	</string>
+	<string id="st_army_exo_outfit_name">
+		<text>军方外骨骼</text>
+	</string>
+	<string id="st_army_exo_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 90 kg\n%c[255,238,153,26]?%c[default]最大携带重量 = 100 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 98%\n%c[default]由标准外骨骼升级而来.军方的技师使用更轻便的材料减轻了外骨骼的重量.而新的运动系统让穿着者能够获得冲刺的能力.内置目前最先进的凯芙拉装甲板,使得它的防弹性能甚至高于纪律团外骨骼.</text>
+	</string>
+	<string id="st_killer_exo_outfit_name">
+		<text>佣兵外骨骼</text>
+	</string>
+	<string id="st_killer_exo_outfit_description">
+		<text>%c[default]携带能力:\n%c[255,238,153,26]?%c[default]Normal 携带重量 = 88 kg\n%c[255,238,153,26]?%c[default]最大携带重量 = 98 kg\n%c[default]防御属性:\n%c[255,238,153,26]?%c[default]子弹抵抗 = 75%\n%c[default]由标准外骨骼升级而来.佣兵的技师使用更轻便的材料减轻了外骨骼的重量.而新的运动系统让穿着者能够获得冲刺的能力.相比强盗外骨骼,它的防弹能力大幅提升.</text>
+	</string>
+	<string id="stalker_reinforced_outfit_name">
+		<text>强化'黎明'装甲服</text>
+	</string>
+	<string id="stalker_reinforced_outfit_description">
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]min.携带重量 = 75 kg\n%c[255,238,153,26]• %c[default]最大携带重量 = 85 kg\n%c[default]防御属性:\n%c[255,238,153,26]• %c[default]子弹抵抗 = 60%\n%c[default]这是由潜行者技师开发的ITChpR-3a '黎明'重型装甲服.他们将普通防护服与外骨骼的制造工艺完美融合,以外骨骼装甲为基干,并且同时使用了军用防护系统,内置的铝钛头盔和特殊防护装置使得它对变异点有很强的防护性.手工打造使得它的性能出众,穿着舒适,几乎是潜行者中最高水准的作品.内置两个神器插槽.</text>
+	</string>
+	<string id="army_nauchniy_outfit_name">
+		<text>军方'绝缘'装甲</text>
+	</string>
+	<string id="army_nauchniy_outfit_description">
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]min.携带重量 = 57.5 kg\n%c[255,238,153,26]• %c[default]最大携带重量 = 67.5 kg\n%c[default]防护特性:\n%c[255,238,153,26]• %c[default]子弹抵抗 = 60%\n%c[default]军方'绝缘'装甲'加加林',适用于极端条件下的突击行动.配备外部绝缘层和封闭呼吸系统,其主要是对GP-17防毒面具所做的修改.这样的设计使得它对变异点的防护性能十分出众.它以盾牌防护甲为基础,能为穿着者提供出色的防护,且不会让穿着者感到行动迟缓僵硬,他们能够一如既往地灵活行动.尽管它对于潜行者来说轻便易携带,但仍然有一个缺点:没有神器插槽.</text>
+	</string>

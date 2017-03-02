@@ -1,0 +1,54 @@
+	<string id="st_cev_plastin_1_name">
+		<text>«一级凯夫拉护板»</text>
+	</string>
+	<string id="st_cev_plastin_1_descr">
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]增强子弹防御力 %c[255,238,15,26](%c[255,1,128,54]+5%c[255,238,15,26])\n%c[default]针对子弹防护设计的物品,这个护甲能够让你子弹伤害减少 5%.</text>
+	</string>
+	<string id="st_cev_plastin_2_name">
+		<text>«二级凯夫拉护板»</text>
+	</string>
+	<string id="st_cev_plastin_2_descr">
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]增强子弹防御力 %c[255,238,15,26](%c[255,1,128,54]+9%c[255,238,15,26])\n%c[default]针对子弹防护设计的物品,这个护甲能够让你子弹伤害减少 9%.</text>
+	</string>
+	<string id="st_cev_plastin_3_name">
+		<text>«三级凯夫拉护板»</text>
+	</string>
+	<string id="st_cev_plastin_3_descr">
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]增强子弹防御力 %c[255,238,15,26](%c[255,1,128,54]+13%c[255,238,15,26])\n%c[default]针对子弹防护设计的物品,这个护甲能够让你子弹伤害减少 13%.</text>
+	</string>
+	<string id="st_cev_plastin_4_name">
+		<text>«四级凯夫拉护板»</text>
+	</string>
+	<string id="st_cev_plastin_4_descr">
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]增强子弹防御力 %c[255,238,15,26](%c[255,1,128,54]+17%c[255,238,15,26])\n%c[default]针对子弹防护设计的物品,这个护甲能够让你子弹伤害减少 17%.</text>
+	</string>
+	<string id="st_cev_plastin_5_name">
+		<text>«五级凯夫拉护板»</text>
+	</string>
+	<string id="st_cev_plastin_5_descr">
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]增强子弹防御力 %c[255,238,15,26](%c[255,1,128,54]+25%c[255,238,15,26])\n%c[default]针对子弹防护设计的物品,这个护甲能够让你子弹伤害减少 25%.</text>
+	</string>
+	<string id="st_af_geliy_name">
+		<text>«氦»</text>
+	</string>
+	<string id="st_af_geliy_descr">
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]第三类神器\n%c[default]明亮的电类神器.散发气态物质,可以让人加快血液中分泌肾上腺素.因此可以显著减轻人物负重重量.</text>
+	</string>
+	<string id="st_af_monolit_name">
+		<text>«黑石»</text>
+	</string>
+	<string id="st_af_monolit_descr">
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]第三类神器\n%c[default]奖励神器:\n%c[255,238,153,26]• %c[default]增强防弹效果 %c[255,238,15,26](%c[255,1,128,54]+25%c[255,238,15,26])\n%c[255,238,153,26]• %c[default]闪电防护 %c[255,238,15,26](%c[255,1,128,54]+10%c[255,238,15,26])\n%c[default]最强的神器.主要的属性是它的磁场,可以偏转子弹.</text>
+	</string>
+	<string id="st_af_vaselisk_name">
+		<text>«蜥怪»</text>
+	</string>
+	<string id="st_af_vaselisk_descr">
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]第二类神器\n%c[default]变异区中唯一的神器,能够为主人抵挡各种伤害.</text>
+	</string>
+	<string id="st_af_dragon_eye_name">
+		<text>«龙眼»</text>
+	</string>
+	<string id="st_af_dragon_eye_descr">
+		<text>%c[default]属性:\n%c[255,238,153,26]• %c[default]第三类神器\n%c[default]能够显著减轻负重,还有轻微的恢复效果,这种神奇非常抢手.</text>
+	</string>

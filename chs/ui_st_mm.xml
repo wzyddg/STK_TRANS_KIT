@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <string_table>
 	<string id="Clear">
 		<text>晴朗</text>
@@ -763,7 +763,7 @@
 		<text>版本</text>
 	</string>
 	<string id="mp_pripyat">
-		<text>普里皮亚特</text>
+		<text>普里皮亚季</text>
 	</string>
 	<string id="ui_mm_crouch_toggle">
 		<text>切换蹲下/站立模式</text>
@@ -916,7 +916,7 @@
 		<text>昵称过长.输入字符不能超过30个.</text>
 	</string>
 	<string id="mp_gp_unique_nick_must_contain_only">
-		<text>昵称只能包含数字、字母及以下特殊符号:"#$&amp;'()*+-./:;@[]^_`{|}~</text>
+		<text>昵称只能包含数字、字母及以下特殊符号:'#$&amp;'()*+-./:;@[]^_`{|}~</text>
 	</string>
 	<string id="mp_gp_unique_nick_must_contain_nospaces">
 		<text>昵称不能包含空格</text>

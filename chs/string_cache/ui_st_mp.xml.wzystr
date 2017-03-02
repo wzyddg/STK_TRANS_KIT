@@ -427,7 +427,7 @@
 		<text>投票已被服务器取消!</text>
 	</string>
 	<string id="mp_voting_started">
-		<text>投票"%s"从%s开始</text>
+		<text>投票'%s'从%s开始</text>
 	</string>
 	<string id="mp_voting_started_msg">
 		<text>开始投票!</text>

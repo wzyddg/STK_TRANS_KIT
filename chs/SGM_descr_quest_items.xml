@@ -1,0 +1,543 @@
+	<string id="st_signaller_toolkit_1_descr">
+		<text>用来实现高质量的维修行军装备.</text>
+	</string>
+	<string id="st_signaller_toolkit_1">
+		<text>RCA-42军用工具</text>
+	</string>
+	<string id="st_signaller_toolkit_2_descr">
+		<text>用来安装和校准军用装备.</text>
+	</string>
+	<string id="st_signaller_toolkit_2">
+		<text>RCH-86u军用工具</text>
+	</string>
+	<string id="st_special_helicopter_key">
+		<text>直升机万能钥匙</text>
+	</string>
+	<string id="st_special_helicopter_key_descr">
+		<text>用来在紧急情况下进入直升机.</text>
+	</string>
+	<string id="st_detector_modify_toolkit_descr">
+		<text>一套专业的工具,用于微调和升级探测器.套件中包含的内容足以完成所有类型探测器的配置和升级工作.</text>
+	</string>
+	<string id="st_detector_modify_toolkit">
+		<text>与探测器一起使用的工具.</text>
+	</string>
+	<string id="st_important_science_docks">
+		<text>科学报告1264号</text>
+	</string>
+	<string id="st_important_science_docks_descr">
+		<text>钉起来的几张A4纸.封面上写着: \n '融合变异石块' \n S/N 1264</text>
+	</string>
+	<string id="st_flash_avoid_witnesses_name">
+		<text>SBU情报15764</text>
+	</string>
+	<string id="st_flash_avoid_witnesses_descr">
+		<text>附加信息:一群雇佣兵扣留了我们在木星周围的特工.有理由相信我们的特工还活着.你的目标是释放特工,干掉那些抵抗的雇佣兵.为了安全进入营地,请使用雇佣兵套装.\n要将数据加载到PDA中, 必须使用本闪存.</text>
+	</string>
+	<string id="st_letter_from_agent">
+		<text>特工寄来的信</text>
+	</string>
+	<string id="st_letter_from_agent_descr">
+		<text>信里说:Degtyarev少校.你需要赶快会见我们在这片区域的特工.暗号:你的鱼片怎么样?</text>
+	</string>
+	<string id="st_quest_flash_light">
+		<text>带有'麦锡勒'光学装置的灯笼</text>
+	</string>
+	<string id="st_quest_flash_light_descr">
+		<text>卤素灯和光学瞄准装置安装在一个共同的管体里.</text>
+	</string>
+	<string id="st_quest_arms_case">
+		<text>装着Ruger GP100的箱子</text>
+	</string>
+	<string id="st_quest_arms_case_descr">
+		<text>箱子里装着Ruger GP100,以及配套的维修工具.</text>
+	</string>
+	<string id="st_quest_heavy_medkits">
+		<text>'CCA72'医疗包</text>
+	</string>
+	<string id="st_quest_heavy_medkits_descr">
+		<text>应用于教育部,包含通用医疗套件与除颤器.</text>
+	</string>
+	<string id="st_quest_photo_device">
+		<text>'苏珊娜'照相机</text>
+	</string>
+	<string id="st_quest_photo_device_descr">
+		<text>中等规格照相机与牢固的三脚架附件.</text>
+	</string>
+	<string id="st_quest_drink_beylis">
+		<text>'百利甜'</text>
+	</string>
+	<string id="st_quest_drink_beylis_descr">
+		<text>一种罕见的饮料, 至少在区域内是这样的.</text>
+	</string>
+	<string id="st_quest_frequency_radio">
+		<text>高频无线电'穿透'</text>
+	</string>
+	<string id="st_quest_frequency_radio_descr">
+		<text>用于长距离的通信.德国制造.</text>
+	</string>
+	<string id="st_quest_sharpshooter_binocular">
+		<text>'游侠'望远镜</text>
+	</string>
+	<string id="st_quest_sharpshooter_binocular_descr">
+		<text>专业军队望远镜.包含在军事狙击手的装备中.</text>
+	</string>
+	<string id="st_quest_live_water">
+		<text>生活用水</text>
+	</string>
+	<string id="st_quest_live_water_descr">
+		<text>特异区诞生的另一个奇迹.</text>
+	</string>
+	<string id="st_quest_medic_medkit">
+		<text>'V98'医疗包</text>
+	</string>
+	<string id="st_quest_medic_medkit_descr">
+		<text>一个大型医疗包.可以应对任何损伤或出血.</text>
+	</string>
+	<string id="st_quest_bloodsucker_letter_1">
+		<text>奇怪的笔记一</text>
+	</string>
+	<string id="st_quest_bloodsucker_letter_1_descr">
+		<text>信件写道:'...你是第一个见到我的人.我救了你的命...代价是你要保持沉默和...和帮助.帮帮我...我不能在人中间出现, 但我知道科学家有我需要的东西...NG-7.带给我这种药.它会对我有帮助的.我会感谢你的..'\n要将数据加载到PDA中,必须使用.</text>
+	</string>
+	<string id="st_quest_bloodsucker_letter_2">
+		<text>奇怪的笔记二</text>
+	</string>
+	<string id="st_quest_bloodsucker_letter_2_descr">
+		<text>信中写道: '谢谢你.区搜我的抽屉,在走廊的尽头.你的奖赏就在那..'</text>
+	</string>
+	<string id="st_quest_bloodsucker_vaccine">
+		<text>NG-7 疫苗</text>
+	</string>
+	<string id="st_quest_bloodsucker_vaccine_descr">
+		<text>奥泽斯基没有对这药做任何说明,但我相信这药可以阻止突变.</text>
+	</string>
+	<string id="st_device_pda_alfa_commander_novice">
+		<text>阿尔法小队指挥官的PDA</text>
+	</string>
+	<string id="st_device_pda_alfa_commander_novice_descr">
+		<text>%c[255,238,153,26]支援部队队长.%c[default]命令:所有支援部队！支援特别行动队或你们亲自,不论死活,抓到Degtyarev Alexander Grigorevich.1978年出生,乌克兰普里皮亚季原住民.特征:身材偏瘦,25-30岁,身高179厘米,淡棕色波浪头发.注意,任务执行期间找到的任何与SBU有关的物品都要立刻上交总部.特别注意闪存驱动器、纸张和电子设备的安全.成功完成任务的给予5倍奖励.</text>
+	</string>
+	<string id="st_device_pda_alfa_commander_regular">
+		<text>阿尔法小队指挥官的PDA</text>
+	</string>
+	<string id="st_device_pda_alfa_commander_regular_descr">
+		<text>%c[255,238,153,26]特别行动队指挥官.%c[default]命令:所有支援部队和特别行动队成员！不论死活,抓到Degtyarev Alexander Grigorevich.1978年出生,乌克兰普里皮亚季原住民.特征:身材偏瘦,25-30岁,身高179厘米,淡棕色波浪头发.注意,任务执行期间找到的任何与SBU有关的物品都要立刻上交总部.特别注意闪存驱动器、纸张和电子设备的安全.成功完成任务的给予10倍奖励.</text>
+	</string>
+	<string id="st_device_pda_alfa_commander_experienced">
+		<text>阿尔法小队指挥官的PDA</text>
+	</string>
+	<string id="st_device_pda_alfa_commander_experienced_descr">
+		<text>%c[255,238,153,26]特别行动队指挥官.%c[default]命令:所有支援部队和特别行动队成员！不论死活,抓到Degtyarev Alexander Grigorevich.1978年出生,乌克兰普里皮亚季原住民.特征:身材偏瘦,25-30岁,身高179厘米,淡棕色波浪头发.注意,任务执行期间找到的任何与SBU有关的物品都要立刻上交总部.特别注意闪存驱动器、纸张和电子设备的安全.成功完成任务的给予15倍奖励.</text>
+	</string>
+	<string id="st_device_pda_alfa_commander_veteran">
+		<text>阿尔法小队指挥官的PDA</text>
+	</string>
+	<string id="st_device_pda_alfa_commander_veteran_descr">
+		<text>%c[255,238,153,26]特别精英单位的指挥官. %c[default]命令:所有特别精英单位！不论死活,抓到Degtyarev Alexander Grigorevich.1978年出生,乌克兰普里皮亚季原住民.特征:身材偏瘦,25-30岁,身高179厘米,淡棕色波浪头发.注意,任务执行期间找到的任何与SBU有关的物品都要立刻上交总部.特别注意闪存驱动器、纸张和电子设备的安全.成功完成任务的给予20倍奖励.</text>
+	</string>
+	<string id="st_device_pda_alfa_commander_master">
+		<text>阿尔法小队指挥官的PDA</text>
+	</string>
+	<string id="st_device_pda_alfa_commander_master_descr">
+		<text>%c[255,238,153,26]特别超级精英单位的指挥官.%c[default]命令:所有特别超级精英单位！不论死活,抓到Degtyarev Alexander Grigorevich.1978年出生,乌克兰普里皮亚季原住民.特征:身材偏瘦,25-30岁,身高179厘米,淡棕色波浪头发.注意,任务执行期间找到的任何与SBU有关的物品都要立刻上交总部.特别注意闪存驱动器、纸张和电子设备的安全.成功完成任务的给予30倍奖励.</text>
+	</string>
+	<string id="st_device_pda_b1_commander">
+		<text>'斗牛犬'的PDA</text>
+	</string>
+	<string id="st_device_pda_b1_commander_descr">
+		<text>装有潜行者珍贵的资料的PDA</text>
+	</string>
+	<string id="st_device_pda_b1_renegade_1">
+		<text>反叛者的PDA</text>
+	</string>
+	<string id="st_device_pda_b1_renegade_1_descr">
+		<text>装有潜行者珍贵的资料的PDA</text>
+	</string>
+	<string id="st_device_pda_b1_renegade_2">
+		<text>反叛者的PDA</text>
+	</string>
+	<string id="st_device_pda_b1_renegade_2_descr">
+		<text>装有潜行者珍贵的资料的PDA</text>
+	</string>
+	<string id="st_device_pda_b1_renegade_3">
+		<text>反叛者的PDA</text>
+	</string>
+	<string id="st_device_pda_b1_renegade_3_descr">
+		<text>装有潜行者珍贵的资料的PDA</text>
+	</string>
+	<string id="st_device_pda_kasilov">
+		<text>'卡西洛夫'的PDA</text>
+	</string>
+	<string id="st_device_pda_kasilov_descr">
+		<text>包含有未知信息的PDA.</text>
+	</string>
+	<string id="st_device_pda_cherniy">
+		<text>'布莱克'的PDA</text>
+	</string>
+	<string id="st_device_pda_cherniy_descr">
+		<text>佣兵头目的闪存.闪存里的信息:我们的口令:'鸟鸣啾啾'.</text>
+	</string>
+	<string id="st_monolith_intercepted_case">
+		<text>里昂的箱子</text>
+	</string>
+	<string id="st_monolith_intercepted_case_descr">
+		<text>从黑石雇佣兵那里截获的箱子.里昂要求你把它带去普里皮亚季,而不打开它.</text>
+	</string>
+	<string id="st_jup_thief_voron_pda">
+		<text>乌鸦的PDA</text>
+	</string>
+	<string id="st_jup_thief_voron_pda_descr">
+		<text>PDA包含着归档文件, 并且被密码保护着.我的PDA不支持此版本的归档文件.需要移交给风暴突击者,也许他可以提取信息.</text>
+	</string>
+	<string id="st_zat_shakal_weapon">
+		<text>刻有名字的Ruger GP100</text>
+	</string>
+	<string id="st_zat_shakal_weapon_descr">
+		<text>私人武器.定制款,握把上刻着'Chapa'.</text>
+	</string>
+	<string id="st_af_acid_star_name">
+		<text>'酸性纤毛虫'</text>
+	</string>
+	<string id="st_af_acid_star_descr">
+		<text>有优异保护性能的独特神器.</text>
+	</string>
+	<string id="st_af_shapoklak_name">
+		<text>'大礼帽'</text>
+	</string>
+	<string id="st_af_shapoklak_descr">
+		<text>具有很好的保护和恢复属性的独特神器,然而具有放射性.</text>
+	</string>
+	<string id="st_zat_postman_parcel">
+		<text>给储户的包裹</text>
+	</string>
+	<string id="st_zat_postman_parcel_descr">
+		<text>潜行者佩特卡·佩楚辛说这里面是执照费用.收件人:马尔科维奇,斯卡多夫斯克上的储户.</text>
+	</string>
+	<string id="st_zat_danger_parcel">
+		<text>给卡内弗斯基的包裹</text>
+	</string>
+	<string id="st_zat_danger_parcel_descr">
+		<text>事实上,复仇者说的所谓的'烟花',看起来像个装着C4炸药的炸药包.收件人-纪律团的卡内弗斯基.</text>
+	</string>
+	<string id="st_shustriy_ingram_m10">
+		<text>缴获的Ingram Mac-10</text>
+	</string>
+	<string id="st_shustriy_ingram_m10_descr">
+		<text>在冲锋枪的把柄上刻着字,你依稀能看见'为了奖励优秀的...'还有某人的名字首字母缩写'P.SHK.N'.</text>
+	</string>
+	<string id="st_shustriy_ak47">
+		<text>缴获的AK-47</text>
+	</string>
+	<string id="st_shustriy_ak47_descr">
+		<text>老旧的自动武器,枪尾上有什么东西的爪痕.传奇的武器.特别是,据说他最后在'断痕'变异点中被杀了.</text>
+	</string>
+	<string id="st_shustriy_mossberg_590mk">
+		<text>缴获的Mossberg 590Mk.L</text>
+	</string>
+	<string id="st_shustriy_mossberg_590mk_descr">
+		<text>从外表来看,这把武器在地上被践踏了很久;最有可能的是在农研所附近.在枪尾上的出厂说明看,它属于一批拥有优质抛光的限量版枪械.</text>
+	</string>
+	<string id="st_shustriy_steyr_aug_ss190">
+		<text>缴获的Steyr AUG SS190</text>
+	</string>
+	<string id="st_shustriy_steyr_aug_ss190_descr">
+		<text>一把属于突击队的武器.一个懂行的技术员对这把枪进行了改造,极大地改善了它的作战性能.据传闻说,这是一件'军方仓库'的传奇工匠-螺丝的作品.</text>
+	</string>
+	<string id="st_detector_serafim">
+		<text>'六翼天使'探测器.</text>
+	</string>
+	<string id="st_detector_serafim_descr">
+		<text>科学家的特别发明.配备了变异点定位器和LED显示屏来显示未知样品的方向,不但能检测到图案,而且还能确定距离.抬起设备前端的盖子天线就能激活搜索模式.</text>
+	</string>
+	<string id="st_af_prodigy_danger_name">
+		<text>'未知神器'</text>
+	</string>
+	<string id="st_af_prodigy_danger_descr">
+		<text>具有放射性.神器的属性几乎是完全未知的.</text>
+	</string>
+	<string id="st_af_prodigy_1_processed_name">
+		<text>'品种768'</text>
+	</string>
+	<string id="st_af_prodigy_1_processed_descr">
+		<text>有机自然产物.由畸形的动物组织组成.放入化学污染的区域后开始从空气中抽取化学物质并将其转化为一种黏性物质.</text>
+	</string>
+	<string id="st_af_prodigy_2_processed_name">
+		<text>'品种815'</text>
+	</string>
+	<string id="st_af_prodigy_2_processed_descr">
+		<text>这个神器发育的很好,具有较高辐射.能让开放伤口迅速止血.</text>
+	</string>
+	<string id="st_af_prodigy_3_processed_name">
+		<text>'品种862'</text>
+	</string>
+	<string id="st_af_prodigy_3_processed_descr">
+		<text>具有独特属性的有机神器.以未知的原理让机体在任何性质的损伤后整体恢复率都有所增加,而不加速毒素的累积.</text>
+	</string>
+	<string id="st_af_prodigy_4_processed_name">
+		<text>'品种874'</text>
+	</string>
+	<string id="st_af_prodigy_4_processed_descr">
+		<text>静电变异点的产物.能显著增加携带者的肌肉张力.</text>
+	</string>
+	<string id="st_af_prodigy_5_processed_name">
+		<text>'品种895'</text>
+	</string>
+	<string id="st_af_prodigy_5_processed_descr">
+		<text>在自身周围产生一个反方向引力场的神器.非常有效地减少了携带者背包的内容的重量.</text>
+	</string>
+	<string id="st_af_prodigy_6_processed_name">
+		<text>'品种934'</text>
+	</string>
+	<string id="st_af_prodigy_6_processed_descr">
+		<text>有机神器.在自身周围生成一个无形的力场, 增强了媒体的免疫力.</text>
+	</string>
+	<string id="st_x18_secret_docks_1">
+		<text>案例45</text>
+	</string>
+	<string id="st_x18_secret_docks_1_descr">
+		<text>钉起来的几张A4纸.封面上写着: \n '绝密' \n S/N 773645</text>
+	</string>
+	<string id="st_x18_secret_docks_2">
+		<text>案例112</text>
+	</string>
+	<string id="st_x18_secret_docks_2_descr">
+		<text>钉起来的几张A4纸.封面上写着: \n '绝密' \n S/N 7736112</text>
+	</string>
+	<string id="st_x18_secret_docks_3">
+		<text>案例18</text>
+	</string>
+	<string id="st_x18_secret_docks_3_descr">
+		<text>钉起来的几张A4纸.封面上写着: \n '绝密' \n S/N 773618</text>
+	</string>
+	<string id="st_val_key_from_safe">
+		<text>保险箱的钥匙</text>
+	</string>
+	<string id="st_val_key_from_safe_descr">
+		<text>保险箱的钥匙,箱子里肯定装着去地下研究所的门卡.</text>
+	</string>
+	<string id="st_zat_medic_antidote">
+		<text>解毒剂</text>
+	</string>
+	<string id="st_zat_medic_antidote_descr">
+		<text>一包解毒剂.</text>
+	</string>
+	<string id="st_zat_wisdom_book_1">
+		<text>书籍-《智慧》</text>
+	</string>
+	<string id="st_zat_wisdom_book_1_descr">
+		<text>在特异区里,书可是稀罕东西.</text>
+	</string>
+	<string id="st_zat_wisdom_book_2">
+		<text>书籍-《智慧》</text>
+	</string>
+	<string id="st_zat_wisdom_book_2_descr">
+		<text>在特异区里,书可是稀罕东西.</text>
+	</string>
+	<string id="st_zat_wisdom_book_3">
+		<text>书籍-《智慧》</text>
+	</string>
+	<string id="st_zat_wisdom_book_3_descr">
+		<text>在特异区里,书可是稀罕东西.</text>
+	</string>
+	<string id="st_zat_mad_dog_pda">
+		<text>罗格日纳队长的PDA</text>
+	</string>
+	<string id="st_zat_mad_dog_pda_descr">
+		<text>装着有关自由领导人'剑刃'的珍贵信息的PDA.</text>
+	</string>
+	<string id="st_pri_inquisitor_pda_1">
+		<text>黑石的PDA</text>
+	</string>
+	<string id="st_pri_inquisitor_pda_1_descr">
+		<text>包含着数据的PDA.</text>
+	</string>
+	<string id="st_pri_inquisitor_pda_2">
+		<text>黑石的PDA</text>
+	</string>
+	<string id="st_pri_inquisitor_pda_2_descr">
+		<text>包含着数据的PDA.</text>
+	</string>
+	<string id="st_pri_fenix_brother_medallion">
+		<text>日耳曼勋章</text>
+	</string>
+	<string id="st_pri_fenix_brother_medallion_descr">
+		<text>凤凰兄弟的私人日耳曼勋章.</text>
+	</string>
+	<string id="st_val_access_card_x18">
+		<text>X18通行卡</text>
+	</string>
+	<string id="st_val_access_card_x18_descr">
+		<text>去X18实验室的通行卡.</text>
+	</string>
+	<string id="st_val_b4_baltazar_pda">
+		<text>巴尔塔扎尔的PDA</text>
+	</string>
+	<string id="st_val_b4_baltazar_pda_descr">
+		<text>装着珍贵信息的PDA.</text>
+	</string>
+	<string id="st_x18_secret_gs67">
+		<text>秘密武器</text>
+	</string>
+	<string id="st_mil_hole_bomb">
+		<text>C4爆炸物</text>
+	</string>
+	<string id="st_mil_hole_bomb_descr">
+		<text>剧烈爆炸物,带有一个远程引爆遥控.</text>
+	</string>
+	<string id="st_mil_hole_bomb_control">
+		<text>C4遥控器</text>
+	</string>
+	<string id="st_mil_hole_bomb_control_descr">
+		<text>使用即可远程引爆C4.</text>
+	</string>
+	<string id="st_val_renegade_money_case">
+		<text>装钱的箱子</text>
+	</string>
+	<string id="st_val_renegade_money_case_descr">
+		<text>里面装着一笔钱的铁箱子.</text>
+	</string>
+	<string id="st_jup_killer_caravan_case">
+		<text>会计的箱子</text>
+	</string>
+	<string id="st_jup_killer_caravan_case_descr">
+		<text>装着什么东西的铁盒子.</text>
+	</string>
+	<string id="st_agru_key_from_door">
+		<text>门的钥匙</text>
+	</string>
+	<string id="st_agru_key_from_door_descr">
+		<text>在死去的科学家身上发现的钥匙.</text>
+	</string>
+	<string id="st_agru_secret_docks_1">
+		<text>案例708</text>
+	</string>
+	<string id="st_agru_secret_docks_1_descr">
+		<text>钉起来的几张A4纸.封面上写着: \n '绝密' \n S/N 7736708</text>
+	</string>
+	<string id="st_agru_secret_docks_2">
+		<text>案例711</text>
+	</string>
+	<string id="st_agru_secret_docks_2_descr">
+		<text>钉起来的几张A4纸.封面上写着: \n '绝密' \n S/N 7736711</text>
+	</string>
+	<string id="st_esc_key_from_gate">
+		<text>大门的钥匙</text>
+	</string>
+	<string id="st_esc_key_from_gate_descr">
+		<text>强盗的钥匙.用来打开去沼泽地的大门.</text>
+	</string>
+	<string id="st_esc_b2_bomb">
+		<text>C4爆炸物</text>
+	</string>
+	<string id="st_esc_b2_bomb_descr">
+		<text>剧烈爆炸物,带有一个远程引爆遥控.</text>
+	</string>
+	<string id="st_esc_b2_bomb_control">
+		<text>C4遥控器</text>
+	</string>
+	<string id="st_esc_b2_bomb_control_descr">
+		<text>使用即可远程引爆C4.</text>
+	</string>
+	<string id="st_esc_b2_tamerlan_flash">
+		<text>铁木尔的闪存卡</text>
+	</string>
+	<string id="st_esc_b2_tamerlan_flash_descr">
+		<text>从铁木尔尸体上拿到的闪存卡.</text>
+	</string>
+	<string id="st_esc_b3_safe_flash">
+		<text>强盗的闪存卡</text>
+	</string>
+	<string id="st_esc_b3_safe_flash_descr">
+		<text>装有潜行者珍贵的资料的闪存卡.</text>
+	</string>
+	<string id="st_esc_b3_safe_key">
+		<text>保险箱的钥匙</text>
+	</string>
+	<string id="st_esc_b3_safe_key_descr">
+		<text>强盗的钥匙.用来打开保险箱.</text>
+	</string>
+	<string id="st_mar_army_cargo">
+		<text>军方货物</text>
+	</string>
+	<string id="st_mar_army_cargo_descr">
+		<text>军方货物.里面包含了未知的化学物质.需要把它带给SBU.</text>
+	</string>
+	<string id="st_mar_mine_sensor">
+		<text>探测器的传感器</text>
+	</string>
+	<string id="st_mar_mine_sensor_descr">
+		<text>地雷探测器最重要的部分.</text>
+	</string>
+	<string id="st_mar_mine_detector">
+		<text>地雷探测器</text>
+	</string>
+	<string id="st_mar_mine_detector_descr">
+		<text>它可以帮助你找到并拆除地下埋藏的地雷.</text>
+	</string>
+	<string id="st_mar_georadar">
+		<text>探地雷达</text>
+	</string>
+	<string id="st_mar_georadar_descr">
+		<text>借助探地雷达可以找到任何一块金属,不管它在地下有多深.探测半径:30 米.</text>
+	</string>
+	<string id="st_zat_alfa_performer_bandit_pda">
+		<text>未知枪手的PDA</text>
+	</string>
+	<string id="st_zat_alfa_performer_bandit_pda_descr">
+		<text>来自闪存驱动器的信息:'谢谢你的工作,你去钢铁森林那里找我们的人拿到钱吧.'.</text>
+	</string>
+	<string id="st_zat_alfa_customer_pda">
+		<text>阿尔法队员的PDA</text>
+	</string>
+	<string id="st_zat_alfa_customer_pda_descr">
+		<text>来自闪存驱动器的信息:'五颗炸弹已经放在SBU特工可能出现的五个地方了,请准备好付钱吧.'</text>
+	</string>
+	<string id="st_jup_azot_simply_raciya">
+		<text>无线电</text>
+	</string>
+	<string id="st_jup_azot_simply_raciya_descr">
+		<text>普通的调频收音机.</text>
+	</string>
+	<string id="st_jup_azot_charge_instruments">
+		<text>炸药的配套工具</text>
+	</string>
+	<string id="st_jup_azot_charge_instruments_descr">
+		<text>处理炸药的专用工具.</text>
+	</string>
+	<string id="st_jup_azot_charge_scanner">
+		<text>低频扫描仪</text>
+	</string>
+	<string id="st_jup_azot_charge_scanner_descr">
+		<text>用于检测DF充能的特殊扫描仪.搜索半径:50米.</text>
+	</string>
+	<string id="st_red_psyho_development_1">
+		<text>实验性抗Psi辐射药物-1</text>
+	</string>
+	<string id="st_red_psyho_development_1_descr">
+		<text>科学家开发的对抗Psi辐射的药物.</text>
+	</string>
+	<string id="st_red_psyho_development_2">
+		<text>实验性抗Psi辐射药物-1</text>
+	</string>
+	<string id="st_red_psyho_development_2_descr">
+		<text>科学家开发的对抗Psi辐射的药物.</text>
+	</string>
+	<string id="st_red_psyho_killer_pda_1">
+		<text>探险科学家护卫的PDA</text>
+	</string>
+	<string id="st_red_psyho_killer_pda_1_descr">
+		<text>闪存驱动器中的信息:'提供保护的人几乎都死了,变异怪物精力充沛见人就攻击.明天他们还会来...'</text>
+	</string>
+	<string id="st_red_psyho_killer_pda_2">
+		<text>探险科学家的PDA</text>
+	</string>
+	<string id="st_red_psyho_killer_pda_2_descr">
+		<text>闪存驱动器中的信息:'药物几乎已经完成,还有待测试.收到该药的小组去了中心位置,以便试用.'</text>
+	</string>
+	<string id="st_red_psyho_ecolog_pda">
+		<text>研究小组的PDA</text>
+	</string>
+	<string id="st_red_psyho_ecolog_pda_descr">
+		<text>闪存驱动器中的信息:'技术被应用到一组护具上,性能让我们吃惊.一切都很顺利.另外我们发明了一种药物来减少我们抓到的那个控制者的精神活动,但不幸的是,他的精神活动并没有减少,反而增加了好几倍.'</text>
+	</string>

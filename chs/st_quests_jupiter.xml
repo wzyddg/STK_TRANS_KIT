@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <string_table>
 	<string id="jup_a10_actor_agree_back_vano_duties_name">
 		<text>负债累累:把瓦诺的钱送到强盗那里</text>
@@ -67,10 +67,10 @@
 		<text>相对来说,米泰总算是安全了.告诉他你的下一步行动.</text>
 	</string>
 	<string id="jup_a9_way_to_pripyat_tech_name">
-		<text>普里皮亚特之路:和修理技师谈谈地下通道</text>
+		<text>普里皮亚季之路:和修理技师谈谈地下通道</text>
 	</string>
 	<string id="jup_a9_way_to_pripyat_tech_text">
-		<text>在你所找到的文件里面明显指出,在木星工业区地底下有一条通往普里皮亚特的通道.但是现在地下通道不仅没有电源,而且还充满了毒气,入口也被封锁了.所以你必须找到修理技师来启动电源,并打开地下通道的入口.</text>
+		<text>在你所找到的文件里面明显指出,在木星工业区地底下有一条通往普里皮亚季的通道.但是现在地下通道不仅没有电源,而且还充满了毒气,入口也被封锁了.所以你必须找到修理技师来启动电源,并打开地下通道的入口.</text>
 	</string>
 	<string id="jup_b10_ufo_memory_at_text">
 		<text>记忆模组现在在专家手里.你必须等它解锁.</text>
@@ -240,17 +240,41 @@
 	<string id="jup_b209_hypotheses_4_text">
 		<text>你必须将探测器交给奥泽斯基.所收集的资料应该已经足够,他可以开始研究他的推测了.</text>
 	</string>
-	<string id="jup_b211_kill_bloodsuckers_name">
-		<text>猎杀行动:杀死沼泽地里面的吸血怪</text>
+	<string id="jup_b211_bloodsuckers_not_hunt_title_0">
+		<text>捕手要求: 找五个吸血怪触须</text>
 	</string>
-	<string id="jup_b211_kill_bloodsuckers_text">
-		<text>在水泥厂后面的沼泽地里面发现了一小群吸血怪.当地的潜行者请求你去消灭它们.</text>
+	<string id="jup_b211_bloodsuckers_not_hunt_text_0">
+		<text>圣约翰要求你带给他五个吸血怪的触须.</text>
 	</string>
-	<string id="jup_b211_take_reward_name">
-		<text>猎杀:从特拉皮尔那拿取杀死吸血怪的报酬</text>
+	<string id="jup_b211_bloodsuckers_not_hunt_title_1">
+		<text>捕手要求: 送回物品</text>
 	</string>
-	<string id="jup_b211_take_reward_text">
-		<text>沼泽地里面的吸血怪已经全部被你干掉了.从特拉皮尔那里获取你应得报酬</text>
+	<string id="jup_b211_bloodsuckers_not_hunt_text_1">
+		<text>现在你拥有顾客要求的尸块了.送去给他.</text>
+	</string>
+	<string id="jup_b211_bloodsuckers_hunt_title_0">
+		<text>狩猎: 杀掉沼泽吸血怪</text>
+	</string>
+	<string id="jup_b211_bloodsuckers_hunt_text_0">
+		<text>一群吸血怪在水泥厂后面的沼泽被发现了.当地潜行者要求你去消灭他们.</text>
+	</string>
+	<string id="jup_b211_bloodsuckers_hunt_title_1">
+		<text>狩猎: 杀掉水泥厂的吸血怪</text>
+	</string>
+	<string id="jup_b211_bloodsuckers_hunt_text_1">
+		<text>正在稳步消灭吸血怪.圣约翰说发现了第二群怪物,现在聚集在水泥厂里.把它们也消灭了.</text>
+	</string>
+	<string id="jup_b211_bloodsuckers_hunt_title_2">
+		<text>狩猎: 杀掉成年吸血怪</text>
+	</string>
+	<string id="jup_b211_bloodsuckers_hunt_text_2">
+		<text>吸血怪巢穴捣毁了.但是一只吸血怪从进攻中逃离了.不能让它活下来.</text>
+	</string>
+	<string id="jup_b211_bloodsuckers_hunt_title_3">
+		<text>狩猎: 领取奖励</text>
+	</string>
+	<string id="jup_b211_bloodsuckers_hunt_text_3">
+		<text>吸血怪都死了,现在你可以去拿取奖励了.</text>
 	</string>
 	<string id="jup_b212_jupiter_kill_chimera_name">
 		<text>暗夜突袭:杀死奇美拉</text>
@@ -310,7 +334,7 @@
 		<text>穿越通道:找一件具有封闭循环模组的防护服</text>
 	</string>
 	<string id="jup_b218_actor_outfit_text">
-		<text>因为普里皮亚特一号地下通道内充满了二氧化碳和一些未知的物质,你需要一件具有封闭循环模组的防护服来帮助你穿过这个通道.</text>
+		<text>因为普里皮亚季一号地下通道内充满了二氧化碳和一些未知的物质,你需要一件具有封闭循环模组的防护服来帮助你穿过这个通道.</text>
 	</string>
 	<string id="jup_b218_monolith_guide_to_zulus_name">
 		<text>穿越通道:带神行客去见祖鲁</text>
@@ -322,25 +346,25 @@
 		<text>穿越通道:和神行客讨论有关防护服的事情</text>
 	</string>
 	<string id="jup_b218_monolith_text">
-		<text>普里皮亚特一号地下通道内充满了二氧化碳和一些未知的物质.你得告诉神行客,他必须穿上一件具有封闭循环模组的防护服才能穿过这个通道.</text>
+		<text>普里皮亚季一号地下通道内充满了二氧化碳和一些未知的物质.你得告诉神行客,他必须穿上一件具有封闭循环模组的防护服才能穿过这个通道.</text>
 	</string>
 	<string id="jup_b218_pripyat_group_gathering_name">
-		<text>穿越通道:召集一个小队前往普里皮亚特</text>
+		<text>穿越通道:召集一个小队前往普里皮亚季</text>
 	</string>
 	<string id="jup_b218_pripyat_group_gathering_text">
-		<text>硝基可以打开普里皮亚特一号地下通道,但他拒绝在缺少保护的情况下进入木星工业区.他进一步建议你多找几个人手,保证能安全通过地下通道.你们的队伍里面已经有了祖鲁,他建议你再多增加几个新成员.</text>
+		<text>硝基可以打开普里皮亚季一号地下通道,但他拒绝在缺少保护的情况下进入木星工业区.他进一步建议你多找几个人手,保证能安全通过地下通道.你们的队伍里面已经有了祖鲁,他建议你再多增加几个新成员.</text>
 	</string>
 	<string id="jup_b218_pripyat_group_zulus_talk_name">
-		<text>穿越通道:和祖鲁谈谈前往普里皮亚特的事情</text>
+		<text>穿越通道:和祖鲁谈谈前往普里皮亚季的事情</text>
 	</string>
 	<string id="jup_b218_pripyat_group_zulus_talk_text">
-		<text>硝基可以打开普里皮季亚一号地下通道,但他拒绝在缺少保护的情况下进入木星工业区.他进一步建议你多找几个人手,保证能安全通过地下通道.和祖鲁好好谈谈,让他帮忙募集一个小队.</text>
+		<text>硝基可以打开普里皮亚季一号地下通道,但他拒绝在缺少保护的情况下进入木星工业区.他进一步建议你多找几个人手,保证能安全通过地下通道.和祖鲁好好谈谈,让他帮忙募集一个小队.</text>
 	</string>
 	<string id="jup_b218_soldier_guide_to_zulus_name">
 		<text>穿越通道:带索科洛夫去见祖鲁</text>
 	</string>
 	<string id="jup_b218_soldier_guide_to_zulus_text">
-		<text>索科洛夫同意和你们一起前往普里皮季亚,在他离开堡垒之前他要求拿走一件科学家防护衣.你必须带索科洛夫去见祖鲁,将索科洛夫作为小队的一个新成员介绍给他.</text>
+		<text>索科洛夫同意和你们一起前往普里皮亚季,在他离开堡垒之前他要求拿走一件科学家防护衣.你必须带索科洛夫去见祖鲁,将索科洛夫作为小队的一个新成员介绍给他.</text>
 	</string>
 	<string id="jup_b218_soldier_name">
 		<text>穿越通道:和索科洛夫讨论有关防护服的事情</text>
@@ -358,7 +382,7 @@
 		<text>奥泽斯基对植物标本十分满意.奥泽斯基让你转告索科洛夫,他能从赫尔曼那里帮他拿到科学家防护服.</text>
 	</string>
 	<string id="jup_b218_soldier_text">
-		<text>普里皮季亚一号地下通道内充满了二氧化碳和一些未知的物质,你得告诉索科洛夫,他必须穿上一件具有封闭循环模组的防护服才能穿过这个通道.</text>
+		<text>普里皮亚季一号地下通道内充满了二氧化碳和一些未知的物质,你得告诉索科洛夫,他必须穿上一件具有封闭循环模组的防护服才能穿过这个通道.</text>
 	</string>
 	<string id="jup_b218_stalker_bring_money_name">
 		<text>穿越通道:拿上瓦诺赎回防护服的钱</text>
@@ -370,13 +394,13 @@
 		<text>穿越通道:带瓦诺去见见祖鲁</text>
 	</string>
 	<string id="jup_b218_stalker_guide_to_zulus_text">
-		<text>瓦诺同意和你们一起前往普里皮亚特.你必须带索科洛夫去见祖鲁,将瓦诺作为小队的一个新成员介绍给他.这样子,瓦诺就能赎回他的防护服.</text>
+		<text>瓦诺同意和你们一起前往普里皮亚季.你必须带索科洛夫去见祖鲁,将瓦诺作为小队的一个新成员介绍给他.这样子,瓦诺就能赎回他的防护服.</text>
 	</string>
 	<string id="jup_b218_stalker_name">
 		<text>穿越通道:和瓦诺谈谈科学家防护服</text>
 	</string>
 	<string id="jup_b218_stalker_text">
-		<text>普里皮亚特一号地下通道内充满了二氧化碳和一些未知的物质,你得告诉瓦诺,他必须穿上一件具有封闭循环模组的防护服才能穿过这个通道.</text>
+		<text>普里皮亚季一号地下通道内充满了二氧化碳和一些未知的物质,你得告诉瓦诺,他必须穿上一件具有封闭循环模组的防护服才能穿过这个通道.</text>
 	</string>
 	<string id="jup_b25_accuse_flint_end_text">
 		<text>打火石,也就是喜鹊,一个卑鄙无耻的混蛋.是时候给他好好上一课了,在河湾或者别的地方揭露他的无耻行径.</text>
@@ -574,58 +598,58 @@
 		<text>调查刺鳐1号坠毁的地点.</text>
 	</string>
 	<string id="pas_b400_pripyat_name">
-		<text>普里皮亚特1号:前往普里皮亚特</text>
+		<text>普里皮亚季1号:前往普里皮亚季</text>
 	</string>
 	<string id="pas_b400_pripyat_text">
-		<text>你必须穿过普里皮亚特第一地下通道并到达普里皮亚特的军方集合点.</text>
+		<text>你必须穿过普里皮亚季第一地下通道并到达普里皮亚季的军方集合点.</text>
 	</string>
 	<string id="zat_a9_way_gases_check_chemistry_workshop_name">
-		<text>普里皮亚特之路:调查木星工业区的化学物品工厂</text>
+		<text>普里皮亚季之路:调查木星工业区的化学物品工厂</text>
 	</string>
 	<string id="zat_a9_way_gases_check_chemistry_workshop_text">
-		<text>普里皮亚特第一地下通道里面充满了某种有害的气体,在化学物品工长里面找到与此有关的信息.</text>
+		<text>普里皮亚季第一地下通道里面充满了某种有害的气体,在化学物品工长里面找到与此有关的信息.</text>
 	</string>
 	<string id="zat_a9_way_gates_check_corps_name">
-		<text>普里皮亚特之路:调查木星工业区的管理部门</text>
+		<text>普里皮亚季之路:调查木星工业区的管理部门</text>
 	</string>
 	<string id="zat_a9_way_gates_check_corps_text">
-		<text>向导虽然不知道安全通往普里皮亚特的路,但他告诉你有一条可以通往普里皮季亚的地下通道,你想找寻有关地下通道的信息,他建议你先从的木星工业区管理部门开始找起.</text>
+		<text>向导虽然不知道安全通往普里皮亚季的路,但他告诉你有一条可以通往普里皮亚季的地下通道,你想找寻有关地下通道的信息,他建议你先从的木星工业区管理部门开始找起.</text>
 	</string>
 	<string id="zat_a9_way_gates_check_electrical_workshop_name">
-		<text>普里皮亚特之路:调查木星工业区管理部门</text>
+		<text>普里皮亚季之路:调查木星工业区管理部门</text>
 	</string>
 	<string id="zat_a9_way_gates_check_electrical_workshop_text">
 		<text>在管理部门发现的文件里面提到了一条木星工业区的产品撤离通道.相关资料应该在实验部门可以找到.</text>
 	</string>
 	<string id="zat_a9_way_gates_check_transport_workshop_name">
-		<text>普里皮亚特之路:检查普里皮亚特1号地下运输通道的锁</text>
+		<text>普里皮亚季之路:检查普里皮亚季1号地下运输通道的锁</text>
 	</string>
 	<string id="zat_a9_way_gates_check_transport_workshop_text">
 		<text>通往地下通道的入口就在运输通道被锁住了.调查这个区域找找与地下通道相关的信息.</text>
 	</string>
 	<string id="zat_a9_way_to_pripyat_check_archives_name">
-		<text>普里皮亚特之路:调查木星工业区的一号部门</text>
+		<text>普里皮亚季之路:调查木星工业区的一号部门</text>
 	</string>
 	<string id="zat_a9_way_to_pripyat_check_archives_text">
-		<text>一号部门有普里皮亚特一号地下通道的相关信息.这个信息对你来讲非常重要,你必须对这里进行仔细的调查.</text>
+		<text>一号部门有普里皮亚季一号地下通道的相关信息.这个信息对你来讲非常重要,你必须对这里进行仔细的调查.</text>
 	</string>
 	<string id="zat_a9_way_to_pripyat_check_delivery_department_name">
-		<text>普里皮亚特之路:调查木星工厂的递送部门</text>
+		<text>普里皮亚季之路:调查木星工厂的递送部门</text>
 	</string>
 	<string id="zat_a9_way_to_pripyat_check_delivery_department_text">
 		<text>根据工厂实验室找到的笔记推断,产品撤离是由递送部门负责,所以你也需要对这里检查一遍.</text>
 	</string>
 	<string id="zat_a9_way_to_pripyat_check_repair_workshop_name">
-		<text>普里皮亚特之路:调查木星工业区的维修工厂</text>
+		<text>普里皮亚季之路:调查木星工业区的维修工厂</text>
 	</string>
 	<string id="zat_a9_way_to_pripyat_check_repair_workshop_text">
 		<text>递送部门有运送中损坏物品的资料,比如像62号项目.根据记录,是由维修工厂负责修理运送过程中损坏的物品——你应该查查这个地方.</text>
 	</string>
 	<string id="zat_a9_way_to_pripyat_tell_stalker_guide_name">
-		<text>普里皮亚特之路:和向导谈谈</text>
+		<text>普里皮亚季之路:和向导谈谈</text>
 	</string>
 	<string id="zat_a9_way_to_pripyat_tell_stalker_guide_text">
-		<text>根据其中一架坠毁直升机的黑匣子记录,军方将预计在坐标B28集合准备撤离.另外一架坠毁直升机找到了一副地图,上面记载了这个任务的信息——坐标位于普里皮亚特.你得找到一条前往普里皮亚特的路——去和向导谈谈.</text>
+		<text>根据其中一架坠毁直升机的黑匣子记录,军方将预计在坐标B28集合准备撤离.另外一架坠毁直升机找到了一副地图,上面记载了这个任务的信息——坐标位于普里皮亚季.你得找到一条前往普里皮亚季的路——去和向导谈谈.</text>
 	</string>
 	<string id="zat_b207_depot_reward_task_name">
 		<text>纪律团仓库:拿取你的报酬</text>
@@ -684,30 +708,77 @@
 	<string id="zat_b207_depot_reward_task_freedom_text">
 		<text>洛基允许你从纪律团的仓库内拿走任何你喜欢的装备,前提是这个仓库在自由团的控制之下.</text>
 	</string>
-
+	<string id="jup_spec_anomaly_scaner_title_0">
+		<text>变异点扫描仪: 拿走重力、化学变异点扫描仪.</text>
+	</string>
+	<string id="jup_spec_anomaly_scaner_text_0">
+		<text>为了研究改进变异点检测器的技术,诺维科夫需要扫描仪的必要测量数据.去位于河湾的第一个变异点拿走扫描仪.</text>
+	</string>
+	<string id="jup_spec_anomaly_scaner_title_1">
+		<text>变异点扫描仪: 拿走化学变异点扫描仪.</text>
+	</string>
+	<string id="jup_spec_anomaly_scaner_text_1">
+		<text>为了研究改进变异点检测器的技术,诺维科夫需要扫描仪的必要测量数据.去位于河湾的第二个变异点拿走扫描仪.</text>
+	</string>
+	<string id="jup_spec_anomaly_scaner_title_2">
+		<text>变异点扫描仪: 拿走化学变异点扫描仪.</text>
+	</string>
+	<string id="jup_spec_anomaly_scaner_text_2">
+		<text>为了研究改进变异点检测器的技术,诺维科夫需要扫描仪的必要测量数据.去位于河湾的第三个变异点拿走扫描仪.</text>
+	</string>
+	<string id="jup_spec_anomaly_scaner_title_3">
+		<text>变异点扫描仪: 拿走热力变异点扫描仪.</text>
+	</string>
+	<string id="jup_spec_anomaly_scaner_text_3">
+		<text>为了研究改进变异点检测器的技术,诺维科夫需要扫描仪的必要测量数据.去位于河湾的第四个变异点拿走扫描仪.</text>
+	</string>
+	<string id="jup_spec_anomaly_scaner_title_4">
+		<text>变异点扫描仪: 拿走PSI变异点扫描仪.</text>
+	</string>
+	<string id="jup_spec_anomaly_scaner_text_4">
+		<text>为了研究改进变异点检测器的技术,诺维科夫需要扫描仪的必要测量数据.去位于河湾的第五个变异点拿走扫描仪.</text>
+	</string>
+	<string id="jup_spec_anomaly_scaner_title_5">
+		<text>变异点扫描仪: 拿走热力变异点扫描仪.</text>
+	</string>
+	<string id="jup_spec_anomaly_scaner_text_5">
+		<text>为了研究改进变异点检测器的技术,诺维科夫需要扫描仪的必要测量数据.去位于河湾的第六个变异点拿走扫描仪.</text>
+	</string>
+	<string id="jup_spec_anomaly_scaner_title_6">
+		<text>变异点扫描仪: 拿走闪电变异点扫描仪.</text>
+	</string>
+	<string id="jup_spec_anomaly_scaner_text_6">
+		<text>为了研究改进变异点检测器的技术,诺维科夫需要扫描仪的必要测量数据.去位于河湾的最后一个变异点拿走扫描仪.</text>
+	</string>
+	<string id="jup_spec_anomaly_scaner_title_7">
+		<text>变异点扫描仪: 送给诺维科夫所有扫描仪.</text>
+	</string>
+	<string id="jup_spec_anomaly_scaner_text_7">
+		<text>所有变异点扫描仪都到手了.把它们带去科学家堡垒.</text>
+	</string>
 	<string id="jup_b6_scientist_tech_detector_quest_title_0">
-		<text>特殊信息：寻找定制概念图图和图纸</text>
+		<text>特殊信息:寻找定制概念图图和图纸</text>
 	</string>
 	<string id="jup_b6_scientist_tech_detector_quest_text_0">
-		<text>诺维科夫改进探测器需要特别注意微调。根据他从纪律团获得的信息从信息类别可能在萨姆沃霍夫的地方或水泥厂。寻找这些文档。</text>
+		<text>诺维科夫改进探测器需要特别注意微调.根据他从纪律团获得的信息从信息类别可能在萨姆沃霍夫的地方或水泥厂.寻找这些文档.</text>
 	</string>
 	<string id="jup_b6_scientist_tech_detector_quest_title_1">
-		<text>特殊信息：在萨姆沃霍夫的地盘寻找概念图</text>
+		<text>特殊信息:在萨姆沃霍夫的地盘寻找概念图</text>
 	</string>
 	<string id="jup_b6_scientist_tech_detector_quest_text_1">
-		<text>图纸找到了，现在需要找到定制概念图。</text>
+		<text>图纸找到了,现在需要找到定制概念图.</text>
 	</string>
 	<string id="jup_b6_scientist_tech_detector_quest_title_2">
-		<text>特殊信息：找到图纸</text>
+		<text>特殊信息:找到图纸</text>
 	</string>
 	<string id="jup_b6_scientist_tech_detector_quest_text_2">
-		<text>概念图找到了，在老水泥厂寻找图纸。</text>
+		<text>概念图找到了,在老水泥厂寻找图纸.</text>
 	</string>
 	<string id="jup_b6_scientist_tech_detector_quest_title_3">
-		<text>特殊信息：把东西都拿给诺维科夫</text>
+		<text>特殊信息:把东西都拿给诺维科夫</text>
 	</string>
 	<string id="jup_b6_scientist_tech_detector_quest_text_3">
-		<text>所有必要的信息都找到了，把他们带给客户。</text>
+		<text>所有必要的信息都找到了,把他们带给客户.</text>
 	</string>
 	<string id="jup_b220_trapper_snorks_quest_title_0">
 		<text>猎杀史诺克:消灭第一批史诺克.</text>
@@ -739,55 +810,6 @@
 	<string id="jup_b220_trapper_snorks_quest_text_4">
 		<text>所有四个地点都搜寻过了,史诺克已经杀光了.现在回去报告情况.</text>
 	</string>
-
-	<string id="jup_spec_anomaly_scaner_title_0">
-		<text>变异点扫描仪: 拿走重力、化学变异点扫描仪.</text>
-	</string>
-	<string id="jup_spec_anomaly_scaner_text_0">
-		<text>为了研究改进变异点检测器的技术，诺维科夫需要扫描仪的必要测量数据。去位于河湾的第一个变异点拿走扫描仪。</text>
-	</string>
-	<string id="jup_spec_anomaly_scaner_title_1">
-		<text>变异点扫描仪: 拿走化学变异点扫描仪.</text>
-	</string>
-	<string id="jup_spec_anomaly_scaner_text_1">
-		<text>为了研究改进变异点检测器的技术，诺维科夫需要扫描仪的必要测量数据。去位于河湾的第二个变异点拿走扫描仪。</text>
-	</string>
-	<string id="jup_spec_anomaly_scaner_title_2">
-		<text>变异点扫描仪: 拿走化学变异点扫描仪.</text>
-	</string>
-	<string id="jup_spec_anomaly_scaner_text_2">
-		<text>为了研究改进变异点检测器的技术，诺维科夫需要扫描仪的必要测量数据。去位于河湾的第三个变异点拿走扫描仪。</text>
-	</string>
-	<string id="jup_spec_anomaly_scaner_title_3">
-		<text>变异点扫描仪: 拿走热力变异点扫描仪.</text>
-	</string>
-	<string id="jup_spec_anomaly_scaner_text_3">
-		<text>为了研究改进变异点检测器的技术，诺维科夫需要扫描仪的必要测量数据。去位于河湾的第四个变异点拿走扫描仪。</text>
-	</string>
-	<string id="jup_spec_anomaly_scaner_title_4">
-		<text>变异点扫描仪: 拿走PSI变异点扫描仪.</text>
-	</string>
-	<string id="jup_spec_anomaly_scaner_text_4">
-		<text>为了研究改进变异点检测器的技术，诺维科夫需要扫描仪的必要测量数据。去位于河湾的第五个变异点拿走扫描仪。</text>
-	</string>
-	<string id="jup_spec_anomaly_scaner_title_5">
-		<text>变异点扫描仪: 拿走热力变异点扫描仪.</text>
-	</string>
-	<string id="jup_spec_anomaly_scaner_text_5">
-		<text>为了研究改进变异点检测器的技术，诺维科夫需要扫描仪的必要测量数据。去位于河湾的第六个变异点拿走扫描仪。</text>
-	</string>
-	<string id="jup_spec_anomaly_scaner_title_6">
-		<text>变异点扫描仪: 拿走闪电变异点扫描仪.</text>
-	</string>
-	<string id="jup_spec_anomaly_scaner_text_6">
-		<text>为了研究改进变异点检测器的技术，诺维科夫需要扫描仪的必要测量数据。去位于河湾的最后一个变异点拿走扫描仪。</text>
-	</string>
-	<string id="jup_spec_anomaly_scaner_title_7">
-		<text>变异点扫描仪: 送给诺维科夫所有扫描仪.</text>
-	</string>
-	<string id="jup_spec_anomaly_scaner_text_7">
-		<text>所有变异点扫描仪都到手了。把它们带去科学家堡垒。</text>
-	</string>
 	<string id="jup_rasvet_dyavol_flowers_title0">
 		<text>魔鬼花朵: 对话科学家.</text>
 	</string>
@@ -798,7 +820,7 @@
 		<text>魔鬼花朵: 在亚诺夫车站收集信息.</text>
 	</string>
 	<string id="jup_rasvet_dyavol_flowers_text1">
-		<text>需要从亚诺夫的居民处获取尽可能多的有关神秘神器的信息。</text>
+		<text>需要从亚诺夫的居民处获取尽可能多的有关神秘神器的信息.</text>
 	</string>
 	<string id="jup_rasvet_dyavol_flowers_title2">
 		<text>魔鬼花朵: 找到神器.</text>
@@ -816,186 +838,150 @@
 		<text>战队要务: 拿防具</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_text0">
-		<text>纳扎尔已经指示你去加强木星区域周围的派系据点。这样做的主要目的是形成一个潜行者据点。开始之前你需要将晴空委托的装备送去给诺维科夫修好，并完好的带回来。</text>
+		<text>纳扎尔已经指示你去加强木星区域周围的派系据点.这样做的主要目的是形成一个潜行者据点.开始之前你需要将晴空委托的装备送去给诺维科夫修好,并完好的带回来.</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_title1">
 		<text>战队要务: 等到诺维科夫完成</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_text1">
-		<text>技术人员需要一些时间才能修好防具。好好利用这段时间 - 寻找其他据点所需要的物资。</text>
+		<text>技术人员需要一些时间才能修好防具.好好利用这段时间 - 寻找其他据点所需要的物资.</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_title2">
 		<text>战队要务: 拿走防具</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_text2">
-		<text>诺维科夫修好了防具，去拿走它。</text>
+		<text>诺维科夫修好了防具,去拿走它.</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_title3">
 		<text>战队要务: 填满5个补给箱</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_text3">
-		<text>需要补充5个补给箱,标注在地图上,列表如下: 1) 武器: AN-94 'Abakan' 或 SG SIG 550 或 温彻斯特M1300之一. 并放入一组相应弹药.  2) 探测器'维尔斯'. 4) CHN-3A护甲. 5) 任何药箱, 任何绷带, 辐射药或PSI药物. 全部放入后请关闭背包在附近走两步. </text>
+		<text>需要补充5个补给箱,标注在地图上,列表如下: 1) 武器: AN-94 'Abakan' 或 SG SIG 550 或 温彻斯特M1300之一. 并放入一组相应弹药.  2) 探测器'维尔斯'. 4) CHN-3A护甲. 5) 任何药箱, 任何绷带, 辐射药或PSI药物. 全部放入后请关闭背包在附近走两步.</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_1_title0">
 		<text>战队要务: 西北补给箱</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_1_text0">
-		<text>找到所有纳扎尔交给你的列表上的东西。</text>
+		<text>找到所有纳扎尔交给你的列表上的东西.</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_2_title0">
 		<text>战队要务: 木星工厂西部补给箱</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_2_text0">
-		<text>找到所有纳扎尔交给你的列表上的东西。</text>
+		<text>找到所有纳扎尔交给你的列表上的东西.</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_3_title0">
 		<text>战队要务: 东部隧道南边补给箱</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_3_text0">
-		<text>找到所有纳扎尔交给你的列表上的东西。</text>
+		<text>找到所有纳扎尔交给你的列表上的东西.</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_4_title0">
 		<text>战队要务: 水泥厂南部补给箱</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_4_text0">
-		<text>找到所有纳扎尔交给你的列表上的东西。</text>
+		<text>找到所有纳扎尔交给你的列表上的东西.</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_5_title0">
 		<text>战队要务: 仓库北边补给箱</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_5_text0">
-		<text>找到所有纳扎尔交给你的列表上的东西。</text>
+		<text>找到所有纳扎尔交给你的列表上的东西.</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_title4">
 		<text>战队要务: 紧急跟着PDA信号</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_text4">
-		<text>纳扎尔说巡逻队失去联络。快到地图上标着的点去以便及时提供必要的帮助。</text>
+		<text>纳扎尔说巡逻队失去联络.快到地图上标着的点去以便及时提供必要的帮助.</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_title5">
 		<text>战队要务: 检查第一个点</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_text5">
-		<text>巡逻队被消灭了。死因不明。检查他们路过的几个点，也许能帮助查明真相。</text>
+		<text>巡逻队被消灭了.死因不明.检查他们路过的几个点,也许能帮助查明真相.</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_title6">
 		<text>战队要务: 检查第二个关键处</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_text6">
-		<text>检查第一个点没有任何结果。也许对废弃火车的检查能够找到点什么。。。</text>
+		<text>检查第一个点没有任何结果.也许对废弃火车的检查能够找到点什么...</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_title7">
 		<text>战队要务: 检查最后地方</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_text7">
-		<text>在一个废弃的地方找到了巡逻队长古德温的笔记。他说铁路隧道附近的巡逻队有点奇怪。需要去检查一下。</text>
+		<text>在一个废弃的地方找到了巡逻队长古德温的笔记.他说铁路隧道附近的巡逻队有点奇怪.需要去检查一下.</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_title8">
 		<text>战队要务: 立即报告情况</text>
 	</string>
 	<string id="jup_rasvet_clan_prioritets_text8">
-		<text>这条隧道似乎没有什么稀奇的发现。但...</text>
+		<text>这条隧道似乎没有什么稀奇的发现.但...</text>
 	</string>
 	<string id="jup_azot_mech_plant_title0">
 		<text>木星模组: 需要工具</text>
 	</string>
 	<string id="jup_azot_mech_plant_text0">
-		<text>去斯卡多夫斯克问问林伯工作所需工具的递送情况。</text>
+		<text>去斯卡多夫斯克问问机灵鬼工作所需工具的递送情况.</text>
 	</string>
 	<string id="jup_azot_mech_plant_title1">
 		<text>木星模组: 等待信使</text>
 	</string>
 	<string id="jup_azot_mech_plant_text1">
-		<text>林伯通过快递解决了设备短缺的问题。 等待他的到来。</text>
+		<text>机灵鬼通过快递解决了设备短缺的问题. 等待他的到来.</text>
 	</string>
 	<string id="jup_azot_mech_plant_title2">
 		<text>木星模组: 去见信使</text>
 	</string>
 	<string id="jup_azot_mech_plant_text2">
-		<text>去亚诺夫车站以北的某处与快递员见面。</text>
+		<text>去亚诺夫车站以北的某处与快递员见面.</text>
 	</string>
 	<string id="jup_azot_mech_plant_title3">
 		<text>木星模组: 检查第一组电子模块</text>
 	</string>
 	<string id="jup_azot_mech_plant_text3">
-		<text>去木星工厂用特制工具从第一个模块上拆下来你感兴趣的部分。</text>
+		<text>去木星工厂用特制工具从第一个模块上拆下来你感兴趣的部分.</text>
 	</string>
 	<string id="jup_azot_mech_plant_title4">
 		<text>木星模组: 检查第二组电子模块</text>
 	</string>
 	<string id="jup_azot_mech_plant_text4">
-		<text>去木星工厂用特制工具从第二个模块上拆下来你感兴趣的部分。</text>
+		<text>去木星工厂用特制工具从第二个模块上拆下来你感兴趣的部分.</text>
 	</string>
 	<string id="jup_azot_mech_plant_title5">
 		<text>木星模组: 检查第三组电子模块</text>
 	</string>
 	<string id="jup_azot_mech_plant_text5">
-		<text>去木星工厂用特制工具从第二个模块上拆下来你感兴趣的部分。</text>
+		<text>去木星工厂用特制工具从第二个模块上拆下来你感兴趣的部分.</text>
 	</string>
 	<string id="jup_azot_mech_plant_title6">
 		<text>木星模组: 跟着信号</text>
 	</string>
 	<string id="jup_azot_mech_plant_text6">
-		<text>跟随从庭院里传来的新号。弄清那有什么。</text>
+		<text>跟随从庭院里传来的新号.弄清那有什么.</text>
 	</string>
 	<string id="jup_azot_mech_plant_title7">
 		<text>木星模组: 撤退到安全距离</text>
 	</string>
 	<string id="jup_azot_mech_plant_text7">
-		<text>给你工具的信使突然出现在这里。他说, 显然他受到了攻击, 他没救了。但你可以逃出来的, 你需要离开这个地区。</text>
+		<text>给你工具的信使突然出现在这里.他说, 显然他受到了攻击, 他没救了.但你可以逃出来的, 你需要离开这个地区.</text>
 	</string>
 	<string id="jup_azot_mech_plant_title8">
 		<text>木星模组: 对话佣兵</text>
 	</string>
 	<string id="jup_azot_mech_plant_text8">
-		<text>信使的尸体被埋了地雷。你差点也死在那。附近有一队佣兵。应该问问他们发生了什么事。</text>
+		<text>信使的尸体被埋了地雷.你差点也死在那.附近有一队佣兵.应该问问他们发生了什么事.</text>
 	</string>
 	<string id="jup_azot_mech_plant_title9">
 		<text>木星模组: 杀死佣兵</text>
 	</string>
 	<string id="jup_azot_mech_plant_text9">
-		<text>信使就是这些佣兵杀的。别让他们杀了你抢了你的东西。</text>
+		<text>信使就是这些佣兵杀的.别让他们杀了你抢了你的东西.</text>
 	</string>
 	<string id="jup_azot_mech_plant_title10">
 		<text>木星模组: 拿模组给硝基</text>
 	</string>
 	<string id="jup_azot_mech_plant_text10">
 		<text>佣兵都干掉了.现在尽快把模组带给你的顾客.</text>
-	</string>
-	<string id="jup_b211_bloodsuckers_not_hunt_title_0">
-		<text>捕手要求: 找五个吸血怪触须</text>
-	</string>
-	<string id="jup_b211_bloodsuckers_not_hunt_text_0">
-		<text>圣约翰要求你带给他五个吸血怪的触须。</text>
-	</string>
-	<string id="jup_b211_bloodsuckers_not_hunt_title_1">
-		<text>捕手要求: 送回物品</text>
-	</string>
-	<string id="jup_b211_bloodsuckers_not_hunt_text_1">
-		<text>现在你拥有顾客要求的尸块了。送去给他。</text>
-	</string>
-	<string id="jup_b211_bloodsuckers_hunt_title_0">
-		<text>狩猎: 杀掉沼泽吸血怪</text>
-	</string>
-	<string id="jup_b211_bloodsuckers_hunt_text_0">
-		<text>一群吸血怪在水泥厂后面的沼泽被发现了。当地潜行者要求你去消灭他们。</text>
-	</string>
-	<string id="jup_b211_bloodsuckers_hunt_title_1">
-	    <text>狩猎: 杀掉水泥厂的吸血怪</text>
-	</string>
-	<string id="jup_b211_bloodsuckers_hunt_text_1">
-	    <text>正在稳步消灭吸血怪。圣约翰说发现了第二群怪物，现在聚集在水泥厂里。把它们也消灭了。</text>
-	</string>
-	<string id="jup_b211_bloodsuckers_hunt_title_2">
-	    <text>狩猎: 杀掉成年吸血怪</text>
-	</string>
-	<string id="jup_b211_bloodsuckers_hunt_text_2">
-	    <text>吸血怪巢穴捣毁了。但是一只吸血怪从进攻中逃离了。不能让它活下来。</text>
-	</string>
-	<string id="jup_b211_bloodsuckers_hunt_title_3">
-		<text>狩猎: 领取奖励</text>
-	</string>
-	<string id="jup_b211_bloodsuckers_hunt_text_3">
-		<text>吸血怪都死了，现在你可以去拿取奖励了。</text>
 	</string>
 </string_table>

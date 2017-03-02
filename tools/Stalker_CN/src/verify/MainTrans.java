@@ -12,6 +12,7 @@ import java.io.ObjectOutputStream;
 import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -44,12 +45,14 @@ public class MainTrans {
 	static int errorSleepMilliSecond = 2000;
 	static boolean verbose = false; 
 	static HashMap<String, String> existingSentence = new HashMap<>();
+	static MainTrans singelInstance = null;
 
 	public static void main(String[] args) throws Exception {
 		Class.forName("com.lsj.trans.BaiduDispatch");
 		Class.forName("com.lsj.trans.GoogleDispatch");
 		Class.forName("com.lsj.trans.YandexDispatch");
 		Class.forName("com.lsj.trans.BingNeuralDispatch");
+		singelInstance = new MainTrans();
 		
 		String oriAddress = "";
 		File oriDir = null;
@@ -202,7 +205,7 @@ public class MainTrans {
 		System.out.println("4.-list filedir");
 		System.out.println("5.-h");
 		System.out.println();
-		System.out.println("Deatails for the parameter:");
+		System.out.println("Details for the parameter:");
 		System.out.println("\t*parameters in [] is optional.");
 		System.out.println("\t*the first parameter of the instruction is the name of function, just type as it is.");
 		System.out.println("\t*api:which machine-translation engine you want to use, now we have:");
@@ -281,6 +284,16 @@ public class MainTrans {
 		return (!str.matches("\\s*?")) && (!str.matches("[-.a-zA-Z0-9_,']*?"));
 	}
 
+	public class ShorterLatterComparator implements Comparator{
+
+		@Override
+		public int compare(Object arg0, Object arg1) {
+			// TODO Auto-generated method stub
+			return arg1.toString().length()-arg0.toString().length();
+		}
+		
+	}
+	
 	public static void translateGamePlayFile(File rus) throws Exception {
 		System.out.println("file \"" + rus.getName() + "\" started!");
 		int transNum = 0;
@@ -301,9 +314,13 @@ public class MainTrans {
 		}
 		System.out.println("find " + i + " sentences,set get " + sentences.size());
 
+		ArrayList<String> sortedList = new ArrayList<>();
+		sortedList.addAll(sentences);
+		Collections.sort(sortedList, singelInstance.new ShorterLatterComparator());
+		
 		String string = "";
 		boolean failFlag = false;
-		for (Iterator<String> iterator = sentences.iterator(); iterator.hasNext() || !"".equals(string);) {
+		for (Iterator<String> iterator = sortedList.iterator(); iterator.hasNext() || !"".equals(string);) {
 			if (!failFlag) {
 				string = iterator.next();
 			}
@@ -312,11 +329,11 @@ public class MainTrans {
 				String oriLine = string;
 				String transtedLine = transToTarget(oriLine, targetLang);
 				transtedLine = clearString(transtedLine);
-				chsString = chsString.replaceAll(Pattern.quote(string), transtedLine);
+				chsString = chsString.replaceAll(Pattern.quote(string), Matcher.quoteReplacement(transtedLine));
 			} catch (Exception e) {
 				failFlag = true;
 				System.out.println("");
-				System.err.println(e);
+				e.printStackTrace();
 				System.out.println(string);
 				Thread.sleep(errorSleepMilliSecond);
 				continue;
@@ -330,12 +347,14 @@ public class MainTrans {
 		chsString = chsString.replaceAll("？", "?");
 
 		// System.out.println(chsString);
-		if(sentences.size()==0)
-			writeToFile("", rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
-		else
+		if(sentences.size()!=0)
 			writeToFile(chsString, rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
 
 		System.out.println("file \"" + rus.getName() + "\" done!");
+	}
+	
+	public boolean firstisLonger(String first,String second) {
+		return first.length()>second.length();
 	}
 
 	public static void translateTextFile(File rus) throws Exception {
@@ -411,8 +430,7 @@ public class MainTrans {
 		}
 		System.out.println("");
 		
-		chsString = chsString
-				.replaceAll("，", ",").replaceAll("：", ":").replaceAll("。", Matcher.quoteReplacement(".")).replaceAll("‘", "'").replaceAll("’", "'")
+		chsString = chsString.replaceAll("‘", "'").replaceAll("’", "'")
 				.replaceAll("（", Matcher.quoteReplacement("(")).replaceAll("）", Matcher.quoteReplacement(")")).replaceAll("“", "'").replaceAll("”", "'");
 
 		writeToFile(chsString, rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
@@ -469,9 +487,10 @@ public class MainTrans {
 	public static String clearString(String str) {
 		str = str.replaceAll("<!--[\\s\\S]*?-->", "").replaceAll("(?:&apos;|&quot;)", Matcher.quoteReplacement("'"))
 				.replaceAll(Pattern.quote("\""), Matcher.quoteReplacement("'"))
-//				.replaceAll("，", ",").replaceAll("：", ":").replaceAll("。", Matcher.quoteReplacement("."))
+				.replaceAll("，", ",").replaceAll("：", ":").replaceAll("。", Matcher.quoteReplacement("."))
 				.replaceAll("(?:&lt;|&gt;)", "<").replaceAll("(?:</|/>)", "").replaceAll("(?:<|>)", "")
-				.replaceAll("\\\\[\\s]+?n", Matcher.quoteReplacement("\\n")).replaceAll("\\\\n(?:\\\\n|\\s)*\\\\n", Matcher.quoteReplacement("\\n"));
+				.replaceAll("\\\\[\\s]+?n", Matcher.quoteReplacement("\\n")).replaceAll("\\\\n(?:\\\\n|\\s)*\\\\n", Matcher.quoteReplacement("\\n"))
+				.replaceAll("[^.][.]{2}", Matcher.quoteReplacement(".")).replaceAll("[.]{2,}", Matcher.quoteReplacement("..."));
 		
 		return str;
 	}
