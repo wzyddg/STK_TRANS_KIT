@@ -394,7 +394,9 @@ public class MainTrans {
 				}
 				String[] pieces = string
 						.split("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?)");
-				verbose(key + " get "+pieces.length+" pieces.");
+
+				verbose(key+" : "+string);
+				verbose(" get "+pieces.length+" pieces.");
 				try {
 					for (int j = 0; j < pieces.length; j++) {
 						transtedLine = transtedLine + transToTarget(pieces[j], targetLang);
@@ -425,7 +427,7 @@ public class MainTrans {
 							+ "</text>\n\t</string>");
 			transNum++;
 			System.out.print("" + transNum + ",");
-			verbose(key+" : "+string+" → "+transtedLine);
+			verbose("translated to: "+transtedLine);
 			string = "";
 		}
 		System.out.println("");
@@ -481,7 +483,8 @@ public class MainTrans {
 	
 	public static String clearXMLString(String str) {
 		return str.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ").replaceAll("<!--[\\s\\S]*?-->", "")
-				.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"").replaceAll("？", "?"); 
+				.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"").replaceAll("？", "?")
+				.replaceAll(Pattern.quote(">>"), Matcher.quoteReplacement(">")).replaceAll(Pattern.quote("<<"), Matcher.quoteReplacement("<"));
 	}
 	
 	public static String clearString(String str) {
