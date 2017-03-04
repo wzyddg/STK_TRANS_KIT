@@ -35,7 +35,7 @@ public class HttpPostParams extends AbstractHttpParams {
 	public String Send(String base, ContentType contentType) throws Exception {
 		CloseableHttpClient httpClient = HttpClients.createDefault();
 		HttpPost request = new HttpPost(base);
-		RequestConfig requestConfig = RequestConfig.custom().setSocketTimeout(30000).setConnectTimeout(30000).build();
+		RequestConfig requestConfig = RequestConfig.custom().setSocketTimeout(20000).setConnectTimeout(20000).setConnectionRequestTimeout(20000).build();
 		request.setConfig(requestConfig);
 		if (ContentType.APPLICATION_JSON.equals(contentType)) {
 			JsonObject jObject = new JsonObject();

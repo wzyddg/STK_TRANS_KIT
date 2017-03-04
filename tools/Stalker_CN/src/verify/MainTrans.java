@@ -181,6 +181,13 @@ public class MainTrans {
 				}
 			}
 			System.out.println(filesString);
+		}else if (args[0].equals("-toUtf8")) {
+//			-list filedir
+			if (args.length<2) {
+				System.err.println("too few parameters. use -h to see help.");
+				return;
+			}
+			allToUTF8(args[1]);
 		}else{
 			printHelp();
 		}
@@ -195,7 +202,8 @@ public class MainTrans {
 		System.out.println("2.translate the gameplay .xml files in gamedata\\config(s)\\gameplay in case there are some sentences which aren't in gamedata\\config(s)\\text\\languageName.");
 		System.out.println("3.generate a file containing those sentences you haven't translated from the original files yet.");
 		System.out.println("4.show a formatted string containing the names of .xml files in a folder so that you can paste the string to the localization.ltx (for the mods for Shadow of Chernobyl).");
-		System.out.println("5.call for help.");
+		System.out.println("5.convert all files in a given folder from windows-1251 to utf-8.");
+		System.out.println("6.call for help.");
 		System.out.println();
 		System.out.println("here are the instructions for the functions");
 		System.out.println();
@@ -203,7 +211,8 @@ public class MainTrans {
 		System.out.println("2.-transG api orilang targlang oridir [sleep [verb]]");
 		System.out.println("3.-lack oridir exdir [verb]");
 		System.out.println("4.-list filedir");
-		System.out.println("5.-h");
+		System.out.println("5.-toUtf8 filedir");
+		System.out.println("6.-h");
 		System.out.println();
 		System.out.println("Details for the parameter:");
 		System.out.println("\t*parameters in [] is optional.");
@@ -229,7 +238,7 @@ public class MainTrans {
 		System.out.println("\t*verb:any word at this place will enable verbose mode, you can see more details of processing now.");
 		System.out.println();
 		System.out.println("NOTE: ");
-		System.out.println("\tyou'll need to escape all the spaces in every folder address by yourself, I'm not doing that for you.");
+		System.out.println("\tyou'll need to escape or quote all the spaces in every folder address by yourself, I cannot do that for you.");
 		System.out.println("\tevery original file needs to be saved in encoding windows-1251.");
 		System.out.println("\tI worked a lot on robust, but I won't guarantee a instant usable collection of translated .xml file, you may need to make a little adjustment yourself.");
 	}
@@ -439,6 +448,18 @@ public class MainTrans {
 		System.out.println("file \"" + rus.getName() + "\" done!");
 	}
 
+	public static void allToUTF8(String oriAddr) throws IOException {
+		File dir = new File(oriAddr);
+		File[] files = dir.listFiles();
+		for (int i = 0; i < files.length; i++) {
+			if (files[i].isFile()) {
+				String content = readStringFromFile(files[i].getPath(), "windows-1251");
+				writeToFile(content, files[i].getParent()+localDirSeparater+"utf"+localDirSeparater+files[i].getName(), "utf-8");
+				System.out.println(files[i].getName()+" done!");
+			}
+		}
+	}
+	
 	public static String getFileContentString(String fileAddress) throws IOException {
 		return getFileContentString(fileAddress, "windows-1251");
 	}
