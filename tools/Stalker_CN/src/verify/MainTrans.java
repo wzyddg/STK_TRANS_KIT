@@ -514,7 +514,7 @@ public class MainTrans {
 				.replaceAll("，", ",").replaceAll("：", ":").replaceAll("。", Matcher.quoteReplacement("."))
 				.replaceAll("(?:&lt;|&gt;)", "<").replaceAll("(?:</|/>)", "").replaceAll("(?:<|>)", "")
 				.replaceAll("\\\\[\\s]+?n", Matcher.quoteReplacement("\\n")).replaceAll("\\\\n(?:\\\\n|\\s)*\\\\n", Matcher.quoteReplacement("\\n"))
-				.replaceAll("[^.][.]{2}", Matcher.quoteReplacement(".")).replaceAll("[.]{2,}", Matcher.quoteReplacement("..."));
+				.replaceAll(Pattern.quote(".."), Matcher.quoteReplacement(".")).replaceAll("[.]{2,}", Matcher.quoteReplacement("..."));
 		
 		return str;
 	}
