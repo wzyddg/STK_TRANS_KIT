@@ -39,7 +39,7 @@ public class MainTrans {
 	static String transAPI = "bingn";
 	static String oriLang = "ru";
 	static String targetLang = "zh";
-	static int sleepMilliSecond = 100;
+	static int sleepMilliSecond = 40;
 	static ArrayList<String> keyList = new ArrayList<String>();
 	static public String yandexKey = "";
 	static int errorSleepMilliSecond = 2000;
@@ -53,9 +53,12 @@ public class MainTrans {
 		Class.forName("com.lsj.trans.YandexDispatch");
 		Class.forName("com.lsj.trans.BingNeuralDispatch");
 		singelInstance = new MainTrans();
-		
 		String oriAddress = "";
 		File oriDir = null;
+		
+		if (args.length!=0&&args[0].startsWith("-trans")) {
+			sleepMilliSecond = 1000;
+		}
 		
 		if (args.length == 0) {
 			printHelp();
@@ -233,7 +236,7 @@ public class MainTrans {
 		System.out.println("\t\tusing this parameter can save you from redoing the works you've done before.");
 		System.out.println("\t\tthis parameter supports multiple folder address, seperated by the single character |.");
 		System.out.println("\t\tcontents from latter folder will overwrite contents with same id before it, so you may wanna sort them from low priority to high priority.");
-		System.out.println("\t*sleep:the time (in millisecond) you want to pause between the translation of two sentences.");
+		System.out.println("\t*sleep:the time (in millisecond) you want to pause between the translation of two sentences.(around 100 is recommended.)");
 		System.out.println("\t\tlonger pause time is more likely to keep you from triggering machine-human detection.");
 		System.out.println("\t*verb:any word at this place will enable verbose mode, you can see more details of processing now.");
 		System.out.println();
@@ -243,7 +246,7 @@ public class MainTrans {
 		System.out.println("\tI worked a lot on robust, but I won't guarantee a instant usable collection of translated .xml file, you may need to make a little adjustment yourself.");
 	}
 	
-	public static void mapExistingFile(String existingFolderAddress) throws ClassNotFoundException, IOException {
+	public static void mapExistingFile(String existingFolderAddress) throws ClassNotFoundException, IOException, InterruptedException {
 		if (!existingFolderAddress.equals("")) {
 			File existingDir = new File(existingFolderAddress);
 			File[] eFiles = existingDir.listFiles();
@@ -257,7 +260,7 @@ public class MainTrans {
 		}
 	}
 
-	public static void generateLackSentenceFile(String oriAddr) throws ClassNotFoundException, IOException {
+	public static void generateLackSentenceFile(String oriAddr) throws ClassNotFoundException, IOException, InterruptedException {
 		HashMap<String, String> oriSentence = new HashMap<>();
 		
 		if (!oriAddr.equals("")) {
@@ -460,7 +463,7 @@ public class MainTrans {
 		}
 	}
 	
-	public static String getFileContentString(String fileAddress) throws IOException {
+	public static String getFileContentString(String fileAddress) throws IOException, InterruptedException {
 		return getFileContentString(fileAddress, "windows-1251");
 	}
 
@@ -478,7 +481,14 @@ public class MainTrans {
 		return string;
 	}
 	
-	public static String getFileContentString(String fileAddress, String encodingName) throws IOException {
+	public static String getFileContentString(String fileAddress, String encodingName) throws IOException, InterruptedException {
+		if (sleepMilliSecond==1000) { //1000 is default
+			Thread.sleep(sleepMilliSecond*3000);
+			//go ahead and wait for 50 minutes for each file, you lazy shit.  :)
+		}else {
+			verbose("Thanks for reading the help document.");
+		}
+		
 		File textFile = new File(fileAddress);
 		File cachedFile = new File(textFile.getParent()+localDirSeparater+"string_cache"+localDirSeparater+textFile.getName()+".wzystr");
 		cachedFile.getParentFile().mkdirs();
@@ -520,7 +530,7 @@ public class MainTrans {
 	}
 	
 	@SuppressWarnings("unchecked")
-	public static HashMap<String, String> getTextFileMap(String fileAddress, String encodingName) throws IOException, ClassNotFoundException {
+	public static HashMap<String, String> getTextFileMap(String fileAddress, String encodingName) throws IOException, ClassNotFoundException, InterruptedException {
 		HashMap<String, String> map = null;
 		File textFile = new File(fileAddress);
 		File serializedMap = new File(textFile.getParent()+localDirSeparater+"map_cache"+localDirSeparater+textFile.getName()+".wzymap");
@@ -572,7 +582,7 @@ public class MainTrans {
 		writer.close();
 	}
 	
-	public static HashMap<String, String> getTextFileMap(String fileAddress) throws IOException, ClassNotFoundException {
+	public static HashMap<String, String> getTextFileMap(String fileAddress) throws IOException, ClassNotFoundException, InterruptedException {
 		return getTextFileMap(fileAddress, "UTF-8");
 	}
 
@@ -615,7 +625,7 @@ public class MainTrans {
 			yandexKey = keyList.get(currentIndex + 1);
 			return;
 		}
-		String keysString = getFileContentString("yandexKeys.xml");
+		String keysString = clearXMLString(readStringFromFile("yandexKeys.xml", "utf-8"));
 		Pattern p = Pattern.compile("<key>(.*?)</key>");
 		Matcher m = p.matcher(keysString);
 		while (m.find()) {
