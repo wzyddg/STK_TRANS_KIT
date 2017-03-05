@@ -244,19 +244,21 @@ public class MainTrans {
 		System.out.println("this software can do 5 things for the localization of the GSC STALKER series:");
 		System.out.println("1.translate the text .xml files in gamedata\\config(s)\\text\\languageName.");
 		System.out.println("2.translate the gameplay .xml files in gamedata\\config(s)\\gameplay in case there are some sentences which aren't in gamedata\\config(s)\\text\\languageName.");
-		System.out.println("3.generate a file containing those sentences you haven't translated from the original files yet.");
-		System.out.println("4.show a formatted string containing the names of .xml files in a folder so that you can paste the string to the localization.ltx (for the mods for Shadow of Chernobyl).");
-		System.out.println("5.convert all files in a given folder from windows-1251 to utf-8.");
-		System.out.println("6.call for help.");
+		System.out.println("3.translate the script xml files in gamedata\\scripts, especially for pda news texts which aren't in gamedata\\config(s)\\text\\languageName.");
+		System.out.println("4.generate a file containing those sentences you haven't translated from the original files yet.");
+		System.out.println("5.show a formatted string containing the names of .xml files in a folder so that you can paste the string to the localization.ltx (for the mods for Shadow of Chernobyl).");
+		System.out.println("6.convert all files in a given folder from windows-1251 to utf-8.");
+		System.out.println("7.call for help.");
 		System.out.println();
 		System.out.println("here are the instructions for the functions");
 		System.out.println();
 		System.out.println("1.-transT api orilang targlang oridir [exdir [sleep [verb]]]");
 		System.out.println("2.-transG api orilang targlang oridir [sleep [verb]]");
-		System.out.println("3.-lack oridir exdir [verb]");
-		System.out.println("4.-list filedir");
-		System.out.println("5.-toUtf8 filedir");
-		System.out.println("6.-h");
+		System.out.println("3.-transS api orilang targlang oridir [sleep [verb]]");
+		System.out.println("4.-lack oridir exdir [verb]");
+		System.out.println("5.-list filedir");
+		System.out.println("6.-toUtf8 filedir");
+		System.out.println("7.-h");
 		System.out.println();
 		System.out.println("Details for the parameter:");
 		System.out.println("\t*parameters in [] is optional.");
@@ -733,9 +735,9 @@ public class MainTrans {
 		if (sentence.matches("[\\s0-9,.!?]*?")) { // only numbers and punc
 			return sentence;
 		}
-		if ("google".equals(transAPI)) {
+		if ("googleweb".equals(transAPI)) {
 			translated = GoogleWebTranslator.translate(sentence, targ);
-		} else if ("bing".equals(transAPI)) {
+		} else if ("bingweb".equals(transAPI)) {
 			translated = BingWebTranslator.translate(sentence, targ);
 		} else {
 			try {
@@ -744,6 +746,7 @@ public class MainTrans {
 				System.err.println(e);
 				if ("yandex".equals(transAPI) && e.getMessage().toLowerCase().contains("[\"text\"]")) {
 					updateYandexKey();
+					System.out.println("switched to another key.");
 					throw e;
 				}
 				if ("bingn".equals(transAPI) && e.getMessage().toLowerCase().contains("[\"resultNMT\"]")) {
