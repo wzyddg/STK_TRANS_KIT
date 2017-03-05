@@ -315,7 +315,8 @@ public class MainTrans {
 		String chsString = rusString;
 
 		HashSet<String> sentences = new HashSet<>();
-		Pattern p = Pattern.compile("<text(?:| [ \\S]*?[^/]) *?>([\\s\\S]*?)</text>");
+		
+		Pattern p = Pattern.compile("<(?:text|bio|name)(?:| [ \\S]*?[^/]) *?>([\\s\\S]*?)</(?:text|bio|name)>");
 		Matcher m = p.matcher(chsString);
 		int i = 0;
 		while (m.find()) {
@@ -324,6 +325,28 @@ public class MainTrans {
 			}
 			i++;
 		}
+		
+		
+//		Pattern p = Pattern.compile("<text(?:| [ \\S]*?[^/]) *?>([\\s\\S]*?)</text>");
+//		Matcher m = p.matcher(chsString);
+//		int i = 0;
+//		while (m.find()) {
+//			if (isSentence(m.group(1))) {
+//				sentences.add(m.group(1));
+//			}
+//			i++;
+//		}
+//		
+//		p = Pattern.compile("<bio(?:| [ \\S]*?[^/]) *?>([\\s\\S]*?)</bio>");
+//		m = p.matcher(chsString);
+//		while (m.find()) {
+//			if (isSentence(m.group(1))) {
+//				sentences.add(m.group(1));
+//			}
+//			i++;
+//		}
+		
+		
 		System.out.println("find " + i + " sentences,set get " + sentences.size());
 
 		ArrayList<String> sortedList = new ArrayList<>();
@@ -483,8 +506,8 @@ public class MainTrans {
 	
 	public static String getFileContentString(String fileAddress, String encodingName) throws IOException, InterruptedException {
 		if (sleepMilliSecond==1000) { //1000 is default
-			Thread.sleep(sleepMilliSecond*3000);
-			//go ahead and wait for 50 minutes for each file, you lazy shit.  :)
+			Thread.sleep(sleepMilliSecond*1200);
+			//go ahead and wait for 20 minutes for each file, you lazy shit.  :)
 		}else {
 			verbose("Thanks for reading the help document.");
 		}
