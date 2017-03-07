@@ -111,7 +111,7 @@ public class MainTrans {
 			}
 			System.out.println("all done! the translated files are in "+oriAddress + localDirSeparater + "translated_" + transAPI);
 		}else if (args[0].equals("-transG")) {
-//			-transG api orilang targlang oridir [sleep [verb]]
+//			-transG api orilang targlang oridir [exdir [sleep [verb]]]
 			if (args.length<5) {
 				System.err.println("too few parameters. use -h to see help.");
 				return;
@@ -122,16 +122,23 @@ public class MainTrans {
 			oriAddress = args[4];
 			
 			if(args.length>5){
+				String[] exists = args[5].split(Pattern.quote("|"));
+				for (int i = 0; i < exists.length; i++) {
+					mapExistingFile(exists[i]);
+				}
+			}
+			
+			if(args.length>6){
 				int sleep = 0;
 				try {
-					sleep = Integer.parseInt(args[5]);
+					sleep = Integer.parseInt(args[6]);
 				} catch (Exception e) {
 					sleep = 100;
 				}
 				sleepMilliSecond = sleep;
 			}
 			
-			if(args.length>6){
+			if(args.length>7){
 				verbose = true;
 			}
 			
@@ -152,7 +159,7 @@ public class MainTrans {
 			}
 			System.out.println("all done! the translated files are in "+oriAddress + localDirSeparater + "translated_" + transAPI);
 		}else if (args[0].equals("-transS")) {
-//			-transS api orilang targlang oridir [sleep [verb]]
+//			-transS api orilang targlang oridir [exdir [sleep [verb]]]
 			if (args.length<5) {
 				System.err.println("too few parameters. use -h to see help.");
 				return;
@@ -163,9 +170,16 @@ public class MainTrans {
 			oriAddress = args[4];
 			
 			if(args.length>5){
+				String[] exists = args[5].split(Pattern.quote("|"));
+				for (int i = 0; i < exists.length; i++) {
+					mapExistingFile(exists[i]);
+				}
+			}
+			
+			if(args.length>6){
 				int sleep = 0;
 				try {
-					sleep = Integer.parseInt(args[5]);
+					sleep = Integer.parseInt(args[6]);
 				} catch (Exception e) {
 					sleep = 100;
 				}
@@ -253,8 +267,8 @@ public class MainTrans {
 		System.out.println("here are the instructions for the functions");
 		System.out.println();
 		System.out.println("1.-transT api orilang targlang oridir [exdir [sleep [verb]]]");
-		System.out.println("2.-transG api orilang targlang oridir [sleep [verb]]");
-		System.out.println("3.-transS api orilang targlang oridir [sleep [verb]]");
+		System.out.println("2.-transG api orilang targlang oridir [exdir [sleep [verb]]]");
+		System.out.println("3.-transS api orilang targlang oridir [exdir [sleep [verb]]]");
 		System.out.println("4.-lack oridir exdir [verb]");
 		System.out.println("5.-list filedir");
 		System.out.println("6.-toUtf8 filedir");
@@ -286,6 +300,7 @@ public class MainTrans {
 		System.out.println("NOTE: ");
 		System.out.println("\tyou'll need to escape or quote all the spaces in every folder address by yourself, I cannot do that for you.");
 		System.out.println("\tevery original file needs to be saved in encoding windows-1251.");
+		System.out.println("\talways use exdir if you have, it improves both efficiency and accuracy.");
 		System.out.println("\tI worked a lot on robust, but I won't guarantee a instant usable collection of translated .xml file, you may need to make a little adjustment yourself.");
 	}
 	
@@ -336,7 +351,9 @@ public class MainTrans {
 	}
 	
 	public static boolean isSentence(String str) {
-		return (!str.matches("\\s*?")) && (!str.matches("[-.a-zA-Z0-9_,'\\\\]*?"));
+//		return (!str.matches("\\s*?")) && (!str.matches("[-.a-zA-Z0-9_,'\\\\]*?"));
+		return (!str.matches("[\\\\n\\s]*?")) && !(str.matches("[a-zA-Z0-9_]*?")&&str.contains("_"));
+		//not empty or literal empty string, not id either.
 	}
 
 	public class ShorterLatterComparator implements Comparator{
@@ -363,8 +380,11 @@ public class MainTrans {
 		Matcher m = p.matcher(chsString);
 		int i = 0;
 		while (m.find()) {
-			if (isSentence(m.group(1))) {
-				sentences.add(m.group(1));
+			String thisSentence = m.group(1);
+			if (!existingSentence.containsKey(thisSentence)){
+				if (isSentence(thisSentence)) {
+					sentences.add(thisSentence);
+				}
 			}
 			i++;
 		}
@@ -424,8 +444,11 @@ public class MainTrans {
 		Matcher m = p.matcher(chsString);
 		int i = 0;
 		while (m.find()) {
-			if (isSentence(m.group(1))) {
-				sentences.add(m.group(1));
+			String thisSentence = m.group(1);
+			if (!existingSentence.containsKey(thisSentence)){
+				if (isSentence(thisSentence)) {
+					sentences.add(thisSentence);
+				}
 			}
 			i++;
 		}
