@@ -186,7 +186,7 @@ public class MainTrans {
 				sleepMilliSecond = sleep;
 			}
 			
-			if(args.length>6){
+			if(args.length>7){
 				verbose = true;
 			}
 			
