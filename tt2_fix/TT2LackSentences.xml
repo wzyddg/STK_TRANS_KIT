@@ -1,0 +1,352 @@
+<string id="Duty">
+	<text>Группировка "Долг"</text>
+</string>
+<string id="Freedom">
+	<text>Группировка "Свобода"</text>
+</string>
+<string id="bar_bar_guard_name">
+	<text>Гарик</text>
+</string>
+<string id="bar_beast_name">
+	<text>Зверь</text>
+</string>
+<string id="bar_ivancov_name">
+	<text>Капитан Иванцов</text>
+</string>
+<string id="bar_kicenko_name">
+	<text>Сержант Киценко</text>
+</string>
+<string id="bar_lisiy_name">
+	<text>Лысый</text>
+</string>
+<string id="cit_bandits_leader_name">
+	<text>Борзый</text>
+</string>
+<string id="cit_killers_leader_name">
+	<text>Душман</text>
+</string>
+<string id="dar_kalugin_name">
+	<text>Калугин П.И.</text>
+</string>
+<string id="enc_weapons1_wpn-bizon">
+	<text>Submachine gun PP-19 'bison' was developed for the armament MVD on the basis of wide standardisation with the automatic machine AK-74. On 'the bison' is established the original auger magazine of high capacity down 64 cartridges. Magazine is located sufficiently conveniently, and in parallel is performed the role of shank. \n the ammunition: \n osnovnoy of 9x18 millimeters, \n uluchshenny 9x18mm of P.</text>
+</string>
+<string id="enc_weapons1_wpn-g37">
+	<text>Ammunition - \n • 5.56x45mm SS109 - basic \n • 5.56x45mm AR - armour-piercing \n Heckler and Koch type g36 - assault rifle of German production, which is the sufficiently good model of up-to-date weapon - lung and ergonomic. This model lay long time before the anomaly 'Jelly' and gained unique properties - seriously was increased destructive power and firing distance. In addition to this, the model is equipped for the sake of the integrated NATO rifle grenade launcher under the shot M-203.</text>
+</string>
+<string id="gar_dolg_blokpost_leader_name">
+	<text>Прапор</text>
+</string>
+<string id="maroder">
+	<text>Мародёр</text>
+</string>
+<string id="maroderka">
+	<text>Мародёр</text>
+</string>
+<string id="mil_Svoboda_engineer_name">
+	<text>Шуруп</text>
+</string>
+<string id="mil_Svoboda_leader_name">
+	<text>Лукаш</text>
+</string>
+<string id="mil_Svoboda_stukach_name">
+	<text>Павлик</text>
+</string>
+<string id="mil_klyak_start_dialog_10">
+	<text>Ладно, схожу, может найду что-нибудь интересное.</text>
+</string>
+<string id="mil_klyak_start_dialog_6">
+	<text>Ну, и что же нам делать?</text>
+</string>
+<string id="mil_klyak_start_dialog_7">
+	<text>Мы до сих пор не знаем, кто за всем этим стоит. Но мы узнали, что есть группа людей, которая производила страшные опыты над людьми, что есть некая установка в Х-16, кстати, по-моему она не одна, наверняка есть еще. Вот что, надо наведаться в лабораторию Х-18.</text>
+</string>
+<string id="mil_klyak_start_dialog_8">
+	<text>Зачем? Там же вояки уже были, вряд ли они что-то нам оставили.</text>
+</string>
+<string id="mil_klyak_start_dialog_9">
+	<text>В ноутбуке есть относительно свежие записи. Есть, даже месячной давности, понимаешь, о чём я? Значит, кто-то там был совсем недавно.</text>
+</string>
+
+<string id="modes">
+	<text>Modes</text>
+</string>
+<string id="mp_artefact_dropped">
+	<text>The artifact was lost.</text>
+</string>
+<string id="mp_artefact_on_base">
+	<text>The artifact is at our base.</text>
+</string>
+<string id="mp_artefact_on_enemy_base">
+	<text>The artifact is at the enemy base.</text>
+</string>
+<string id="mp_captured_artefact">
+	<text>Captured the artifact</text>
+</string>
+<string id="mp_change_weather_header">
+	<text>Change weather to</text>
+</string>
+<string id="mp_firestation">
+	<text>Fire station</text>
+</string>
+<string id="mp_gamemode">
+	<text>Mode</text>
+</string>
+<string id="mp_garbage">
+	<text>Garbage</text>
+</string>
+<string id="mp_gp_unique_nick_too_short">
+	<text>Nickname is too short.</text>
+</string>
+<string id="mp_gp_unknown_error_4">
+	<text>Uknown profile error (code: 4)</text>
+</string>
+<string id="mp_gp_unknown_error_512">
+	<text>Profile creation error.</text>
+</string>
+<string id="mp_has_dropped_artefact">
+	<text>Dropped the artifact</text>
+</string>
+<string id="mp_limansk">
+	<text>Limansk</text>
+</string>
+<string id="mp_loading_awards">
+	<text>Loading your awards...</text>
+</string>
+<string id="mp_loading_best_scores">
+	<text>Loading your records...</text>
+</string>
+<string id="mp_military_2">
+	<text>Old village</text>
+</string>
+<string id="mp_rembasa">
+	<text>Repair base</text>
+</string>
+<string id="mp_returned_artefact">
+	<text>Returned the artifact</text>
+</string>
+<string id="mp_si_battleye">
+	<text>BattlEye</text>
+</string>
+<string id="mp_si_max_ping">
+	<text>Max Ping</text>
+</string>
+<string id="mp_sport_center">
+	<text>Sports center</text>
+</string>
+<string id="mp_training_camp">
+	<text>Training camp</text>
+</string>
+<string id="mp_vote_hint">
+	<text>Vote YES ($$ACTION_VOTE_YES$$)\n Vote NO ($$ACTION_VOTE_NO$$)\n Results ($$ACTION_VOTE$$)</text>
+</string>
+<string id="mp_you_captured_artefact">
+	<text>You captured the enemy artifact, now take it to base!</text>
+</string>
+<string id="mp_you_captured_own_artefact">
+	<text>You got the artifact. Activate it to return it to your base!</text>
+</string>
+<string id="mpd_any_player">
+	<text>Any</text>
+</string>
+<string id="mpd_play">
+	<text>Play</text>
+</string>
+<string id="mpd_restart">
+	<text>Restart</text>
+</string>
+<string id="mpd_rewind">
+	<text>Rewind</text>
+</string>
+<string id="mpd_rewind_until_artdeliver">
+	<text>Until artifact delivery</text>
+</string>
+<string id="mpd_rewind_until_artdrop">
+	<text>Until artifact loss</text>
+</string>
+<string id="mpd_rewind_until_arttake">
+	<text>Until artifact capture</text>
+</string>
+<string id="mpd_rewind_until_die">
+	<text>Until death</text>
+</string>
+<string id="mpd_rewind_until_kill">
+	<text>Until kill</text>
+</string>
+<string id="mpd_rewind_until_start">
+	<text>Until start</text>
+</string>
+<string id="osvedom_trade_semeckii_est_4">
+	<text>Ну, что там с моим делом?</text>
+</string>
+<string id="osvedom_trade_semeckii_est_5">
+	<text>Повозиться пришлось конечно. Данных, что ты предоставил, маловато, но всё же...</text>
+</string>
+<string id="osvedom_trade_semeckii_est_6">
+	<text>Что всё же? Не темни.</text>
+</string>
+<string id="osvedom_trade_semeckii_est_7">
+	<text>О, как побагровел то аж! Да не бойся, всё нормально, давай свой ПДА, скину координаты тайника.</text>
+</string>
+<string id="pri_monolith_leader_name">
+	<text>Харон</text>
+</string>
+<string id="rad_ecolog_guard_name">
+	<text>Ассистент</text>
+</string>
+<string id="rad_ecolog_name">
+	<text>Ассистент</text>
+</string>
+<string id="sar2_arena_manager_name">
+	<text>Арни</text>
+</string>
+<string id="sar2_arena_savage_name">
+	<text>Зверь</text>
+</string>
+<string id="sar2_bandit_leader_name">
+	<text>Вася "Кабан"</text>
+</string>
+<string id="sar2_borov_name">
+	<text>Боров</text>
+</string>
+<string id="sar2_dolg_blokpost_leader_name">
+	<text>Прапор</text>
+</string>
+<string id="sar2_dram_novice_name">
+	<text>Юрик</text>
+</string>
+<string id="sar2_fox_name">
+	<text>"Лис"</text>
+</string>
+<string id="sar2_haron_name">
+	<text>Харон</text>
+</string>
+<string id="sar2_hellcar_name">
+	<text>"Бес"</text>
+</string>
+<string id="sar2_informator_name">
+	<text>Ара</text>
+</string>
+<string id="sar2_ivancov_name">
+	<text>Капитан Иванцов</text>
+</string>
+<string id="sar2_krot_name">
+	<text>Сталкер "Крот"</text>
+</string>
+<string id="sar2_kruglov_name">
+	<text>Проф. Круглов</text>
+</string>
+<string id="sar2_kuznetsov_name">
+	<text>Майор Кузнецов</text>
+</string>
+<string id="sar2_lucky_name">
+	<text>Счастливчик</text>
+</string>
+<string id="sar2_petrenko_name">
+	<text>Петренко</text>
+</string>
+<string id="sar2_petruha_name">
+	<text>Жорик</text>
+</string>
+<string id="sar2_professor_name">
+	<text>Проф. Сахаров</text>
+</string>
+<string id="sar2_ryaboy_name">
+	<text>Рябой</text>
+</string>
+<string id="sar2_seryi_name">
+	<text>"Серый"</text>
+</string>
+<string id="sar2_svoboda_blockpost_leader_name">
+	<text>"Кеп"</text>
+</string>
+<string id="sar2_svoboda_cook_name">
+	<text>"Повар"</text>
+</string>
+<string id="sar2_svoboda_engeneer_name">
+	<text>Шуруп</text>
+</string>
+<string id="sar2_svoboda_leader_name">
+	<text>"Лукаш"</text>
+</string>
+<string id="sar2_svoboda_max_name">
+	<text>"Макс"</text>
+</string>
+<string id="sar2_svoboda_stukach_name">
+	<text>Павлик</text>
+</string>
+<string id="sar2_svoboda_trader_name">
+	<text>"Скряга"</text>
+</string>
+<string id="sar2_svoboda_ugrumyi_name">
+	<text>"Угрюмый"</text>
+</string>
+<string id="sar2_tiran_name">
+	<text>Тиран</text>
+</string>
+<string id="sar2_tolik_name">
+	<text>Толик</text>
+</string>
+<string id="sar2_volkodav_name">
+	<text>Волкодав</text>
+</string>
+<string id="sar2_voronin_name">
+	<text>Генерал Воронин</text>
+</string>
+<string id="sar2_wolf_name">
+	<text>"Волк"</text>
+</string>
+
+<string id="sverhprovodnik_dialog_10">
+	<text>Мне всё ясно. Да, задачка непростая, но я и не такие решал, так что обязательно найду "Сверхпроводник" и принесу тебе, чтобы ты открыл тропинку на Болота.</text>
+</string>
+<string id="sverhprovodnik_dialog_6">
+	<text>Он ещё сказал, что ты мне можешь показать тропинку тайную с Армейских Складов на Болота через Мёртвый Город. Я сюда как раз по ней пришёл, но вот в обратный конец...</text>
+</string>
+<string id="sverhprovodnik_dialog_7">
+	<text>Ну раз Доктор сказал, значит помогу тебе, тем более тропинка эта очень и очень удобная и нверняка пригодится. Но только есть одно но. Открыть этот путь можно только при помощи одного очень редкого артефакта, который носит название "Сверхпроводник". Он был назван "Сверхпроводником" за свою способность на долгое время смещать пространство и, тем самым, создавать пространственные коридоры, так называемые "Тайные Тропы", с помощью которых можно перемещаться по ранее недоступным маршрутам. Отличается от своих "младших братьев", проводников низшего порядка, тем, что активирует переходы сразу по нескольким маршрутам. Для активации надо просто подобрать этот артефакт. Одно но: найти этот артефакт крайне сложно. Появляется он в короткий промежуток времени, примерно в течении одного часа, где-то между часом и двумя часами ночи. Если за это время его не найти, то артефакт исчезает. Так что вот так...</text>
+</string>
+<string id="sverhprovodnik_dialog_8">
+	<text>О-очень интересно. Постараюсь отыскать этот сверхпроводник. Уж больно тропинка важная, наверняка пригодится в будущем. Подскажи хоть примерное место, где его можно найти.</text>
+</string>
+<string id="sverhprovodnik_dialog_9">
+	<text>Ну, раз тропа, которую он должен открыть, начинается на Складах, значит и искать надо на Складах. В других местах в Зоне я его встретил только один раз. Как ты наверное уже догадался - на Болотах. Где именно искать на Складах - сложно сказать, но думаю, что в труднодоступных местах. Только помни, время на его поиск ограничено всего одним часом: между часом и двумя часами ночи. Если найдёшь, тащи его мне, откроем тебе переход со Складов на Болота через Мёртвый Город. Да, и ещё: на поиски у тебя будет дня три, максимум четыре. Потом целый месяц будут крайне неблагоприятные условия для его появления. Так что не тяни со временем.</text>
+</string>
+<string id="tm_job_completed">
+	<text>我完成了任务.</text>
+</string>
+
+<string id="ui_st_btn_copy_url">
+	<text>复制链接</text>
+</string>
+<string id="ui_st_btn_download_map">
+	<text>载入地图</text>
+</string>
+<string id="ui_st_map_data_corrupted">
+	<text>地图不正确或损坏</text>
+</string>
+<string id="ui_st_map_not_found">
+	<text>未找到地图</text>
+</string>
+
+<string id="ui_st_team">
+	<text>小队</text>
+</string>
+<string id="val_pulia_name">
+	<text>Пуля</text>
+</string>
+<string id="wpn-bizon">
+	<text>PP-19 野牛</text>
+</string>
+<string id="wpn-tt33">
+	<text>TT-33</text>
+</string>
+<string id="yan_find_lab">
+	<text>进入实验室.</text>
+</string>
+<string id="yan_semenov_name">
+	<text>谢苗诺夫</text>
+</string>
+<string id="yantar_general_ucheniy_story_0">
+	<text>我听说过一个在死区的外国探险队...</text>
+</string>

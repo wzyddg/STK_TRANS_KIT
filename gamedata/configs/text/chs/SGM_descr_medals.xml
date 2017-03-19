@@ -2,13 +2,13 @@
 		<text>成就:新人</text>
 	</string>
       <string id="st_medal_50_descr">
-		<text>新等级的奖金,当你经验到达50时就会自动KKK颁发,使用即可转换成资产.</text>
+		<text>新等级的奖金,当你经验到达50时就会自动颁发,使用即可转换成资产.</text>
 	</string>
       <string id="st_medal_100_title">
 		<text>成就: 拓荒者</text>
 	</string>
       <string id="st_medal_100_descr">
-		<text>新等级的奖金,当你经验到达100时就会自动KKK颁发,使用即可转换成资产.</text>
+		<text>新等级的奖金,当你经验到达100时就会自动颁发,使用即可转换成资产.</text>
 	</string>
       <string id="st_medal_250_title">
 		<text>奖章:潜行者</text>
@@ -65,7 +65,7 @@
 		<text>古金迪尤卡(欧洲中世纪贸易金银币). 在一个山洞内发现…</text>
 	</string>
       <string id="st_medallion_strelka_descr">
-		<text>金章项链, 原主人是Arrow.</text>
+		<text>金章项链, 原主人是箭头.</text>
 	</string>
       <string id="st_zheton_stalker_descr">
 		<text>标记 潜行者:\n 名称: 枪手\n 分类: 黑石\n 等级: 1200\n 声望: 900</text>

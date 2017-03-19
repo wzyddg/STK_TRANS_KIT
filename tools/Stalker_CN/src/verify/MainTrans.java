@@ -351,8 +351,22 @@ public class MainTrans {
 	}
 	
 	public static boolean isSentence(String str) {
-//		return (!str.matches("\\s*?")) && (!str.matches("[-.a-zA-Z0-9_,'\\\\]*?"));
-		return (!str.matches("[\\\\n\\s]*?")) && !(str.matches("[a-zA-Z0-9_]*?")&&str.contains("_"));
+		if (str.matches("[\\s\\S]*[АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯя][\\s\\S]*")) {
+			return true;
+		}
+		if (str.contains("_")) {
+			return false;
+		}
+		if (str.matches("[\\\\n\\s]*?")) {
+			return false;
+		}
+		if (str.matches("[a-zA-Z0-9_]+?")) {
+			return false;
+		}
+		if (str.contains("\\\\")) {
+			return false;
+		}
+		return true;
 		//not empty or literal empty string, not id either.
 	}
 
@@ -436,7 +450,8 @@ public class MainTrans {
 
 		String rusString = readStringFromFile(rus.getParent() + localDirSeparater + rus.getName(), "windows-1251");
 
-		String chsString = rusString.replaceAll("\\\\\\\\n","\\\\n");//minus
+		//minus
+		String chsString = rusString.replaceAll("\\\\\\\\n","\\\\n").replaceAll(Pattern.quote("\\\""), "'");
 
 		HashSet<String> sentences = new HashSet<>();
 		
@@ -503,7 +518,7 @@ public class MainTrans {
 					continue f1;
 				}
 				
-				transtedLine = clearString(transtedLine);
+				verbose(transtedLine);
 				chsString = chsString.replaceAll(Pattern.quote("\""+string+"\""), Matcher.quoteReplacement("\""+transtedLine+"\""));
 			} catch (Exception e) {
 				failFlag = true;
@@ -608,7 +623,7 @@ public class MainTrans {
 		}
 		System.out.println("");
 		
-		chsString = chsString.replaceAll("‘", "'").replaceAll("’", "'")
+		chsString = chsString.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"").replaceAll("‘", "'").replaceAll("’", "'").replaceAll("？", "?")
 				.replaceAll("（", Matcher.quoteReplacement("(")).replaceAll("）", Matcher.quoteReplacement(")")).replaceAll("“", "'").replaceAll("”", "'");
 
 		writeToFile(chsString, rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
