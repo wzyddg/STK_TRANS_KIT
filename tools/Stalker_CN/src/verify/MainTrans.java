@@ -221,7 +221,23 @@ public class MainTrans {
 				verbose = true;
 			}
 			generateLackSentenceFile(oriAddress);
-			System.out.println("all done! thegenerated file is "+oriAddress+localDirSeparater+"lackSentences.txt");
+			System.out.println("all done! the generated file is "+oriAddress+localDirSeparater+"lackSentences.txt");
+		}else if (args[0].equals("-diff")) {
+//			-diff oridir curdir [verb]
+			if (args.length<3) {
+				System.err.println("too few parameters. use -h to see help.");
+				return;
+			}
+			oriAddress = args[1];
+			String[] secondEdition = args[2].split(Pattern.quote("|"));
+			for (int i = 0; i < secondEdition.length; i++) {
+				mapExistingFile(secondEdition[i], "windows-1251");
+			}
+			if(args.length>3){
+				verbose = true;
+			}
+			generateDifferentSentenceFile(oriAddress);
+			System.out.println("all done! thegenerated file is "+oriAddress+localDirSeparater+"differentSentences.txt");
 		}else if (args[0].equals("-list")) {
 //			-list filedir
 			if (args.length<2) {
@@ -260,9 +276,10 @@ public class MainTrans {
 		System.out.println("2.translate the gameplay .xml files in gamedata\\config(s)\\gameplay in case there are some sentences which aren't in gamedata\\config(s)\\text\\languageName.");
 		System.out.println("3.translate the script xml files in gamedata\\scripts, especially for pda news texts which aren't in gamedata\\config(s)\\text\\languageName.");
 		System.out.println("4.generate a file containing those sentences you haven't translated from the original files yet.");
-		System.out.println("5.show a formatted string containing the names of .xml files in a folder so that you can paste the string to the localization.ltx (for the mods for Shadow of Chernobyl).");
-		System.out.println("6.convert all files in a given folder from windows-1251 to utf-8.");
-		System.out.println("7.call for help.");
+		System.out.println("5.generate a file containing same key with different contents between different versions of same MOD(sgm2.2 -> sgm2.2 lost soul or NLC7 -> NLC7.5).");
+		System.out.println("6.show a formatted string containing the names of .xml files in a folder so that you can paste the string to the localization.ltx (for the mods for 'Shadow of Chernobyl').");
+		System.out.println("7.convert all files in a given folder from windows-1251 to utf-8.");
+		System.out.println("8.call for help.");
 		System.out.println();
 		System.out.println("here are the instructions for the functions");
 		System.out.println();
@@ -270,9 +287,10 @@ public class MainTrans {
 		System.out.println("2.-transG api orilang targlang oridir [exdir [sleep [verb]]]");
 		System.out.println("3.-transS api orilang targlang oridir [exdir [sleep [verb]]]");
 		System.out.println("4.-lack oridir exdir [verb]");
-		System.out.println("5.-list filedir");
-		System.out.println("6.-toUtf8 filedir");
-		System.out.println("7.-h");
+		System.out.println("5.-diff oridir newdir [verb]");
+		System.out.println("6.-list filedir");
+		System.out.println("7.-toUtf8 filedir");
+		System.out.println("8.-h");
 		System.out.println();
 		System.out.println("Details for the parameter:");
 		System.out.println("\t*parameters in [] is optional.");
@@ -293,6 +311,11 @@ public class MainTrans {
 		System.out.println("\t\tusing this parameter can save you from redoing the works you've done before.");
 		System.out.println("\t\tthis parameter supports multiple folder address, seperated by the single character |.");
 		System.out.println("\t\tcontents from latter folder will overwrite contents with same id before it, so you may wanna sort them from low priority to high priority.");
+		System.out.println("\t*newdir:address of the folders containing the .xml text files from new version of the mod.");
+		System.out.println("\t\tthe generated file will contain sentences from newdir, not oridir.");
+		System.out.println("\t\tswitch the position of oridir and newdir, the result will change.");
+		System.out.println("\t\tthis parameter supports multiple folder address, seperated by the single character |.");
+		System.out.println("\t\tcontents from latter folder will overwrite contents with same id before it, so you may wanna sort them from low priority to high priority.");
 		System.out.println("\t*sleep:the time (in millisecond) you want to pause between the translation of two sentences.(around 100 is recommended.)");
 		System.out.println("\t\tlonger pause time is more likely to keep you from triggering machine-human detection.");
 		System.out.println("\t*verb:any word at this place will enable verbose mode, you can see more details of processing now.");
@@ -304,20 +327,64 @@ public class MainTrans {
 		System.out.println("\tI worked a lot on robust, but I won't guarantee a instant usable collection of translated .xml file, you may need to make a little adjustment yourself.");
 	}
 	
+	//default UTF-8
 	public static void mapExistingFile(String existingFolderAddress) throws ClassNotFoundException, IOException, InterruptedException {
+		mapExistingFile(existingFolderAddress, "UTF-8");
+	}
+	
+	public static void mapExistingFile(String existingFolderAddress, String encodingName) throws ClassNotFoundException, IOException, InterruptedException {
 		if (!existingFolderAddress.equals("")) {
 			File existingDir = new File(existingFolderAddress);
 			File[] eFiles = existingDir.listFiles();
 			for (int i = 0; eFiles!=null && i < eFiles.length; i++) {
 				if (eFiles[i].isFile()) {
-					existingSentence.putAll(getTextFileMap(existingFolderAddress + localDirSeparater + eFiles[i].getName()));
+					existingSentence.putAll(getTextFileMap(existingFolderAddress + localDirSeparater + eFiles[i].getName(), encodingName));
 					verbose("existing file "+eFiles[i].getName()+" done!");
 				}
-
 			}
 		}
 	}
 
+	public static void generateDifferentSentenceFile(String oriAddr) throws ClassNotFoundException, IOException, InterruptedException {
+		HashMap<String, String> oriSentence = new HashMap<>();
+		
+		if (!oriAddr.equals("")) {
+			File oriDir = new File(oriAddr);
+			File[] Files = oriDir.listFiles();
+			for (int i = 0; Files!=null && i < Files.length; i++) {
+				if (Files[i].isFile()) {
+					oriSentence.putAll(getTextFileMap(oriAddr + localDirSeparater + Files[i].getName(), "windows-1251"));
+					verbose("ori file "+Files[i].getName()+" done!");
+				}
+			}
+		}
+		verbose("origin:"+oriSentence.size());
+		verbose("current:"+existingSentence.size());
+		
+		for (String key : oriSentence.keySet()) {
+			if(existingSentence.containsKey(key)){
+				String oldSent = oriSentence.get(key);
+				String newSent = existingSentence.get(key);
+				if(newSent!=null&&oldSent.equals(newSent)){
+					existingSentence.remove(key);
+				}
+			}
+		}
+		verbose("different:"+existingSentence.size());
+		String resString = "";
+		LinkedList<String> keys = new LinkedList<>();
+		for (String key : existingSentence.keySet()) {
+			keys.add(key);
+		}
+		Collections.sort(keys);
+		
+		for (int i=0;i<keys.size();i++) {
+			String key = keys.get(i);
+			resString = resString + "<string id=\""+key+"\">" + "\r\n" +"\t<text>"+existingSentence.get(key)+"</text>"+ "\r\n</string>\r\n";
+		}
+		writeToFile(resString, oriAddr+localDirSeparater+"differentSentences.txt", "utf-8");
+	}
+	
 	public static void generateLackSentenceFile(String oriAddr) throws ClassNotFoundException, IOException, InterruptedException {
 		HashMap<String, String> oriSentence = new HashMap<>();
 		
@@ -829,6 +896,23 @@ public class MainTrans {
 		}
 
 		return true;
+	}
+	
+	public static void findPattern(String fileAddress, String encodingName, String pattern, String unxpctdSuffix, String unxpctdKeyPart) throws ClassNotFoundException, IOException, InterruptedException {
+		HashMap<String, String> aHashMap = getTextFileMap(fileAddress, encodingName);
+		for (Iterator iterator = aHashMap.keySet().iterator(); iterator.hasNext();) {
+			String key = (String) iterator.next();
+			String value = aHashMap.get(key);
+			Pattern nums = Pattern.compile(pattern);
+			Matcher matcher = nums.matcher(value);
+			f1:for(int i=0;matcher.find();i++){
+				if((unxpctdSuffix.equals("")||!matcher.group(0).endsWith(unxpctdSuffix))&&(unxpctdKeyPart.equals("")||!key.contains(unxpctdKeyPart))){
+//					System.err.println(key);
+					System.out.println(value);
+					break f1;
+				}
+			}
+		}
 	}
 	
 	public static void verbose(String content) {
