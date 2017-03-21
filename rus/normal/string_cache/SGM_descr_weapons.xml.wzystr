@@ -1,0 +1,409 @@
+	<string id="st_wpn_fort_actor">
+		<text>Degtyarev's FORT-12</text>
+	</string>
+	<string id="st_wpn_ak74u_snag">
+		<text>Snag's AKS-74U</text>
+	</string>
+	<string id="st_wpn_fort_snag">
+		<text>Snag's FORT-12</text>
+	</string>
+	<string id="st_wpn_protecta_nimble">
+		<text>"Devastator"</text>
+	</string>
+	<string id="st_wpn_g36_nimble">
+		<text>HK-G36E "Raiser"</text>
+	</string>
+	<string id="st_wpn_fn2000_nimble">
+		<text>FN-F2000 "Gangster"</text>
+	</string>
+	<string id="st_wpn_ak47">
+		<text>AK-47</text>
+	</string>
+	<string id="st_grenade_f1_double">
+		<text>F1 grenade "Doubled"</text>
+	</string>
+	<string id="st_grenade_f1_double_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Blast radius = 24 meters\n%c[255,238,153,26]• %c[default]Splinters spread = 40 meters\n%c[default]Two defensive hand grenades united in one. Its splinters are capable to punch the armored vests of average protection degree. It comes to the stalkers usually as a result of the exchange with the military.</text>
+	</string>
+	<string id="st_grenade_rgd5_double">
+		<text>RGD-5 grenade "Doubled"</text>
+	</string>
+	<string id="st_grenade_rgd5_double_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Blast radius = 12 meters\n%c[255,238,153,26]• %c[default]Splinters spread = 30 meters\n%c[default]Two offensive hand grenades united in one. Often used by stalkers to smoke mutants out of their holes.</text>
+	</string>
+	<string id="st_grenade_smoke_double">
+		<text>Smoke grenade "Doubled"</text>
+	</string>
+	<string id="st_grenade_smoke_double_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Time of the screen formation = 60 seconds\n%c[default]Two hand smoke grenades, united in one. Intended for a smoke screen installation.</text>
+	</string>
+	<string id="st_wpn_ak47_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 83\n%c[255,238,153,26]• %c[default]Rate of fire = 100 r/m\n%c[255,238,153,26]• %c[default]Effective range = 500 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 900 m/s\n%c[default]Kalashnikov model of 1947, ammo: 7,62x39 mm. Represents the simple and reliable weapon though cheapness in manufacture has affected the usability and accuracy of fire. It is a fairly rare weapon in the Zone due to its lack in the military armaments. Ammunition: 9mm M72-DD "DumDum" special ammunition can be used.</text>
+	</string>
+	<string id="st_wpn_ak101">
+		<text>AK-101M</text>
+	</string>
+	<string id="st_wpn_ak101_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 50, with silencer = 49\n%c[255,238,153,26]• %c[default]Rate of fire = 825 r/m\n%c[255,238,153,26]• %c[default]Effective range = 290 meters, with silencer 280\n%c[255,238,153,26]• %c[default]Muzzle velocity = 600 m/s, with silencer 450\n%c[default]The first family of commercial weapons, Kalashnikov assault rifles of the "100th" series among which was the AK-101, came out as a result of fairly extensive scientific projects, carried out by the Izhmash. Powerful muzzle brake provides highly accurate automatic fire by reducing the deflection of the rifle away from the aiming point and reducing the recoil when fired.</text>
+	</string>
+	<string id="st_wpn_ak105">
+		<text>AK-102</text>
+	</string>
+	<string id="st_wpn_ak105_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 62, with silencer = 61\n%c[255,238,153,26]• %c[default]Rate of fire = 900 r/m\n%c[255,238,153,26]• %c[default]Range = 300 meters, with silencer 295\n%c[255,238,153,26]• %c[default]Muzzle velocity = 800 m/s, with silencer 500\n%c[default]Kalashnikov assault rifles "100th" series have fully embraced all the best features of their predecessors, and in some issues surpassed them. Thus, testing of the new rifles on the reliability has shown that given earlier characteristics permitting 0,2% delays while shooting were significantly surpassed. In the production test the rifles stood up to 10-15 thousand shots. The firing was stopped because of complete barrel wear, but the damage of other parts was not recorded, their mechanism remained fully operational.</text>
+	</string>
+	<string id="st_wpn_ak74_tactic">
+		 <text>AKM-74 "Tactic"</text>		
+	</string>
+	<string id="st_wpn_ak74_tactic_descr">
+		 <text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 51\n%c[255,238,153,26]• %c[default]Rate of fire = 620 r/m\n%c[255,238,153,26]• %c[default]Effective range  = 230 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 700 m/s\n%c[default]Noiseless version of AKM-74. Has improved accuracy.</text>
+	</string>
+	<string id="st_wpn_ak74_pacific">
+		 <text>AKM-74 "Cyclone"</text>		
+	</string>
+	<string id="st_wpn_ak74_pacific_descr">
+		 <text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 55, with silencer = 54\n%c[255,238,153,26]• %c[default]Rate of fire = 825 r/m\n%c[255,238,153,26]• %c[default]Effective range  = 275 meters, with silencer 250\n%c[255,238,153,26]• %c[default]Muzzle velocity = 800 m/s, with silencer 600\n%c[default]Assault version of the AKM-74. Has an improved accuracy, and high damage range.</text>
+	</string>
+	<string id="st_wpn_apb">
+		<text>АPB</text>
+	</string>
+	<string id="st_wpn_apb_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 46, with silencer = 45\n%c[255,238,153,26]• %c[default]Rate of fire = 300 r/m\n%c[255,238,153,26]• %c[default]Effective range = 100 meters, with silencer 100\n%c[255,238,153,26]• %c[default]Muzzle velocity = 185 m/s, with silencer 100\n%c[default]Automatic silenced pistol APB (code 6P13) was developed in the early 1970s and adopted in 1972 for armament of intelligence and special units of the Soviet Army. Technically it is a modification of the Stechkin automatic pistol (APS).</text> 
+	</string>
+	<string id="st_wpn_autocolt">
+		<text>Auto-Colt</text>
+	</string>
+	<string id="st_wpn_autocolt_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 34, with silencer = 32\n%c[255,238,153,26]• %c[default]Rate of fire = 720 r/m\n%c[255,238,153,26]• %c[default]Effective range = 100 meters, with silencer 90\n%c[255,238,153,26]• %c[default]Muzzle velocity = 600 m/s, with silencer 500\n%c[default]To a certain extent it is an automatic weapon. High-capacity magazine maximizes power. Ammunition: 9x18 cartridge.</text>
+	</string>
+	<string id="st_wpn_awp">
+		<text>L96A1</text>
+	</string>
+	<string id="st_wpn_awp_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 200\n%c[255,238,153,26]• %c[default]Rate of fire = 30 r/m\n%c[255,238,153,26]• %c[default]Effective range = 650 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 850 м/с\n%c[default]In the mid 1980s, the Swedish army is also beginning to search for a new sniper rifle, suitable for using in the harsh northern weather. The company Accuracy International offers the Swedes a modified version of the L96 rifle called Arctic Warfare, and in 1988 the Swedish army adopts it under the designation PSG.90. The British Army, in turn, also adopts a rifle Arctic Warfare (the new designation is L96A1). Ammunition: 9mm M72-DD "DumDum" special ammunition can be used.</text> 
+	</string>
+	<string id="st_wpn_bm16_full">
+		<text>BM-16</text>
+	</string>
+	<string id="st_wpn_bm16_full_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 95\n%c[255,238,153,26]• %c[default]Rate of fire = 400 r/m\n%c[255,238,153,26]• %c[default]Effective range = 68 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 250 m/s\n%c[default]Ordinary hunting shotgun with a horizontal arrangement of barrels. One of the most common type of weapons among the bandits, because of its effectiveness in close combat. Ammunition: 9mm M72-DD "DumDum" special ammunition can be used.</text>
+	</string>
+	<string id="st_wpn_cobra">
+		<text>"Cobra"</text>
+	</string>
+	<string id="st_wpn_cobra_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 90\n%c[255,238,153,26]• %c[default]Rate of fire = 85 r/m\n%c[255,238,153,26]• %c[default]Effective range = 890 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 350 m/s\n%c[default]The sniper version of the "Eagle". It is not inferior to other sniper rifles on the firing range, but the accuracy is not at that level. Ammunition: 11.43x23 cartridge, and 9mm M72-DD "DumDum" special ammunition.</text>
+	</string>
+	<string id="st_wpn_gp100">
+		<text>Ruger GP100</text>
+	</string>
+	<string id="st_wpn_gp100_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 55\n%c[255,238,153,26]• %c[default]Rate of fire = 150 r/m\n%c[255,238,153,26]• %c[default]Effective range = 85 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 300 m/s\n%c[default]Revolvers of the series Ruger GP-100 appeared in 1985, replaced the earlier revolver models Ruger Sequrity-Six, Ruger Service-Six. These guns are very reliable, durable that are successfully combined with moderate price and a wide range of options. This powerful and reliable revolver can serve as an excellent self-defense weapon or a police weapon. Ammunition: 9mm M72-DD "DumDum" special ammunition can be used.</text> 
+	</string>
+	<string id="st_wpn_grom">
+		<text>Thunder "Breakwater"</text>
+	</string>
+	<string id="st_wpn_grom_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 80\n%c[255,238,153,26]• %c[default]Rate of fire = 700 r/m\n%c[255,238,153,26]• %c[default]Effective range = 400 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 700 m/s\n%c[default]Compact, reliable and at the same time universal and powerful assault rifle-grenade launcher system. Integrated 1.6x Optics. Ammunition: 5,45x39 mm cartridge, and VOG-25 grenade. Ammunition: 9mm M72-DD "DumDum" special ammunition can be used.</text>
+	</string>
+    <string id="st_wpn_fnfal">
+		<text>FAL "Paratrooper"</text>
+	</string>
+	<string id="st_wpn_fnfal_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 73\n%c[255,238,153,26]• %c[default]Rate of fire = 650 r/m\n%c[255,238,153,26]• %c[default]Effective range = 600 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 600 m/s\n%c[default]Modification of the FN FAL rifle for the airborne troops - FAL "Paratrooper" (also known as the FAL 50.63). Equipped with a collimator sight and the 40mm grenade launcher M203. Ammunition: 9mm M72-DD "DumDum" special ammunition can be used.</text>
+	</string>
+	<string id="st_wpn_fanfall">
+		<text>FAN "FALL"</text>
+    </string>
+	<string id="st_wpn_fanfall_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 55, with a silencer = 53\n%c[255,238,153,26]• %c[default]Rate of fire = 650 r/m\n%c[255,238,153,26]• %c[default]Effective range = 275 meters, with a silencer 250\n%c[255,238,153,26]• %c[default]Muzzle velocity = 570 m/s, with a silencer 500\n%c[default]FN FAL rifle (Fusil Autamatique Leger - Light Automatic Rifle) developed by "Fabrique Nationale" in Erstale, Belgium. In general, the rifles of FAL series are among the best examples of its time. They were easy to use and maintain, are quite reliable, have good performance in the semi-automatic mode. Since it has a unique ergonomics and tactical characteristics, it has become the object of hunting of many gangs in the Zone.</text>
+    </string>
+	<string id="st_wpn_flamewerfer">
+		<text>Flamethrower</text>
+	</string>
+	<string id="st_wpn_flamewerfer_descr">
+		<text>The homemade flamethrower. It is assembled from improvised materials by a plumber-fireworker. It's not distinguished by the range, the reliability is average. Demoralizes opponents quite well.</text>
+	</string>
+	<string id="st_wpn_fn2000_hurricane">
+		<text>FN-F2000 "Hurricane"</text>
+	</string>
+	<string id="st_wpn_fn2000_hurricane_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 64,with silencer = 63\n%c[255,238,153,26]• %c[default]Rate of fire = 670 r/m\n%c[255,238,153,26]• %c[default]Effective range = 500 meters, with silencer 400\n%c[255,238,153,26]• %c[default]Muzzle velocity = 900 m/s, with silencer 700\n%c[default]This futuristic-looking weapon is the mass-produced automatic grenade launcher system of modular design. Equipped with computerized sight-module fire control system. Despite the outward awkwardness, is highly ergonomic, handy for firing in all modes and is highly reliable.</text>
+	</string>
+	<string id="st_wpn_g36_sniper">
+		<text>HK-G36K Sniper Edition</text>
+	</string>
+	<string id="st_wpn_g36_sniper_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 65, with silencer = 62\n%c[255,238,153,26]• %c[default]Rate of fire = 450 r/m\n%c[255,238,153,26]• %c[default]Effective range = 500 meters, with silencer 400\n%c[255,238,153,26]• %c[default]Muzzle velocity = 900 m/s, with silencer 800\n%c[default]The embodiment of new trends in Western-made automatic weapons: the work of the mechanism is based no longer now on semi-freely shutter, but on a short course of the gas piston. The changes clearly have gone for the benefit: this assault rifle is a perfect example of modern weapons - light, durable and ergonomic. Ammunition: 9mm M72-DD "DumDum" special ammunition can be used.</text>
+	</string>
+	<string id="st_wpn_g43">
+		<text>G43 Gewehr</text>
+    </string>
+	<string id="st_wpn_g43_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 83\n%c[255,238,153,26]• %c[default]Rate of fire = 57 r/m\n%c[255,238,153,26]• %c[default]Effective range = 470\n%c[255,238,153,26]• %c[default]Muzzle velocity = 700\n%c[default]Model G43/Gewehr semi-automatic rifle (made in Germany, 1944), "sniper" version, the upgraded version of the G41(W) "Carl Walther". Ammunition: 7.62x54 mm cartridge. Has an integral magazine for 10 cartridges, that is filled with the clips. To prevent accidental firing the rifle has a manual safety, mounted behind the receiver.</text>
+	</string>
+	<string id="st_wpn_lr300_limit">
+		<text>LR-300 "Limited"</text>
+	</string>
+	<string id="st_wpn_lr300_limit_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 54, with silencer = 53\n%c[255,238,153,26]• %c[default]Rate of fire = 720 r/m\n%c[255,238,153,26]• %c[default]Effective range = 200 meters, with silencer 200\n%c[255,238,153,26]• %c[default]Muzzle velocity = 700 m/s, with silencer 600\n%c[default]Fully modernized rifle LR-300. With modernization managed to get excellent statistics on the weapons.</text>
+	</string>
+	<string id="st_wpn_l85_tactical">
+		 <text>АК 113 "Mongol"</text>		
+	</string>
+	<string id="st_wpn_l85_tactical_descr">
+		 <text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 76, with silencer = 74\n%c[255,238,153,26]• %c[default]Rate of fire = 300 r/m\n%c[255,238,153,26]• %c[default]Effective range  = 350 meters, with silencer 300\n%c[255,238,153,26]• %c[default]Muzzle velocity = 700 m/s, with silencer 650\n%c[default]Upgraded version of the SVU rifle with the addition of the L85 components. Assembled by a gunsmith from "Dawn" group. Since it has a unique ergonomics and tactical characteristics, it has become the object of hunting of many gangs in the Zone. Ammunition: 9mm M72-DD "DumDum" special ammunition can be used.</text>
+    </string>
+	<string id="st_wpn_m4a1">
+		<text>Colt M4A1</text>
+	</string>
+	<string id="st_wpn_m4a1_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 62, with silencer = 60\n%c[255,238,153,26]• %c[default]Rate of fire = 685 r/m\n%c[255,238,153,26]• %c[default]Effective range = 200 meters, with silencer 200\n%c[255,238,153,26]• %c[default]Muzzle velocity = 600 m/s, with silencer 500\n%c[default]The company Colt had been developing carbines (the short barrel variants) on the basis of the AR-15 / M16 rifle family since the end of the 1960s. By the beginning of the nineties the old idea of replacing the pistols (Beretta M9) and obsolete M3A1 submachine guns by a single, more efficient weapon in the troops sprouted  in the minds of the American military again. As a result  in 1994, an automatic rifle Colt model 720 caliber 5.56mm NATO under the designation M4 was adopted by the U.S. Armed Forces.</text> 
+	</string>
+	<string id="st_wpn_m14">
+		<text>М14</text>
+	</string>
+	<string id="st_wpn_m14_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 125\n%c[255,238,153,26]• %c[default]Rate of fire = 60 r/m\n%c[255,238,153,26]• %c[default]Effective range = 800 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 1000 m/s\n%c[default]In 1957 the rifle was standardized and adopted by the U.S. Armed Forces under the designation M14. In 1964, by the decision of the U.S. government, production of M14 was discontinued. By that time 1 380 000 rifles had been produced in total. M14 rifles are still in service with the U.S. Navy, more precisely - Special Operations Forces of the Navy. In addition, the semi-automatic sniper rifle M21 for the U.S. Army was made on base of the M14. Ammunition: 9mm M72-DD "DumDum" special ammunition can be used.</text>
+	</string>
+        <string id="st_wpn_m82">
+		<text>Barrett M82A1</text>
+	</string>
+	<string id="st_wpn_m82_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 200\n%c[255,238,153,26]• %c[default]Rate of fire = 60 r/m\n%c[255,238,153,26]• %c[default]Effective range = 1200 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 1000 m/s\n%c[default]The main areas of using of this rifle have become the destruction of tangible assets and enemy's lightly armored fighting vehicles, including cars, communication cabins and radars, airplanes and helicopters at parking lots. Because of its large overall weight and, consequently, difficulties with a convenient location for firing, Barrett M82A1 is rarely used as a weapon to fight the enemy snipers. Currently, Barrett M82A1 rifles are being used in more than 35 countries worldwide. Ammunition: 9mm M72-DD "DumDum" special ammunition can be used.</text>
+	</string>
+	<string id="st_wpn_mosina">
+		<text>Моsin M1891</text>
+	</string>
+	<string id="st_wpn_mosina_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 70\n%c[255,238,153,26]• %c[default]Rate of fire = 28 r/m\n%c[255,238,153,26]• %c[default]Effective range = 300 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 900 m/s\n%c[default]Despite the fact this weapon is for over 100 years, it still can be found in the Zone. It is not distinguished by heavy damage, but has a very high accuracy. Shoot only in the head! Ammunition: 9mm M72-DD "DumDum" special ammunition can be used.</text>
+	</string>
+	<string id="st_wpn_mp5_octopus">
+		<text>MP-5 "Octopus"</text>
+	</string>
+	<string id="st_wpn_mp5_octopus_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 48, with silencer = 45\n%c[255,238,153,26]• %c[default]Rate of fire = 716 r/m\n%c[255,238,153,26]• %c[default]Effective range = 150 meters, with silencer 150\n%c[255,238,153,26]• %c[default]Muzzle velocity = 344 m/s, with silencer 260\n%c[default]Modernized sub-machine gun, developed on the basis of "MP-5". The aim of its creators was a close combat weapon of the new generation: enough large caliber, and rapid-firing, but at the same time accurate.</text>
+	</string>
+	<string id="st_wpn_mossberg590">
+		<text>Mossberg 590</text>
+	</string>
+	<string id="st_wpn_mossberg590_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 72\n%c[255,238,153,26]• %c[default]Rate of fire = 120 r/m\n%c[255,238,153,26]• %c[default]Effective range = 200 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 180 m/s\n%c[default]Pump action shotgun. Ammunition: 9 mm M72-DD "DumDum" special ammunition can be used.</text> 
+	</string>
+	<string id="st_wpn_ppsh41">
+		<text>PPSh-41</text>
+	</string>
+	<string id="st_wpn_ppsh41_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 37\n%c[255,238,153,26]• %c[default]Rate of fire = 700 r/m\n%c[255,238,153,26]• %c[default]Effective range = 150 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 490 m/s\n%c[default]Shpagin submachine gun, 1941 model (PPSh-41) for 7,62x25 cartridge. Simple and reliable, but it has a pretty good performance. In the Zone it is mostly used by novices, and loners.</text>
+	</string>
+	<string id="st_wpn_svd_tiger">
+		<text>SVD "Tiger"</text>
+	</string>
+	<string id="st_wpn_svd_tiger_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 205\n%c[255,238,153,26]• %c[default]Rate of fire = 80 r/м\n%c[255,238,153,26]• %c[default]Effective range = 2000 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 1600 m/s\n%c[default]Armor-piercing version of the famous analogue SVD. Proved to be extremely reliable and easy to handle weapon. In the army it serves mainly to defeat distant targets, which cannot be hit by an assault rifle. Stalkers appreciated SVDm-2, largely because the bullet from it can penetrate even the thickest mutant's skin or a body armor. Ammunition: 9mm M72-DD "DumDum" special ammunition can be used.</text>
+	</string>
+	<string id="st_wpn_vintorez_bomber">
+		<text>Vintar 'Bomber'</text>
+	</string>
+	<string id="st_wpn_vintorez_bomber_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 130\n%c[255,238,153,26]• %c[default]Rate of fire = 400 r/m\n%c[255,238,153,26]• %c[default]Effective range = 400 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 1000 m/s\n%c[default]Personalized weapon with anomalous power and great durability. Ammunition: the only 9mm M72-DD "DumDum" special ammunition.</text> 
+	</string>
+	<string id="st_wpn_toz34_pathfinder">
+		<text>TOZ-34 "Pathfinder"</text>
+	</string>
+	<string id="st_wpn_toz34_pathfinder_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 70\n%c[255,238,153,26]• %c[default]Rate of fire = 100 r/m\n%c[255,238,153,26]• %c[default]Effective range = 120 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 310 m/s\n%c[default]Widespread hunting rifle, "vertical", thanks to sufficient accuracy and good stopping action provides better protection from the mutants than a pistol. Very cheap and affordable compared to most weapons, so actively used by novices and bandits on the outskirts of the Zone. Ammunition: 9mm M72-DD "DumDum" special ammunition can be used.</text>
+	</string>
+	<string id="st_wpn_p90_name">
+		<text>FN-P90</text>
+	</string>
+	<string id="st_wpn_p90_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 41\n%c[255,238,153,26]• %c[default]Rate of fire = 650 r/m\n%c[255,238,153,26]• %c[default]Effective range = 70 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 515 m/s\n%c[default]FN-p90 was developed in the late 1980s by FN Herstal (Belgium) as a defense weapon for those troops who were not allowed to have a submachine gun (the tank and combat vehicles crews, artillery calculations, etc.). P90 is in a limited service of the armed forces and police units of Belgium, Denmark, the United States (a number of police departments, and the Secret Service which protects the president and top country officials), Saudi Arabia, Peru and Thailand. Also it is widely offered for export. The local mechanic managed to customize the barrel for 9x19mm caliber.</text>
+	</string>
+	<string id="st_wpn_xm8">
+		<text>XM8</text>
+	</string>
+	<string id="st_wpn_xm8_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 56\n%c[255,238,153,26]• %c[default]Rate of fire = 670 r/m\n%c[255,238,153,26]• %c[default]Effective range = 400 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 700 m/s\n%c[default]In the middle of 2005 already were to begin the first mass delivery XM8 system in the U.S. Army. However, due to complaints of a number of companies, which also claimed for their piece of the fatty army pie, the U.S. Congress reproved Army for attempt to adopt a HM8 system without a compulsory competition. Ammunition: 9mm M72-DD "DumDum" special ammunition can be used.</text>
+	</string>
+	<string id="st_wpn_hk417">
+		<text>HK417</text>
+	</string>
+	<string id="st_wpn_hk417_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 93\n%c[255,238,153,26]• %c[default]Rate of fire = 70 r/m\n%c[255,238,153,26]• %c[default]Effective range = 950 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 830 m/s\n%c[default]The peculiarity of the rifle - the modular design, similar to that of an automatic rifle M16, but different vapor system automation with a short stroke gas piston, as in the HK G36. The barrel is locked by rotating bolt 7 lugs. This weapon is made ??highly durable by cold forging. Support for special ammunition 9mm M72-DD DumDum.</text>
+	</string>
+	<string id="st_wpn_kar98k">
+		<text>Karabiner 98k</text>
+	</string>
+	<string id="st_wpn_kar98k_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 100\n%c[255,238,153,26]• %c[default]Rate of fire = 25 r/m\n%c[255,238,153,26]• %c[default]Effective range = 600 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 820 m/s\n%c[default]German rifle, designed in 1898 by "Mauser." Mauser rifle was in service with 98 German Army until the end of World War II and gained a reputation as a simple and reliable weapon. These features of the rifle, such as high strength receiver and bolt lock on the whole, simple mounting hole made ??Mausers extremely popular as a base for hunting and sporting weapons. Support for special ammunition 9mm M72-DD DumDum.</text>
+	</string>
+	<string id="st_wpn_sks">
+		<text>СКС-45</text>
+	</string>
+	<string id="st_wpn_sks_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 106\n%c[255,238,153,26]• %c[default]Rate of fire = 85 r/m\n%c[255,238,153,26]• %c[default]Effective range = 500 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 720 m/s\n%c[default]The first samples of a new carbine cartridge was created by designer Simonov the end of 1944. A small pilot batch of rifles was tested at the front, but finishing a shotgun and a new cartridge lasted until 1949, when the Soviet Army was passed "7.62mm carbine Simon - SCS arr. 1945." During the first postwar decades, SCS was in service on a par with CA AK and AKM, but the proliferation of machines began a gradual displacement of the SCS troops, although some of them were in service until the 1980s and 1990s, even in the arms of both communications and air defense where small arms are not the primary.</text>
+	</string>
+	<string id="st_wpn_trg42">
+		<text>Sako TRG-42</text>
+	</string>
+	<string id="st_wpn_trg42_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 110\n%c[255,238,153,26]• %c[default]Rate of fire = 25 r/m\n%c[255,238,153,26]• %c[default]Effective range = 1000 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 910 m/s\n%c[default]For several decades Sako maintains high popularity as one of the most famous producers of high quality hunting rifles loading manual. Recently, Sako also become well known as high-precision rifles provider for both military and law enforcement purposes and for sport shooting. Support for special ammunition 9mm M72-DD DumDum.</text>
+	</string>
+        
+	<string id="st_wpn_glock">
+		<text>Glock-17</text>
+	</string>
+	<string id="st_wpn_glock_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 40, with silencer = 39\n%c[255,238,153,26]• %c[default]Rate of fire = 1200 r/m\n%c[255,238,153,26]• %c[default]Effective range = 100 meters, with silencer 60\n%c[255,238,153,26]• %c[default]Muzzle velocity = 560 m/s, with silencer 400\n%c[default]Pistol Glock-17 (17 - due to the magazine capacity of 17 rounds) was developed by the Austrian company Glock for the Austrian army. While this was their first experience of developing pistols, nevertheless, the gun has turned out very good, reliable and convenient, and has been adopted by the Austrian army under the designation P80. In addition, Glock 17 as well as its other versions have taken place among the most popular guns for police and self-defense.</text>
+	</string>
+	<string id="st_wpn_hk416">
+		<text>HK-416</text>
+	</string>
+	<string id="st_wpn_hk416_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 61\n%c[255,238,153,26]• %c[default]Rate of fire = 645 r/m\n%c[255,238,153,26]• %c[default]Effective range = 500 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 1000 m/s\n%c[default]The automatic rifle of the new generation.</text> 
+	</string>
+	<string id="st_wpn_scar">
+		<text>Mk.16 SCAR-L</text>
+	</string>
+	<string id="st_wpn_scar_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 58, with silencer = 57\n%c[255,238,153,26]• %c[default]Rate of fire = 640 r/m\n%c[255,238,153,26]• %c[default]Effective range = 400 meters, with silencer 300\n%c[255,238,153,26]• %c[default]Muzzle velocity = 500 m/s, with silencer 400\n%c[default]SCAR Rifle System includes two basic weapon variants: "light" rifle Mk.16 SCAR-L (Light) and "heavy" rifle Mk.17 SCAR-H (Heavy ). The main differences between the SCAR-L and SCAR-H are in using ammunition: rifle SCAR-L are rated only on the  5.56x45mm NATO cartridges (as with conventional bullets M855, and with heavier bullets Mk.262). This modular system provides for the U.S. special operations forces a most flexible weapon, which is easily adapted to any task, from a close combat in the town to the sniper fire at medium range (about 500-600 meters).</text>
+	</string> 
+	<string id="st_wpn_steyr_aug">
+		<text>Steyr AUG</text>
+	</string>
+	<string id="st_wpn_steyr_aug_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 36\n%c[255,238,153,26]• %c[default]Rate of fire = 660 r/m\n%c[255,238,153,26]• %c[default]Effective range = 500 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 960 m/s\n%c[default]Steyr AUG assault rifle 5,56x45mm caliber was established by order of the Austrian army in 1977. Very soon it won a half of the world, adopted by armies of different countries all over the world.</text>
+	</string>
+	<string id="st_wpn_m16a">
+		<text>Colt M16A2</text>
+	</string>
+        <string id="st_wpn_m16a_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 58, with silencer = 56\n%c[255,238,153,26]• %c[default]Rate of fire = 450 r/m\n%c[255,238,153,26]• %c[default]Effective range = 250 meters, with silencer 200\n%c[255,238,153,26]• %c[default]Muzzle velocity = 1000 m/s, with silencer 600\n%c[default]Modification of the M16A1 rifle. It has a heavier barrel; cutoff for three rounds firing mode, instead of fully automatic fire; and a bigger magazine for 30 rounds.</text>    
+        </string>
+	<string id="st_wpn_fal">
+		<text>DSA-580sw</text>
+	</string>
+	<string id="st_wpn_fal_descr">
+		<text>%c[default]Characteristics:\n%c[255,238,153,26]• %c[default]Damage = 70\n%c[255,238,153,26]• %c[default]Rate of fire = 750 r/m\n%c[255,238,153,26]• %c[default]Effective range = 300 meters\n%c[255,238,153,26]• %c[default]Muzzle velocity = 700 m/s\n%c[default]A rare sight in the zone. This is a shortened version of the FN FAL, Produced in the U.S. by DS Arms exclusively for police forces.</text>
+	</string>
+	<string id="st_wpn_destroyer">
+	    <text>Mossberg 'Destroyer'</text>
+	</string>
+	<string id="st_wpn_destroyer_descr">
+	    <text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 94\n%c[255,238,153,26]* %c[default]Rate of fire = 125 rpm\n%c[255,238,153,26]* %c[default]Effective range = 90 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 358 m/s\n%c[default]This weapon has become a popular alternative to the Mossberg shotgun it is based off thanks to features such as it's high speed reloading capability and increased damage levels. It is an effective weapon for mutant disposal and all parts have a corrosion resistant coating. It is capable of firing the 9mm M72 DD 'DumDum' ammunition.</text>
+	</string>
+	<string id="st_wpn_aek919k">
+	    <text>AEK-919k 'Kashtan'</text>
+	</string>
+	<string id="st_wpn_aek919k_descr">
+	    <text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 32\n%c[255,238,153,26]* %c[default]Rate of fire = 1000 rpm\n%c[255,238,153,26]* %c[default]Effective range = 150 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 325m/s\n%c[default]The 'Kashtan' is a popular lightweight machine pistol which was originally intended to be used to arm the crews of combat vehicles and aircraft as well as Interior ministry and Army forces.</text>
+	</string>
+	<string id="st_wpn_1887">
+	    <text>Winchester model 1887</text>
+	</string>
+	<string id="st_wpn_1887_descr">
+	    <text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 96\n%c[255,238,153,26]* %c[default]Rate of fire = 50 rpm\n%c[255,238,153,26]* %c[default]Effective range = 100 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 245 m/s\n%c[default]This Winchester shotgun first appeared during the 1880's. This was the first truly successful multiply gun. John Browning claimed this mechanism was more suitable for a multi-charge gun but he insisted on maintaining the Winchester 'Lever' However later a Winchester pump shotgun was introduced following the introduction of smokeless powder.</text>
+	</string>
+	<string id="st_wpn_aek971">
+	    <text>AEK 971</text>
+	</string>
+	<string id="st_wpn_aek971_descr">
+	    <text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 72\n%c[255,238,153,26]* %c[default]Rate of fire = 850 rpm\n%c[255,238,153,26]* %c[default]Effective range = 500 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 880 m/s\n%c[default]The AEK assualt rifle was intended as the replacement for the ageing AK74, Unfortunately it lost out to the AN-94 Abakan during trials and never gained the popularity it deserved, It is a good hard wearing weapon well suited for life in the zone.</text>
+	</string>
+	<string id="st_wpn_usas12">
+	    <text>USAS 12</text>
+	</string>
+	<string id="st_wpn_usas12_descr">
+	    <text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 80\n%c[255,238,153,26]* %c[default]Rate of fire = 260 rpm\n%c[255,238,153,26]* %c[default]Effective range = 100 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 330 m/s\n%c[default]This weapon was created in the U.S. in the 1980's by designer John Trevor, The basic idea for this type of automatic shotgun was first implemented in experimental rifle series AA-12. The USAS uses automation based on a gas engine with the gas chamber located above the barrel, It can be adjusted to eject spent cartridges from either side making it suitable for both left and right handed users.</text>
+	</string>
+	<string id="st_wpn_oc33">
+	    <text>OC-33 'Pernach'</text>
+	</string>
+	<string id="st_wpn_oc33_descr">
+	    <text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 47\n%c[255,238,153,26]* %c[default]Rate of fire = 760 rpm\n%c[255,238,153,26]* %c[default]Effective range = 180 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 210 m/s\n%c[default]The compact OC-33 was developed in the mid 1990's under the direction of J.Stechkin as a replacement for the APS. Small numbers of these are in the service of various units within the Interior ministry. Compared to the APS the OC-33 has a much simple mechanism and slower rate of fire but is more convenient to use. It can be equipped with an 11.43x23 silencer.</text>
+    </string>
+	<string id="st_wpn_oicw">
+	    <text>XM29 OICW</text>
+	</string>
+	<string id="st_wpn_oicw_descr">
+	    <text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 72\n%c[255,238,153,26]* %c[default]Rate of fire = 850 rpm\n%c[255,238,153,26]* %c[default]Effective range = 500 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 900 m/s\n%c[default]OICW - Objective Individual Combat Weapon. Created using the latest available tech. This futuristicly styled weapon shows where design trends are leading and was designed as an attempt to improve efficiency for the mobile infantryman. Due to the high cost of the original ammo used it has now been redesigned using the 5.56 caliber and also housing a grenade launcher.</text>
+	</string>
+	<string id="st_wpn_ump45">
+	    <text>UMP-45</text>
+	</string>
+	<string id="st_wpn_ump45_descr">
+	    <text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 48\n%c[255,238,153,26]* %c[default]Rate of fire = 650 rpm\n%c[255,238,153,26]* %c[default]Effective range = 170 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 515 m/s\n%c[default]The UMP sub-machine gun was designed as an in-expensive alternative to the MP-5 and was introduced in 1996. The reciever, trigger and pistol grip are made of polymer and replacing the bolt, barrel and magazine makes a caliber change possible. It is widely used by foreign mercenaries.</text>
+	</string>
+	<string id="st_wpn_mgl">
+	    <text>MGL-140</text>
+	</string>
+	<string id="st_wpn_mgl_descr">
+	    <text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 160\n%c[255,238,153,26]* %c[default]Rate of fire = 115 rpm\n%c[255,238,153,26]* %c[default]Effective range = 350 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 50 m/s\n%c[default]The MGL-140 is a multi-charged launcher designed in South Africa around 1980. The two most recent modifications were in 2004 and are the Milkor MGL mk1s and the Milkor MGL mk1l (also reffered to as the MGL 140) These modifications are distinguished by the Picatinny rail on the barrel for adding scopes and other accessories. Currently they are in service with armies and security services in over 30 countries.</text>
+    </string>
+    <string id="st_wpn_ks23">
+        <text>Carbine special 23mm</text>
+    </string>
+    <string id="st_wpn_ks23_descr">
+        <text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 95\n%c[255,238,153,26]* %c[default]Rate of fire = 90 rpm\n%c[255,238,153,26]* %c[default]Effective range = 100 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 233 m/s\n%c[default]A multi-function police weapon for crowd control. In service with the Police and Interior troops.</text>
+    </string>
+    <string id="st_wpn_saiga">
+        <text>Saiga </text>
+    </string>
+    <string id="st_wpn_saiga_descr">
+        <text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 35\n%c[255,238,153,26]* %c[default]Rate of fire = 80 rpm\n%c[255,238,153,26]* %c[default]Effective range = 100 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 400 m/s\n%c[default]The smoothbore Saiga 12K shotgun with folding stock and shortened barrel inherited the common layout of the Kalashnikov	assualt rifle with a venting mechanism and a rotating bolt. Naturally the bolt and reciever have been redesigned based on the use of game cartridges. The venting mechanism and gas regulator ensure the reliable firing of conventional ammunition and 'magnum' cartridges. This model has a plastic forearm, pistol grip and a plastic folding butt. The stock is a special box magazine of various capacities.</text>
+	</string>
+	<string id="st_wpn_tt33">
+	    <text>TT-33</text>
+	</string>
+	<string id="st_wpn_tt33_descr">
+	    <text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 48\n%c[255,238,153,26]* %c[default]Rate of fire = 200 rpm\n%c[255,238,153,26]* %c[default]Effective range = 100 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 420 m/s\n%c[default]The TT pistol was developed as a result of ongoing testing that has been carried out since the 1920's. Originally meant to replace the  outdated Nagent revolver model 1895. In 1946 it was modified and updated before being replaced in service by the 9mm Makarov in 1952. A pistol with a proven track record which has made it popular with mercenaries and bandits alike. When using Hydro-shock armour-piercing ammunition this can successfully injure opponents in 3rd class body armour protection up to a distance of 100 meters</text>
+	</string>
+	<string id="st_wpn_mp7">
+	    <text>MP-7</text>
+	</string>
+	<string id="st_wpn_mp7_descr">
+	    <text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 44\n%c[255,238,153,26]* %c[default]Rate of fire = 620 rpm\n%c[255,238,153,26]* %c[default]Effective range = 150 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 270 m/s\n%c[default]The Mp-7 is a compact weapon categorised as a sub-machine gun.</text>
+	</string>
+    <string id="st_wpn_marauder">
+        <text>Marauder</text>
+    </string>
+    <string id="st_wpn_marauder_descr">
+        <text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 104\n%c[255,238,153,26]* %c[default]Rate of fire = 140 rpm\n%c[255,238,153,26]* %c[default]Effective range = 125 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 400 m/s\n%c[default]The Marauder shotgun sit's at the top of it's class, surpassed by none and capable of dishing out copious amounts of damage.</text>
+    </string>
+	<string id="st_wpn_m249">
+	    <text>M-249</text>
+	</string>
+	<string id="st_wpn_m249_descr">
+	    <text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 91\n%c[255,238,153,26]* %c[default]Rate of fire = 950 rpm\n%c[255,238,153,26]* %c[default]Effective range = 140 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 600 m/s\n%c[default]This machine gun was designed by Belgian FN Herstel in the late 1970's - 80's. it is in service in many countries such as Belgium and the U.S. ( under the designation M249 saw). Minimi - easy (manual) machine-gun is based on the vapor-automatic with rotating bolt.</text>
+	</string>
+	<string id="st_wpn_g36_tactical">
+	    <text>H+K G36c 'Tactical'</text>
+	</string>
+	<string id="st_wpn_g36_tactical_descr">
+	    <text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 57\n%c[255,238,153,26]* %c[default]Rate of fire = 700 rpm\n%c[255,238,153,26]* %c[default]Effective range = 300 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 650 m/s\n%c[default]Tactical assault gun, The weapon of the Spetsnaz is only available by special order, Modified trigger, shortened barrel of high-strength steel and carefully fitted parts have improved damage and bullet penetrating ability by 10% while the fire rate was reduced. Sometimes you may find a master stalker with such a weapon.</text>
+    </string>
+	<string id="st_wpn_rpk74">
+	<text>CRC 74 'Tornado'</text>
+	</string>
+	<string id="st_wpn_rpk74_descr">
+	<text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 90 \n%c[255,238,153,26]* %c[default]Rate of fire = 700 rpm\n%c[255,238,153,26]* %c[default]Effective range = 150 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 600 m/s\n%c[default]Unusual modification of the army machine-gun with a belt feed, despite it's high accuracy and it being found to be unsatisfactory in battle it has still found a place in the zone. It is mainly used to supress enemies that are superior in numbers and for clearing area's with high mutant head counts.</text>
+	</string>
+	<string id="st_wpn_gs67">
+	<text>Gauss rifle mk2 'Hawkeye'</text>
+	</string>
+	<string id="st_wpn_gs67_descr">
+	<text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 310 \n%c[255,238,153,26]* %c[default]Rate of fire = 140 rpm\n%c[255,238,153,26]* %c[default]Effective range = 2000 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 15000 m/s\n%c[default]Ultra-precise high tech weapon that stems from the original item 62 project. Designed by scientists in secret laboratories in the zone. It is based on the principle of displacement by electro magnetic propulsion, with which a bullet is able to reach incredible speeds providing enormous penetrating power with almost zero recoil. To ensure adequate power is supplied to the weapon it's batteries are powered by using anomalous artefact energy, This tech has only been made possible thanks to the zone.</text>
+	</string>
+	<string id="st_wpn_m1000">
+	<text>M-1000 mik</text>
+	</string>
+	<string id="st_wpn_m1000_descr">
+	<text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 115 \n%c[255,238,153,26]* %c[default]Rate of fire = 55 rpm\n%c[255,238,153,26]* %c[default]Effective range = 1800 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 1200 m/s\n%c[default]Sniper rifle using the 7.62h51 cartridge, An excellent alternative to the SVD that has proven popular among experienced stalkers.</text>
+	</string>
+	<string id="st_wpn_svd_dark">
+	<text>SVD 'Twilight' Edition</text>
+	</string>
+	<string id="st_wpn_svd_dark_descr">
+	<text>%c[default]Characteristics:\n%c[255,238,153,26]* %c[default]Damage = 120 \n%c[255,238,153,26]* %c[default]Rate of fire = 70 rpm\n%c[255,238,153,26]* %c[default]Effective range = 1500 meters\n%c[255,238,153,26]* %c[default]Muzzle velocity = 1300 m/s\n%c[default]This type of sniper weapon has been on the market for over half a century and during that time has made itself a name for being an exceptionally reliable easy to handle weapon. It serves mainly to hit distant targets that a machine-gun cannot. However stalkers appreciation of it stems from its ability to pierce even the thickest mutants hide or body armour. It supports the use of the 9mm M72-DD 'DumDum'.</text>
+	</string>	

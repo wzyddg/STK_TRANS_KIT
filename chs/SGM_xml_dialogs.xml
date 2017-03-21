@@ -635,7 +635,7 @@
 		<text>任何事都行.</text>
 	</string>
         <string id="zat_stalker_avenger_dialog_1">
-		<text>你好,潜行者,你能帮我做个事吗?当然不是开玩笑,我会给你报仇.</text>
+		<text>你好,潜行者,你能帮我做个事吗?当然不是开玩笑,我会给你报酬.</text>
 	</string>
         <string id="zat_stalker_avenger_dialog_2">
 		<text>不.</text>
@@ -644,7 +644,7 @@
 		<text>当然,我需要做什么?</text>
 	</string>
         <string id="zat_stalker_avenger_dialog_4">
-		<text>没什么难的,只是把这个重要的包裹送给纪律团的Kanevsky,我会给你它的坐标,你说怎么样?</text>
+		<text>没什么难的,只是把这个重要的包裹送给纪律团的凯恩夫斯基,我会给你它的坐标,你说怎么样?</text>
 	</string>
         <string id="zat_stalker_avenger_dialog_5">
 		<text>不行,时间太紧了.</text>

@@ -361,28 +361,33 @@ public class MainTrans {
 		verbose("origin:"+oriSentence.size());
 		verbose("current:"+existingSentence.size());
 		
+		LinkedList<String> diffKeys = new LinkedList<>();
+		
 		for (String key : oriSentence.keySet()) {
 			if(existingSentence.containsKey(key)){
 				String oldSent = oriSentence.get(key);
 				String newSent = existingSentence.get(key);
-				if(newSent!=null&&oldSent.equals(newSent)){
-					existingSentence.remove(key);
+				if(newSent!=null&&!oldSent.equals(newSent)){
+					diffKeys.add(key);
 				}
 			}
 		}
-		verbose("different:"+existingSentence.size());
+		verbose("different:"+diffKeys.size());
 		String resString = "";
-		LinkedList<String> keys = new LinkedList<>();
-		for (String key : existingSentence.keySet()) {
-			keys.add(key);
-		}
-		Collections.sort(keys);
+		Collections.sort(diffKeys);
 		
-		for (int i=0;i<keys.size();i++) {
-			String key = keys.get(i);
+		for (int i=0;i<diffKeys.size();i++) {
+			String key = diffKeys.get(i);
 			resString = resString + "<string id=\""+key+"\">" + "\r\n" +"\t<text>"+existingSentence.get(key)+"</text>"+ "\r\n</string>\r\n";
 		}
-		writeToFile(resString, oriAddr+localDirSeparater+"differentSentences.txt", "utf-8");
+		writeToFile(resString, oriAddr+localDirSeparater+"differentSentences_new.txt", "utf-8");
+		
+		resString = "";
+		for (int i=0;i<diffKeys.size();i++) {
+			String key = diffKeys.get(i);
+			resString = resString + "<string id=\""+key+"\">" + "\r\n" +"\t<text>"+oriSentence.get(key)+"</text>"+ "\r\n</string>\r\n";
+		}
+		writeToFile(resString, oriAddr+localDirSeparater+"differentSentences_old.txt", "utf-8");
 	}
 	
 	public static void generateLackSentenceFile(String oriAddr) throws ClassNotFoundException, IOException, InterruptedException {

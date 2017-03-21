@@ -1,231 +1,127 @@
 <string id="Duty">
-	<text>Группировка "Долг"</text>
+	<text>"纪律团"</text>
 </string>
 <string id="Freedom">
-	<text>Группировка "Свобода"</text>
+	<text>"自由团"</text>
 </string>
 <string id="bar_bar_guard_name">
-	<text>Гарик</text>
+	<text>加里克</text>
 </string>
 <string id="bar_beast_name">
-	<text>Зверь</text>
+	<text>野兽</text>
 </string>
 <string id="bar_ivancov_name">
-	<text>Капитан Иванцов</text>
+	<text>伊万科夫队长</text>
 </string>
 <string id="bar_kicenko_name">
-	<text>Сержант Киценко</text>
+	<text>基辛格警长</text>
 </string>
 <string id="bar_lisiy_name">
-	<text>Лысый</text>
+	<text>秃子</text>
 </string>
 <string id="cit_bandits_leader_name">
-	<text>Борзый</text>
+	<text>飞毛腿</text>
 </string>
 <string id="cit_killers_leader_name">
-	<text>Душман</text>
+	<text>圣战者</text>
 </string>
 <string id="dar_kalugin_name">
-	<text>Калугин П.И.</text>
+	<text>卡卢金 P.I.</text>
 </string>
 <string id="enc_weapons1_wpn-bizon">
-	<text>Submachine gun PP-19 'bison' was developed for the armament MVD on the basis of wide standardisation with the automatic machine AK-74. On 'the bison' is established the original auger magazine of high capacity down 64 cartridges. Magazine is located sufficiently conveniently, and in parallel is performed the role of shank. \n the ammunition: \n osnovnoy of 9x18 millimeters, \n uluchshenny 9x18mm of P.</text>
+	<text>PP-19'野牛'冲锋枪是在宽标准化自动步枪AK-74的基础上为MVD军械开发的。“野牛”装备了高容量64发的弹筒。弹筒位置十分便利，并且发挥了握柄的作用。\n弹药：\n9x18mm\n9x18mm P</text>
 </string>
 <string id="enc_weapons1_wpn-g37">
-	<text>Ammunition - \n • 5.56x45mm SS109 - basic \n • 5.56x45mm AR - armour-piercing \n Heckler and Koch type g36 - assault rifle of German production, which is the sufficiently good model of up-to-date weapon - lung and ergonomic. This model lay long time before the anomaly 'Jelly' and gained unique properties - seriously was increased destructive power and firing distance. In addition to this, the model is equipped for the sake of the integrated NATO rifle grenade launcher under the shot M-203.</text>
+	<text>弹药 - \n • 5.56x45mm SS109 \n • 5.56x45mm 穿甲弹 \n 黑克勒和科赫型G36 - 德国生产的突击步枪，这是最新武器的优秀范例 - 人体工程学。这种把枪在“果冻”异常点泡了很久，并获得了独特的性能 - 极大的增加了破坏力和射程。除了这一点，还配备了M-203下的集成北约枪榴弹发射器。</text>
 </string>
 <string id="gar_dolg_blokpost_leader_name">
-	<text>Прапор</text>
+	<text>布拉伯</text>
 </string>
 <string id="maroder">
-	<text>Мародёр</text>
+	<text>掠夺者</text>
 </string>
 <string id="maroderka">
-	<text>Мародёр</text>
+	<text>掠夺者</text>
 </string>
 <string id="mil_Svoboda_engineer_name">
-	<text>Шуруп</text>
+	<text>螺丝钉</text>
 </string>
 <string id="mil_Svoboda_leader_name">
-	<text>Лукаш</text>
+	<text>卢卡斯</text>
 </string>
 <string id="mil_Svoboda_stukach_name">
-	<text>Павлик</text>
+	<text>帕夫利克</text>
 </string>
 <string id="mil_klyak_start_dialog_10">
-	<text>Ладно, схожу, может найду что-нибудь интересное.</text>
+	<text>好吧，我这就去，可能会发现一些有趣的事情。</text>
 </string>
 <string id="mil_klyak_start_dialog_6">
-	<text>Ну, и что же нам делать?</text>
+	<text>好了，我们现在怎么办？</text>
 </string>
 <string id="mil_klyak_start_dialog_7">
-	<text>Мы до сих пор не знаем, кто за всем этим стоит. Но мы узнали, что есть группа людей, которая производила страшные опыты над людьми, что есть некая установка в Х-16, кстати, по-моему она не одна, наверняка есть еще. Вот что, надо наведаться в лабораторию Х-18.</text>
+	<text>我们仍然不知道是谁在背后搞鬼。但是，我们已经了解到，有这样一群人，在X-16实验室对人类进行可怕的实验。顺便说一句，我觉得她不是一个人，肯定的。你看，有必要去X-18实验室探索一番。</text>
 </string>
 <string id="mil_klyak_start_dialog_8">
-	<text>Зачем? Там же вояки уже были, вряд ли они что-то нам оставили.</text>
+	<text>为什么呢？有勇士去了，真是不可理喻，我们要走了。</text>
 </string>
 <string id="mil_klyak_start_dialog_9">
-	<text>В ноутбуке есть относительно свежие записи. Есть, даже месячной давности, понимаешь, о чём я? Значит, кто-то там был совсем недавно.</text>
+	<text>这个笔记本有一条相对较新的条目。甚至不到一个月，你知道我的意思吗？有人最近来过。</text>
 </string>
 
 <string id="modes">
-	<text>Modes</text>
+	<text>模式</text>
 </string>
-<string id="mp_artefact_dropped">
-	<text>The artifact was lost.</text>
-</string>
-<string id="mp_artefact_on_base">
-	<text>The artifact is at our base.</text>
-</string>
-<string id="mp_artefact_on_enemy_base">
-	<text>The artifact is at the enemy base.</text>
-</string>
-<string id="mp_captured_artefact">
-	<text>Captured the artifact</text>
-</string>
-<string id="mp_change_weather_header">
-	<text>Change weather to</text>
-</string>
-<string id="mp_firestation">
-	<text>Fire station</text>
-</string>
-<string id="mp_gamemode">
-	<text>Mode</text>
-</string>
-<string id="mp_garbage">
-	<text>Garbage</text>
-</string>
-<string id="mp_gp_unique_nick_too_short">
-	<text>Nickname is too short.</text>
-</string>
-<string id="mp_gp_unknown_error_4">
-	<text>Uknown profile error (code: 4)</text>
-</string>
-<string id="mp_gp_unknown_error_512">
-	<text>Profile creation error.</text>
-</string>
-<string id="mp_has_dropped_artefact">
-	<text>Dropped the artifact</text>
-</string>
-<string id="mp_limansk">
-	<text>Limansk</text>
-</string>
-<string id="mp_loading_awards">
-	<text>Loading your awards...</text>
-</string>
-<string id="mp_loading_best_scores">
-	<text>Loading your records...</text>
-</string>
-<string id="mp_military_2">
-	<text>Old village</text>
-</string>
-<string id="mp_rembasa">
-	<text>Repair base</text>
-</string>
-<string id="mp_returned_artefact">
-	<text>Returned the artifact</text>
-</string>
-<string id="mp_si_battleye">
-	<text>BattlEye</text>
-</string>
-<string id="mp_si_max_ping">
-	<text>Max Ping</text>
-</string>
-<string id="mp_sport_center">
-	<text>Sports center</text>
-</string>
-<string id="mp_training_camp">
-	<text>Training camp</text>
-</string>
-<string id="mp_vote_hint">
-	<text>Vote YES ($$ACTION_VOTE_YES$$)\n Vote NO ($$ACTION_VOTE_NO$$)\n Results ($$ACTION_VOTE$$)</text>
-</string>
-<string id="mp_you_captured_artefact">
-	<text>You captured the enemy artifact, now take it to base!</text>
-</string>
-<string id="mp_you_captured_own_artefact">
-	<text>You got the artifact. Activate it to return it to your base!</text>
-</string>
-<string id="mpd_any_player">
-	<text>Any</text>
-</string>
-<string id="mpd_play">
-	<text>Play</text>
-</string>
-<string id="mpd_restart">
-	<text>Restart</text>
-</string>
-<string id="mpd_rewind">
-	<text>Rewind</text>
-</string>
-<string id="mpd_rewind_until_artdeliver">
-	<text>Until artifact delivery</text>
-</string>
-<string id="mpd_rewind_until_artdrop">
-	<text>Until artifact loss</text>
-</string>
-<string id="mpd_rewind_until_arttake">
-	<text>Until artifact capture</text>
-</string>
-<string id="mpd_rewind_until_die">
-	<text>Until death</text>
-</string>
-<string id="mpd_rewind_until_kill">
-	<text>Until kill</text>
-</string>
-<string id="mpd_rewind_until_start">
-	<text>Until start</text>
-</string>
+
 <string id="osvedom_trade_semeckii_est_4">
-	<text>Ну, что там с моим делом?</text>
+	<text>好吧，还有什么需要我的呢？</text>
 </string>
 <string id="osvedom_trade_semeckii_est_5">
-	<text>Повозиться пришлось конечно. Данных, что ты предоставил, маловато, но всё же...</text>
+	<text>我们得搭个车。您提供的信息很少, 但仍然...</text>
 </string>
 <string id="osvedom_trade_semeckii_est_6">
-	<text>Что всё же? Не темни.</text>
+	<text>什么？别藏着掖着。</text>
 </string>
 <string id="osvedom_trade_semeckii_est_7">
-	<text>О, как побагровел то аж! Да не бойся, всё нормально, давай свой ПДА, скину координаты тайника.</text>
+	<text>噢, 怎么了!别急, 没关系,给我你的PDA，拿着这个藏匿点的坐标。</text>
 </string>
 <string id="pri_monolith_leader_name">
-	<text>Харон</text>
+	<text>冥卫一</text>
 </string>
 <string id="rad_ecolog_guard_name">
-	<text>Ассистент</text>
+	<text>助理</text>
 </string>
 <string id="rad_ecolog_name">
-	<text>Ассистент</text>
+	<text>助理</text>
 </string>
 <string id="sar2_arena_manager_name">
-	<text>Арни</text>
+	<text>阿尼</text>
 </string>
 <string id="sar2_arena_savage_name">
-	<text>Зверь</text>
+	<text>野兽</text>
 </string>
 <string id="sar2_bandit_leader_name">
-	<text>Вася "Кабан"</text>
+	<text>瓦斯亚 "野猪"</text>
 </string>
 <string id="sar2_borov_name">
-	<text>Боров</text>
+	<text>猪</text>
 </string>
 <string id="sar2_dolg_blokpost_leader_name">
-	<text>Прапор</text>
+	<text>布拉伯</text>
 </string>
 <string id="sar2_dram_novice_name">
-	<text>Юрик</text>
+	<text>尤里克</text>
 </string>
 <string id="sar2_fox_name">
-	<text>"Лис"</text>
+	<text>"狐狸"</text>
 </string>
 <string id="sar2_haron_name">
-	<text>Харон</text>
+	<text>冥卫一</text>
 </string>
 <string id="sar2_hellcar_name">
-	<text>"Бес"</text>
+	<text>"魔鬼"</text>
 </string>
 <string id="sar2_informator_name">
-	<text>Ара</text>
+	<text>鹦鹉</text>
 </string>
 <string id="sar2_ivancov_name">
 	<text>Капитан Иванцов</text>

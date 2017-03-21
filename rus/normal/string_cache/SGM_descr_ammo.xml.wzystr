@@ -1,0 +1,144 @@
+	<string id="ammo-9x18-hpm">
+<text>9x18 mm HPM rounds</text>
+</string>
+<string id="ammo-9x18-hpm_s">
+<text>9x18 HPM</text>
+</string>
+<string id="ammo-9x18-hpm_descr">
+<text>Modernized round with improved armor-piercing characteristics due to higher muzzle velocity and use of special alloys. It is produced by state order for special forces.</text>
+</string>
+<string id="ammo-9x19-spp">
+<text>9x19 mm SPP rounds</text>
+</string>
+<string id="ammo-9x19-spp_s">
+<text>9x19 SPP</text>
+</string>
+<string id="ammo-9x19-spp_descr">
+<text>Superhighspeed 9x19 caliber round. Improved expansive bullet, and armor-piercing core.</text>
+</string>
+<string id="ammo-5.45x39-hm">
+<text>5.45x39 mm TP rounds</text>
+</string>
+<string id="ammo-5.45x39-hm_s">
+<text>5.45x39 mm TP</text>
+</string>
+<string id="ammo-5.45x39-hm_descr">
+<text>Technological round for automatic rifles of Warsaw Pact countries. Due to the use of special alloy during forging of bullet the ballistic characteristics have been improved, which affects the flatness and the penetration of the metal-containing materials.</text>
+</string>
+<string id="ammo-5.45x39-hr">
+<text>5.45x39 mm TR rounds</text>
+</string>
+<string id="ammo-5.45x39-hr_s">
+<text>TS-5.45x39 mm TR</text>
+</string>
+<string id="ammo-5.45x39-hr_descr">
+<text>Specialized round for automatic rifles of Warsaw Pact countries. Due to the use of cermet in the bullets manufacturing, the ballistic characteristics have been significantly improved, which affects the flatness and the penetration of the metal-containing materials. It is produced by state order for submachine guns of AK and AN-94 series for the special forces.</text>
+</string>
+<string id="ammo-5.56x45-gd">
+<text>5.56x45 mm LS rounds</text>
+</string>
+<string id="ammo-5.56x45-gd_s">
+<text>5.56x45 mm LS</text>
+</string>
+<string id="ammo-5.56x45-gd_descr">
+<text>Specialized expansive round. The bullet has a cermet core, has high accuracy and a piercing potential. This ammo is not widespread due to the complexity of manufacturing and the high cost of production.</text>
+</string>
+<string id="ammo-12x76-quadro">
+<text>12x76 quadro rounds</text>
+</string>
+<string id="ammo-12x76-quadro_s">
+<text>12x76 quadro</text>
+</string>
+<string id="ammo-12x76-quadro_descr">
+<text>Superhighspeed bullet. Increased speed of the bullet flight, which had a positive impact on accuracy.</text>
+</string>
+<string id="ammo-7.62x54-sv">
+<text>7.62x54 mm SV rounds</text>
+</string>
+<string id="ammo-7.62x54-sv_s">
+<text>7.62x54 SV</text>
+</string>
+<string id="ammo-7.62x54-sv_descr">
+<text>Specially designed 7,62 mm caliber sniper round. The bullet has a cermet core. In comparison with a standard round of the same caliber has improved ballistic characteristics and higher piercing ability. This ammo is not widespread due to the complexity of manufacturing and the high cost of production.</text>
+</string>
+<string id="ammo-9x39-sp5">
+<text>9x39 mm SP-5 rounds</text>
+</string>
+<string id="ammo-9x39-sp5_s">
+<text>9x39 mm SP-5</text>
+</string>
+<string id="ammo-9x39-sp5_descr">
+<text>A sniper round. Has a subsonic speed, but due to a special design heavy bullet, penetrates most bulletproof vests at ranges of up to 400 meters.</text>
+</string>
+<string id="ammo-12x76-dart">
+<text>12x76 dart rounds</text>
+</string>
+<string id="ammo-12x76-dart_s">
+<text>12x76 dart</text>
+</string>
+<string id="ammo-12x76-dart_descr">
+<text>Bullet-dart. Feathering stabilizes the bullet, which increases the accuracy of the firing. Massive steel body of the bullet can pierce any bulletproof vest.</text>
+</string>
+<string id="ammo_box_10_vog">
+<text>VOG-25 grenade box</text>
+</string>
+<string id="ammo_box_10_vog_descr">
+<text>Contents:\n%c[255,238,153,26]• %c[default]VOG-25 grenades\nWooden box with 10 VOG-25 grenades for an underbarrel grenade launcher.</text>
+</string>
+<string id="ammo_box_10_m209">
+<text>M203 grenade box</text>
+</string>
+<string id="ammo_box_10_m209_descr">
+<text>Contents:\n%c[255,238,153,26]• %c[default]M203 grenades\nWooden box with 10 M203 grenades for an underbarrel grenade launcher.</text>
+</string>
+<string id="ammo_7.62x51_fmj">
+<text>7.62x51 mm rounds</text>
+</string>
+<string id="ammo_7.62x51_fmj_s">
+<text>7.62 mm FMJ NATO</text>
+</string>
+<string id="ammo_7.62x51_fmj_descr">
+<text>NATO standard 7.62x51 mm caliber rifle round. Ordinary all-metal bullet.</text> 
+</string>
+<string id="ammo_7.62x51_ap">
+<text>7.62x51 mm AP rounds</text>
+</string>
+<string id="ammo_7.62x51_ap_s">
+<text>7.62 mm AP NATO</text>
+</string>
+<string id="ammo_7.62x51_ap_descr">
+<text>NATO standard 7.62x51 mm caliber rifle round. A bullet with steel core, that improves armor-piercing characteristics.</text>
+</string>
+<string id="ammo-pg-2v">
+<text>PG-2V</text>
+</string>
+<string id="ammo-pg-2v_descr">
+<text>PG-2V rocket propelled grenade for the RPG-7 grenade launcher.</text>
+</string>
+<string id="ammo_7.62x25_fmj_name">
+<text>7.62x25 mm</text>
+</string>
+<string id="ammo_7.62x25_fmj_descr">
+<text>Standard pistol round for the TT-33 pistol and the PPSh-41 submachine gun. Has an ordinary core, and a jacketed bullet.</text>
+</string>
+<string id="ammo_12.7x99_fmj_name">
+<text>.50 BMG rounds</text>
+</string>
+<string id="ammo_12.7x99_fmj_descr">
+<text>The 12.7x99 mm round (12,7 x99 mm NATO, .50 BMG) was produced in the 1920s as ammunition for the Browning M2 heavy machine gun. It is now also used for rifles, such as Barrett M82.</text>
+</string>
+<string id="ammo_flw">
+<text>The container with flammable liquid</text>
+</string>
+<string id="ammo_flw_descr">
+<text>The container with flammable liquid for hand flamethrower.</text>
+</string>
+<string id="ammo-dumdum">
+<text>9 mm M72-DD "DumDum" charges</text>
+</string>
+<string id="ammo-dumdum_s">
+<text>9 mm M72-DD</text>
+</string>
+<string id="ammo-dumdum_descr">
+<text>Cassette with 9 mm bursting charges. Originally intended for 9x39 caliber weapons, but the local craftsmen have adapted them for their shotguns as well.\n Source of explosive energy is encapsulated fragment of the "Carousel" artifact. Mercenaries found this out somehow, and forced a local craftsman to make a batch of charges for 7.62x51 mm caliber Swedish Arctic Warfare L96A1 rifles.</text>
+</string>
