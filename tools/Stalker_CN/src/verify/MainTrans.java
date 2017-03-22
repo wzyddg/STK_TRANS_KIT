@@ -250,7 +250,7 @@ public class MainTrans {
 				if (oriXMLs[i].isFile()&&oriXMLs[i].getName().toLowerCase().endsWith(".xml")){
 					filesString = filesString+oriXMLs[i].getName().substring(0, oriXMLs[i].getName().length()-4);
 					if (i<oriXMLs.length-1) {
-						filesString = filesString+",";
+						filesString = filesString+", ";
 					}
 				}
 			}

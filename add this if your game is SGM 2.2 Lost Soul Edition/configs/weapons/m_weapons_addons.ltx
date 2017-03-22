@@ -1,0 +1,104 @@
+; Список секций предметов\аддонов, использование которых отслеживает скрипт.
+[mod_addons_list]
+1p29			             	= scope
+acog			             	= scope
+kobra			             	= scope
+pso			             	= scope
+eotech			             	= scope
+;=========================Родительская секция, не юзать============================      
+[addon]:booster
+$spawn 				= "mod\usable_item"
+visual				= dynamics\devices\dev_antirad\dev_antirad.ogf
+inv_name				= st_antirad
+inv_name_short		   	= st_antirad
+description			= st_antirad_descr
+inv_weight				= 0.0
+inv_grid_width			= 1
+inv_grid_height			= 1
+inv_grid_x				= 18
+inv_grid_y				= 12
+cost				= 0
+use_sound				= interface\inv_attach_addon
+;===================================================================================
+[addons_box]:addon
+$spawn 				= "mod\addons_box"
+visual				= dynamics\devices\dev_kolbasa\dev_kolbasa.ogf
+cost                			= 0
+inv_name        			= st_addon_remove_scope_wzy
+inv_name_short  			= st_addon_remove_scope_wzy
+description     			= st_addon_remove_scope_wzy_descr
+inv_weight        			= 0.0
+can_trade				= true
+quest_item     			= true
+inv_grid_width     			= 1
+inv_grid_height    			= 1
+inv_grid_x         			= 18
+inv_grid_y         			= 5
+use_sound				= interface\inv_detach_addon
+;===================================================================================
+[1p29]:addon
+$spawn 				= "mod\1p29"
+visual          			= dynamics\weapons\wpn_upgrade\wpn_scope_1p29.ogf
+cost				= 8000
+inv_name				= st_addon_scope_1p29
+inv_name_short			= st_addon_scope_1p29
+description				= st_addon_scope_1p29_descr
+inv_weight				= 0.8
+inv_grid_width     			= 1
+inv_grid_height    			= 1
+inv_grid_x         			= 7
+inv_grid_y         			= 30
+scope_texture			= wpn_crosshair_1p29
+scope_zoom_factor			= 18		;ПСО-1 2X	
+;===================================================================================
+[acog]:addon
+$spawn 				= "mod\acog"
+visual          			= dynamics\weapons\wpn_upgrade\wpn_scope_acog.ogf
+cost				= 3000
+inv_name				= st_addon_scope_acog
+inv_name_short			= st_addon_scope_acog
+description				= st_addon_scope_acog_descr
+inv_weight				= 0.350
+inv_grid_width     			= 1
+inv_grid_height    			= 1
+inv_grid_x         			= 8
+inv_grid_y         			= 30
+;===================================================================================
+[kobra]:addon
+$spawn 				= "mod\kobra"
+visual				= dynamics\weapons\wpn_upgrade\wpn_scope_kobra.ogf
+cost                			= 7000
+inv_name        			= st_addon_scope_kobra
+inv_name_short  			= st_addon_scope_kobra
+description    			= st_addon_scope_kobra_descr
+inv_weight        			= 0.4
+inv_grid_width     			= 1
+inv_grid_height    			= 1
+inv_grid_x         			= 9
+inv_grid_y         			= 30
+;===================================================================================
+[eotech]:addon
+$spawn 				= "mod\eotech"
+visual				= dynamics\weapons\wpn_upgrade\wpn_scope_eotech.ogf
+cost                			= 9000
+inv_name        			= st_addon_scope_eotech
+inv_name_short  			= st_addon_scope_eotech
+description    			= st_addon_scope_eotech_descr
+inv_weight        			= 0.3
+inv_grid_width     			= 1
+inv_grid_height    			= 1
+inv_grid_x         			= 9
+inv_grid_y         			= 29
+;===================================================================================
+[pso]:addon
+$spawn 				= "mod\pso"
+visual          			= dynamics\weapons\wpn_upgrade\wpn_scope.ogf
+cost				= 2000
+inv_name				= st_addon_scope
+inv_name_short			= st_addon_scope
+description				= st_addon_scope_descr
+inv_weight				= 0.580
+inv_grid_width     			= 2
+inv_grid_height    			= 1
+inv_grid_x         			= 18
+inv_grid_y         			= 2
