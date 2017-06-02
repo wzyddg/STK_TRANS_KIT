@@ -695,8 +695,8 @@ public class MainTrans {
 		}
 		System.out.println("");
 		
-		chsString = chsString.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"").replaceAll("‘", "'").replaceAll("’", "'").replaceAll("？", "?")
-				.replaceAll("（", Matcher.quoteReplacement("(")).replaceAll("）", Matcher.quoteReplacement(")")).replaceAll("“", "'").replaceAll("”", "'");
+		chsString = chsString.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"").replaceAll("‘", "'").replaceAll("’", "'").replaceAll("#include \"text\\\\[a-zA-Z]{3}", "#include \"text\\\\chs")
+				.replaceAll("（", Matcher.quoteReplacement("(")).replaceAll("）", Matcher.quoteReplacement(")")).replaceAll("“", "'").replaceAll("？", "?").replaceAll("”", "'");
 
 		writeToFile(chsString, rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
 		System.out.println("file \"" + rus.getName() + "\" done!");
