@@ -202,7 +202,7 @@ public class MainTrans {
 			File[] oriXMLs = oriDir.listFiles();
 			for (int i = 0; i < oriXMLs.length; i++) {
 				if (oriXMLs[i].isFile() && !finishedFiles.contains(oriXMLs[i].getName())) {
-					translateScriptFile(oriXMLs[i]);
+					translateScriptFileNew(oriXMLs[i]);
 				}
 			}
 			System.out.println("all done! the translated files are in "+oriAddress + localDirSeparater + "translated_" + transAPI);
@@ -534,6 +534,107 @@ public class MainTrans {
 			String thisSentence = m.group(1);
 			if (!existingSentence.containsKey(thisSentence)){
 				if (isSentence(thisSentence)) {
+					sentences.add(thisSentence);
+				}
+			}
+			i++;
+		}
+		
+		System.out.println("find " + i + " sentences,set get " + sentences.size());
+
+		ArrayList<String> sortedList = new ArrayList<>();
+		sortedList.addAll(sentences);
+		Collections.sort(sortedList, singelInstance.new ShorterLatterComparator());
+		
+		String string = "";
+		boolean failFlag = false;
+		f1: for (Iterator<String> iterator = sortedList.iterator(); iterator.hasNext() || !"".equals(string);) {
+			if (!failFlag) {
+				string = iterator.next();
+			}
+			failFlag = false;
+			try {
+				String oriLine = string;
+				String transtedLine = "";
+				
+				Pattern p1 = Pattern.compile("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\])");
+				Matcher m1 = p1.matcher(oriLine);
+				LinkedList<String> colorOrAction = new LinkedList<>();
+				while (m1.find()) {
+					colorOrAction.add(m1.group(0));
+				}
+				String[] pieces = string
+						.split("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\])");
+
+				verbose(string);
+				verbose(" get "+pieces.length+" pieces.");
+				try {
+					for (int j = 0; j < pieces.length; j++) {
+						transtedLine = transtedLine + transToTarget(pieces[j], targetLang);
+						if (!colorOrAction.isEmpty()) {
+							transtedLine = transtedLine + colorOrAction.get(0);
+							colorOrAction.remove(0);
+						}
+						System.err.print("(." + (j + 1) + ")");
+					}
+					transtedLine = clearString(transtedLine);
+					if(pieces.length==0){
+						transtedLine = string;
+						System.err.print("(.1)");
+					}
+				} catch (Exception e) {
+					failFlag = true;
+					System.out.println("");
+					System.err.println(e);
+					Thread.sleep(errorSleepMilliSecond);
+					continue f1;
+				}
+				
+				verbose(transtedLine);
+				chsString = chsString.replaceAll(Pattern.quote("\""+string+"\""), Matcher.quoteReplacement("\""+transtedLine+"\""));
+			} catch (Exception e) {
+				failFlag = true;
+				System.out.println("");
+				e.printStackTrace();
+				System.out.println(string);
+				Thread.sleep(errorSleepMilliSecond);
+				continue;
+			}
+			transNum++;
+			string = "";
+			System.out.print("" + transNum + ",");
+		}
+		System.out.println("");
+
+		chsString = chsString.replaceAll("？", "?");
+
+		// System.out.println(chsString);
+		if(sentences.size()!=0){
+			chsString = chsString.replaceAll("\\\\n","\\\\\\\\n");//add
+			writeToFile(chsString, rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
+		}
+
+		System.out.println("file \"" + rus.getName() + "\" done!");
+	}
+	
+	public static void translateScriptFileNew(File rus) throws Exception {
+		System.out.println("file \"" + rus.getName() + "\" started!");
+		int transNum = 0;
+
+		String rusString = readStringFromFile(rus.getParent() + localDirSeparater + rus.getName(), "windows-1251");
+
+		//minus
+		String chsString = rusString.replaceAll("\\\\\\\\n","\\\\n").replaceAll(Pattern.quote("\\\""), "'");
+
+		HashSet<String> sentences = new HashSet<>();
+		
+		Pattern p = Pattern.compile("\"([АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯя ,.?!-_QWERTYUIOPLKJHGFDSAZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789\\\\]*?)\"");
+		Matcher m = p.matcher(chsString);
+		int i = 0;
+		while (m.find()) {
+			String thisSentence = m.group(1);
+			if (!existingSentence.containsKey(thisSentence)){
+				if (isSentence(thisSentence) && thisSentence.matches("[\\s\\S]*?[АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯя]+[\\s\\S]*?")) {
 					sentences.add(thisSentence);
 				}
 			}
