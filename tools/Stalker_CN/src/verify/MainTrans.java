@@ -73,13 +73,6 @@ public class MainTrans {
 			targetLang = args[3];
 			oriAddress = args[4];
 			
-			if(args.length>5){
-				String[] exists = args[5].split(Pattern.quote("|"));
-				for (int i = 0; i < exists.length; i++) {
-					mapExistingFile(exists[i]);
-				}
-			}
-			
 			if(args.length>6){
 				int sleep = 0;
 				try {
@@ -92,6 +85,14 @@ public class MainTrans {
 			
 			if(args.length>7){
 				verbose = true;
+			}
+			
+			if(args.length>5){
+				String[] exists = args[5].split(Pattern.quote("|"));
+				for (int i = 0; i < exists.length; i++) {
+					System.err.println("start"+exists[i]);
+					mapExistingFile(exists[i]);
+				}
 			}
 			
 			ArrayList<String> finishedFiles = new ArrayList<String>();
@@ -121,13 +122,6 @@ public class MainTrans {
 			targetLang = args[3];
 			oriAddress = args[4];
 			
-			if(args.length>5){
-				String[] exists = args[5].split(Pattern.quote("|"));
-				for (int i = 0; i < exists.length; i++) {
-					mapExistingFile(exists[i]);
-				}
-			}
-			
 			if(args.length>6){
 				int sleep = 0;
 				try {
@@ -140,6 +134,13 @@ public class MainTrans {
 			
 			if(args.length>7){
 				verbose = true;
+			}
+			
+			if(args.length>5){
+				String[] exists = args[5].split(Pattern.quote("|"));
+				for (int i = 0; i < exists.length; i++) {
+					mapExistingFile(exists[i]);
+				}
 			}
 			
 			ArrayList<String> finishedFiles = new ArrayList<String>();
@@ -169,13 +170,6 @@ public class MainTrans {
 			targetLang = args[3];
 			oriAddress = args[4];
 			
-			if(args.length>5){
-				String[] exists = args[5].split(Pattern.quote("|"));
-				for (int i = 0; i < exists.length; i++) {
-					mapExistingFile(exists[i]);
-				}
-			}
-			
 			if(args.length>6){
 				int sleep = 0;
 				try {
@@ -188,6 +182,13 @@ public class MainTrans {
 			
 			if(args.length>7){
 				verbose = true;
+			}
+			
+			if(args.length>5){
+				String[] exists = args[5].split(Pattern.quote("|"));
+				for (int i = 0; i < exists.length; i++) {
+					mapExistingFile(exists[i]);
+				}
 			}
 			
 			ArrayList<String> finishedFiles = new ArrayList<String>();
@@ -203,6 +204,54 @@ public class MainTrans {
 			for (int i = 0; i < oriXMLs.length; i++) {
 				if (oriXMLs[i].isFile() && !finishedFiles.contains(oriXMLs[i].getName())) {
 					translateScriptFileNew(oriXMLs[i]);
+				}
+			}
+			System.out.println("all done! the translated files are in "+oriAddress + localDirSeparater + "translated_" + transAPI);
+		}else if (args[0].equals("-transL")) {
+//			-transL api orilang targlang oridir [exdir [sleep [verb]]]
+			if (args.length<5) {
+				System.err.println("too few parameters. use -h to see help.");
+				return;
+			}
+			transAPI = args[1].toLowerCase();
+			oriLang = args[2];
+			targetLang = args[3];
+			oriAddress = args[4];
+			
+			if(args.length>6){
+				int sleep = 0;
+				try {
+					sleep = Integer.parseInt(args[6]);
+				} catch (Exception e) {
+					sleep = 100;
+				}
+				sleepMilliSecond = sleep;
+			}
+			
+			if(args.length>7){
+				verbose = true;
+			}
+			
+			if(args.length>5){
+				String[] exists = args[5].split(Pattern.quote("|"));
+				for (int i = 0; i < exists.length; i++) {
+					mapExistingFile(exists[i]);
+				}
+			}
+			
+			ArrayList<String> finishedFiles = new ArrayList<String>();
+			oriDir = new File(oriAddress);
+			File transedDir = new File(oriDir.getPath() + localDirSeparater + "translated_" + transAPI);
+			if (transedDir.exists()) {
+				File[] transed = transedDir.listFiles();
+				for (int i = 0; i < transed.length; i++) {
+					finishedFiles.add(transed[i].getName());
+				}
+			}
+			File[] oriXMLs = oriDir.listFiles();
+			for (int i = 0; i < oriXMLs.length; i++) {
+				if (oriXMLs[i].isFile() && !finishedFiles.contains(oriXMLs[i].getName())) {
+					translateLTXFileNew(oriXMLs[i]);
 				}
 			}
 			System.out.println("all done! the translated files are in "+oriAddress + localDirSeparater + "translated_" + transAPI);
@@ -275,22 +324,24 @@ public class MainTrans {
 		System.out.println("1.translate the text .xml files in gamedata\\config(s)\\text\\languageName.");
 		System.out.println("2.translate the gameplay .xml files in gamedata\\config(s)\\gameplay in case there are some sentences which aren't in gamedata\\config(s)\\text\\languageName.");
 		System.out.println("3.translate the script xml files in gamedata\\scripts, especially for pda news texts which aren't in gamedata\\config(s)\\text\\languageName.");
-		System.out.println("4.generate a file containing those sentences you haven't translated from the original files yet.");
-		System.out.println("5.generate a file containing same key with different contents between different versions of same MOD(sgm2.2 -> sgm2.2 lost soul or NLC7 -> NLC7.5).");
-		System.out.println("6.show a formatted string containing the names of .xml files in a folder so that you can paste the string to the localization.ltx (for the mods for 'Shadow of Chernobyl').");
-		System.out.println("7.convert all files in a given folder from windows-1251 to utf-8.");
-		System.out.println("8.call for help.");
+		System.out.println("4.translate the ltx xml files in gamedata\\scripts\\config\\misc or something els, especially for quest items which aren't in gamedata\\config(s)\\text\\languageName.");
+		System.out.println("5.generate a file containing those sentences you haven't translated from the original files yet.");
+		System.out.println("6.generate a file containing same key with different contents between different versions of same MOD(sgm2.2 -> sgm2.2 lost soul or NLC7 -> NLC7.5).");
+		System.out.println("7.show a formatted string containing the names of .xml files in a folder so that you can paste the string to the localization.ltx (for the mods for 'Shadow of Chernobyl').");
+		System.out.println("8.convert all files in a given folder from windows-1251 to utf-8.");
+		System.out.println("9.call for help.");
 		System.out.println();
 		System.out.println("here are the instructions for the functions");
 		System.out.println();
 		System.out.println("1.-transT api orilang targlang oridir [exdir [sleep [verb]]]");
 		System.out.println("2.-transG api orilang targlang oridir [exdir [sleep [verb]]]");
 		System.out.println("3.-transS api orilang targlang oridir [exdir [sleep [verb]]]");
-		System.out.println("4.-lack oridir exdir [verb]");
-		System.out.println("5.-diff oridir newdir [verb]");
-		System.out.println("6.-list filedir");
-		System.out.println("7.-toUtf8 filedir");
-		System.out.println("8.-h");
+		System.out.println("4.-transL api orilang targlang oridir [exdir [sleep [verb]]]");
+		System.out.println("5.-lack oridir exdir [verb]");
+		System.out.println("6.-diff oridir newdir [verb]");
+		System.out.println("7.-list filedir");
+		System.out.println("8.-toUtf8 filedir");
+		System.out.println("9.-h");
 		System.out.println();
 		System.out.println("Details for the parameter:");
 		System.out.println("\t*parameters in [] is optional.");
@@ -321,7 +372,7 @@ public class MainTrans {
 		System.out.println("\t*verb:any word at this place will enable verbose mode, you can see more details of processing now.");
 		System.out.println();
 		System.out.println("NOTE: ");
-		System.out.println("\tyou'll need to escape or quote all the spaces in every folder address by yourself, I cannot do that for you.");
+		System.out.println("\tyou'll need to quote all the spaces in every folder address by yourself, I cannot do that for you.");
 		System.out.println("\tevery original file needs to be saved in encoding windows-1251.");
 		System.out.println("\talways use exdir if you have, it improves both efficiency and accuracy.");
 		System.out.println("\tI worked a lot on robust, but I won't guarantee a instant usable collection of translated .xml file, you may need to make a little adjustment yourself.");
@@ -337,6 +388,7 @@ public class MainTrans {
 			File existingDir = new File(existingFolderAddress);
 			File[] eFiles = existingDir.listFiles();
 			for (int i = 0; eFiles!=null && i < eFiles.length; i++) {
+				verbose("started existing file:"+eFiles[i]);
 				if (eFiles[i].isFile()) {
 					existingSentence.putAll(getTextFileMap(existingFolderAddress + localDirSeparater + eFiles[i].getName(), encodingName));
 					verbose("existing file "+eFiles[i].getName()+" done!");
@@ -423,7 +475,7 @@ public class MainTrans {
 	}
 	
 	public static boolean isSentence(String str) {
-		if (str.matches("[\\s\\S]*[АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯя][\\s\\S]*")) {
+		if (str.matches("[\\s\\S]*[АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯяЬ][\\s\\S]*")) {
 			return true;
 		}
 		if (str.contains("_")) {
@@ -624,17 +676,19 @@ public class MainTrans {
 		String rusString = readStringFromFile(rus.getParent() + localDirSeparater + rus.getName(), "windows-1251");
 
 		//minus
-		String chsString = rusString.replaceAll("\\\\\\\\n","\\\\n").replaceAll(Pattern.quote("\\\""), "'");
+		String chsString = rusString
+				.replaceAll("\\\\\\\\n","\\\\n")
+				.replaceAll("(?<!\\\\)\\\\\"", "'");
 
 		HashSet<String> sentences = new HashSet<>();
 		
-		Pattern p = Pattern.compile("\"([АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯя ,.?!-_QWERTYUIOPLKJHGFDSAZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789\\\\]*?)\"");
+		Pattern p = Pattern.compile("\"([АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯяЬ @№«»,.?!-_QWERTYUIOPLKJHGFDSAZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789\\\\]*?)(?=\")");
 		Matcher m = p.matcher(chsString);
 		int i = 0;
 		while (m.find()) {
 			String thisSentence = m.group(1);
 			if (!existingSentence.containsKey(thisSentence)){
-				if (isSentence(thisSentence) && thisSentence.matches("[\\s\\S]*?[АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯя]+[\\s\\S]*?")) {
+				if (isSentence(thisSentence) && thisSentence.matches("[\\s\\S]*?[АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯяЬ]+[\\s\\S]*?")) {
 					sentences.add(thisSentence);
 				}
 			}
@@ -678,7 +732,7 @@ public class MainTrans {
 						}
 						System.err.print("(." + (j + 1) + ")");
 					}
-					transtedLine = clearString(transtedLine);
+					transtedLine = clearString(transtedLine).replaceAll("\\\\n","\\\\\\\\n");
 					if(pieces.length==0){
 						transtedLine = string;
 						System.err.print("(.1)");
@@ -711,7 +765,107 @@ public class MainTrans {
 
 		// System.out.println(chsString);
 		if(sentences.size()!=0){
-			chsString = chsString.replaceAll("\\\\n","\\\\\\\\n");//add
+			writeToFile(chsString, rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
+		}
+
+		System.out.println("file \"" + rus.getName() + "\" done!");
+	}
+	
+	public static void translateLTXFileNew(File rus) throws Exception {
+		System.out.println("file \"" + rus.getName() + "\" started!");
+		int transNum = 0;
+
+		String rusString = readStringFromFile(rus.getParent() + localDirSeparater + rus.getName(), "windows-1251");
+
+		//minus
+		String chsString = rusString
+				.replaceAll("[\\s]*?(?=\\n)","")
+				.replaceAll(";[^\\n]*?(?=\\n)","");
+//				.replaceAll("(?<!\\\\)\\\\\"", "'");
+
+		HashSet<String> sentences = new HashSet<>();
+		
+		Pattern p = Pattern.compile("(?<== )([АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯяЬ @№«»,.?!-_QWERTYUIOPLKJHGFDSAZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789\\\\]*?)(?=\\n)");
+		Matcher m = p.matcher(chsString);
+		int i = 0;
+		while (m.find()) {
+			String thisSentence = m.group(1);
+			if (!existingSentence.containsKey(thisSentence)){
+				if (isSentence(thisSentence) && thisSentence.matches("[\\s\\S]*?[АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯяЬ]+[\\s\\S]*?")) {
+					sentences.add(thisSentence);
+				}
+			}
+			i++;
+		}
+		
+		System.out.println("find " + i + " sentences,set get " + sentences.size());
+
+		ArrayList<String> sortedList = new ArrayList<>();
+		sortedList.addAll(sentences);
+		Collections.sort(sortedList, singelInstance.new ShorterLatterComparator());
+		
+		String string = "";
+		boolean failFlag = false;
+		f1: for (Iterator<String> iterator = sortedList.iterator(); iterator.hasNext() || !"".equals(string);) {
+			if (!failFlag) {
+				string = iterator.next();
+			}
+			failFlag = false;
+			try {
+				String oriLine = string;
+				String transtedLine = "";
+				
+				Pattern p1 = Pattern.compile("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\])");
+				Matcher m1 = p1.matcher(oriLine);
+				LinkedList<String> colorOrAction = new LinkedList<>();
+				while (m1.find()) {
+					colorOrAction.add(m1.group(0));
+				}
+				String[] pieces = string
+						.split("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\])");
+
+				verbose(string);
+				verbose(" get "+pieces.length+" pieces.");
+				try {
+					for (int j = 0; j < pieces.length; j++) {
+						transtedLine = transtedLine + transToTarget(pieces[j], targetLang);
+						if (!colorOrAction.isEmpty()) {
+							transtedLine = transtedLine + colorOrAction.get(0);
+							colorOrAction.remove(0);
+						}
+						System.err.print("(." + (j + 1) + ")");
+					}
+//					transtedLine = clearString(transtedLine).replaceAll("\\\\n","\\\\\\\\n");
+					if(pieces.length==0){
+						transtedLine = string;
+						System.err.print("(.1)");
+					}
+				} catch (Exception e) {
+					failFlag = true;
+					System.out.println("");
+					System.err.println(e);
+					Thread.sleep(errorSleepMilliSecond);
+					continue f1;
+				}
+				
+				verbose(transtedLine);
+				chsString = chsString.replaceAll(Pattern.quote(string), Matcher.quoteReplacement(transtedLine));
+			} catch (Exception e) {
+				failFlag = true;
+				System.out.println("");
+				e.printStackTrace();
+				System.out.println(string);
+				Thread.sleep(errorSleepMilliSecond);
+				continue;
+			}
+			transNum++;
+			string = "";
+			System.out.print("" + transNum + ",");
+		}
+		System.out.println("");
+
+		chsString = chsString.replaceAll("？", "?");
+		if(sentences.size()!=0){
 			writeToFile(chsString, rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(), "utf-8");
 		}
 
@@ -1025,5 +1179,61 @@ public class MainTrans {
 		if (verbose) {
 			System.out.println(content);
 		}
+	}
+	
+	public static void translateStringArray(String[] strs) throws Exception {
+		String string = "";
+		boolean failFlag = false;
+		f1: for (int i=-1; i<strs.length || !"".equals(string);) {
+			if (!failFlag) {
+				i++;
+				if(i>=strs.length)
+					break f1;
+				string = strs[i];
+			}
+			failFlag = false;
+
+			String transtedLine = null;
+
+			if (transtedLine!=null&&!"".equals(transtedLine)) {
+				transtedLine = clearString(transtedLine);
+			}else {
+				transtedLine = "";
+				Pattern p1 = Pattern.compile("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\])");
+				Matcher m1 = p1.matcher(string);
+				LinkedList<String> colorOrAction = new LinkedList<>();
+				while (m1.find()) {
+					colorOrAction.add(m1.group(0));
+				}
+				String[] pieces = string
+						.split("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\])");
+
+				verbose(" get "+pieces.length+" pieces.");
+				try {
+					for (int j = 0; j < pieces.length; j++) {
+						transtedLine = transtedLine + transToTarget(pieces[j], targetLang);
+						if (!colorOrAction.isEmpty()) {
+							transtedLine = transtedLine + colorOrAction.get(0);
+							colorOrAction.remove(0);
+						}
+					}
+					transtedLine = clearString(transtedLine);
+					if(pieces.length==0){
+						transtedLine = string;
+					}
+				} catch (Exception e) {
+					e.printStackTrace();
+					failFlag = true;
+					Thread.sleep(errorSleepMilliSecond);
+					continue f1;
+				}
+			}
+
+			System.out.println("\""+transtedLine.replaceAll("‘", "'").replaceAll("’", "'").replaceAll("（", Matcher.quoteReplacement("(")).replaceAll("）", Matcher.quoteReplacement(")")).replaceAll("“", "'").replaceAll("？", "?").replaceAll("”", "'").replaceAll("。", ".").replaceAll("，", ",")
+					.replaceAll(Pattern.quote("\""), Matcher.quoteReplacement("\\\"")).replaceAll(Pattern.quote("\\n"), Matcher.quoteReplacement("\\\\n"))+"\",");
+			string = "";
+		}
+		System.out.println("");
+		System.out.println("over!");
 	}
 }
