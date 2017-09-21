@@ -18,6 +18,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import com.lsj.trans.*;
@@ -26,14 +27,9 @@ import util.BingWebTranslator;
 import util.FlushRobot;
 import util.GoogleWebTranslator;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
-
-import org.w3c.dom.Document;
-import org.w3c.dom.Element;
-import org.w3c.dom.NodeList;
-import org.xml.sax.SAXException;
+import org.dom4j.Document;
+import org.dom4j.Element;
+import org.dom4j.io.SAXReader;
 
 public class MainTrans {
 	static String localDirSeparater = File.separator;
@@ -851,8 +847,8 @@ public class MainTrans {
 		System.out.println("file \"" + rus.getName() + "\" started!");
 		int transNum = 0;
 
-		String rusString = getFileContentString(rus.getParent() + localDirSeparater + rus.getName());
-		String chsString = rusString;
+//		String rusString = getFileContentString(rus.getParent() + localDirSeparater + rus.getName());
+		String chsString = "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\" ?>\n<string_table>\n";
 
 		HashMap<String, String> sentences = getTextFileMap(rus.getParent() + localDirSeparater + rus.getName(),
 				"windows-1251");
@@ -920,18 +916,22 @@ public class MainTrans {
 			}
 			// fixed
 
-			chsString = chsString.replaceAll("<string id=\"" + key + "\">\\s*?<text>([\\s\\S]*?)</text>",
-					"<string id=\"" + key + "\">\n\t\t<text>" + Matcher.quoteReplacement(cutBuilder.toString())
-							+ "</text>");
+//			chsString = chsString.replaceAll("<string id=\"" + key + "\">\\s*?<text>([\\s\\S]*?)</text>",
+//					"<string id=\"" + key + "\">\n\t\t<text>" + Matcher.quoteReplacement(cutBuilder.toString())
+//							+ "</text>");
+			chsString = chsString+"\t<string id=\""+key+"\">\n\t\t<text>"+cutBuilder.toString()+"</text>\n\t</string>\n";
+			
 			transNum++;
 			System.out.print("" + transNum + ",");
 			verbose("translated to: " + cutBuilder);
 			string = "";
 		}
 		System.out.println("");
+		
+		chsString = chsString + "</string_table>";
 
-		chsString = chsString.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"").replaceAll("‘", "'")
-				.replaceAll("’", "'").replaceAll("#include \"text\\\\[a-zA-Z]{3}", "#include \"text\\\\chs")
+		chsString = chsString.replaceAll("‘", "'")
+				.replaceAll("’", "'").replaceAll("#include \"text\\\\[a-zA-Z]+\\\\", "#include \"text\\\\chs\\\\")
 				.replaceAll("（", Matcher.quoteReplacement("(")).replaceAll("）", Matcher.quoteReplacement(")"))
 				.replaceAll("“", "'").replaceAll("？", "?").replaceAll("”", "'");
 
@@ -1053,13 +1053,30 @@ public class MainTrans {
 		} else {
 			verbose("map chache not exist");
 			map = new HashMap<>();
-			String string = getFileContentString(fileAddress, encodingName);
-			Pattern p = Pattern
-					.compile("<string[\\s]+?id[ ]?=[ ]?\"([a-zA-Z0-9_.'/, -]*?)\"[ ]?>\\s*?<text>([\\s\\S]*?)</text>");
-			Matcher m = p.matcher(string);
-			while (m.find()) {
-				map.put(m.group(1), m.group(2));
+			
+			try {
+				//smart way
+				verbose("using the smart way to parse xml.");
+				SAXReader reader = new SAXReader();
+				Document document = reader.read(new InputStreamReader(new FileInputStream(fileAddress), encodingName));
+				List<Element> strings = document.getRootElement().elements("string");
+				for (Iterator iterator = strings.iterator(); iterator.hasNext();) {
+					Element element = (Element) iterator.next();
+					map.put(element.attributeValue("id"), element.elementText("text"));
+				}
+			} catch (Exception e) {
+				//dumb way
+				verbose("the smart way failed, go back to dumb way.");
+				map.clear();
+				String string = getFileContentString(fileAddress, encodingName);
+				Pattern p = Pattern
+						.compile("<string[\\s]+?id[ ]?=[ ]?\"([a-zA-Z0-9_.'/, -]*?)\"[ ]?>\\s*?<text>([\\s\\S]*?)</text>");
+				Matcher m = p.matcher(string);
+				while (m.find()) {
+					map.put(m.group(1), m.group(2));
+				}
 			}
+			
 			ObjectOutputStream objectOutputStream = null;
 			try {
 				objectOutputStream = new ObjectOutputStream(new FileOutputStream(serializedMap));
@@ -1136,22 +1153,6 @@ public class MainTrans {
 			keyList.add(m.group(1));
 		}
 		yandexKey = keyList.get(0);
-	}
-
-	public static boolean goThroughIDs(File chs) throws ParserConfigurationException, SAXException, IOException {
-		DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance();
-		DocumentBuilder builder;
-		builder = builderFactory.newDocumentBuilder();
-		Document chsDoc = builder.parse(chs);
-		NodeList chsStrings = chsDoc.getElementsByTagName("string");
-
-		// show what in rus not in chs
-		for (int i = 0; i < chsStrings.getLength(); i++) {
-			Element chsE = (Element) chsStrings.item(i);
-			System.out.println(chsE.getAttribute("id"));
-		}
-
-		return true;
 	}
 
 	public static void findPattern(String fileAddress, String encodingName, String pattern, String unxpctdSuffix,
