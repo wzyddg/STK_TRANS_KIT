@@ -955,14 +955,22 @@ public class MainTrans {
 					continue f1;
 				}
 			}
+			
+			//fix bug for text too long
+			StringBuilder cutBuilder = new StringBuilder(transtedLine);
+			int pieceSize =1000;
+			for(int i=0;i<transtedLine.length()/pieceSize;i++){
+				cutBuilder.insert((i+1)*pieceSize+i, "\n");
+			}
+			//fixed
 
 			chsString = chsString.replaceAll(
-					"<string id=\"" + key + "\">\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>",
-					"<string id=\"" + key + "\">\n\t\t<text>" + Matcher.quoteReplacement(transtedLine)
-							+ "</text>\n\t</string>");
+					"<string id=\"" + key + "\">\\s*?<text>([\\s\\S]*?)</text>",
+					"<string id=\"" + key + "\">\n\t\t<text>" + Matcher.quoteReplacement(cutBuilder.toString())
+							+ "</text>");
 			transNum++;
 			System.out.print("" + transNum + ",");
-			verbose("translated to: "+transtedLine);
+			verbose("translated to: "+cutBuilder);
 			string = "";
 		}
 		System.out.println("");
@@ -1038,7 +1046,7 @@ public class MainTrans {
 	public static String clearXMLString(String str) {
 		return str.replaceAll("[\\s\\S]*?<?xml\\s", "<?xml ").replaceAll("<!--[\\s\\S]*?-->", "")
 //				.replaceAll("encoding=\"(.*?)\"", "encoding=\"UTF-8\"")
-				.replaceAll("？", "?")
+				.replaceAll("？", "?").replaceAll("[\\u00A0]", " ")
 				.replaceAll(Pattern.quote(">>"), Matcher.quoteReplacement(">")).replaceAll(Pattern.quote("<<"), Matcher.quoteReplacement("<"));
 	}
 	
@@ -1049,7 +1057,6 @@ public class MainTrans {
 				.replaceAll("(?:&lt;|&gt;)", "<").replaceAll("(?:</|/>)", "").replaceAll("(?:<|>)", "")
 				.replaceAll("\\\\[\\s]+?n", Matcher.quoteReplacement("\\n")).replaceAll("\\\\n(?:\\\\n|\\s)*\\\\n", Matcher.quoteReplacement("\\n"))
 				.replaceAll(Pattern.quote(".."), Matcher.quoteReplacement(".")).replaceAll("[.]{2,}", Matcher.quoteReplacement("..."));
-		
 		return str;
 	}
 	
@@ -1078,7 +1085,7 @@ public class MainTrans {
 			verbose("map chache not exist");
 			map = new HashMap<>();
 			String string = getFileContentString(fileAddress, encodingName);
-			Pattern p = Pattern.compile("<string[\\s]+?id[ ]?=[ ]?\"([a-zA-Z0-9_.'/, -]*?)\"[ ]?>\\s*?<text>([\\s\\S]*?)</text>\\s*?</string>");
+			Pattern p = Pattern.compile("<string[\\s]+?id[ ]?=[ ]?\"([a-zA-Z0-9_.'/, -]*?)\"[ ]?>\\s*?<text>([\\s\\S]*?)</text>");
 			Matcher m = p.matcher(string);
 			while (m.find()) {
 				map.put(m.group(1), m.group(2));
