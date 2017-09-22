@@ -923,8 +923,8 @@ public class MainTrans {
 			}
 
 			// fix bug for text too long
-			StringBuilder cutBuilder = new StringBuilder(transtedLine);
-			int pieceSize = 1000;
+			StringBuilder cutBuilder = new StringBuilder(transtedLine.replaceAll(Pattern.quote("\n"), ""));
+			int pieceSize = 511;
 			for (int i = 0; i < transtedLine.length() / pieceSize; i++) {
 				cutBuilder.insert((i + 1) * pieceSize + i, "\n");
 			}
