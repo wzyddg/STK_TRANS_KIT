@@ -56,6 +56,8 @@ public class HttpPostParams extends AbstractHttpParams {
 			request.setEntity(new UrlEncodedFormEntity(formparams, "UTF-8"));
 		}
 		CloseableHttpResponse response = httpClient.execute(request);
-		return ReadInputStream(response.getEntity().getContent());
+		String responssString = ReadInputStream(response.getEntity().getContent());
+		response.close();
+		return responssString;
 	}
 }

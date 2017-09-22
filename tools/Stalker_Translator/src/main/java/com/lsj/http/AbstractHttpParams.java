@@ -24,6 +24,7 @@ public abstract class AbstractHttpParams implements HttpParams {
 			text.append(new String(buffer, 0, length));
 		}
 
+		is.close();
 		return new String(text);
 	}
 }
