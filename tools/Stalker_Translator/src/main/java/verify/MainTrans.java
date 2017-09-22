@@ -658,6 +658,10 @@ public class MainTrans {
 		sortedList.addAll(sentences);
 		Collections.sort(sortedList, singelInstance.new ShorterLatterComparator());
 
+		// for CNPack generating
+		String allGeneratedLines = "<string id=\"takemeplease\"> <text>";
+		// for CNPack generating
+
 		String string = "";
 		boolean failFlag = false;
 		f1: for (Iterator<String> iterator = sortedList.iterator(); iterator.hasNext() || !"".equals(string);) {
@@ -706,6 +710,11 @@ public class MainTrans {
 				verbose(transtedLine);
 				chsString = chsString.replaceAll(Pattern.quote("\"" + string + "\""),
 						Matcher.quoteReplacement("\"" + transtedLine + "\""));
+
+				// for CNPack generating
+				allGeneratedLines = allGeneratedLines + transtedLine;
+				// for CNPack generating
+
 			} catch (Exception e) {
 				failFlag = true;
 				System.out.println("");
@@ -727,6 +736,11 @@ public class MainTrans {
 			writeToFile(chsString,
 					rus.getParent() + localDirSeparater + "translated_" + transAPI + localDirSeparater + rus.getName(),
 					"utf-8");
+			// for CNPack generating
+			allGeneratedLines = allGeneratedLines + "</text> </string>";
+			writeToFile(allGeneratedLines, rus.getParent() + localDirSeparater + "GeneratedFileForCNPackMaking"
+					+ localDirSeparater + "temp_" + rus.getName(), "utf-8");
+			// for CNPack generating
 		}
 
 		System.out.println("file \"" + rus.getName() + "\" done!");
@@ -845,8 +859,9 @@ public class MainTrans {
 		System.out.println("file \"" + rus.getName() + "\" started!");
 		int transNum = 0;
 
-//		String rusString = getFileContentString(rus.getParent() + localDirSeparater + rus.getName());
-//		String chsString = rusString;
+		// String rusString = getFileContentString(rus.getParent() + localDirSeparater +
+		// rus.getName());
+		// String chsString = rusString;
 		String chsString = "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\" ?>\n<string_table>\n";
 
 		HashMap<String, String> sentences = getTextFileMap(rus.getParent() + localDirSeparater + rus.getName(),
@@ -915,22 +930,25 @@ public class MainTrans {
 			}
 			// fixed
 
-//			chsString = chsString.replaceAll("<string id=\"" + key + "\">\\s*?<text>([\\s\\S]*?)</text>",
-//					"<string id=\"" + key + "\">\n\t\t<text>" + Matcher.quoteReplacement(cutBuilder.toString())
-//							+ "</text>");
-			chsString = chsString+"\t<string id=\""+key+"\">\n\t\t<text>"+cutBuilder.toString()+"</text>\n\t</string>\n";
-			
+			// chsString = chsString.replaceAll("<string id=\"" + key +
+			// "\">\\s*?<text>([\\s\\S]*?)</text>",
+			// "<string id=\"" + key + "\">\n\t\t<text>" +
+			// Matcher.quoteReplacement(cutBuilder.toString())
+			// + "</text>");
+			chsString = chsString + "\t<string id=\"" + key + "\">\n\t\t<text>" + cutBuilder.toString()
+					+ "</text>\n\t</string>\n";
+
 			transNum++;
 			System.out.print("" + transNum + ",");
 			verbose("translated to: " + cutBuilder);
 			string = "";
 		}
 		System.out.println("");
-		
+
 		chsString = chsString + "</string_table>";
 
-		chsString = chsString.replaceAll("‘", "'")
-				.replaceAll("’", "'").replaceAll("#include \"text\\\\[a-zA-Z]+\\\\", "#include \"text\\\\chs\\\\")
+		chsString = chsString.replaceAll("‘", "'").replaceAll("’", "'")
+				.replaceAll("#include \"text\\\\[a-zA-Z]+\\\\", "#include \"text\\\\chs\\\\")
 				.replaceAll("（", Matcher.quoteReplacement("(")).replaceAll("）", Matcher.quoteReplacement(")"))
 				.replaceAll("“", "'").replaceAll("？", "?").replaceAll("”", "'");
 
@@ -1052,9 +1070,9 @@ public class MainTrans {
 		} else {
 			verbose("map chache not exist");
 			map = new HashMap<>();
-			
+
 			try {
-				//smart way
+				// smart way
 				verbose("using the smart way to parse xml.");
 				SAXReader reader = new SAXReader();
 				Document document = reader.read(new InputStreamReader(new FileInputStream(fileAddress), encodingName));
@@ -1064,18 +1082,18 @@ public class MainTrans {
 					map.put(element.attributeValue("id"), element.elementText("text"));
 				}
 			} catch (Exception e) {
-				//dumb way
+				// dumb way
 				verbose("the smart way failed, go back to dumb way.");
 				map.clear();
 				String string = getFileContentString(fileAddress, encodingName);
-				Pattern p = Pattern
-						.compile("<string[\\s]+?id[ ]?=[ ]?\"([a-zA-Z0-9_.'/, -]*?)\"[ ]?>\\s*?<text>([\\s\\S]*?)</text>");
+				Pattern p = Pattern.compile(
+						"<string[\\s]+?id[ ]?=[ ]?\"([a-zA-Z0-9_.'/, -]*?)\"[ ]?>\\s*?<text>([\\s\\S]*?)</text>");
 				Matcher m = p.matcher(string);
 				while (m.find()) {
 					map.put(m.group(1), m.group(2));
 				}
 			}
-			
+
 			ObjectOutputStream objectOutputStream = null;
 			try {
 				objectOutputStream = new ObjectOutputStream(new FileOutputStream(serializedMap));
@@ -1114,10 +1132,10 @@ public class MainTrans {
 		}
 		if ("googleweb".equals(transAPI)) {
 			translated = "";
-//					"GoogleWebTranslator.translate(sentence, targ);
+			// "GoogleWebTranslator.translate(sentence, targ);
 		} else if ("bingweb".equals(transAPI)) {
 			translated = "";
-//					BingWebTranslator.translate(sentence, targ);
+			// BingWebTranslator.translate(sentence, targ);
 		} else {
 			try {
 				translated = Dispatch.Instance(transAPI).Trans(oriLang, targ, sentence);
