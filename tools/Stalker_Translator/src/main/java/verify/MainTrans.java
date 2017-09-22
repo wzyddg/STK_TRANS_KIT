@@ -846,6 +846,7 @@ public class MainTrans {
 		int transNum = 0;
 
 //		String rusString = getFileContentString(rus.getParent() + localDirSeparater + rus.getName());
+//		String chsString = rusString;
 		String chsString = "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\" ?>\n<string_table>\n";
 
 		HashMap<String, String> sentences = getTextFileMap(rus.getParent() + localDirSeparater + rus.getName(),

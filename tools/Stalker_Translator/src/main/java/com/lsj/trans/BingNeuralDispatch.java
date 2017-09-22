@@ -77,6 +77,7 @@ public class BingNeuralDispatch extends Dispatch {
 				errorCount++;
 				
 				if (errorCount>64) {
+					System.err.println("this fucking sentence: "+query+"  goes to google.");
 					return ((Dispatch)classMap.get("google")).Trans(from, targ, query);
 				}
 				
