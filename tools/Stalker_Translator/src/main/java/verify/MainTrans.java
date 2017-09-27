@@ -1,6 +1,5 @@
 package verify;
 
-import java.awt.Robot;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -24,6 +23,7 @@ import java.util.regex.Pattern;
 import com.lsj.trans.*;
 
 import util.FlushRobot;
+import util.MyStringUtil;
 
 import org.dom4j.Document;
 import org.dom4j.Element;
@@ -514,26 +514,6 @@ public class MainTrans {
 		writeToFile(resString, oriAddr + localDirSeparater + "lackSentences.txt", "utf-8");
 	}
 
-	public static boolean isSentence(String str) {
-		if (str.matches("[\\s\\S]*[АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯяЬ][\\s\\S]*")) {
-			return true;
-		}
-		if (str.contains("_")) {
-			return false;
-		}
-		if (str.matches("[\\\\n\\s]*?")) {
-			return false;
-		}
-		if (str.matches("[a-zA-Z0-9_]+?")) {
-			return false;
-		}
-		if (str.contains("\\\\")) {
-			return false;
-		}
-		return true;
-		// not empty or literal empty string, not id either.
-	}
-
 	public class ShorterLatterComparator implements Comparator {
 
 		@Override
@@ -561,7 +541,7 @@ public class MainTrans {
 		while (m.find()) {
 			String thisSentence = m.group(1);
 			if (!existingSentence.containsKey(thisSentence)) {
-				if (isSentence(thisSentence)) {
+				if (MyStringUtil.isSentence(thisSentence)) {
 					sentences.add(thisSentence);
 				}
 			}
@@ -587,12 +567,12 @@ public class MainTrans {
 			failFlag = false;
 			try {
 				String oriLine = string;
-				String transtedLine = transToTarget(oriLine, targetLang);
-				transtedLine = clearString(transtedLine);
-				chsString = chsString.replaceAll(Pattern.quote(string), Matcher.quoteReplacement(transtedLine));
+				String transedLine = transToTarget(oriLine, targetLang);
+				transedLine = clearString(transedLine);
+				chsString = chsString.replaceAll(Pattern.quote(string), Matcher.quoteReplacement(transedLine));
 
 				// for CNPack generating
-				allGeneratedLines = allGeneratedLines + transtedLine;
+				allGeneratedLines = allGeneratedLines + transedLine;
 				// for CNPack generating
 
 			} catch (Exception e) {
@@ -637,15 +617,14 @@ public class MainTrans {
 
 		HashSet<String> sentences = new HashSet<>();
 
-		Pattern p = Pattern.compile(
-				"\"([АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯяЬ @№«»,.?!-_QWERTYUIOPLKJHGFDSAZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789\\\\]*?)(?=\")");
+		Pattern p = Pattern.compile("\"([" + MyStringUtil.rusLettersString + " @№«»,.?!-_a-zA-Z0-9\\\\]*?)(?=\")");
 		Matcher m = p.matcher(chsString);
 		int i = 0;
 		while (m.find()) {
 			String thisSentence = m.group(1);
 			if (!existingSentence.containsKey(thisSentence)) {
-				if (isSentence(thisSentence) && thisSentence.matches(
-						"[\\s\\S]*?[АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯяЬ]+[\\s\\S]*?")) {
+				if (MyStringUtil.isSentence(thisSentence)
+						&& thisSentence.matches("[\\s\\S]*?[" + MyStringUtil.rusLettersString + "]+[\\s\\S]*?")) {
 					sentences.add(thisSentence);
 				}
 			}
@@ -671,32 +650,36 @@ public class MainTrans {
 			failFlag = false;
 			try {
 				String oriLine = string;
-				String transtedLine = "";
+				String transedLine = "";
 
-				Pattern p1 = Pattern.compile(
-						"(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\])");
+				Pattern p1 = Pattern
+						.compile("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + ")");
 				Matcher m1 = p1.matcher(oriLine);
 				LinkedList<String> colorOrAction = new LinkedList<>();
 				while (m1.find()) {
 					colorOrAction.add(m1.group(0));
 				}
-				String[] pieces = string.split(
-						"(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\])");
+				String[] pieces = string
+						.split("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + ")");
 
 				verbose(string);
 				verbose(" get " + pieces.length + " pieces.");
 				try {
 					for (int j = 0; j < pieces.length; j++) {
-						transtedLine = transtedLine + transToTarget(pieces[j], targetLang);
+						String transedPiece = transToTarget(pieces[j], targetLang);
+						transedLine = transedLine + transedPiece;
 						if (!colorOrAction.isEmpty()) {
-							transtedLine = transtedLine + colorOrAction.get(0);
+							if (MyStringUtil.hasLetterOrNumber(pieces[j])
+									|| colorOrAction.get(0).matches(MyStringUtil.actionPattern)) {
+								transedLine = transedLine + colorOrAction.get(0);
+							}
 							colorOrAction.remove(0);
 						}
 						System.err.print("(." + (j + 1) + ")");
 					}
-					transtedLine = clearString(transtedLine).replaceAll("\\\\n", "\\\\\\\\n");
+					transedLine = clearString(transedLine).replaceAll("\\\\n", "\\\\\\\\n");
 					if (pieces.length == 0) {
-						transtedLine = string;
+						transedLine = string;
 						System.err.print("(.1)");
 					}
 				} catch (Exception e) {
@@ -707,12 +690,12 @@ public class MainTrans {
 					continue f1;
 				}
 
-				verbose(transtedLine);
+				verbose(transedLine);
 				chsString = chsString.replaceAll(Pattern.quote("\"" + string + "\""),
-						Matcher.quoteReplacement("\"" + transtedLine + "\""));
+						Matcher.quoteReplacement("\"" + transedLine + "\""));
 
 				// for CNPack generating
-				allGeneratedLines = allGeneratedLines + transtedLine;
+				allGeneratedLines = allGeneratedLines + transedLine;
 				// for CNPack generating
 
 			} catch (Exception e) {
@@ -758,15 +741,15 @@ public class MainTrans {
 
 		HashSet<String> sentences = new HashSet<>();
 
-		Pattern p = Pattern.compile(
-				"(?<== )([АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯяЬ @№«»,.?!-_QWERTYUIOPLKJHGFDSAZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789\\\\]*?)(?=\\n)");
+		Pattern p = Pattern
+				.compile("(?<== )([" + MyStringUtil.rusLettersString + " @№«»,.?!-_a-zA-Z0-9\\\\]*?)(?=\\n)");
 		Matcher m = p.matcher(chsString);
 		int i = 0;
 		while (m.find()) {
 			String thisSentence = m.group(1);
 			if (!existingSentence.containsKey(thisSentence)) {
-				if (isSentence(thisSentence) && thisSentence.matches(
-						"[\\s\\S]*?[АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯяЬ]+[\\s\\S]*?")) {
+				if (MyStringUtil.isSentence(thisSentence)
+						&& thisSentence.matches("[\\s\\S]*?[" + MyStringUtil.rusLettersString + "]+[\\s\\S]*?")) {
 					sentences.add(thisSentence);
 				}
 			}
@@ -788,33 +771,37 @@ public class MainTrans {
 			failFlag = false;
 			try {
 				String oriLine = string;
-				String transtedLine = "";
+				String transedLine = "";
 
-				Pattern p1 = Pattern.compile(
-						"(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\])");
+				Pattern p1 = Pattern
+						.compile("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + ")");
 				Matcher m1 = p1.matcher(oriLine);
 				LinkedList<String> colorOrAction = new LinkedList<>();
 				while (m1.find()) {
 					colorOrAction.add(m1.group(0));
 				}
-				String[] pieces = string.split(
-						"(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\])");
+				String[] pieces = string
+						.split("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + ")");
 
 				verbose(string);
 				verbose(" get " + pieces.length + " pieces.");
 				try {
 					for (int j = 0; j < pieces.length; j++) {
-						transtedLine = transtedLine + transToTarget(pieces[j], targetLang);
+						String transedPiece = transToTarget(pieces[j], targetLang);
+						transedLine = transedLine + transedPiece;
 						if (!colorOrAction.isEmpty()) {
-							transtedLine = transtedLine + colorOrAction.get(0);
+							if (MyStringUtil.hasLetterOrNumber(pieces[j])
+									|| colorOrAction.get(0).matches(MyStringUtil.actionPattern)) {
+								transedLine = transedLine + colorOrAction.get(0);
+							}
 							colorOrAction.remove(0);
 						}
 						System.err.print("(." + (j + 1) + ")");
 					}
-					// transtedLine =
-					// clearString(transtedLine).replaceAll("\\\\n","\\\\\\\\n");
+					// transedLine =
+					// clearString(transedLine).replaceAll("\\\\n","\\\\\\\\n");
 					if (pieces.length == 0) {
-						transtedLine = string;
+						transedLine = string;
 						System.err.print("(.1)");
 					}
 				} catch (Exception e) {
@@ -825,8 +812,8 @@ public class MainTrans {
 					continue f1;
 				}
 
-				verbose(transtedLine);
-				chsString = chsString.replaceAll(Pattern.quote(string), Matcher.quoteReplacement(transtedLine));
+				verbose(transedLine);
+				chsString = chsString.replaceAll(Pattern.quote(string), Matcher.quoteReplacement(transedLine));
 			} catch (Exception e) {
 				failFlag = true;
 				System.out.println("");
@@ -849,10 +836,6 @@ public class MainTrans {
 		}
 
 		System.out.println("file \"" + rus.getName() + "\" done!");
-	}
-
-	public boolean firstisLonger(String first, String second) {
-		return first.length() > second.length();
 	}
 
 	public static void translateTextFile(File rus) throws Exception {
@@ -879,37 +862,41 @@ public class MainTrans {
 			failFlag = false;
 
 			String oriLine = string;
-			String transtedLine = existingSentence.get(key);
+			String transedLine = existingSentence.get(key);
 
-			if (transtedLine != null && !"".equals(transtedLine)) {
-				transtedLine = clearString(transtedLine);
+			if (transedLine != null && !"".equals(transedLine)) {
+				transedLine = clearString(transedLine);
 				verbose(key + " get quick.");
 			} else {
-				transtedLine = "";
-				Pattern p1 = Pattern.compile(
-						"(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\])");
+				transedLine = "";
+				Pattern p1 = Pattern
+						.compile("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + ")");
 				Matcher m1 = p1.matcher(oriLine);
 				LinkedList<String> colorOrAction = new LinkedList<>();
 				while (m1.find()) {
 					colorOrAction.add(m1.group(0));
 				}
-				String[] pieces = string.split(
-						"(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\])");
+				String[] pieces = string
+						.split("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + ")");
 
 				verbose(key + " : " + string);
 				verbose(" get " + pieces.length + " pieces.");
 				try {
 					for (int j = 0; j < pieces.length; j++) {
-						transtedLine = transtedLine + transToTarget(pieces[j], targetLang);
+						String transedPiece = transToTarget(pieces[j], targetLang);
+						transedLine = transedLine + transedPiece;
 						if (!colorOrAction.isEmpty()) {
-							transtedLine = transtedLine + colorOrAction.get(0);
+							if (MyStringUtil.hasLetterOrNumber(pieces[j])
+									|| colorOrAction.get(0).matches(MyStringUtil.actionPattern)) {
+								transedLine = transedLine + colorOrAction.get(0);
+							}
 							colorOrAction.remove(0);
 						}
 						System.err.print("(." + (j + 1) + ")");
 					}
-					transtedLine = clearString(transtedLine);
+					transedLine = clearString(transedLine);
 					if (pieces.length == 0) {
-						transtedLine = string;
+						transedLine = string;
 						System.err.print("(.1)");
 					}
 				} catch (Exception e) {
@@ -923,24 +910,19 @@ public class MainTrans {
 			}
 
 			// fix bug for text too long
-			StringBuilder cutBuilder = new StringBuilder(transtedLine.replaceAll(Pattern.quote("\n"), ""));
-			int pieceSize = 511;
-			for (int i = 0; i < transtedLine.length() / pieceSize; i++) {
-				cutBuilder.insert((i + 1) * pieceSize + i, "\n");
-			}
-			// fixed
+			transedLine = MyStringUtil.cutString(transedLine, 511);
 
 			// chsString = chsString.replaceAll("<string id=\"" + key +
 			// "\">\\s*?<text>([\\s\\S]*?)</text>",
 			// "<string id=\"" + key + "\">\n\t\t<text>" +
-			// Matcher.quoteReplacement(cutBuilder.toString())
+			// Matcher.quoteReplacement(transedLine)
 			// + "</text>");
-			chsString = chsString + "\t<string id=\"" + key + "\">\n\t\t<text>" + cutBuilder.toString()
+			chsString = chsString + "\t<string id=\"" + key + "\">\n\t\t<text>" + transedLine
 					+ "</text>\n\t</string>\n";
 
 			transNum++;
 			System.out.print("" + transNum + ",");
-			verbose("translated to: " + cutBuilder);
+			verbose("translated to: " + transedLine);
 			string = "";
 		}
 		System.out.println("");
@@ -948,7 +930,7 @@ public class MainTrans {
 		chsString = chsString + "</string_table>";
 
 		chsString = chsString.replaceAll("‘", "'").replaceAll("’", "'")
-				.replaceAll("#include \"text\\\\[a-zA-Z]+\\\\", "#include \"text\\\\chs\\\\")
+				// .replaceAll("#include \"text\\\\[a-zA-Z]+\\\\", "#include \"text\\\\chs\\\\")
 				.replaceAll("（", Matcher.quoteReplacement("(")).replaceAll("）", Matcher.quoteReplacement(")"))
 				.replaceAll("“", "'").replaceAll("？", "?").replaceAll("”", "'");
 
@@ -1211,44 +1193,44 @@ public class MainTrans {
 			}
 			failFlag = false;
 
-			String transtedLine = null;
+			String transedLine = null;
 
-			if (transtedLine != null && !"".equals(transtedLine)) {
-				transtedLine = clearString(transtedLine);
-			} else {
-				transtedLine = "";
-				Pattern p1 = Pattern.compile(
-						"(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\])");
-				Matcher m1 = p1.matcher(string);
-				LinkedList<String> colorOrAction = new LinkedList<>();
-				while (m1.find()) {
-					colorOrAction.add(m1.group(0));
-				}
-				String[] pieces = string.split(
-						"(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\])");
+			transedLine = "";
+			Pattern p1 = Pattern
+					.compile("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + ")");
+			Matcher m1 = p1.matcher(string);
+			LinkedList<String> colorOrAction = new LinkedList<>();
+			while (m1.find()) {
+				colorOrAction.add(m1.group(0));
+			}
+			String[] pieces = string
+					.split("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + ")");
 
-				verbose(" get " + pieces.length + " pieces.");
-				try {
-					for (int j = 0; j < pieces.length; j++) {
-						transtedLine = transtedLine + transToTarget(pieces[j], targetLang);
-						if (!colorOrAction.isEmpty()) {
-							transtedLine = transtedLine + colorOrAction.get(0);
-							colorOrAction.remove(0);
+			verbose(" get " + pieces.length + " pieces.");
+			try {
+				for (int j = 0; j < pieces.length; j++) {
+					String transedPiece = transToTarget(pieces[j], targetLang);
+					transedLine = transedLine + transedPiece;
+					if (!colorOrAction.isEmpty()) {
+						if (MyStringUtil.hasLetterOrNumber(pieces[j])
+								|| colorOrAction.get(0).matches(MyStringUtil.actionPattern)) {
+							transedLine = transedLine + colorOrAction.get(0);
 						}
+						colorOrAction.remove(0);
 					}
-					transtedLine = clearString(transtedLine);
-					if (pieces.length == 0) {
-						transtedLine = string;
-					}
-				} catch (Exception e) {
-					e.printStackTrace();
-					failFlag = true;
-					Thread.sleep(errorSleepMilliSecond);
-					continue f1;
 				}
+				transedLine = clearString(transedLine);
+				if (pieces.length == 0) {
+					transedLine = string;
+				}
+			} catch (Exception e) {
+				e.printStackTrace();
+				failFlag = true;
+				Thread.sleep(errorSleepMilliSecond);
+				continue f1;
 			}
 
-			System.out.println("\"" + transtedLine.replaceAll("‘", "'").replaceAll("’", "'")
+			System.out.println("\"" + transedLine.replaceAll("‘", "'").replaceAll("’", "'")
 					.replaceAll("（", Matcher.quoteReplacement("(")).replaceAll("）", Matcher.quoteReplacement(")"))
 					.replaceAll("“", "'").replaceAll("？", "?").replaceAll("”", "'").replaceAll("。", ".")
 					.replaceAll("，", ",").replaceAll(Pattern.quote("\""), Matcher.quoteReplacement("\\\""))
