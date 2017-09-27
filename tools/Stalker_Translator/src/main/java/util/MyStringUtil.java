@@ -40,7 +40,7 @@ public class MyStringUtil {
 
 	public static boolean hasLetterOrNumber(String str) {
 		str = str.replaceAll("[\\s]", "");
-		return str.matches("[\\S]*?[a-zA-Z0-9" + rusLettersString + "][\\S]*?[^:]");
+		return str.matches("[\\S]*?[a-zA-Z0-9" + rusLettersString + "][\\S]*?[^:.]");
 	}
 
 	public static String cutString(String str, int pieceLength) {
