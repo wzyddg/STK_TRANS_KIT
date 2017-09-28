@@ -1,12 +1,19 @@
 package util;
 
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.InputStreamReader;
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
+import org.dom4j.Document;
+import org.dom4j.DocumentException;
+import org.dom4j.io.SAXReader;
 
 public class MyStringUtil {
 
@@ -14,8 +21,13 @@ public class MyStringUtil {
 	public static final String actionPattern = "[()\"']?\\$\\$[Aa][Cc][Tt][_a-zA-Z0-9]*?\\$\\$[()\"']?";
 	public static final String colorPattern = "%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\]";
 
-	public static void main(String[] args) {
-		System.out.println(hasLetterOrNumber(" Stamina regeneration:    "));
+	public static void main(String[] args) throws UnsupportedEncodingException, FileNotFoundException, DocumentException {
+//		validXMLFolder("D:\\STALKER\\Misery 2.2\\gamedata\\configs\\text\\chs", "UTF-8");
+		String string = "$$ACTION_QUICK_USE_1$$";
+		System.out.println(string.matches("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + ")"));
+		String[] pieces = string
+				.split("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + ")");
+		System.out.println(pieces.length);
 	}
 
 	public static boolean isSentence(String str) {
@@ -42,6 +54,28 @@ public class MyStringUtil {
 		str = str.replaceAll("[\\s]", "");
 		return str.matches("[\\S]*?[a-zA-Z0-9" + rusLettersString + "][\\S]*?[^:.]");
 	}
+	
+	public static boolean validXML(String filePath,String encodingName){
+		SAXReader reader = new SAXReader();
+		try {
+			Document document = reader.read(new InputStreamReader(new FileInputStream(filePath), encodingName));
+		} catch (UnsupportedEncodingException | FileNotFoundException | DocumentException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+			return false;
+		}
+		return true;
+	}
+	
+	public static void validXMLFolder(String folderPath,String encodingName) throws UnsupportedEncodingException, FileNotFoundException, DocumentException {
+		File dir = new File(folderPath);
+		File[] xmls = dir.listFiles();
+		for (int i = 0; xmls != null && i < xmls.length; i++) {
+			if (xmls[i].isFile()) {
+				System.out.println(xmls[i].getName()+" "+validXML(xmls[i].getPath(), encodingName));
+			}
+		}
+	}
 
 	public static String cutString(String str, int pieceLength) {
 		str = str.replaceAll(Pattern.quote("\n"), "");
@@ -56,6 +90,10 @@ public class MyStringUtil {
 		String[] pieces = str
 				.split("(?:[()\"']?\\$\\$ACT[_A-Z0-9]*?\\$\\$[()\"']?|%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\])");
 
+		if(pieces.length==0){
+			return str;
+		}
+		
 		List<String> pieceList = new ArrayList<>(pieces.length);
 		for (int i = 0; i < pieces.length; i++) {
 			StringBuilder builder = new StringBuilder(pieces[i]);
