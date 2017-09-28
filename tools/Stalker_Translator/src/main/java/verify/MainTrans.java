@@ -394,7 +394,7 @@ public class MainTrans {
 		System.out.println(
 				"\t\tcontents from latter folder will overwrite contents with same id before it, so you may wanna sort them from low priority to high priority.");
 		System.out.println(
-				"\t*sleep:the time (in millisecond) you want to pause between the translation of two sentences.(around 100 is recommended.)");
+				"\t*sleep:the time (in millisecond) you want to pause between the translation of two sentences.(around 100 is recommended.)(P.S if this modulo 10 equals 7 while using -transT, like 17,97,1257, all color changing string will be deleted.)");
 		System.out.println("\t\tlonger pause time is more likely to keep you from triggering machine-human detection.");
 		System.out.println(
 				"\t*verb:any word at this place will enable verbose mode, you can see more details of processing now.");
@@ -866,6 +866,9 @@ public class MainTrans {
 
 			if (transedLine != null && !"".equals(transedLine)) {
 				transedLine = clearString(transedLine);
+				if(sleepMilliSecond%10==7){
+					transedLine = transedLine.replaceAll(MyStringUtil.colorPattern, "");
+				}
 				verbose(key + " get quick.");
 			} else {
 				transedLine = "";
