@@ -22,7 +22,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import com.lsj.trans.*;
 
-import util.FlushRobot;
 import util.MyStringUtil;
 
 import org.dom4j.Document;
@@ -49,7 +48,6 @@ public class MainTrans {
 		Class.forName("com.lsj.trans.YandexDispatch");
 		Class.forName("com.lsj.trans.BingNeuralDispatch");
 		singelInstance = new MainTrans();
-		FlushRobot robot = new FlushRobot();
 		Thread keepAlive = null;
 		String oriAddress = "";
 		File oriDir = null;
@@ -83,8 +81,6 @@ public class MainTrans {
 
 			if (args.length > 7) {
 				verbose = true;
-				keepAlive = new Thread(robot);
-				keepAlive.start();
 			}
 
 			if (args.length > 5) {
@@ -135,8 +131,6 @@ public class MainTrans {
 
 			if (args.length > 7) {
 				verbose = true;
-				keepAlive = new Thread(robot);
-				keepAlive.start();
 			}
 
 			if (args.length > 5) {
@@ -186,8 +180,6 @@ public class MainTrans {
 
 			if (args.length > 7) {
 				verbose = true;
-				keepAlive = new Thread(robot);
-				keepAlive.start();
 			}
 
 			if (args.length > 5) {
@@ -237,8 +229,6 @@ public class MainTrans {
 
 			if (args.length > 7) {
 				verbose = true;
-				keepAlive = new Thread(robot);
-				keepAlive.start();
 			}
 
 			if (args.length > 5) {
@@ -278,8 +268,6 @@ public class MainTrans {
 			}
 			if (args.length > 3) {
 				verbose = true;
-				keepAlive = new Thread(robot);
-				keepAlive.start();
 			}
 			generateLackSentenceFile(oriAddress);
 			System.out
@@ -297,8 +285,6 @@ public class MainTrans {
 			}
 			if (args.length > 3) {
 				verbose = true;
-				keepAlive = new Thread(robot);
-				keepAlive.start();
 			}
 			generateDifferentSentenceFile(oriAddress);
 			System.out.println(
@@ -330,7 +316,6 @@ public class MainTrans {
 		} else {
 			printHelp();
 		}
-		robot.stop();
 	}
 
 	public static void printHelp() {
