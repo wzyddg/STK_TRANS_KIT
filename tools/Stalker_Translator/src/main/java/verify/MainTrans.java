@@ -638,29 +638,33 @@ public class MainTrans {
 				String transedLine = "";
 
 				Pattern p1 = Pattern
-						.compile("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + ")");
+						.compile("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + "|" + MyStringUtil.scriptPlaceHolderPattern + ")");
 				Matcher m1 = p1.matcher(oriLine);
-				LinkedList<String> colorOrAction = new LinkedList<>();
+				LinkedList<String> splitter = new LinkedList<>();
 				while (m1.find()) {
-					colorOrAction.add(m1.group(0));
+					splitter.add(m1.group(0));
 				}
+				
 				String[] pieces = string
-						.split("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + ")");
-
+						.split("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + "|" + MyStringUtil.scriptPlaceHolderPattern + ")");
+				
 				verbose(string);
 				verbose(" get " + pieces.length + " pieces.");
 				try {
 					for (int j = 0; j < pieces.length; j++) {
 						String transedPiece = transToTarget(pieces[j], targetLang);
 						transedLine = transedLine + transedPiece;
-						if (!colorOrAction.isEmpty()) {
+						if (!splitter.isEmpty()) {							
 							if (MyStringUtil.hasLetterOrNumber(pieces[j])
-									|| colorOrAction.get(0).matches(MyStringUtil.actionPattern)) {
-								transedLine = transedLine + colorOrAction.get(0);
+									|| splitter.get(0).matches(MyStringUtil.actionPattern)|| splitter.get(0).matches(MyStringUtil.scriptPlaceHolderPattern)) {
+								transedLine = transedLine + splitter.get(0);
 							}
-							colorOrAction.remove(0);
+							splitter.remove(0);
 						}
 						System.err.print("(." + (j + 1) + ")");
+					}
+					if (!splitter.isEmpty()&&splitter.get(0).matches(MyStringUtil.scriptPlaceHolderPattern)) {
+						transedLine = transedLine + splitter.get(0);
 					}
 					transedLine = clearString(transedLine).replaceAll("\\\\n", "\\\\\\\\n");
 					if (pieces.length == 0) {

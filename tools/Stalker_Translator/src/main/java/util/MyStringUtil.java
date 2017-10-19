@@ -20,14 +20,21 @@ public class MyStringUtil {
 	public static final String rusLettersString = "АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯяЬ";
 	public static final String actionPattern = "[()\"']?\\$\\$[Aa][Cc][Tt][_a-zA-Z0-9]*?\\$\\$[()\"']?";
 	public static final String colorPattern = "%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\]";
+	public static final String scriptPlaceHolderPattern = "\\$[a-zA-Z0-9_"+rusLettersString+"]+[ ,.!?\\\"]?";
+	//(?=[ ,.!?])
 
 	public static void main(String[] args) throws UnsupportedEncodingException, FileNotFoundException, DocumentException {
 //		validXMLFolder("D:\\STALKER\\Misery 2.2\\gamedata\\configs\\text\\chs", "UTF-8");
-		String string = "$$ACTION_QUICK_USE_1$$";
-		System.out.println(string.matches("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + ")"));
-		String[] pieces = string
-				.split("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + ")");
-		System.out.println(pieces.length);
+//		String string = "$$ACTION_QUICK_USE_1$$";
+//		System.out.println(string.matches("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + ")"));
+//		String[] pieces = string
+//				.split("(?:" + MyStringUtil.actionPattern + "|" + MyStringUtil.colorPattern + ")");\"
+//		System.out.println(pieces.length);
+		String[] dd = "46452$condition\"".split(scriptPlaceHolderPattern);
+		for (int i = 0; i < dd.length; i++) {
+			System.out.println("kk"+dd[i]+"qq");
+		}
+		
 	}
 
 	public static boolean isSentence(String str) {
