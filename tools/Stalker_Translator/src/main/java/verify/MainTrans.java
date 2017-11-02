@@ -520,7 +520,7 @@ public class MainTrans {
 		HashSet<String> sentences = new HashSet<>();
 
 		Pattern p = Pattern
-				.compile("<(?:text|bio|title|name)(?:| [ \\S]*?[^/]) *?>([\\s\\S]*?)</(?:text|bio|title|name)>");
+				.compile("<(?:text|bio|title|name)(?:| [ \\S]*?[^/]) *?>([^<>]*?)</(?:text|bio|title|name)>");
 		Matcher m = p.matcher(chsString);
 		int i = 0;
 		while (m.find()) {
