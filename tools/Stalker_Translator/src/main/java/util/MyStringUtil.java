@@ -18,6 +18,7 @@ import org.dom4j.io.SAXReader;
 public class MyStringUtil {
 
 	public static final String rusLettersString = "АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщъЫыьЭэЮюЯяЬ";
+	public static final String punctuationString = "@№«»_.'/, -?!";
 	public static final String actionPattern = "[()\"']?\\$\\$[Aa][Cc][Tt][_a-zA-Z0-9]*?\\$\\$[()\"']?";
 	public static final String colorPattern = "%[a-z]\\[[a-z0-9,]*?\\][\\s]*?|\\[[a-zA-Z%]\\]";
 	public static final String scriptPlaceHolderPattern = "\\$[a-zA-Z0-9_"+rusLettersString+"]+[ ,.!?\\\"]?";
